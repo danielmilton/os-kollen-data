@@ -36,8 +36,11 @@ jobs:
 
       - name: Push data to backend
         if: steps.push.outputs.changed == 'true'
+        env:
+          INGEST_KEY: ${{ secrets.INGEST_KEY }}
         run: |
           jq -n --slurpfile m data/espn_medals.json --slurpfile r data/espn_results.json \
             '{medals: $m[0], results: $r[0]}' | \
             curl -sf -X POST https://oskollen.se/api/ingest/espn \
-              -H "Content-Type: application/json" -d @- || true
+              -H "Content-Type: application/json" \
+              -H "X-Ingest-Key: $INGEST_KEY" -d @- || true

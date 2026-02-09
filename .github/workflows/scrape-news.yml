@@ -36,6 +36,9 @@ jobs:
 
       - name: Push data to backend
         if: steps.push.outputs.changed == 'true'
+        env:
+          INGEST_KEY: ${{ secrets.INGEST_KEY }}
         run: |
           curl -sf -X POST https://oskollen.se/api/ingest/news \
-            -H "Content-Type: application/json" -d @data/news.json || true
+            -H "Content-Type: application/json" \
+            -H "X-Ingest-Key: $INGEST_KEY" -d @data/news.json || true

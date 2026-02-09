@@ -133,5 +133,32 @@
     "gold_result": "86.96",
     "silver_result": "86.58",
     "bronze_result": "76.46"
+  },
+  {
+    "event": "Ski Jumping – Men's Individual Normal Hill",
+    "gold_winner": "Philipp Raimund (GER)",
+    "silver_winner": "Kacper Tomasiak (POL)",
+    "bronze_winner": "Gregor Deschwanden (SUI)",
+    "gold_result": "274.1",
+    "silver_result": "270.7",
+    "bronze_result": "266"
+  },
+  {
+    "event": "Snowboarding – Women's Big Air",
+    "gold_winner": "Kokomo Murase (JPN)",
+    "silver_winner": "Zoi Sadowski-Synnott (NZL)",
+    "bronze_winner": "Yu Seungeun (KOR)",
+    "gold_result": "179",
+    "silver_result": "172.25",
+    "bronze_result": "171"
+  },
+  {
+    "event": "Speedskating – Women's 1000m",
+    "gold_winner": "Jutta Leerdam (NED)",
+    "silver_winner": "Femke Kok (NED)",
+    "bronze_winner": "Miho Takagi (JPN)",
+    "gold_result": "1:12.31 OR",
+    "silver_result": "1:12.59",
+    "bronze_result": "1:13.95"
   }
 ]

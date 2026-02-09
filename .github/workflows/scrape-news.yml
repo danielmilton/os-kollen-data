@@ -1,0 +1,29 @@
+name: Scrape News RSS
+
+on:
+  schedule:
+    - cron: '*/5 6-23 * 2 *'  # Every 5 min, 06:00-23:00 UTC, February only
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run news scraper
+        run: python scripts/scrape_news.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          git diff --cached --quiet || (git commit -m "Update news data [bot]" && git push)

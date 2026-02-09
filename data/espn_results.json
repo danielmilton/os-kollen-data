@@ -1,0 +1,137 @@
+[
+  {
+    "event": "Alpine Skiing – Men's Downhill",
+    "gold_winner": "Franjo von Allmen (SUI)",
+    "silver_winner": "Giovanni Franzoni (ITA)",
+    "bronze_winner": "Dominik Paris (ITA)",
+    "gold_result": "1:51.61",
+    "silver_result": "1:51.81",
+    "bronze_result": "1:52.11"
+  },
+  {
+    "event": "Cross-Country Skiing – Women's 10km+10km Skiathlon",
+    "gold_winner": "Frida Karlsson (SWE)",
+    "silver_winner": "Ebba Andersson (SWE)",
+    "bronze_winner": "Heidi Weng (NOR)",
+    "gold_result": "53:45.2",
+    "silver_result": "54:36.2",
+    "bronze_result": "55:11.9"
+  },
+  {
+    "event": "Ski Jumping – Women's Individual Normal Hill",
+    "gold_winner": "Anna Odine Stroem (NOR)",
+    "silver_winner": "Nika Prevc (SLO)",
+    "bronze_winner": "Nozomi Maruyama (JPN)",
+    "gold_result": "267.3",
+    "silver_result": "266.2",
+    "bronze_result": "261.8"
+  },
+  {
+    "event": "Snowboarding – Men's Big Air",
+    "gold_winner": "Kira Kimura (JPN)",
+    "silver_winner": "Ryoma Kimata (JPN)",
+    "bronze_winner": "Su Yiming (CHN)",
+    "gold_result": "179.50",
+    "silver_result": "171.5",
+    "bronze_result": "168.5"
+  },
+  {
+    "event": "Speedskating – Women's 3000m",
+    "gold_winner": "Francesca Lollobrigida (ITA)",
+    "silver_winner": "Ragne Wiklund (NOR)",
+    "bronze_winner": "Valérie Maltais (CAN)",
+    "gold_result": "3:54.28 OR",
+    "silver_result": "3:56.54",
+    "bronze_result": "3:56.93"
+  },
+  {
+    "event": "Alpine Skiing – Women's Downhill",
+    "gold_winner": "Breezy Johnson (USA)",
+    "silver_winner": "Emma Aicher (GER)",
+    "bronze_winner": "Sofia Goggia (ITA)",
+    "gold_result": "1:36.10",
+    "silver_result": "1:36.14",
+    "bronze_result": "1:36.69"
+  },
+  {
+    "event": "Biathlon – Mixed 4x6km Relay Biathlon",
+    "gold_winner": "Eric Perrot, Quentin Fillon Maillet, Lou Jeanmonnot, Julia Simon (FRA)",
+    "silver_winner": "Tommaso Giacomel, Lukas Hofer, Dorothea Wierer, Lisa Vittozzi (ITA)",
+    "bronze_winner": "Justus Strelow, Philipp Nawrath, Vanessa Voigt, Franziska Preuß (GER)",
+    "gold_result": "1:04:15.5",
+    "silver_result": "1:04:41.3",
+    "bronze_result": "1:05:20.8"
+  },
+  {
+    "event": "Cross-Country Skiing – Men's 10km+10km Skiathlon",
+    "gold_winner": "Johannes Høsflot Klæbo (NOR)",
+    "silver_winner": "Mathis Desloges (FRA)",
+    "bronze_winner": "Martin Løwstrøm Nyenget (NOR)",
+    "gold_result": "46:11.0",
+    "silver_result": "46:13.0",
+    "bronze_result": "46:13.1"
+  },
+  {
+    "event": "Figure Skating – Mixed Team",
+    "gold_winner": "Madison Chock, Evan Bates, Ellie Kam, Ilia Malinin, Danny O'Shea, Amber Glenn, Alysa Liu (USA)",
+    "silver_winner": "Utana Yoshida, Ryuichi Kihara, Masaya Morita, Kaori Sakamoto, Riku Miura, Yuma Kagiyama, Ryuichi Kihara (JPN)",
+    "bronze_winner": "Charlene Guignard, Marco Fabbri, Sara Conti, Daniel Grassl, Niccolo Macii, Lara Gutmann, Matteo Rizzo (ITA)",
+    "gold_result": "69",
+    "silver_result": "68",
+    "bronze_result": "60"
+  },
+  {
+    "event": "Luge – Men's Singles",
+    "gold_winner": "Max Langenhan (GER)",
+    "silver_winner": "Jonas Mueller (AUT)",
+    "bronze_winner": "Dominik Fischnaller (ITA)",
+    "gold_result": "3:31.191",
+    "silver_result": "3:31.787",
+    "bronze_result": "3:32.125"
+  },
+  {
+    "event": "Snowboarding – Women's Parallel Giant Slalom",
+    "gold_winner": "Zuzana Maděrová (CZE)",
+    "silver_winner": "Sabine Payer (AUT)",
+    "bronze_winner": "Lucia Dalmasso (ITA)",
+    "gold_result": "",
+    "silver_result": "",
+    "bronze_result": ""
+  },
+  {
+    "event": "Snowboarding – Men's Parallel Giant Slalom",
+    "gold_winner": "Benjamin Karl (AUT)",
+    "silver_winner": "Kim Sang-Kyum (KOR)",
+    "bronze_winner": "Tervel Zamfirov (BUL)",
+    "gold_result": "",
+    "silver_result": "",
+    "bronze_result": ""
+  },
+  {
+    "event": "Speedskating – Men's 5000m",
+    "gold_winner": "Sander Eitrem (NOR)",
+    "silver_winner": "Metodej Jilek (CZE)",
+    "bronze_winner": "Riccardo Lorello (ITA)",
+    "gold_result": "6:03.95 OR",
+    "silver_result": "6:06.48",
+    "bronze_result": "6:09.22"
+  },
+  {
+    "event": "Alpine Skiing – Men's Team Combined",
+    "gold_winner": "Franjo von Allmen, Tanguy Nef (SUI)",
+    "silver_winner": "Marco Odermatt, Loic Meillard (SUI)",
+    "bronze_winner": "",
+    "gold_result": "2:44:04",
+    "silver_result": "2:45:03",
+    "bronze_result": ""
+  },
+  {
+    "event": "Freestyle Skiing – Women's Slopestyle",
+    "gold_winner": "Mathilde Gremaud (SUI)",
+    "silver_winner": "Eileen Gu (CHN)",
+    "bronze_winner": "Megan Oldham (CAN)",
+    "gold_result": "86.96",
+    "silver_result": "86.58",
+    "bronze_result": "76.46"
+  }
+]

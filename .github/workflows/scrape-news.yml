@@ -22,8 +22,20 @@ jobs:
         run: python scripts/scrape_news.py
 
       - name: Commit and push if changed
+        id: push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/news.json
-          git diff --cached --quiet || (git commit -m "Update news data [bot]" && git pull --rebase && git push)
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Update news data [bot]" && git pull --rebase && git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Push data to backend
+        if: steps.push.outputs.changed == 'true'
+        run: |
+          curl -sf -X POST https://oskollen.se/api/ingest/news \
+            -H "Content-Type: application/json" -d @data/news.json || true

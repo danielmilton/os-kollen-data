@@ -2,7 +2,7 @@ name: Scrape News RSS
 
 on:
   schedule:
-    - cron: '*/5 6-23 * 2 *'  # Every 5 min, 06:00-23:00 UTC, February only
+    - cron: '*/5 * * 2 *'  # Every 5 min, 24/7, February only
   workflow_dispatch:  # Manual trigger
 
 jobs:

@@ -2,10 +2,10 @@
   {
     "country_name": "Norway",
     "country_code": "NOR",
-    "gold": 3,
+    "gold": 5,
     "silver": 1,
-    "bronze": 2,
-    "total": 6
+    "bronze": 3,
+    "total": 9
   },
   {
     "country_name": "Switzerland",
@@ -16,12 +16,36 @@
     "total": 5
   },
   {
+    "country_name": "Italy",
+    "country_code": "ITA",
+    "gold": 2,
+    "silver": 2,
+    "bronze": 6,
+    "total": 10
+  },
+  {
     "country_name": "Japan",
     "country_code": "JPN",
     "gold": 2,
     "silver": 2,
     "bronze": 3,
     "total": 7
+  },
+  {
+    "country_name": "Sweden",
+    "country_code": "SWE",
+    "gold": 2,
+    "silver": 2,
+    "bronze": 1,
+    "total": 5
+  },
+  {
+    "country_name": "United States",
+    "country_code": "USA",
+    "gold": 2,
+    "silver": 2,
+    "bronze": 0,
+    "total": 4
   },
   {
     "country_name": "Germany",
@@ -32,36 +56,12 @@
     "total": 4
   },
   {
-    "country_name": "United States",
-    "country_code": "USA",
-    "gold": 2,
-    "silver": 0,
-    "bronze": 0,
-    "total": 2
-  },
-  {
     "country_name": "Austria",
     "country_code": "AUT",
     "gold": 1,
     "silver": 3,
     "bronze": 0,
     "total": 4
-  },
-  {
-    "country_name": "Italy",
-    "country_code": "ITA",
-    "gold": 1,
-    "silver": 2,
-    "bronze": 6,
-    "total": 9
-  },
-  {
-    "country_name": "Sweden",
-    "country_code": "SWE",
-    "gold": 1,
-    "silver": 1,
-    "bronze": 0,
-    "total": 2
   },
   {
     "country_name": "Netherlands",
@@ -88,8 +88,24 @@
     "total": 2
   },
   {
+    "country_name": "Canada",
+    "country_code": "CAN",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 2,
+    "total": 3
+  },
+  {
     "country_name": "South Korea",
     "country_code": "KOR",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "country_name": "New Zealand",
+    "country_code": "NZL",
     "gold": 0,
     "silver": 1,
     "bronze": 1,
@@ -120,24 +136,16 @@
     "total": 1
   },
   {
-    "country_name": "New Zealand",
-    "country_code": "NZL",
+    "country_name": "Bulgaria",
+    "country_code": "BUL",
     "gold": 0,
-    "silver": 1,
-    "bronze": 0,
+    "silver": 0,
+    "bronze": 1,
     "total": 1
   },
   {
-    "country_name": "Canada",
-    "country_code": "CAN",
-    "gold": 0,
-    "silver": 0,
-    "bronze": 2,
-    "total": 2
-  },
-  {
-    "country_name": "Bulgaria",
-    "country_code": "BUL",
+    "country_name": "Belgium",
+    "country_code": "BEL",
     "gold": 0,
     "silver": 0,
     "bronze": 1,

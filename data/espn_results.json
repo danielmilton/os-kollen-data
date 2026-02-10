@@ -160,5 +160,41 @@
     "gold_result": "1:12.31 OR",
     "silver_result": "1:12.59",
     "bronze_result": "1:13.95"
+  },
+  {
+    "event": "Cross-Country Skiing – Women's Sprint",
+    "gold_winner": "Linn Svahn (SWE)",
+    "silver_winner": "Jonna Sundling (SWE)",
+    "bronze_winner": "Maja Dahlqvist (SWE)",
+    "gold_result": "4:03.05",
+    "silver_result": "4:04.64",
+    "bronze_result": "4:07.88"
+  },
+  {
+    "event": "Cross-Country Skiing – Men's Individual Sprint",
+    "gold_winner": "Johannes Høsflot Klæbo (NOR)",
+    "silver_winner": "Ben Ogden (USA)",
+    "bronze_winner": "Oskar Opstad Vike (NOR)",
+    "gold_result": "3:39.74",
+    "silver_result": "3:40.61",
+    "bronze_result": "3:46.55"
+  },
+  {
+    "event": "Freestyle Skiing – Men's Slopestyle",
+    "gold_winner": "Birk Ruud (NOR)",
+    "silver_winner": "Alex Hall (USA)",
+    "bronze_winner": "Luca Harrington (NZL)",
+    "gold_result": "86.28",
+    "silver_result": "85.75",
+    "bronze_result": "85.15"
+  },
+  {
+    "event": "Short-Track Speedskating – Mixed 2000m Relay Short Track",
+    "gold_winner": "Chiara Betti, Elisa Confortola, Arianna Fontana, Thomas Nadalini, Pietro Sighel, Luca Spechenhauser (ITA)",
+    "silver_winner": "Courtney Sarault, Kim Boutin, Florence Brunelle, Felix Roussel, William Dandjinou, Steven Dubois (CAN)",
+    "bronze_winner": "Hanne Desmet, Stijn Desmet, Tineke den Dulk, Ward Pétré (BEL)",
+    "gold_result": "",
+    "silver_result": "",
+    "bronze_result": ""
   }
 ]

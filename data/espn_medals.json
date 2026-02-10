@@ -16,6 +16,14 @@
     "total": 5
   },
   {
+    "country_name": "Austria",
+    "country_code": "AUT",
+    "gold": 2,
+    "silver": 3,
+    "bronze": 0,
+    "total": 5
+  },
+  {
     "country_name": "Italy",
     "country_code": "ITA",
     "gold": 2,
@@ -32,6 +40,14 @@
     "total": 7
   },
   {
+    "country_name": "United States",
+    "country_code": "USA",
+    "gold": 2,
+    "silver": 2,
+    "bronze": 1,
+    "total": 5
+  },
+  {
     "country_name": "Sweden",
     "country_code": "SWE",
     "gold": 2,
@@ -40,28 +56,12 @@
     "total": 5
   },
   {
-    "country_name": "United States",
-    "country_code": "USA",
-    "gold": 2,
-    "silver": 2,
-    "bronze": 0,
-    "total": 4
-  },
-  {
     "country_name": "Germany",
     "country_code": "GER",
     "gold": 2,
-    "silver": 1,
+    "silver": 2,
     "bronze": 1,
-    "total": 4
-  },
-  {
-    "country_name": "Austria",
-    "country_code": "AUT",
-    "gold": 1,
-    "silver": 3,
-    "bronze": 0,
-    "total": 4
+    "total": 5
   },
   {
     "country_name": "Netherlands",

@@ -68,8 +68,8 @@
     "link": "https://www.aftonbladet.se/sportbladet/a/8pQpQQ/curling-i-os-sverige-usa-sa-gick-det-i-os-finalen?utm_medium=rss",
     "source": "Aftonbladet",
     "published_at": "2026-02-10T18:42:47+00:00",
-    "summary": "Jättedramatik i OS-finalen",
-    "image_url": "https://images.aftonbladet-cdn.se/v2/images/0854cd8f-4d67-4c4b-b2ef-571aa346c514?fit=crop&format=auto&h=655&q=50&w=1831&s=2237860bb82ba1d929b153fa7d48da49433d80e7"
+    "summary": "Jättedramatik: ”De som känner mig vet...”",
+    "image_url": "https://images.aftonbladet-cdn.se/v2/images/b9e010f9-9d31-4516-a08a-89c6c799dc59?fit=crop&format=auto&h=747&q=50&w=1900&s=2451efd3f5e8a1bc89f16e4300751e6c3691d166"
   },
   {
     "title": "JUST NU: Svenskens miss",
@@ -160,14 +160,6 @@
     "image_url": "https://static.bonniernews.se/images/73/88/7388d5d5c20c410db311dc2062e98a8b/16x9/265@70.png"
   },
   {
-    "title": "Flickvännen i tårar efter guldet: ”Han är galen”",
-    "link": "https://www.expressen.se/sport/os/flickvannen-i-tarar-efter-guldet-han-ar-galen/",
-    "source": "Expressen",
-    "published_at": "2026-02-10T15:21:54+01:00",
-    "summary": "Birk Ruud, 25, fixade ett norskt OS-guld i slopestyle. Då brast det för kärleken Tonje Frigstad, 25.– Han är galen, säger hon.",
-    "image_url": "https://static.bonniernews.se/images/4b/18/4b182de3ef014d02bc717a0d162452fb/16x9/265@70.png"
-  },
-  {
     "title": "Skrällen: Mikaela Shiffrin tappade medalj från ledning",
     "link": "https://www.svt.se/sport/artikel/skrallen-mikaela-shiffrin-tappade-medalj-fran-ledning",
     "source": "SVT",
@@ -188,7 +180,7 @@
     "link": "https://www.aftonbladet.se/sportbladet/a/wrOAOG/allt-vi-vet-om-syskonen-wrana?utm_medium=rss",
     "source": "Aftonbladet",
     "published_at": "2026-02-10T14:35:58+00:00",
-    "summary": "Nya OS-hjältarna",
+    "summary": "PLUS Nya OS-hjältarna",
     "image_url": "https://images.aftonbladet-cdn.se/v2/images/5c1fe83c-2fb5-485f-9bab-6bf3554d581a?fit=crop&format=auto&h=338&q=50&w=907&s=17334808854d7116d0d04c0f5e4b32c825325f32"
   },
   {
@@ -310,6 +302,14 @@
     "published_at": "2026-02-07T06:24:37+00:00",
     "summary": null,
     "image_url": null
+  },
+  {
+    "title": "Flickvännen i tårar efter guldet: ”Han är galen”",
+    "link": "https://www.expressen.se/sport/os/flickvannen-i-tarar-efter-guldet-han-ar-galen/",
+    "source": "Expressen",
+    "published_at": "2026-02-10T15:21:54+01:00",
+    "summary": "Birk Ruud, 25, fixade ett norskt OS-guld i slopestyle. Då brast det för kärleken Tonje Frigstad, 25.– Han är galen, säger hon.",
+    "image_url": "https://static.bonniernews.se/images/4b/18/4b182de3ef014d02bc717a0d162452fb/16x9/265@70.png"
   },
   {
     "title": "Sturla Holm Lägreid erkänner otrohet i tv",

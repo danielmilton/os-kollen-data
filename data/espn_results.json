@@ -214,5 +214,23 @@
     "gold_result": "",
     "silver_result": "",
     "bronze_result": ""
+  },
+  {
+    "event": "Curling – Mixed Doubles",
+    "gold_winner": "Team Italy (ITA)",
+    "silver_winner": "Team Great Britain (GBR)",
+    "bronze_winner": "",
+    "gold_result": "5",
+    "silver_result": "3",
+    "bronze_result": ""
+  },
+  {
+    "event": "Luge – Women's Singles",
+    "gold_winner": "Julia Taubitz (GER)",
+    "silver_winner": "Elina Bota (LAT)",
+    "bronze_winner": "Ashley Farquharson (USA)",
+    "gold_result": "3:30.625",
+    "silver_result": "3:31.543",
+    "bronze_result": "3:31.582"
   }
 ]

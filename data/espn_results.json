@@ -232,5 +232,14 @@
     "gold_result": "",
     "silver_result": "",
     "bronze_result": ""
+  },
+  {
+    "event": "Ski Jumping – Mixed Team Normal Hill",
+    "gold_winner": "Nika Vodan, Anze Lanisek, Nika Prevc, Domen Prevc (SLO)",
+    "silver_winner": "Anna Odine Stroem, Kristoffer Eriksen Sundal, Eirin Maria Kvandal, Marius Lindvik (NOR)",
+    "bronze_winner": "Nozomi Maruyama, Ryoyu Kobayashi, Sara Takanashi, Ren Nikaido (JPN)",
+    "gold_result": "1069.2",
+    "silver_result": "1038.3",
+    "bronze_result": "1034.0"
   }
 ]

@@ -250,5 +250,14 @@
     "gold_result": "1:25.32",
     "silver_result": "1:25.45",
     "bronze_result": "1:25.60"
+  },
+  {
+    "event": "Nordic Combined – Men's Gundersen Normal Hill",
+    "gold_winner": "Jens Lurås Oftebro (NOR)",
+    "silver_winner": "Johannes Lamparter (AUT)",
+    "bronze_winner": "Eero Hirvonen (FIN)",
+    "gold_result": "29:59.4",
+    "silver_result": "30:00.4",
+    "bronze_result": "30:01.9"
   }
 ]

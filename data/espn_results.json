@@ -304,5 +304,14 @@
     "gold_result": "1:06.28 OR",
     "silver_result": "1:06.78",
     "bronze_result": "1:07.34"
+  },
+  {
+    "event": "Figure Skating – Ice Dancing",
+    "gold_winner": "Laurence Fournier Beaudry, Guillaume Cizeron (FRA)",
+    "silver_winner": "Madison Chock, Evan Bates (USA)",
+    "bronze_winner": "Piper Gilles, Paul Poirier (CAN)",
+    "gold_result": "225.82",
+    "silver_result": "224.39",
+    "bronze_result": "217.74"
   }
 ]

@@ -277,5 +277,14 @@
     "gold_result": "29:59.4",
     "silver_result": "30:00.4",
     "bronze_result": "30:01.9"
+  },
+  {
+    "event": "Luge – Women's Doubles",
+    "gold_winner": "Andrea Voetter, Marion Oberhofer (ITA)",
+    "silver_winner": "Dajana Eitberger, Magdalena Matschina (GER)",
+    "bronze_winner": "Selina Egle, Lara Michaela Kipp (AUT)",
+    "gold_result": "1:46.284",
+    "silver_result": "1:46.404",
+    "bronze_result": "1:46.543"
   }
 ]

@@ -241,5 +241,14 @@
     "gold_result": "1069.2",
     "silver_result": "1038.3",
     "bronze_result": "1034.0"
+  },
+  {
+    "event": "Alpine Skiing – Men's Super-G",
+    "gold_winner": "Franjo von Allmen (SUI)",
+    "silver_winner": "Ryan Cochran-Siegle (USA)",
+    "bronze_winner": "Marco Odermatt (SUI)",
+    "gold_result": "1:25.32",
+    "silver_result": "1:25.45",
+    "bronze_result": "1:25.60"
   }
 ]

@@ -8,6 +8,14 @@
     "total": 12
   },
   {
+    "country_name": "Switzerland",
+    "country_code": "SUI",
+    "gold": 4,
+    "silver": 1,
+    "bronze": 2,
+    "total": 7
+  },
+  {
     "country_name": "Sweden",
     "country_code": "SWE",
     "gold": 3,
@@ -24,20 +32,12 @@
     "total": 6
   },
   {
-    "country_name": "Switzerland",
-    "country_code": "SUI",
-    "gold": 3,
-    "silver": 1,
-    "bronze": 1,
-    "total": 5
-  },
-  {
     "country_name": "United States",
     "country_code": "USA",
     "gold": 2,
-    "silver": 3,
+    "silver": 4,
     "bronze": 2,
-    "total": 7
+    "total": 8
   },
   {
     "country_name": "Austria",

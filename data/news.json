@@ -1,9 +1,17 @@
 [
   {
+    "title": "Johaug svarar efter Frida Karlssons OS-guld: ”Höna av en fjäder”",
+    "link": "https://www.svt.se/sport/langdskidor/johaug-svarar-efter-frida-karlssons-os-guld-hona-av-en-fjader",
+    "source": "SVT",
+    "published_at": "2026-02-12T22:20:08+01:00",
+    "summary": "Therese Johaug menade att Frida Karlsson inte hade utvecklats på fyra år. Men efter svenskans dubbla OS-guld backar nu Johaug från uttalandet. – Det har blivit en höna av en fjäder, säger hon i Aktuellt.",
+    "image_url": null
+  },
+  {
     "title": "Efterlyst i 16 år – greps på OS-premiären",
     "link": "https://www.expressen.se/sport/os/efterlyst-i-16-ar-greps-pa-os-premiaren/",
     "source": "Expressen",
-    "published_at": "2026-02-12T21:50:03+01:00",
+    "published_at": "2026-02-12T21:50:02+01:00",
     "summary": "En slovakisk supporter var efterlyst sedan 2010.Men suget efter en OS-premiär i hockey blev för stort – så 44-åringen åkte tillbaka till Italien och greps.",
     "image_url": "https://static.bonniernews.se/images/ae/0c/ae0c6cf59ced4285b7eef1b28f051d70/16x9/265@70.jpg"
   },
@@ -40,12 +48,20 @@
     "image_url": null
   },
   {
+    "title": "OS-guide: Fredag 13 februari",
+    "link": "https://www.tv4.se/artikel/65BooE1hshu7hsbfM5RHg2/os-guide-fredag-13-februari",
+    "source": "TV4",
+    "published_at": "2026-02-12T19:27:51+00:00",
+    "summary": "Här är dagens höjdpunkter",
+    "image_url": null
+  },
+  {
     "title": "Kanada kör över Tjeckien i premiären",
     "link": "https://www.expressen.se/sport/os/folj-os-2026-direkt-har-/?post=576eafe6-d589-4617-9b10-8a8dddadc3de",
     "source": "Expressen",
     "published_at": "2026-02-12T19:06:01+01:00",
     "summary": "Överkörning i OS-hockeyn",
-    "image_url": null
+    "image_url": "https://static.bonniernews.se/images/50/74/5074690582114dfea33322155e393772/16x9/265@70.jpg"
   },
   {
     "title": "Se otroliga bilderna – en mil ut på isen: ”Fantastiskt naturfenomen”",
@@ -93,14 +109,6 @@
     "source": "SVT",
     "published_at": "2026-02-12T16:12:24+01:00",
     "summary": "Först kraschade hon – sedan friade pojkvännen inför fullsatta läktare i Cortina. – Jag slog sönder en av mina ringar idag, men jag fick en ny, säger den amerikanska alpinstjärnan Breezy Johnson.",
-    "image_url": null
-  },
-  {
-    "title": "Ny kross av Frida Karlsson – vann OS-guld igen: ”Fantastiskt”",
-    "link": "https://www.svt.se/sport/langdskidor/ny-kross-av-frida-karlsson-vann-os-guld-igen-fantastiskt",
-    "source": "SVT",
-    "published_at": "2026-02-12T13:44:21+01:00",
-    "summary": "Nytt OS-guld för Frida Karlsson, 26. Den svenska längdstjärnan krossade allt motstånd i 10-kilometersloppet. – Jag hittade en bra rytm och det blev en skön dans, säger Karlsson till SVT Sport.",
     "image_url": null
   },
   {
@@ -160,14 +168,6 @@
     "image_url": "https://images.aftonbladet-cdn.se/v2/images/8f0bdc93-88ff-4c17-b22a-4a7d0d6df051?fit=crop&format=auto&h=747&q=50&w=1900&s=d7678ca705f683beac6fa2be0bf0ba12a0b1115a"
   },
   {
-    "title": "OS-guide: Torsdag 12 februari",
-    "link": "https://www.tv4.se/artikel/4SPlorBUwBm8Nvs9paYsgC/os-guide-torsdag-12-februari",
-    "source": "TV4",
-    "published_at": "2026-02-11T23:15:33+00:00",
-    "summary": null,
-    "image_url": null
-  },
-  {
     "title": "Så skapas alla olympiska curlingstenar: ”Mycket speciell”",
     "link": "https://www.tv4.se/artikel/16QZv9kx8Lo50dSrSX44C8/sa-skapas-alla-olympiska-curlingstenar-mycket-speciell",
     "source": "TV4",
@@ -206,6 +206,22 @@
     "published_at": "2026-02-05T13:54:24+00:00",
     "summary": "PLUS Över 100 idrottare ✓ Sex får högsta betyg",
     "image_url": "https://images.aftonbladet-cdn.se/v2/images/3036459d-7349-454f-8551-450d0281c021?fit=crop&format=auto&h=563&q=50&tight=true&w=1000&s=4441ba4100df52d789b466287aef1db393fb208a"
+  },
+  {
+    "title": "Ny kross av Frida Karlsson – vann OS-guld igen: ”Fantastiskt”",
+    "link": "https://www.svt.se/sport/langdskidor/ny-kross-av-frida-karlsson-vann-os-guld-igen-fantastiskt",
+    "source": "SVT",
+    "published_at": "2026-02-12T13:44:21+01:00",
+    "summary": "Nytt OS-guld för Frida Karlsson, 26. Den svenska längdstjärnan krossade allt motstånd i 10-kilometersloppet. – Jag hittade en bra rytm och det blev en skön dans, säger Karlsson till SVT Sport.",
+    "image_url": null
+  },
+  {
+    "title": "OS-guide: Torsdag 12 februari",
+    "link": "https://www.tv4.se/artikel/4SPlorBUwBm8Nvs9paYsgC/os-guide-torsdag-12-februari",
+    "source": "TV4",
+    "published_at": "2026-02-11T23:15:33+00:00",
+    "summary": null,
+    "image_url": null
   },
   {
     "title": "De får chansen i sprintarna",
@@ -381,22 +397,6 @@
     "source": "SVT",
     "published_at": "2026-02-12T08:05:28+01:00",
     "summary": "IOK försöker stoppa ukrainaren Vladyslav Heraskevych från att bära en hjälm med bilder på avlidna ukrainska idrottare. Ett förbud han kommer bryta – med risk att bli diskvalificerad. – Jag kommer inte att svika dem, säger skeletonåkaren till SVT.",
-    "image_url": null
-  },
-  {
-    "title": "OS idag: 12 februari",
-    "link": "https://www.svt.se/sport/artikel/os-idag-12-februari",
-    "source": "SVT",
-    "published_at": "2026-02-12T00:51:17+01:00",
-    "summary": "Ska det svenska medaljregnet fortsätta? Under torsdagen finns det flera chanser. Damerna ger sig ut i längdspåret och Walter Wallberg kan ta hem en svensk medalj i puckelpisten. Och så blir det mer curling. Lag Edin ska försöka ta revansch och Lag Hasselborg kliver in i turneringen.",
-    "image_url": null
-  },
-  {
-    "title": "Isabella Wranå om det nya kändisskapet: ”Vi var oss själva”",
-    "link": "https://www.svt.se/sport/curling/isabella-wrana-om-det-nya-kandisskapet-vi-var-oss-sjalva",
-    "source": "SVT",
-    "published_at": "2026-02-12T00:40:15+01:00",
-    "summary": "Isabella och Rasmus Wranå vann OS-guld i mixeddubbelcurlingen. Och tog hela svenska folket med storm. – Vi var oss själva. Det tyckte folk var kul att titta på, säger Isabella Wranå till SVT Sport.",
     "image_url": null
   }
 ]

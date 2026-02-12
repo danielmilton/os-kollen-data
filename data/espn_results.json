@@ -342,15 +342,6 @@
     "bronze_result": "83.44"
   },
   {
-    "event": "Snowboarding – Men's Snowboard Cross",
-    "gold_winner": "Alessandro Hämmerle (AUT)",
-    "silver_winner": "Eliot Grondin (CAN)",
-    "bronze_winner": "Jakob Dusek (AUT)",
-    "gold_result": "",
-    "silver_result": "",
-    "bronze_result": ""
-  },
-  {
     "event": "Luge – Mixed Team Relay",
     "gold_winner": "Julia Taubitz, Tobias Wendl, Tobias Arlt, Max Langenhan, Dajana Eitberger, Magdalena Matschina (GER)",
     "silver_winner": "Lisa Schulte, Thomas Steu, Wolfgang Kindl, Jonas Mueller, Selina Egle, Lara Michaela Kipp (AUT)",
@@ -358,6 +349,15 @@
     "gold_result": "3:41.672",
     "silver_result": "3:42.214",
     "bronze_result": "3:42.521"
+  },
+  {
+    "event": "Snowboarding – Men's Snowboard Cross",
+    "gold_winner": "Alessandro Hämmerle (AUT)",
+    "silver_winner": "Eliot Grondin (CAN)",
+    "bronze_winner": "Jakob Dusek (AUT)",
+    "gold_result": "",
+    "silver_result": "",
+    "bronze_result": ""
   },
   {
     "event": "Speedskating – Women's 5000m",

@@ -351,33 +351,6 @@
     "bronze_result": "3:42.521"
   },
   {
-    "event": "Snowboarding – Men's Snowboard Cross",
-    "gold_winner": "Alessandro Hämmerle (AUT)",
-    "silver_winner": "Eliot Grondin (CAN)",
-    "bronze_winner": "Jakob Dusek (AUT)",
-    "gold_result": "",
-    "silver_result": "",
-    "bronze_result": ""
-  },
-  {
-    "event": "Speedskating – Women's 5000m",
-    "gold_winner": "Francesca Lollobrigida (ITA)",
-    "silver_winner": "Merel Conijn (NED)",
-    "bronze_winner": "Ragne Wiklund (NOR)",
-    "gold_result": "6:46.17",
-    "silver_result": "6:46.27",
-    "bronze_result": "6:46.34"
-  },
-  {
-    "event": "Snowboarding – Women's Halfpipe",
-    "gold_winner": "Choi Gaon (KOR)",
-    "silver_winner": "Chloe Kim (USA)",
-    "bronze_winner": "Mitsuki Ono (JPN)",
-    "gold_result": "90.25",
-    "silver_result": "88.00",
-    "bronze_result": "85.00"
-  },
-  {
     "event": "Short-Track Speedskating – Women's 500m",
     "gold_winner": "Xandra Velzeboer (NED)",
     "silver_winner": "Arianna Fontana (ITA)",
@@ -394,5 +367,32 @@
     "gold_result": "1:24.537",
     "silver_result": "1:24.565",
     "bronze_result": "1:24.611"
+  },
+  {
+    "event": "Snowboarding – Men's Snowboard Cross",
+    "gold_winner": "Alessandro Hämmerle (AUT)",
+    "silver_winner": "Eliot Grondin (CAN)",
+    "bronze_winner": "Jakob Dusek (AUT)",
+    "gold_result": "",
+    "silver_result": "",
+    "bronze_result": ""
+  },
+  {
+    "event": "Snowboarding – Women's Halfpipe",
+    "gold_winner": "Choi Gaon (KOR)",
+    "silver_winner": "Chloe Kim (USA)",
+    "bronze_winner": "Mitsuki Ono (JPN)",
+    "gold_result": "90.25",
+    "silver_result": "88.00",
+    "bronze_result": "85.00"
+  },
+  {
+    "event": "Speedskating – Women's 5000m",
+    "gold_winner": "Francesca Lollobrigida (ITA)",
+    "silver_winner": "Merel Conijn (NED)",
+    "bronze_winner": "Ragne Wiklund (NOR)",
+    "gold_result": "6:46.17",
+    "silver_result": "6:46.27",
+    "bronze_result": "6:46.34"
   }
 ]

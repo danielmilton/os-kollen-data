@@ -1,0 +1,668 @@
+{
+  "scraped_at": "2026-02-12T19:50:32.867847+00:00",
+  "matches": [
+    {
+      "type": "team",
+      "sport": "Ishockey",
+      "event": "Herrar",
+      "event_id": "nLQB2JQN",
+      "home": "Schweiz",
+      "away": "Tjeckien",
+      "home_score": 4,
+      "away_score": 0,
+      "status": "finished",
+      "timestamp": 1770894600,
+      "periods": "2-0, 0-0, 2-0"
+    },
+    {
+      "type": "individual",
+      "sport": "Alpint",
+      "event": "Störtlopp herrar",
+      "status": "finished",
+      "results": [
+        {
+          "pos": 1,
+          "name": "Von Allmen F.",
+          "country": "Schweiz",
+          "time": "1:51.61",
+          "diff": "0.00"
+        },
+        {
+          "pos": 2,
+          "name": "Franzoni G.",
+          "country": "Italien",
+          "time": "1:51.81",
+          "diff": "0.20"
+        },
+        {
+          "pos": 3,
+          "name": "Paris D.",
+          "country": "Italien",
+          "time": "1:52.11",
+          "diff": "0.50"
+        }
+      ]
+    },
+    {
+      "type": "individual",
+      "sport": "Alpint",
+      "event": "Störtlopp damer",
+      "status": "finished",
+      "results": [
+        {
+          "pos": 1,
+          "name": "Johnson B.",
+          "country": "USA",
+          "time": "1:36.10",
+          "diff": "0.00"
+        },
+        {
+          "pos": 2,
+          "name": "Aicher E.",
+          "country": "Tyskland",
+          "time": "1:36.14",
+          "diff": "0.04"
+        },
+        {
+          "pos": 3,
+          "name": "Goggia S.",
+          "country": "Italien",
+          "time": "1:36.69",
+          "diff": "0.59"
+        }
+      ]
+    },
+    {
+      "type": "individual",
+      "sport": "Alpint",
+      "event": "Kombination herrar",
+      "status": "finished",
+      "results": [
+        {
+          "pos": 1,
+          "name": "Schweiz 2",
+          "country": "Schweiz",
+          "time": "2:44.04",
+          "diff": "0.00"
+        },
+        {
+          "pos": 2,
+          "name": "Schweiz",
+          "country": "Schweiz",
+          "time": "2:45.03",
+          "diff": "0.99"
+        },
+        {
+          "pos": 3,
+          "name": "Österrike",
+          "country": "Österrike",
+          "time": "2:45.03",
+          "diff": "0.99"
+        }
+      ]
+    },
+    {
+      "type": "individual",
+      "sport": "Alpint",
+      "event": "Kombination damer",
+      "status": "finished",
+      "results": [
+        {
+          "pos": 1,
+          "name": "Österrike 2 D",
+          "country": "Österrike",
+          "time": "2:21.66",
+          "diff": "0.00"
+        },
+        {
+          "pos": 2,
+          "name": "Tyskland D",
+          "country": "Tyskland",
+          "time": "2:21.71",
+          "diff": "0.05"
+        },
+        {
+          "pos": 3,
+          "name": "USA 2 D",
+          "country": "USA",
+          "time": "2:21.91",
+          "diff": "0.25"
+        }
+      ]
+    },
+    {
+      "type": "individual",
+      "sport": "Längdskidor",
+      "event": "Sprint klassisk herrar",
+      "status": "finished",
+      "results": [
+        {
+          "pos": 1,
+          "name": "Klaebo J. H.",
+          "country": "Norge",
+          "time": "3:39.74",
+          "diff": "0.00"
+        },
+        {
+          "pos": 1,
+          "name": "Ogden B.",
+          "country": "USA",
+          "time": "3:26.10",
+          "diff": "0.00"
+        },
+        {
+          "pos": 1,
+          "name": "Mocellini S.",
+          "country": "Italien",
+          "time": "3:31.03",
+          "diff": "0.00"
+        },
+        {
+          "pos": 1,
+          "name": "Vike O.",
+          "country": "Norge",
+          "time": "3:31.96",
+          "diff": "0.00"
+        },
+        {
+          "pos": 1,
+          "name": "Grahn A.",
+          "country": "Sverige",
+          "time": "3:38.25",
+          "diff": "0.00"
+        },
+        {
+          "pos": 1,
+          "name": "Tuz J.",
+          "country": "Tjeckien",
+          "time": "3:41.00",
+          "diff": "0.00"
+        },
+        {
+          "pos": 2,
+          "name": "Valnes E.",
+          "country": "Norge",
+          "time": "3:30.85",
+          "diff": "0.19"
+        },
+        {
+          "pos": 2,
+          "name": "Myhlback A.",
+          "country": "Sverige",
+          "time": "3:28.39",
+          "diff": "2.29"
+        },
+        {
+          "pos": 2,
+          "name": "Schoonmaker J. C.",
+          "country": "USA",
+          "time": "3:32.07",
+          "diff": "0.11"
+        },
+        {
+          "pos": 2,
+          "name": "Dapra S.",
+          "country": "Italien",
+          "time": "3:38.70",
+          "diff": "0.45"
+        },
+        {
+          "pos": 2,
+          "name": "Vuorinen L.",
+          "country": "Finland",
+          "time": "3:40.28",
+          "diff": "0.56"
+        },
+        {
+          "pos": 3,
+          "name": "Chappaz J.",
+          "country": "Frankrike",
+          "time": "3:12.86",
+          "diff": "5.49"
+        },
+        {
+          "pos": 3,
+          "name": "Pellegrino F.",
+          "country": "Italien",
+          "time": "3:28.77",
+          "diff": "2.67"
+        },
+        {
+          "pos": 3,
+          "name": "Maki J.",
+          "country": "Finland",
+          "time": "3:31.42",
+          "diff": "0.39"
+        },
+        {
+          "pos": 3,
+          "name": "Amundsen H. O.",
+          "country": "Norge",
+          "time": "3:32.50",
+          "diff": "0.54"
+        },
+        {
+          "pos": 3,
+          "name": "Cerny O.",
+          "country": "Tjeckien",
+          "time": "3:38.72",
+          "diff": "0.47"
+        },
+        {
+          "pos": 4,
+          "name": "Anger E.",
+          "country": "Sverige",
+          "time": "3:31.15",
+          "diff": "0.49"
+        },
+        {
+          "pos": 6,
+          "name": "Haeggstroem J.",
+          "country": "Sverige",
+          "time": "",
+          "diff": ""
+        }
+      ]
+    },
+    {
+      "type": "individual",
+      "sport": "Längdskidor",
+      "event": "Sprint klassisk damer",
+      "status": "finished",
+      "results": [
+        {
+          "pos": 1,
+          "name": "Svahn L.",
+          "country": "Sverige",
+          "time": "4:03.05",
+          "diff": "0.00"
+        },
+        {
+          "pos": 1,
+          "name": "Sundling J.",
+          "country": "Sverige",
+          "time": "3:55.29",
+          "diff": "0.00"
+        },
+        {
+          "pos": 1,
+          "name": "Matintalo J.",
+          "country": "Finland",
+          "time": "3:55.17",
+          "diff": "0.00"
+        },
+        {
+          "pos": 1,
+          "name": "Dahlqvist M.",
+          "country": "Sverige",
+          "time": "3:58.22",
+          "diff": "0.00"
+        },
+        {
+          "pos": 1,
+          "name": "Rydzek C.",
+          "country": "Tyskland",
+          "time": "3:57.75",
+          "diff": "0.00"
+        },
+        {
+          "pos": 1,
+          "name": "Drivenes J.",
+          "country": "Norge",
+          "time": "4:13.16",
+          "diff": "0.00"
+        },
+        {
+          "pos": 2,
+          "name": "Skistad K. S.",
+          "country": "Norge",
+          "time": "3:56.05",
+          "diff": "0.76"
+        },
+        {
+          "pos": 2,
+          "name": "Ganz C.",
+          "country": "Italien",
+          "time": "3:56.05",
+          "diff": "0.61"
+        },
+        {
+          "pos": 2,
+          "name": "Gimmler L.",
+          "country": "Tyskland",
+          "time": "3:55.58",
+          "diff": "0.41"
+        },
+        {
+          "pos": 2,
+          "name": "Cassol F.",
+          "country": "Italien",
+          "time": "3:59.10",
+          "diff": "0.88"
+        },
+        {
+          "pos": 2,
+          "name": "Andreassen M.",
+          "country": "Norge",
+          "time": "3:57.95",
+          "diff": "0.20"
+        },
+        {
+          "pos": 3,
+          "name": "Hagstroem J.",
+          "country": "Sverige",
+          "time": "3:38.85",
+          "diff": "2.64"
+        },
+        {
+          "pos": 3,
+          "name": "Joensuu J.",
+          "country": "Finland",
+          "time": "3:56.59",
+          "diff": "1.30"
+        },
+        {
+          "pos": 3,
+          "name": "Kern J.",
+          "country": "USA",
+          "time": "3:56.32",
+          "diff": "0.88"
+        },
+        {
+          "pos": 3,
+          "name": "Janatova K.",
+          "country": "Tjeckien",
+          "time": "3:59.20",
+          "diff": "0.98"
+        }
+      ]
+    },
+    {
+      "type": "individual",
+      "sport": "Längdskidor",
+      "event": "Skiathlon herrar",
+      "status": "finished",
+      "results": [
+        {
+          "pos": 1,
+          "name": "Klaebo J. H.",
+          "country": "Norge",
+          "time": "46:11.0",
+          "diff": "0.0"
+        },
+        {
+          "pos": 2,
+          "name": "Desloges M.",
+          "country": "Frankrike",
+          "time": "46:13.0",
+          "diff": "2.0"
+        },
+        {
+          "pos": 3,
+          "name": "Nyenget M. L.",
+          "country": "Norge",
+          "time": "46:13.1",
+          "diff": "2.1"
+        },
+        {
+          "pos": 7,
+          "name": "Gisselman T.",
+          "country": "Sverige",
+          "time": "46:47.8",
+          "diff": "36.8"
+        },
+        {
+          "pos": 12,
+          "name": "Poromaa W.",
+          "country": "Sverige",
+          "time": "47:22.1",
+          "diff": "1:11.1"
+        },
+        {
+          "pos": 37,
+          "name": "Anger E.",
+          "country": "Sverige",
+          "time": "49:26.8",
+          "diff": "3:15.8"
+        },
+        {
+          "pos": 39,
+          "name": "Berglund G.",
+          "country": "Sverige",
+          "time": "49:28.0",
+          "diff": "3:17.0"
+        }
+      ]
+    },
+    {
+      "type": "individual",
+      "sport": "Längdskidor",
+      "event": "Skiathlon damer",
+      "status": "finished",
+      "results": [
+        {
+          "pos": 1,
+          "name": "Karlsson F.",
+          "country": "Sverige",
+          "time": "53:45.2",
+          "diff": "0.0"
+        },
+        {
+          "pos": 2,
+          "name": "Andersson E.",
+          "country": "Sverige",
+          "time": "54:36.2",
+          "diff": "51.0"
+        },
+        {
+          "pos": 3,
+          "name": "Weng H.",
+          "country": "Norge",
+          "time": "55:11.9",
+          "diff": "1:26.7"
+        },
+        {
+          "pos": 12,
+          "name": "Sundling J.",
+          "country": "Sverige",
+          "time": "56:50.1",
+          "diff": "3:04.9"
+        },
+        {
+          "pos": 14,
+          "name": "Ilar M.",
+          "country": "Sverige",
+          "time": "57:26.2",
+          "diff": "3:41.0"
+        }
+      ]
+    },
+    {
+      "type": "individual",
+      "sport": "Skidskytte",
+      "event": "Individuell herrar",
+      "status": "finished",
+      "results": [
+        {
+          "pos": 1,
+          "name": "Botn J.",
+          "country": "Norge",
+          "time": "51:31.5",
+          "diff": "0.0"
+        },
+        {
+          "pos": 2,
+          "name": "Perrot E.",
+          "country": "Frankrike",
+          "time": "51:46.3",
+          "diff": "14.8"
+        },
+        {
+          "pos": 3,
+          "name": "Laegreid S. H.",
+          "country": "Norge",
+          "time": "52:19.8",
+          "diff": "48.3"
+        },
+        {
+          "pos": 7,
+          "name": "Samuelsson S.",
+          "country": "Sverige",
+          "time": "54:00.8",
+          "diff": "2:29.3"
+        },
+        {
+          "pos": 9,
+          "name": "Ponsiluoma M.",
+          "country": "Sverige",
+          "time": "54:26.2",
+          "diff": "2:54.7"
+        },
+        {
+          "pos": 12,
+          "name": "Nelin J.",
+          "country": "Sverige",
+          "time": "54:45.3",
+          "diff": "3:13.8"
+        },
+        {
+          "pos": 37,
+          "name": "Brandt V.",
+          "country": "Sverige",
+          "time": "57:38.3",
+          "diff": "6:06.8"
+        }
+      ]
+    },
+    {
+      "type": "individual",
+      "sport": "Skidskytte",
+      "event": "Mixedstafett",
+      "status": "finished",
+      "results": [
+        {
+          "pos": 1,
+          "name": "Frankrike",
+          "country": "Frankrike",
+          "time": "1:04:15.5",
+          "diff": "0.0"
+        },
+        {
+          "pos": 2,
+          "name": "Italien",
+          "country": "Italien",
+          "time": "1:04:41.3",
+          "diff": "25.8"
+        },
+        {
+          "pos": 3,
+          "name": "Tyskland",
+          "country": "Tyskland",
+          "time": "1:05:20.8",
+          "diff": "1:05.3"
+        },
+        {
+          "pos": 5,
+          "name": "Sverige",
+          "country": "Sverige",
+          "time": "1:05:56.3",
+          "diff": "1:40.8"
+        }
+      ]
+    },
+    {
+      "type": "individual",
+      "sport": "Backhoppning",
+      "event": "Normalbacke herrar",
+      "status": "finished",
+      "results": [
+        {
+          "pos": 1,
+          "name": "Raimund P.",
+          "country": "Tyskland",
+          "time": "",
+          "diff": ""
+        },
+        {
+          "pos": 2,
+          "name": "Tomasiak K.",
+          "country": "Polen",
+          "time": "",
+          "diff": ""
+        },
+        {
+          "pos": 3,
+          "name": "Deschwanden G.",
+          "country": "Schweiz",
+          "time": "",
+          "diff": ""
+        }
+      ]
+    },
+    {
+      "type": "individual",
+      "sport": "Backhoppning",
+      "event": "Normalbacke damer",
+      "status": "finished",
+      "results": [
+        {
+          "pos": 1,
+          "name": "Stroem A. O.",
+          "country": "Norge",
+          "time": "",
+          "diff": ""
+        },
+        {
+          "pos": 2,
+          "name": "Prevc N.",
+          "country": "Slovenien",
+          "time": "",
+          "diff": ""
+        },
+        {
+          "pos": 3,
+          "name": "Maruyama N.",
+          "country": "Japan",
+          "time": "",
+          "diff": ""
+        },
+        {
+          "pos": 42,
+          "name": "Westman F.",
+          "country": "Sverige",
+          "time": "",
+          "diff": ""
+        }
+      ]
+    },
+    {
+      "type": "individual",
+      "sport": "Backhoppning",
+      "event": "Normalbacke mixed",
+      "status": "finished",
+      "results": [
+        {
+          "pos": 1,
+          "name": "Slovenien",
+          "country": "Slovenien",
+          "time": "",
+          "diff": ""
+        },
+        {
+          "pos": 2,
+          "name": "Norge",
+          "country": "Norge",
+          "time": "",
+          "diff": ""
+        },
+        {
+          "pos": 3,
+          "name": "Japan",
+          "country": "Japan",
+          "time": "",
+          "diff": ""
+        }
+      ]
+    }
+  ]
+}

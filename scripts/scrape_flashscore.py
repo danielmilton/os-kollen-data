@@ -351,6 +351,53 @@ def parse_individual_feed(data: str, entry: dict) -> dict | None:
     }
 
 
+def parse_start_list(data: str, entry: dict) -> dict | None:
+    """Parse a feed for a non-finished event to extract the start list."""
+    records = data.split("~")
+    athletes: list[dict] = []
+    has_scheduled = False
+    current_round = None
+
+    for rec in records[1:]:
+        d, raa, rab = parse_fields(rec)
+
+        if "ZAE" in d:
+            current_round = d["ZAE"]
+            continue
+
+        if "AE" not in d:
+            continue
+
+        # Skip sub-rounds for multi-round events
+        if current_round is not None and current_round != "Totalt":
+            continue
+
+        if d.get("AB") == "1":
+            has_scheduled = True
+
+        ra = dict(zip(raa, rab))
+        bib = ra.get("7", "")
+        athletes.append({
+            "name": d.get("AE", ""),
+            "country": d.get("FU", ""),
+            "bib": _int(bib) if bib else None,
+        })
+
+    if not has_scheduled or not athletes:
+        return None
+
+    swe = [a for a in athletes if a["country"] in SWE_COUNTRIES]
+
+    return {
+        "type": "startlist",
+        "sport": entry["sport"],
+        "event": entry["event"],
+        "total": len(athletes),
+        "swe_athletes": [{"name": a["name"], "country": a["country"]} for a in swe],
+        "athletes": [{"name": a["name"], "country": a["country"], "bib": a["bib"]} for a in athletes],
+    }
+
+
 def _int(s: str) -> int | None:
     """Safe int parse, returns None for empty/invalid."""
     try:
@@ -388,7 +435,13 @@ def scrape_all() -> list[dict]:
             n_swe = sum(1 for r in result["results"] if r["country"] in SWE_COUNTRIES)
             print(f"  {entry['sport']} {entry['event']}: {len(result['results'])} results ({n_swe} SWE)")
         else:
-            print(f"  {entry['sport']} {entry['event']}: no finished results")
+            # Try start list for upcoming events
+            sl = parse_start_list(data, entry)
+            if sl:
+                all_matches.append(sl)
+                print(f"  {entry['sport']} {entry['event']}: startlist {sl['total']} athletes ({len(sl['swe_athletes'])} SWE)")
+            else:
+                print(f"  {entry['sport']} {entry['event']}: no data")
 
         time.sleep(DELAY_BETWEEN_FEEDS)
 

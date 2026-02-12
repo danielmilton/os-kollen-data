@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-12T22:56:43.179105+00:00",
+  "scraped_at": "2026-02-12T23:44:29.747188+00:00",
   "matches": [
     {
       "type": "team",
@@ -1250,6 +1250,3859 @@
       "status": "finished",
       "timestamp": 1770289800,
       "periods": "1-1, 2-0, 1-0"
+    },
+    {
+      "type": "startlist",
+      "sport": "Alpint",
+      "event": "Storslalom herrar",
+      "total": 30,
+      "swe_athletes": [],
+      "athletes": [
+        {
+          "name": "Maes S.",
+          "country": "Belgien",
+          "bib": 16
+        },
+        {
+          "name": "Della Vite F.",
+          "country": "Italien",
+          "bib": 30
+        },
+        {
+          "name": "Feurstein L.",
+          "country": "Österrike",
+          "bib": 29
+        },
+        {
+          "name": "Solberg E. H.",
+          "country": "Norge",
+          "bib": 28
+        },
+        {
+          "name": "Stockinger J.",
+          "country": "Tyskland",
+          "bib": 27
+        },
+        {
+          "name": "Sarchett R.",
+          "country": "USA",
+          "bib": 26
+        },
+        {
+          "name": "Grammel A.",
+          "country": "Tyskland",
+          "bib": 25
+        },
+        {
+          "name": "Vitale F.",
+          "country": "Frankrike",
+          "bib": 24
+        },
+        {
+          "name": "Verdu J.",
+          "country": "Andorra",
+          "bib": 23
+        },
+        {
+          "name": "Feurstein P.",
+          "country": "Österrike",
+          "bib": 22
+        },
+        {
+          "name": "Schmid A.",
+          "country": "Tyskland",
+          "bib": 21
+        },
+        {
+          "name": "Gratz F.",
+          "country": "Tyskland",
+          "bib": 20
+        },
+        {
+          "name": "Anguenot L.",
+          "country": "Frankrike",
+          "bib": 19
+        },
+        {
+          "name": "Haaser R.",
+          "country": "Österrike",
+          "bib": 18
+        },
+        {
+          "name": "Pinturault A.",
+          "country": "Frankrike",
+          "bib": 17
+        },
+        {
+          "name": "Odermatt M.",
+          "country": "Schweiz",
+          "bib": 1
+        },
+        {
+          "name": "Tumler T.",
+          "country": "Schweiz",
+          "bib": 15
+        },
+        {
+          "name": "Zubcic F.",
+          "country": "Kroatien",
+          "bib": 14
+        },
+        {
+          "name": "Haugan T.",
+          "country": "Norge",
+          "bib": 13
+        },
+        {
+          "name": "Kranjec Z.",
+          "country": "Slovenien",
+          "bib": 12
+        },
+        {
+          "name": "Favrot T.",
+          "country": "Frankrike",
+          "bib": 11
+        },
+        {
+          "name": "Radamus R.",
+          "country": "USA",
+          "bib": 10
+        },
+        {
+          "name": "Braathen L.",
+          "country": "Brasilien",
+          "bib": 9
+        },
+        {
+          "name": "McGrath A. L.",
+          "country": "Norge",
+          "bib": 8
+        },
+        {
+          "name": "Aerni L.",
+          "country": "Schweiz",
+          "bib": 7
+        },
+        {
+          "name": "Schwarz M.",
+          "country": "Österrike",
+          "bib": 6
+        },
+        {
+          "name": "Meillard L.",
+          "country": "Schweiz",
+          "bib": 5
+        },
+        {
+          "name": "Vinatzer A.",
+          "country": "Italien",
+          "bib": 4
+        },
+        {
+          "name": "Kristoffersen H.",
+          "country": "Norge",
+          "bib": 3
+        },
+        {
+          "name": "Brennsteiner S.",
+          "country": "Österrike",
+          "bib": 2
+        }
+      ]
+    },
+    {
+      "type": "startlist",
+      "sport": "Alpint",
+      "event": "Storslalom damer",
+      "total": 30,
+      "swe_athletes": [
+        {
+          "name": "Nyberg L.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Alphand E.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Hector S.",
+          "country": "Sverige"
+        }
+      ],
+      "athletes": [
+        {
+          "name": "Holtmann M. F.",
+          "country": "Norge",
+          "bib": 16
+        },
+        {
+          "name": "Shiffrin M.",
+          "country": "USA",
+          "bib": 30
+        },
+        {
+          "name": "Liensberger K.",
+          "country": "Österrike",
+          "bib": 29
+        },
+        {
+          "name": "Nyberg L.",
+          "country": "Sverige",
+          "bib": 28
+        },
+        {
+          "name": "Lie K. V.",
+          "country": "Norge",
+          "bib": 27
+        },
+        {
+          "name": "Bassino M.",
+          "country": "Italien",
+          "bib": 26
+        },
+        {
+          "name": "Duerr L.",
+          "country": "Tyskland",
+          "bib": 25
+        },
+        {
+          "name": "Bucik A.",
+          "country": "Slovenien",
+          "bib": 24
+        },
+        {
+          "name": "Haaser R.",
+          "country": "Österrike",
+          "bib": 23
+        },
+        {
+          "name": "Hensien K.",
+          "country": "USA",
+          "bib": 22
+        },
+        {
+          "name": "Richardson B.",
+          "country": "Kanada",
+          "bib": 21
+        },
+        {
+          "name": "Brunner S.",
+          "country": "Österrike",
+          "bib": 20
+        },
+        {
+          "name": "Alphand E.",
+          "country": "Sverige",
+          "bib": 19
+        },
+        {
+          "name": "Gasienica Daniel M.",
+          "country": "Polen",
+          "bib": 18
+        },
+        {
+          "name": "Goggia S.",
+          "country": "Italien",
+          "bib": 17
+        },
+        {
+          "name": "Brignone F.",
+          "country": "Italien",
+          "bib": 1
+        },
+        {
+          "name": "Holdener W.",
+          "country": "Schweiz",
+          "bib": 15
+        },
+        {
+          "name": "Hurt A.",
+          "country": "USA",
+          "bib": 14
+        },
+        {
+          "name": "Dvornik N.",
+          "country": "Slovenien",
+          "bib": 13
+        },
+        {
+          "name": "Grenier V.",
+          "country": "Kanada",
+          "bib": 12
+        },
+        {
+          "name": "O'Brien N.",
+          "country": "USA",
+          "bib": 11
+        },
+        {
+          "name": "Rast C.",
+          "country": "Schweiz",
+          "bib": 10
+        },
+        {
+          "name": "Scheib J.",
+          "country": "Österrike",
+          "bib": 9
+        },
+        {
+          "name": "Ljutic Z.",
+          "country": "Kroatien",
+          "bib": 8
+        },
+        {
+          "name": "Moltzan P.",
+          "country": "USA",
+          "bib": 7
+        },
+        {
+          "name": "Gut-Behrami L.",
+          "country": "Schweiz",
+          "bib": 6
+        },
+        {
+          "name": "Colturi L.",
+          "country": "Albanien",
+          "bib": 5
+        },
+        {
+          "name": "Stjernesund T. L.",
+          "country": "Norge",
+          "bib": 4
+        },
+        {
+          "name": "Hector S.",
+          "country": "Sverige",
+          "bib": 3
+        },
+        {
+          "name": "Robinson A.",
+          "country": "Nya Zeeland",
+          "bib": 2
+        }
+      ]
+    },
+    {
+      "type": "startlist",
+      "sport": "Alpint",
+      "event": "Slalom herrar",
+      "total": 30,
+      "swe_athletes": [],
+      "athletes": [
+        {
+          "name": "Nef T.",
+          "country": "Schweiz",
+          "bib": 16
+        },
+        {
+          "name": "Major B.",
+          "country": "Storbritannien",
+          "bib": 30
+        },
+        {
+          "name": "Iten M.",
+          "country": "Schweiz",
+          "bib": 29
+        },
+        {
+          "name": "Maes S.",
+          "country": "Belgien",
+          "bib": 28
+        },
+        {
+          "name": "Feller M.",
+          "country": "Österrike",
+          "bib": 27
+        },
+        {
+          "name": "Kolega S.",
+          "country": "Kroatien",
+          "bib": 26
+        },
+        {
+          "name": "Raschner D.",
+          "country": "Österrike",
+          "bib": 25
+        },
+        {
+          "name": "Grahl-Madsen H.",
+          "country": "Norge",
+          "bib": 24
+        },
+        {
+          "name": "Sala T.",
+          "country": "Italien",
+          "bib": 23
+        },
+        {
+          "name": "Ryding D.",
+          "country": "Storbritannien",
+          "bib": 22
+        },
+        {
+          "name": "Yule D.",
+          "country": "Schweiz",
+          "bib": 21
+        },
+        {
+          "name": "Matt M.",
+          "country": "Österrike",
+          "bib": 20
+        },
+        {
+          "name": "Strasser L.",
+          "country": "Tyskland",
+          "bib": 19
+        },
+        {
+          "name": "Popov A.",
+          "country": "Bulgarien",
+          "bib": 18
+        },
+        {
+          "name": "Schwarz M.",
+          "country": "Österrike",
+          "bib": 17
+        },
+        {
+          "name": "Haugan T.",
+          "country": "Norge",
+          "bib": 1
+        },
+        {
+          "name": "Gstrein F.",
+          "country": "Österrike",
+          "bib": 15
+        },
+        {
+          "name": "Sandvik O.",
+          "country": "Norge",
+          "bib": 14
+        },
+        {
+          "name": "Muffat-Jeandet V.",
+          "country": "Frankrike",
+          "bib": 13
+        },
+        {
+          "name": "McGrath A. L.",
+          "country": "Norge",
+          "bib": 12
+        },
+        {
+          "name": "Vinatzer A.",
+          "country": "Italien",
+          "bib": 11
+        },
+        {
+          "name": "Taylor L.",
+          "country": "Storbritannien",
+          "bib": 10
+        },
+        {
+          "name": "Amiez S.",
+          "country": "Frankrike",
+          "bib": 9
+        },
+        {
+          "name": "Hallberg E.",
+          "country": "Finland",
+          "bib": 8
+        },
+        {
+          "name": "Marchant A.",
+          "country": "Belgien",
+          "bib": 7
+        },
+        {
+          "name": "Meillard L.",
+          "country": "Schweiz",
+          "bib": 6
+        },
+        {
+          "name": "Kristoffersen H.",
+          "country": "Norge",
+          "bib": 5
+        },
+        {
+          "name": "Noel C.",
+          "country": "Frankrike",
+          "bib": 4
+        },
+        {
+          "name": "Braathen L.",
+          "country": "Brasilien",
+          "bib": 3
+        },
+        {
+          "name": "Rassat P.",
+          "country": "Frankrike",
+          "bib": 2
+        }
+      ]
+    },
+    {
+      "type": "startlist",
+      "sport": "Alpint",
+      "event": "Slalom damer",
+      "total": 30,
+      "swe_athletes": [
+        {
+          "name": "Oehlund C.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Aronsson Elfman H.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Hector S.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Swenn-Larsson A.",
+          "country": "Sverige"
+        }
+      ],
+      "athletes": [
+        {
+          "name": "Oehlund C.",
+          "country": "Sverige",
+          "bib": 16
+        },
+        {
+          "name": "Gritsch F.",
+          "country": "Österrike",
+          "bib": 30
+        },
+        {
+          "name": "Hurt A.",
+          "country": "USA",
+          "bib": 29
+        },
+        {
+          "name": "Christen E.",
+          "country": "Schweiz",
+          "bib": 28
+        },
+        {
+          "name": "Bucik A.",
+          "country": "Slovenien",
+          "bib": 27
+        },
+        {
+          "name": "Rossetti M.",
+          "country": "Italien",
+          "bib": 26
+        },
+        {
+          "name": "Della Mea L.",
+          "country": "Italien",
+          "bib": 25
+        },
+        {
+          "name": "Breche C.",
+          "country": "Frankrike",
+          "bib": 24
+        },
+        {
+          "name": "Peterlini M.",
+          "country": "Italien",
+          "bib": 23
+        },
+        {
+          "name": "Nullmeyer A.",
+          "country": "Kanada",
+          "bib": 22
+        },
+        {
+          "name": "Aronsson Elfman H.",
+          "country": "Sverige",
+          "bib": 21
+        },
+        {
+          "name": "Dvornik N.",
+          "country": "Slovenien",
+          "bib": 20
+        },
+        {
+          "name": "Lamure M.",
+          "country": "Frankrike",
+          "bib": 19
+        },
+        {
+          "name": "St.Germain L.",
+          "country": "Kanada",
+          "bib": 18
+        },
+        {
+          "name": "Aicher E.",
+          "country": "Tyskland",
+          "bib": 17
+        },
+        {
+          "name": "Ljutic Z.",
+          "country": "Kroatien",
+          "bib": 1
+        },
+        {
+          "name": "Holtmann M. F.",
+          "country": "Norge",
+          "bib": 15
+        },
+        {
+          "name": "Huber K.",
+          "country": "Österrike",
+          "bib": 14
+        },
+        {
+          "name": "Truppe K.",
+          "country": "Österrike",
+          "bib": 13
+        },
+        {
+          "name": "Slokar A.",
+          "country": "Slovenien",
+          "bib": 12
+        },
+        {
+          "name": "Moltzan P.",
+          "country": "USA",
+          "bib": 11
+        },
+        {
+          "name": "Colturi L.",
+          "country": "Albanien",
+          "bib": 10
+        },
+        {
+          "name": "Hector S.",
+          "country": "Sverige",
+          "bib": 9
+        },
+        {
+          "name": "Meillard M.",
+          "country": "Schweiz",
+          "bib": 8
+        },
+        {
+          "name": "Swenn-Larsson A.",
+          "country": "Sverige",
+          "bib": 7
+        },
+        {
+          "name": "Holdener W.",
+          "country": "Schweiz",
+          "bib": 6
+        },
+        {
+          "name": "Duerr L.",
+          "country": "Tyskland",
+          "bib": 5
+        },
+        {
+          "name": "Shiffrin M.",
+          "country": "USA",
+          "bib": 4
+        },
+        {
+          "name": "Rast C.",
+          "country": "Schweiz",
+          "bib": 3
+        },
+        {
+          "name": "Liensberger K.",
+          "country": "Österrike",
+          "bib": 2
+        }
+      ]
+    },
+    {
+      "type": "startlist",
+      "sport": "Längdskidor",
+      "event": "Individuell fristil herrar",
+      "total": 113,
+      "swe_athletes": [
+        {
+          "name": "Anger E.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Poromaa W.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Gisselman T.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Berglund G.",
+          "country": "Sverige"
+        }
+      ],
+      "athletes": [
+        {
+          "name": "Klaebo J. H.",
+          "country": "Norge",
+          "bib": 44
+        },
+        {
+          "name": "Anger E.",
+          "country": "Sverige",
+          "bib": 54
+        },
+        {
+          "name": "Amundsen H. O.",
+          "country": "Norge",
+          "bib": 58
+        },
+        {
+          "name": "Lapalus H.",
+          "country": "Frankrike",
+          "bib": 48
+        },
+        {
+          "name": "Nyenget M. L.",
+          "country": "Norge",
+          "bib": 60
+        },
+        {
+          "name": "Vermeulen M.",
+          "country": "Österrike",
+          "bib": 52
+        },
+        {
+          "name": "Moch F.",
+          "country": "Tyskland",
+          "bib": 39
+        },
+        {
+          "name": "Desloges M.",
+          "country": "Frankrike",
+          "bib": 46
+        },
+        {
+          "name": "Schumacher G.",
+          "country": "USA",
+          "bib": 66
+        },
+        {
+          "name": "Poromaa W.",
+          "country": "Sverige",
+          "bib": 40
+        },
+        {
+          "name": "Musgrave A.",
+          "country": "Storbritannien",
+          "bib": 42
+        },
+        {
+          "name": "Ruuskanen A.",
+          "country": "Finland",
+          "bib": 68
+        },
+        {
+          "name": "Novak M.",
+          "country": "Tjeckien",
+          "bib": 37
+        },
+        {
+          "name": "Maloney Westgaard T.",
+          "country": "Irland",
+          "bib": 20
+        },
+        {
+          "name": "Pepene P. C.",
+          "country": "Rumänien",
+          "bib": 1
+        },
+        {
+          "name": "Lisohor O.",
+          "country": "Ukraina",
+          "bib": 2
+        },
+        {
+          "name": "Stern N.",
+          "country": "Slovenien",
+          "bib": 3
+        },
+        {
+          "name": "Vigants R.",
+          "country": "Lettland",
+          "bib": 4
+        },
+        {
+          "name": "Ophoff M.",
+          "country": "Tjeckien",
+          "bib": 5
+        },
+        {
+          "name": "Crv V.",
+          "country": "Slovenien",
+          "bib": 6
+        },
+        {
+          "name": "Naeff N.",
+          "country": "Schweiz",
+          "bib": 7
+        },
+        {
+          "name": "Yamazaki D.",
+          "country": "Japan",
+          "bib": 8
+        },
+        {
+          "name": "Liekari E.",
+          "country": "Finland",
+          "bib": 9
+        },
+        {
+          "name": "Simenc M.",
+          "country": "Slovenien",
+          "bib": 10
+        },
+        {
+          "name": "Hollmann M.",
+          "country": "Kanada",
+          "bib": 11
+        },
+        {
+          "name": "Wigger N.",
+          "country": "Schweiz",
+          "bib": 12
+        },
+        {
+          "name": "Tuz J.",
+          "country": "Tjeckien",
+          "bib": 13
+        },
+        {
+          "name": "Hirose R.",
+          "country": "Japan",
+          "bib": 14
+        },
+        {
+          "name": "Bauer M.",
+          "country": "Tjeckien",
+          "bib": 15
+        },
+        {
+          "name": "McMullen Z.",
+          "country": "USA",
+          "bib": 16
+        },
+        {
+          "name": "Drolet R.",
+          "country": "Kanada",
+          "bib": 17
+        },
+        {
+          "name": "Clugnet J.",
+          "country": "Storbritannien",
+          "bib": 18
+        },
+        {
+          "name": "Himma M.",
+          "country": "Estland",
+          "bib": 19
+        },
+        {
+          "name": "Hagenbuch J.",
+          "country": "USA",
+          "bib": 21
+        },
+        {
+          "name": "Maki J.",
+          "country": "Finland",
+          "bib": 22
+        },
+        {
+          "name": "Stephen T.",
+          "country": "Kanada",
+          "bib": 23
+        },
+        {
+          "name": "Bury D.",
+          "country": "Polen",
+          "bib": 24
+        },
+        {
+          "name": "Baba N.",
+          "country": "Japan",
+          "bib": 25
+        },
+        {
+          "name": "Klee B.",
+          "country": "Schweiz",
+          "bib": 26
+        },
+        {
+          "name": "Davies J.",
+          "country": "Storbritannien",
+          "bib": 27
+        },
+        {
+          "name": "Dapra S.",
+          "country": "Italien",
+          "bib": 28
+        },
+        {
+          "name": "Alev A. J.",
+          "country": "Estland",
+          "bib": 29
+        },
+        {
+          "name": "Gisselman T.",
+          "country": "Sverige",
+          "bib": 30
+        },
+        {
+          "name": "Anttola N.",
+          "country": "Finland",
+          "bib": 31
+        },
+        {
+          "name": "Carollo M.",
+          "country": "Italien",
+          "bib": 32
+        },
+        {
+          "name": "Notz F.",
+          "country": "Tyskland",
+          "bib": 33
+        },
+        {
+          "name": "Brugger J.",
+          "country": "Tyskland",
+          "bib": 34
+        },
+        {
+          "name": "Ketterson Z.",
+          "country": "USA",
+          "bib": 35
+        },
+        {
+          "name": "Moser B.",
+          "country": "Österrike",
+          "bib": 36
+        },
+        {
+          "name": "Lovera V.",
+          "country": "Frankrike",
+          "bib": 38
+        },
+        {
+          "name": "Batmunkh A.",
+          "country": "Mongolia",
+          "bib": 41
+        },
+        {
+          "name": "Matikanov M.",
+          "country": "Bulgarien",
+          "bib": 43
+        },
+        {
+          "name": "Li M.",
+          "country": "Kina",
+          "bib": 45
+        },
+        {
+          "name": "Cojocaru G.",
+          "country": "Rumänien",
+          "bib": 47
+        },
+        {
+          "name": "Mikayelyan M.",
+          "country": "Armenien",
+          "bib": 49
+        },
+        {
+          "name": "Berglund G.",
+          "country": "Sverige",
+          "bib": 50
+        },
+        {
+          "name": "Muratbekov A.",
+          "country": "Kazakstan",
+          "bib": 51
+        },
+        {
+          "name": "Bashmakov N.",
+          "country": "Kazakstan",
+          "bib": 53
+        },
+        {
+          "name": "De Campo S.",
+          "country": "Australien",
+          "bib": 55
+        },
+        {
+          "name": "Graz D.",
+          "country": "Italien",
+          "bib": 56
+        },
+        {
+          "name": "Pukhkalo V.",
+          "country": "Kazakstan",
+          "bib": 57
+        },
+        {
+          "name": "Hinckfuss H.",
+          "country": "Australien",
+          "bib": 59
+        },
+        {
+          "name": "Kaparkalejs L.",
+          "country": "Lettland",
+          "bib": 61
+        },
+        {
+          "name": "Hedegart E.",
+          "country": "Norge",
+          "bib": 62
+        },
+        {
+          "name": "Hinds P.",
+          "country": "Slovakien",
+          "bib": 63
+        },
+        {
+          "name": "Lapierre J.",
+          "country": "Frankrike",
+          "bib": 64
+        },
+        {
+          "name": "Dal Farra F.",
+          "country": "Argentina",
+          "bib": 65
+        },
+        {
+          "name": "Bryja S.",
+          "country": "Polen",
+          "bib": 67
+        },
+        {
+          "name": "Benediktsson D.",
+          "country": "Island",
+          "bib": 69
+        },
+        {
+          "name": "Korostelev S.",
+          "country": "Värld",
+          "bib": 70
+        },
+        {
+          "name": "Drahun D.",
+          "country": "Ukraina",
+          "bib": 71
+        },
+        {
+          "name": "Fodstad F.",
+          "country": "Colombia",
+          "bib": 72
+        },
+        {
+          "name": "Vik L. Y.",
+          "country": "Australien",
+          "bib": 73
+        },
+        {
+          "name": "Peshkov D.",
+          "country": "Bulgarien",
+          "bib": 74
+        },
+        {
+          "name": "Lee J.",
+          "country": "Sydkorea",
+          "bib": 75
+        },
+        {
+          "name": "Mocellini S.",
+          "country": "Italien",
+          "bib": 76
+        },
+        {
+          "name": "Saulitis N.",
+          "country": "Lettland",
+          "bib": 77
+        },
+        {
+          "name": "Selles Gasch B.",
+          "country": "Spanien",
+          "bib": 78
+        },
+        {
+          "name": "Jada S.",
+          "country": "",
+          "bib": 79
+        },
+        {
+          "name": "Eric S.",
+          "country": "Bosnien och Hercegovina",
+          "bib": 80
+        },
+        {
+          "name": "Frommelt R.",
+          "country": "Liechtenstein",
+          "bib": 81
+        },
+        {
+          "name": "Konya A.",
+          "country": "Ungern",
+          "bib": 82
+        },
+        {
+          "name": "Milosavljevic M.",
+          "country": "Serbien",
+          "bib": 83
+        },
+        {
+          "name": "Starega M.",
+          "country": "Polen",
+          "bib": 84
+        },
+        {
+          "name": "Grbovic A.",
+          "country": "Montenegro",
+          "bib": 85
+        },
+        {
+          "name": "Chanloung M.",
+          "country": "Thailand",
+          "bib": 86
+        },
+        {
+          "name": "Endrestad S.",
+          "country": "Chile",
+          "bib": 87
+        },
+        {
+          "name": "Strolia T.",
+          "country": "Litauen",
+          "bib": 88
+        },
+        {
+          "name": "Savart S.",
+          "country": "Haiti",
+          "bib": 89
+        },
+        {
+          "name": "Gronlund T. J.",
+          "country": "Bolivia",
+          "bib": 90
+        },
+        {
+          "name": "Angelis A.",
+          "country": "Grekland",
+          "bib": 91
+        },
+        {
+          "name": "Ikpefan S.",
+          "country": "Nigeria",
+          "bib": 92
+        },
+        {
+          "name": "Cenek T.",
+          "country": "Slovakien",
+          "bib": 93
+        },
+        {
+          "name": "Yilmaz A.",
+          "country": "Turkiet",
+          "bib": 94
+        },
+        {
+          "name": "Skender M.",
+          "country": "Kroatien",
+          "bib": 95
+        },
+        {
+          "name": "Buki A.",
+          "country": "Ungern",
+          "bib": 96
+        },
+        {
+          "name": "Sauma M. L.",
+          "country": "Argentina",
+          "bib": 97
+        },
+        {
+          "name": "Cabeca J.",
+          "country": "Portugal",
+          "bib": 98
+        },
+        {
+          "name": "Vaiciulis M.",
+          "country": "Litauen",
+          "bib": 99
+        },
+        {
+          "name": "Luchin I.",
+          "country": "Moldavien",
+          "bib": 100
+        },
+        {
+          "name": "Claveau-Laviolette N.",
+          "country": "Venezuela",
+          "bib": 101
+        },
+        {
+          "name": "Lee C-H.",
+          "country": "Taiwan",
+          "bib": 102
+        },
+        {
+          "name": "Silva M.",
+          "country": "Brasilien",
+          "bib": 103
+        },
+        {
+          "name": "Corona A.",
+          "country": "Mexiko",
+          "bib": 104
+        },
+        {
+          "name": "Saparbekov A.",
+          "country": "Kyrgyzstan",
+          "bib": 105
+        },
+        {
+          "name": "Jungbluth Rodriguez K.",
+          "country": "Ecuador",
+          "bib": 106
+        },
+        {
+          "name": "Smith M.",
+          "country": "Sydafrika",
+          "bib": 107
+        },
+        {
+          "name": "Kemmissa A.",
+          "country": "Marocko",
+          "bib": 108
+        },
+        {
+          "name": "Savehshemshaki D.",
+          "country": "Iran",
+          "bib": 109
+        },
+        {
+          "name": "Alireza R.",
+          "country": "Saudiarabien",
+          "bib": 110
+        },
+        {
+          "name": "Lundup S.",
+          "country": "Indien",
+          "bib": 111
+        },
+        {
+          "name": "Kertesz A. M.",
+          "country": "Israel",
+          "bib": 112
+        },
+        {
+          "name": "Tawk S.",
+          "country": "Libanon",
+          "bib": 113
+        }
+      ]
+    },
+    {
+      "type": "startlist",
+      "sport": "Längdskidor",
+      "event": "Masstart klassisk herrar",
+      "total": 30,
+      "swe_athletes": [
+        {
+          "name": "Poromaa W.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Anger E.",
+          "country": "Sverige"
+        }
+      ],
+      "athletes": [
+        {
+          "name": "Niskanen I.",
+          "country": "Finland",
+          "bib": 16
+        },
+        {
+          "name": "Bourdin R.",
+          "country": "Frankrike",
+          "bib": 30
+        },
+        {
+          "name": "Maloney Westgaard T.",
+          "country": "Irland",
+          "bib": 29
+        },
+        {
+          "name": "Schoonmaker J. C.",
+          "country": "USA",
+          "bib": 28
+        },
+        {
+          "name": "Grond V.",
+          "country": "Schweiz",
+          "bib": 27
+        },
+        {
+          "name": "Jouve R.",
+          "country": "Frankrike",
+          "bib": 26
+        },
+        {
+          "name": "Chappaz J.",
+          "country": "Frankrike",
+          "bib": 25
+        },
+        {
+          "name": "Novak M.",
+          "country": "Tjeckien",
+          "bib": 24
+        },
+        {
+          "name": "Ruuskanen A.",
+          "country": "Finland",
+          "bib": 23
+        },
+        {
+          "name": "Jenssen J. T.",
+          "country": "Norge",
+          "bib": 22
+        },
+        {
+          "name": "Musgrave A.",
+          "country": "Storbritannien",
+          "bib": 21
+        },
+        {
+          "name": "Northug E.",
+          "country": "Norge",
+          "bib": 20
+        },
+        {
+          "name": "Vuorinen L.",
+          "country": "Finland",
+          "bib": 19
+        },
+        {
+          "name": "Chanavat L.",
+          "country": "Frankrike",
+          "bib": 18
+        },
+        {
+          "name": "Andersen I.",
+          "country": "Norge",
+          "bib": 17
+        },
+        {
+          "name": "Klaebo J. H.",
+          "country": "Norge",
+          "bib": 1
+        },
+        {
+          "name": "Poromaa W.",
+          "country": "Sverige",
+          "bib": 15
+        },
+        {
+          "name": "Schumacher G.",
+          "country": "USA",
+          "bib": 14
+        },
+        {
+          "name": "Desloges M.",
+          "country": "Frankrike",
+          "bib": 13
+        },
+        {
+          "name": "Moch F.",
+          "country": "Tyskland",
+          "bib": 12
+        },
+        {
+          "name": "Vermeulen M.",
+          "country": "Österrike",
+          "bib": 11
+        },
+        {
+          "name": "Ogden B.",
+          "country": "USA",
+          "bib": 10
+        },
+        {
+          "name": "Nyenget M. L.",
+          "country": "Norge",
+          "bib": 9
+        },
+        {
+          "name": "Ree A. F.",
+          "country": "Norge",
+          "bib": 8
+        },
+        {
+          "name": "Lapalus H.",
+          "country": "Frankrike",
+          "bib": 7
+        },
+        {
+          "name": "Krueger S. H.",
+          "country": "Norge",
+          "bib": 6
+        },
+        {
+          "name": "Amundsen H. O.",
+          "country": "Norge",
+          "bib": 5
+        },
+        {
+          "name": "Pellegrino F.",
+          "country": "Italien",
+          "bib": 4
+        },
+        {
+          "name": "Valnes E.",
+          "country": "Norge",
+          "bib": 3
+        },
+        {
+          "name": "Anger E.",
+          "country": "Sverige",
+          "bib": 2
+        }
+      ]
+    },
+    {
+      "type": "startlist",
+      "sport": "Längdskidor",
+      "event": "Masstart klassisk damer",
+      "total": 30,
+      "swe_athletes": [
+        {
+          "name": "Sundling J.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Svahn L.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Ribom E.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Dahlqvist M.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Ilar M.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Andersson E.",
+          "country": "Sverige"
+        }
+      ],
+      "athletes": [
+        {
+          "name": "Sundling J.",
+          "country": "Sverige",
+          "bib": 16
+        },
+        {
+          "name": "Stewart-Jones K.",
+          "country": "Kanada",
+          "bib": 30
+        },
+        {
+          "name": "Svahn L.",
+          "country": "Sverige",
+          "bib": 29
+        },
+        {
+          "name": "Laukli S.",
+          "country": "USA",
+          "bib": 28
+        },
+        {
+          "name": "Rydzek C.",
+          "country": "Tyskland",
+          "bib": 27
+        },
+        {
+          "name": "Dolci F.",
+          "country": "Frankrike",
+          "bib": 26
+        },
+        {
+          "name": "Ribom E.",
+          "country": "Sverige",
+          "bib": 25
+        },
+        {
+          "name": "Ganz C.",
+          "country": "Italien",
+          "bib": 24
+        },
+        {
+          "name": "Theodorsen S.",
+          "country": "Norge",
+          "bib": 23
+        },
+        {
+          "name": "Weber A.",
+          "country": "Schweiz",
+          "bib": 22
+        },
+        {
+          "name": "Weng L. U.",
+          "country": "Norge",
+          "bib": 21
+        },
+        {
+          "name": "Gimmler L.",
+          "country": "Tyskland",
+          "bib": 20
+        },
+        {
+          "name": "Dahlqvist M.",
+          "country": "Sverige",
+          "bib": 19
+        },
+        {
+          "name": "Kern J.",
+          "country": "USA",
+          "bib": 18
+        },
+        {
+          "name": "Hennig Dotzler K.",
+          "country": "Tyskland",
+          "bib": 17
+        },
+        {
+          "name": "Diggins J.",
+          "country": "USA",
+          "bib": 1
+        },
+        {
+          "name": "Parmakoski K.",
+          "country": "Finland",
+          "bib": 15
+        },
+        {
+          "name": "Fink P.",
+          "country": "Tyskland",
+          "bib": 14
+        },
+        {
+          "name": "Sanness N.",
+          "country": "Norge",
+          "bib": 13
+        },
+        {
+          "name": "Fosnaes K. A.",
+          "country": "Norge",
+          "bib": 12
+        },
+        {
+          "name": "Ilar M.",
+          "country": "Sverige",
+          "bib": 11
+        },
+        {
+          "name": "Faehndrich N.",
+          "country": "Schweiz",
+          "bib": 10
+        },
+        {
+          "name": "Stadlober T.",
+          "country": "Österrike",
+          "bib": 9
+        },
+        {
+          "name": "Joensuu J.",
+          "country": "Finland",
+          "bib": 8
+        },
+        {
+          "name": "Weng H.",
+          "country": "Norge",
+          "bib": 7
+        },
+        {
+          "name": "Andersson E.",
+          "country": "Sverige",
+          "bib": 6
+        },
+        {
+          "name": "Janatova K.",
+          "country": "Tjeckien",
+          "bib": 5
+        },
+        {
+          "name": "Slind A.",
+          "country": "Norge",
+          "bib": 4
+        },
+        {
+          "name": "Niskanen K.",
+          "country": "Finland",
+          "bib": 3
+        },
+        {
+          "name": "Carl V.",
+          "country": "Tyskland",
+          "bib": 2
+        }
+      ]
+    },
+    {
+      "type": "startlist",
+      "sport": "Längdskidor",
+      "event": "Stafett herrar",
+      "total": 10,
+      "swe_athletes": [
+        {
+          "name": "Sverige",
+          "country": "Sverige"
+        }
+      ],
+      "athletes": [
+        {
+          "name": "Norge",
+          "country": "Norge",
+          "bib": 1
+        },
+        {
+          "name": "Schweiz",
+          "country": "Schweiz",
+          "bib": 2
+        },
+        {
+          "name": "Sverige",
+          "country": "Sverige",
+          "bib": 3
+        },
+        {
+          "name": "Frankrike",
+          "country": "Frankrike",
+          "bib": 4
+        },
+        {
+          "name": "Kanada",
+          "country": "Kanada",
+          "bib": 5
+        },
+        {
+          "name": "Italien",
+          "country": "Italien",
+          "bib": 6
+        },
+        {
+          "name": "USA",
+          "country": "USA",
+          "bib": 7
+        },
+        {
+          "name": "Tyskland",
+          "country": "Tyskland",
+          "bib": 8
+        },
+        {
+          "name": "United Kingdom",
+          "country": "Storbritannien",
+          "bib": 9
+        },
+        {
+          "name": "Finland",
+          "country": "Finland",
+          "bib": 10
+        }
+      ]
+    },
+    {
+      "type": "startlist",
+      "sport": "Längdskidor",
+      "event": "Stafett damer",
+      "total": 10,
+      "swe_athletes": [
+        {
+          "name": "Sverige D",
+          "country": "Sverige"
+        }
+      ],
+      "athletes": [
+        {
+          "name": "Sverige D",
+          "country": "Sverige",
+          "bib": 1
+        },
+        {
+          "name": "Norge D",
+          "country": "Norge",
+          "bib": 2
+        },
+        {
+          "name": "Tyskland D",
+          "country": "Tyskland",
+          "bib": 3
+        },
+        {
+          "name": "Finland D",
+          "country": "Finland",
+          "bib": 4
+        },
+        {
+          "name": "Schweiz D",
+          "country": "Schweiz",
+          "bib": 5
+        },
+        {
+          "name": "USA D",
+          "country": "USA",
+          "bib": 6
+        },
+        {
+          "name": "Italien D",
+          "country": "Italien",
+          "bib": 7
+        },
+        {
+          "name": "Tjeckien D",
+          "country": "Tjeckien",
+          "bib": 8
+        },
+        {
+          "name": "Kanada D",
+          "country": "Kanada",
+          "bib": 9
+        },
+        {
+          "name": "Japan D",
+          "country": "Japan",
+          "bib": 10
+        }
+      ]
+    },
+    {
+      "type": "startlist",
+      "sport": "Skidskytte",
+      "event": "Sprint herrar",
+      "total": 90,
+      "swe_athletes": [
+        {
+          "name": "Nelin J.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Stefansson M.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Ponsiluoma M.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Samuelsson S.",
+          "country": "Sverige"
+        }
+      ],
+      "athletes": [
+        {
+          "name": "Hartweg N.",
+          "country": "Schweiz",
+          "bib": 41
+        },
+        {
+          "name": "Karlik M.",
+          "country": "Tjeckien",
+          "bib": 68
+        },
+        {
+          "name": "Birkentals R.",
+          "country": "Lettland",
+          "bib": 67
+        },
+        {
+          "name": "Jakob P.",
+          "country": "Österrike",
+          "bib": 66
+        },
+        {
+          "name": "Invenius O.",
+          "country": "Finland",
+          "bib": 65
+        },
+        {
+          "name": "Dale J.",
+          "country": "Norge",
+          "bib": 64
+        },
+        {
+          "name": "Buta G.",
+          "country": "Rumänien",
+          "bib": 63
+        },
+        {
+          "name": "Connelly Z.",
+          "country": "Kanada",
+          "bib": 61
+        },
+        {
+          "name": "Vasilev K.",
+          "country": "Bulgarien",
+          "bib": 57
+        },
+        {
+          "name": "Romanin N.",
+          "country": "Italien",
+          "bib": 53
+        },
+        {
+          "name": "Magazeev P.",
+          "country": "Moldavien",
+          "bib": 45
+        },
+        {
+          "name": "Crnkovic K.",
+          "country": "Kroatien",
+          "bib": 43
+        },
+        {
+          "name": "Kehva M.",
+          "country": "Estland",
+          "bib": 69
+        },
+        {
+          "name": "Dudchenko A.",
+          "country": "Ukraina",
+          "bib": 39
+        },
+        {
+          "name": "Planko L.",
+          "country": "Slovenien",
+          "bib": 37
+        },
+        {
+          "name": "Galica G.",
+          "country": "Polen",
+          "bib": 35
+        },
+        {
+          "name": "Seppala T.",
+          "country": "Finland",
+          "bib": 34
+        },
+        {
+          "name": "Fak J.",
+          "country": "Slovenien",
+          "bib": 33
+        },
+        {
+          "name": "Schommer P.",
+          "country": "USA",
+          "bib": 31
+        },
+        {
+          "name": "Slettemark S.",
+          "country": "Grönland",
+          "bib": 29
+        },
+        {
+          "name": "Stalder S.",
+          "country": "Schweiz",
+          "bib": 27
+        },
+        {
+          "name": "Badacz K.",
+          "country": "Polen",
+          "bib": 25
+        },
+        {
+          "name": "Strolia V.",
+          "country": "Litauen",
+          "bib": 24
+        },
+        {
+          "name": "Doherty S.",
+          "country": "USA",
+          "bib": 80
+        },
+        {
+          "name": "Choi Du-Jin",
+          "country": "Sydkorea",
+          "bib": 90
+        },
+        {
+          "name": "Cigak N.",
+          "country": "Litauen",
+          "bib": 89
+        },
+        {
+          "name": "Pletz L.",
+          "country": "Kanada",
+          "bib": 88
+        },
+        {
+          "name": "Flore R. A.",
+          "country": "Rumänien",
+          "bib": 87
+        },
+        {
+          "name": "Fleming J.",
+          "country": "Kanada",
+          "bib": 86
+        },
+        {
+          "name": "Lozbers R.",
+          "country": "Lettland",
+          "bib": 85
+        },
+        {
+          "name": "Muellauer F.",
+          "country": "Österrike",
+          "bib": 84
+        },
+        {
+          "name": "Borkovskyi B.",
+          "country": "Ukraina",
+          "bib": 83
+        },
+        {
+          "name": "Zawol M.",
+          "country": "Polen",
+          "bib": 82
+        },
+        {
+          "name": "Siimer K.",
+          "country": "Estland",
+          "bib": 81
+        },
+        {
+          "name": "Yan X.",
+          "country": "Kina",
+          "bib": 23
+        },
+        {
+          "name": "Dovzan M.",
+          "country": "Slovenien",
+          "bib": 79
+        },
+        {
+          "name": "Finello J.",
+          "country": "Schweiz",
+          "bib": 78
+        },
+        {
+          "name": "Runnalls A.",
+          "country": "Kanada",
+          "bib": 77
+        },
+        {
+          "name": "Shamaev D.",
+          "country": "Rumänien",
+          "bib": 76
+        },
+        {
+          "name": "Sinapov A.",
+          "country": "Bulgarien",
+          "bib": 75
+        },
+        {
+          "name": "Harjula T.",
+          "country": "Finland",
+          "bib": 74
+        },
+        {
+          "name": "Zahkna R.",
+          "country": "Estland",
+          "bib": 73
+        },
+        {
+          "name": "Kireyev V.",
+          "country": "Kazakstan",
+          "bib": 72
+        },
+        {
+          "name": "Borgula J.",
+          "country": "Slovakien",
+          "bib": 71
+        },
+        {
+          "name": "Dombrovski K.",
+          "country": "Litauen",
+          "bib": 70
+        },
+        {
+          "name": "Strelow J.",
+          "country": "Tyskland",
+          "bib": 30
+        },
+        {
+          "name": "Mandzyn V.",
+          "country": "Ukraina",
+          "bib": 16
+        },
+        {
+          "name": "Iliev V.",
+          "country": "Bulgarien",
+          "bib": 55
+        },
+        {
+          "name": "Hornig V.",
+          "country": "Tjeckien",
+          "bib": 38
+        },
+        {
+          "name": "Hofer L.",
+          "country": "Italien",
+          "bib": 46
+        },
+        {
+          "name": "Gunka J.",
+          "country": "Polen",
+          "bib": 47
+        },
+        {
+          "name": "Rastorgujevs A.",
+          "country": "Lettland",
+          "bib": 51
+        },
+        {
+          "name": "Nelin J.",
+          "country": "Sverige",
+          "bib": 28
+        },
+        {
+          "name": "Jacquelin E.",
+          "country": "Frankrike",
+          "bib": 42
+        },
+        {
+          "name": "Germain M.",
+          "country": "USA",
+          "bib": 59
+        },
+        {
+          "name": "Stefansson M.",
+          "country": "Sverige",
+          "bib": 11
+        },
+        {
+          "name": "Eder S.",
+          "country": "Österrike",
+          "bib": 18
+        },
+        {
+          "name": "Burkhalter J.",
+          "country": "Schweiz",
+          "bib": 22
+        },
+        {
+          "name": "Ponsiluoma M.",
+          "country": "Sverige",
+          "bib": 50
+        },
+        {
+          "name": "Wright C.",
+          "country": "USA",
+          "bib": 54
+        },
+        {
+          "name": "Horn P.",
+          "country": "Tyskland",
+          "bib": 36
+        },
+        {
+          "name": "Nawrath P.",
+          "country": "Tyskland",
+          "bib": 52
+        },
+        {
+          "name": "Christiansen V. S.",
+          "country": "Norge",
+          "bib": 60
+        },
+        {
+          "name": "Perrot E.",
+          "country": "Frankrike",
+          "bib": 48
+        },
+        {
+          "name": "Giacomel T.",
+          "country": "Italien",
+          "bib": 62
+        },
+        {
+          "name": "Laegreid S. H.",
+          "country": "Norge",
+          "bib": 56
+        },
+        {
+          "name": "Fillon Maillet Q.",
+          "country": "Frankrike",
+          "bib": 40
+        },
+        {
+          "name": "Samuelsson S.",
+          "country": "Sverige",
+          "bib": 44
+        },
+        {
+          "name": "Langer T.",
+          "country": "Belgien",
+          "bib": 8
+        },
+        {
+          "name": "Pidruchnyi D.",
+          "country": "Ukraina",
+          "bib": 21
+        },
+        {
+          "name": "Zobel D.",
+          "country": "Tyskland",
+          "bib": 20
+        },
+        {
+          "name": "Legovic M.",
+          "country": "Kroatien",
+          "bib": 19
+        },
+        {
+          "name": "Vidmar A.",
+          "country": "Slovenien",
+          "bib": 17
+        },
+        {
+          "name": "Hiidensalo O.",
+          "country": "Finland",
+          "bib": 15
+        },
+        {
+          "name": "Jefferies J.",
+          "country": "Storbritannien",
+          "bib": 14
+        },
+        {
+          "name": "Coltea G. M.",
+          "country": "Rumänien",
+          "bib": 13
+        },
+        {
+          "name": "Dyussenov A.",
+          "country": "Kazakstan",
+          "bib": 12
+        },
+        {
+          "name": "Todev B.",
+          "country": "Bulgarien",
+          "bib": 10
+        },
+        {
+          "name": "Makarov M.",
+          "country": "Moldavien",
+          "bib": 9
+        },
+        {
+          "name": "Botn J.",
+          "country": "Norge",
+          "bib": 58
+        },
+        {
+          "name": "Unterweger D.",
+          "country": "Österrike",
+          "bib": 7
+        },
+        {
+          "name": "Zeni E.",
+          "country": "Italien",
+          "bib": 6
+        },
+        {
+          "name": "Fomin M.",
+          "country": "Litauen",
+          "bib": 5
+        },
+        {
+          "name": "Mikyska T.",
+          "country": "Tjeckien",
+          "bib": 4
+        },
+        {
+          "name": "Mise E.",
+          "country": "Lettland",
+          "bib": 3
+        },
+        {
+          "name": "Kulbin J.",
+          "country": "Estland",
+          "bib": 2
+        },
+        {
+          "name": "Adamov S.",
+          "country": "Slovakien",
+          "bib": 1
+        },
+        {
+          "name": "Krcmar M.",
+          "country": "Tjeckien",
+          "bib": 26
+        },
+        {
+          "name": "Claude Fl.",
+          "country": "Belgien",
+          "bib": 49
+        },
+        {
+          "name": "Claude Fa.",
+          "country": "Frankrike",
+          "bib": 32
+        }
+      ]
+    },
+    {
+      "type": "startlist",
+      "sport": "Skidskytte",
+      "event": "Sprint damer",
+      "total": 30,
+      "swe_athletes": [
+        {
+          "name": "Andersson S.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Halvarsson E.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Öberg H.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Öberg E.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Magnusson A.",
+          "country": "Sverige"
+        }
+      ],
+      "athletes": [
+        {
+          "name": "Baserga A.",
+          "country": "Schweiz",
+          "bib": 16
+        },
+        {
+          "name": "Tandrevold I. L.",
+          "country": "Norge",
+          "bib": 30
+        },
+        {
+          "name": "Volfa E.",
+          "country": "Lettland",
+          "bib": 29
+        },
+        {
+          "name": "Andersson S.",
+          "country": "Sverige",
+          "bib": 28
+        },
+        {
+          "name": "Voigt V.",
+          "country": "Tyskland",
+          "bib": 27
+        },
+        {
+          "name": "Vobornikova T.",
+          "country": "Tjeckien",
+          "bib": 26
+        },
+        {
+          "name": "Gandler A.",
+          "country": "Österrike",
+          "bib": 25
+        },
+        {
+          "name": "Cloetens M.",
+          "country": "Belgien",
+          "bib": 24
+        },
+        {
+          "name": "Johansen M.",
+          "country": "Norge",
+          "bib": 23
+        },
+        {
+          "name": "Hettich-Walz J.",
+          "country": "Tyskland",
+          "bib": 22
+        },
+        {
+          "name": "Tannheimer J.",
+          "country": "Tyskland",
+          "bib": 21
+        },
+        {
+          "name": "Hamalainen I.",
+          "country": "Finland",
+          "bib": 20
+        },
+        {
+          "name": "Richard J.",
+          "country": "Frankrike",
+          "bib": 19
+        },
+        {
+          "name": "Knotten K.",
+          "country": "Norge",
+          "bib": 18
+        },
+        {
+          "name": "Jakiela J.",
+          "country": "Polen",
+          "bib": 17
+        },
+        {
+          "name": "Minkkinen S.",
+          "country": "Finland",
+          "bib": 1
+        },
+        {
+          "name": "Charvatova L.",
+          "country": "Tjeckien",
+          "bib": 15
+        },
+        {
+          "name": "Leinamo S.",
+          "country": "Finland",
+          "bib": 14
+        },
+        {
+          "name": "Lie L.",
+          "country": "Belgien",
+          "bib": 13
+        },
+        {
+          "name": "Halvarsson E.",
+          "country": "Sverige",
+          "bib": 12
+        },
+        {
+          "name": "Öberg H.",
+          "country": "Sverige",
+          "bib": 11
+        },
+        {
+          "name": "Vittozzi L.",
+          "country": "Italien",
+          "bib": 10
+        },
+        {
+          "name": "Jeanmonnot L.",
+          "country": "Frankrike",
+          "bib": 9
+        },
+        {
+          "name": "Öberg E.",
+          "country": "Sverige",
+          "bib": 8
+        },
+        {
+          "name": "Michelon O.",
+          "country": "Frankrike",
+          "bib": 7
+        },
+        {
+          "name": "Kirkeeide M.",
+          "country": "Norge",
+          "bib": 6
+        },
+        {
+          "name": "Wierer D.",
+          "country": "Italien",
+          "bib": 5
+        },
+        {
+          "name": "Hauser L. T.",
+          "country": "Österrike",
+          "bib": 4
+        },
+        {
+          "name": "Bened C.",
+          "country": "Frankrike",
+          "bib": 3
+        },
+        {
+          "name": "Magnusson A.",
+          "country": "Sverige",
+          "bib": 2
+        }
+      ]
+    },
+    {
+      "type": "startlist",
+      "sport": "Skidskytte",
+      "event": "Jaktstart herrar",
+      "total": 30,
+      "swe_athletes": [
+        {
+          "name": "Stefansson M.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Brandt V.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Nelin J.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Ponsiluoma M.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Samuelsson S.",
+          "country": "Sverige"
+        }
+      ],
+      "athletes": [
+        {
+          "name": "Stefansson M.",
+          "country": "Sverige",
+          "bib": 16
+        },
+        {
+          "name": "Krcmar M.",
+          "country": "Tjeckien",
+          "bib": 30
+        },
+        {
+          "name": "Claude Fl.",
+          "country": "Belgien",
+          "bib": 29
+        },
+        {
+          "name": "Claude Fa.",
+          "country": "Frankrike",
+          "bib": 28
+        },
+        {
+          "name": "Burkhalter J.",
+          "country": "Schweiz",
+          "bib": 27
+        },
+        {
+          "name": "Mandzyn V.",
+          "country": "Ukraina",
+          "bib": 26
+        },
+        {
+          "name": "Iliev V.",
+          "country": "Bulgarien",
+          "bib": 25
+        },
+        {
+          "name": "Hornig V.",
+          "country": "Tjeckien",
+          "bib": 24
+        },
+        {
+          "name": "Hofer L.",
+          "country": "Italien",
+          "bib": 23
+        },
+        {
+          "name": "Gunka J.",
+          "country": "Polen",
+          "bib": 22
+        },
+        {
+          "name": "Brandt V.",
+          "country": "Sverige",
+          "bib": 21
+        },
+        {
+          "name": "Rastorgujevs A.",
+          "country": "Lettland",
+          "bib": 20
+        },
+        {
+          "name": "Nelin J.",
+          "country": "Sverige",
+          "bib": 19
+        },
+        {
+          "name": "Jacquelin E.",
+          "country": "Frankrike",
+          "bib": 18
+        },
+        {
+          "name": "Germain M.",
+          "country": "USA",
+          "bib": 17
+        },
+        {
+          "name": "Botn J.",
+          "country": "Norge",
+          "bib": 1
+        },
+        {
+          "name": "Eder S.",
+          "country": "Österrike",
+          "bib": 15
+        },
+        {
+          "name": "Frey I.",
+          "country": "Norge",
+          "bib": 14
+        },
+        {
+          "name": "Strelow J.",
+          "country": "Tyskland",
+          "bib": 13
+        },
+        {
+          "name": "Ponsiluoma M.",
+          "country": "Sverige",
+          "bib": 12
+        },
+        {
+          "name": "Wright C.",
+          "country": "USA",
+          "bib": 11
+        },
+        {
+          "name": "Horn P.",
+          "country": "Tyskland",
+          "bib": 10
+        },
+        {
+          "name": "Nawrath P.",
+          "country": "Tyskland",
+          "bib": 9
+        },
+        {
+          "name": "Christiansen V. S.",
+          "country": "Norge",
+          "bib": 8
+        },
+        {
+          "name": "Perrot E.",
+          "country": "Frankrike",
+          "bib": 7
+        },
+        {
+          "name": "Giacomel T.",
+          "country": "Italien",
+          "bib": 6
+        },
+        {
+          "name": "Laegreid S. H.",
+          "country": "Norge",
+          "bib": 5
+        },
+        {
+          "name": "Uldal M.",
+          "country": "Norge",
+          "bib": 4
+        },
+        {
+          "name": "Fillon Maillet Q.",
+          "country": "Frankrike",
+          "bib": 3
+        },
+        {
+          "name": "Samuelsson S.",
+          "country": "Sverige",
+          "bib": 2
+        }
+      ]
+    },
+    {
+      "type": "startlist",
+      "sport": "Skidskytte",
+      "event": "Jaktstart damer",
+      "total": 30,
+      "swe_athletes": [
+        {
+          "name": "Andersson S.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Halvarsson E.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Öberg H.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Öberg E.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Magnusson A.",
+          "country": "Sverige"
+        }
+      ],
+      "athletes": [
+        {
+          "name": "Baserga A.",
+          "country": "Schweiz",
+          "bib": 16
+        },
+        {
+          "name": "Tandrevold I. L.",
+          "country": "Norge",
+          "bib": 30
+        },
+        {
+          "name": "Volfa E.",
+          "country": "Lettland",
+          "bib": 29
+        },
+        {
+          "name": "Andersson S.",
+          "country": "Sverige",
+          "bib": 28
+        },
+        {
+          "name": "Voigt V.",
+          "country": "Tyskland",
+          "bib": 27
+        },
+        {
+          "name": "Vobornikova T.",
+          "country": "Tjeckien",
+          "bib": 26
+        },
+        {
+          "name": "Gandler A.",
+          "country": "Österrike",
+          "bib": 25
+        },
+        {
+          "name": "Cloetens M.",
+          "country": "Belgien",
+          "bib": 24
+        },
+        {
+          "name": "Johansen M.",
+          "country": "Norge",
+          "bib": 23
+        },
+        {
+          "name": "Hettich-Walz J.",
+          "country": "Tyskland",
+          "bib": 22
+        },
+        {
+          "name": "Tannheimer J.",
+          "country": "Tyskland",
+          "bib": 21
+        },
+        {
+          "name": "Hamalainen I.",
+          "country": "Finland",
+          "bib": 20
+        },
+        {
+          "name": "Richard J.",
+          "country": "Frankrike",
+          "bib": 19
+        },
+        {
+          "name": "Knotten K.",
+          "country": "Norge",
+          "bib": 18
+        },
+        {
+          "name": "Jakiela J.",
+          "country": "Polen",
+          "bib": 17
+        },
+        {
+          "name": "Minkkinen S.",
+          "country": "Finland",
+          "bib": 1
+        },
+        {
+          "name": "Charvatova L.",
+          "country": "Tjeckien",
+          "bib": 15
+        },
+        {
+          "name": "Leinamo S.",
+          "country": "Finland",
+          "bib": 14
+        },
+        {
+          "name": "Lie L.",
+          "country": "Belgien",
+          "bib": 13
+        },
+        {
+          "name": "Halvarsson E.",
+          "country": "Sverige",
+          "bib": 12
+        },
+        {
+          "name": "Öberg H.",
+          "country": "Sverige",
+          "bib": 11
+        },
+        {
+          "name": "Vittozzi L.",
+          "country": "Italien",
+          "bib": 10
+        },
+        {
+          "name": "Jeanmonnot L.",
+          "country": "Frankrike",
+          "bib": 9
+        },
+        {
+          "name": "Öberg E.",
+          "country": "Sverige",
+          "bib": 8
+        },
+        {
+          "name": "Michelon O.",
+          "country": "Frankrike",
+          "bib": 7
+        },
+        {
+          "name": "Kirkeeide M.",
+          "country": "Norge",
+          "bib": 6
+        },
+        {
+          "name": "Wierer D.",
+          "country": "Italien",
+          "bib": 5
+        },
+        {
+          "name": "Hauser L. T.",
+          "country": "Österrike",
+          "bib": 4
+        },
+        {
+          "name": "Bened C.",
+          "country": "Frankrike",
+          "bib": 3
+        },
+        {
+          "name": "Magnusson A.",
+          "country": "Sverige",
+          "bib": 2
+        }
+      ]
+    },
+    {
+      "type": "startlist",
+      "sport": "Skidskytte",
+      "event": "Masstart herrar",
+      "total": 30,
+      "swe_athletes": [
+        {
+          "name": "Stefansson M.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Brandt V.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Nelin J.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Ponsiluoma M.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Samuelsson S.",
+          "country": "Sverige"
+        }
+      ],
+      "athletes": [
+        {
+          "name": "Stefansson M.",
+          "country": "Sverige",
+          "bib": 16
+        },
+        {
+          "name": "Krcmar M.",
+          "country": "Tjeckien",
+          "bib": 30
+        },
+        {
+          "name": "Claude Fl.",
+          "country": "Belgien",
+          "bib": 29
+        },
+        {
+          "name": "Claude Fa.",
+          "country": "Frankrike",
+          "bib": 28
+        },
+        {
+          "name": "Burkhalter J.",
+          "country": "Schweiz",
+          "bib": 27
+        },
+        {
+          "name": "Mandzyn V.",
+          "country": "Ukraina",
+          "bib": 26
+        },
+        {
+          "name": "Iliev V.",
+          "country": "Bulgarien",
+          "bib": 25
+        },
+        {
+          "name": "Hornig V.",
+          "country": "Tjeckien",
+          "bib": 24
+        },
+        {
+          "name": "Hofer L.",
+          "country": "Italien",
+          "bib": 23
+        },
+        {
+          "name": "Gunka J.",
+          "country": "Polen",
+          "bib": 22
+        },
+        {
+          "name": "Brandt V.",
+          "country": "Sverige",
+          "bib": 21
+        },
+        {
+          "name": "Rastorgujevs A.",
+          "country": "Lettland",
+          "bib": 20
+        },
+        {
+          "name": "Nelin J.",
+          "country": "Sverige",
+          "bib": 19
+        },
+        {
+          "name": "Jacquelin E.",
+          "country": "Frankrike",
+          "bib": 18
+        },
+        {
+          "name": "Germain M.",
+          "country": "USA",
+          "bib": 17
+        },
+        {
+          "name": "Botn J.",
+          "country": "Norge",
+          "bib": 1
+        },
+        {
+          "name": "Eder S.",
+          "country": "Österrike",
+          "bib": 15
+        },
+        {
+          "name": "Frey I.",
+          "country": "Norge",
+          "bib": 14
+        },
+        {
+          "name": "Strelow J.",
+          "country": "Tyskland",
+          "bib": 13
+        },
+        {
+          "name": "Ponsiluoma M.",
+          "country": "Sverige",
+          "bib": 12
+        },
+        {
+          "name": "Wright C.",
+          "country": "USA",
+          "bib": 11
+        },
+        {
+          "name": "Horn P.",
+          "country": "Tyskland",
+          "bib": 10
+        },
+        {
+          "name": "Nawrath P.",
+          "country": "Tyskland",
+          "bib": 9
+        },
+        {
+          "name": "Christiansen V. S.",
+          "country": "Norge",
+          "bib": 8
+        },
+        {
+          "name": "Perrot E.",
+          "country": "Frankrike",
+          "bib": 7
+        },
+        {
+          "name": "Giacomel T.",
+          "country": "Italien",
+          "bib": 6
+        },
+        {
+          "name": "Laegreid S. H.",
+          "country": "Norge",
+          "bib": 5
+        },
+        {
+          "name": "Uldal M.",
+          "country": "Norge",
+          "bib": 4
+        },
+        {
+          "name": "Fillon Maillet Q.",
+          "country": "Frankrike",
+          "bib": 3
+        },
+        {
+          "name": "Samuelsson S.",
+          "country": "Sverige",
+          "bib": 2
+        }
+      ]
+    },
+    {
+      "type": "startlist",
+      "sport": "Skidskytte",
+      "event": "Masstart damer",
+      "total": 30,
+      "swe_athletes": [
+        {
+          "name": "Andersson S.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Halvarsson E.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Öberg H.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Öberg E.",
+          "country": "Sverige"
+        },
+        {
+          "name": "Magnusson A.",
+          "country": "Sverige"
+        }
+      ],
+      "athletes": [
+        {
+          "name": "Baserga A.",
+          "country": "Schweiz",
+          "bib": 16
+        },
+        {
+          "name": "Tandrevold I. L.",
+          "country": "Norge",
+          "bib": 30
+        },
+        {
+          "name": "Volfa E.",
+          "country": "Lettland",
+          "bib": 29
+        },
+        {
+          "name": "Andersson S.",
+          "country": "Sverige",
+          "bib": 28
+        },
+        {
+          "name": "Voigt V.",
+          "country": "Tyskland",
+          "bib": 27
+        },
+        {
+          "name": "Vobornikova T.",
+          "country": "Tjeckien",
+          "bib": 26
+        },
+        {
+          "name": "Gandler A.",
+          "country": "Österrike",
+          "bib": 25
+        },
+        {
+          "name": "Cloetens M.",
+          "country": "Belgien",
+          "bib": 24
+        },
+        {
+          "name": "Johansen M.",
+          "country": "Norge",
+          "bib": 23
+        },
+        {
+          "name": "Hettich-Walz J.",
+          "country": "Tyskland",
+          "bib": 22
+        },
+        {
+          "name": "Tannheimer J.",
+          "country": "Tyskland",
+          "bib": 21
+        },
+        {
+          "name": "Hamalainen I.",
+          "country": "Finland",
+          "bib": 20
+        },
+        {
+          "name": "Richard J.",
+          "country": "Frankrike",
+          "bib": 19
+        },
+        {
+          "name": "Knotten K.",
+          "country": "Norge",
+          "bib": 18
+        },
+        {
+          "name": "Jakiela J.",
+          "country": "Polen",
+          "bib": 17
+        },
+        {
+          "name": "Minkkinen S.",
+          "country": "Finland",
+          "bib": 1
+        },
+        {
+          "name": "Charvatova L.",
+          "country": "Tjeckien",
+          "bib": 15
+        },
+        {
+          "name": "Leinamo S.",
+          "country": "Finland",
+          "bib": 14
+        },
+        {
+          "name": "Lie L.",
+          "country": "Belgien",
+          "bib": 13
+        },
+        {
+          "name": "Halvarsson E.",
+          "country": "Sverige",
+          "bib": 12
+        },
+        {
+          "name": "Öberg H.",
+          "country": "Sverige",
+          "bib": 11
+        },
+        {
+          "name": "Vittozzi L.",
+          "country": "Italien",
+          "bib": 10
+        },
+        {
+          "name": "Jeanmonnot L.",
+          "country": "Frankrike",
+          "bib": 9
+        },
+        {
+          "name": "Öberg E.",
+          "country": "Sverige",
+          "bib": 8
+        },
+        {
+          "name": "Michelon O.",
+          "country": "Frankrike",
+          "bib": 7
+        },
+        {
+          "name": "Kirkeeide M.",
+          "country": "Norge",
+          "bib": 6
+        },
+        {
+          "name": "Wierer D.",
+          "country": "Italien",
+          "bib": 5
+        },
+        {
+          "name": "Hauser L. T.",
+          "country": "Österrike",
+          "bib": 4
+        },
+        {
+          "name": "Bened C.",
+          "country": "Frankrike",
+          "bib": 3
+        },
+        {
+          "name": "Magnusson A.",
+          "country": "Sverige",
+          "bib": 2
+        }
+      ]
+    },
+    {
+      "type": "startlist",
+      "sport": "Skidskytte",
+      "event": "Stafett herrar",
+      "total": 10,
+      "swe_athletes": [
+        {
+          "name": "Sverige",
+          "country": "Sverige"
+        }
+      ],
+      "athletes": [
+        {
+          "name": "Frankrike",
+          "country": "Frankrike",
+          "bib": 1
+        },
+        {
+          "name": "Norge",
+          "country": "Norge",
+          "bib": 2
+        },
+        {
+          "name": "Tyskland",
+          "country": "Tyskland",
+          "bib": 3
+        },
+        {
+          "name": "Sverige",
+          "country": "Sverige",
+          "bib": 4
+        },
+        {
+          "name": "Estland",
+          "country": "Estland",
+          "bib": 5
+        },
+        {
+          "name": "Tjeckien",
+          "country": "Tjeckien",
+          "bib": 6
+        },
+        {
+          "name": "Schweiz",
+          "country": "Schweiz",
+          "bib": 7
+        },
+        {
+          "name": "USA",
+          "country": "USA",
+          "bib": 8
+        },
+        {
+          "name": "Italien",
+          "country": "Italien",
+          "bib": 9
+        },
+        {
+          "name": "Finland",
+          "country": "Finland",
+          "bib": 10
+        }
+      ]
+    },
+    {
+      "type": "startlist",
+      "sport": "Skidskytte",
+      "event": "Stafett damer",
+      "total": 10,
+      "swe_athletes": [
+        {
+          "name": "Sverige D",
+          "country": "Sverige"
+        }
+      ],
+      "athletes": [
+        {
+          "name": "Norge D",
+          "country": "Norge",
+          "bib": 1
+        },
+        {
+          "name": "Italien D",
+          "country": "Italien",
+          "bib": 2
+        },
+        {
+          "name": "Sverige D",
+          "country": "Sverige",
+          "bib": 3
+        },
+        {
+          "name": "Frankrike D",
+          "country": "Frankrike",
+          "bib": 4
+        },
+        {
+          "name": "Tjeckien D",
+          "country": "Tjeckien",
+          "bib": 5
+        },
+        {
+          "name": "Tyskland D",
+          "country": "Tyskland",
+          "bib": 6
+        },
+        {
+          "name": "Österrike D",
+          "country": "Österrike",
+          "bib": 7
+        },
+        {
+          "name": "Finland D",
+          "country": "Finland",
+          "bib": 8
+        },
+        {
+          "name": "Schweiz D",
+          "country": "Schweiz",
+          "bib": 9
+        },
+        {
+          "name": "Slovakien D",
+          "country": "Slovakien",
+          "bib": 10
+        }
+      ]
+    },
+    {
+      "type": "startlist",
+      "sport": "Backhoppning",
+      "event": "Storbacke herrar",
+      "total": 50,
+      "swe_athletes": [],
+      "athletes": [
+        {
+          "name": "Kubacki D.",
+          "country": "Polen",
+          "bib": 39
+        },
+        {
+          "name": "Zyla P.",
+          "country": "Polen",
+          "bib": 27
+        },
+        {
+          "name": "Kytosaho N.",
+          "country": "Finland",
+          "bib": 28
+        },
+        {
+          "name": "Aigro A.",
+          "country": "Estland",
+          "bib": 29
+        },
+        {
+          "name": "Aalto A.",
+          "country": "Finland",
+          "bib": 30
+        },
+        {
+          "name": "Sato Y.",
+          "country": "Japan",
+          "bib": 31
+        },
+        {
+          "name": "Naito T.",
+          "country": "Japan",
+          "bib": 32
+        },
+        {
+          "name": "Hauswirth S.",
+          "country": "Schweiz",
+          "bib": 33
+        },
+        {
+          "name": "Kot M.",
+          "country": "Polen",
+          "bib": 34
+        },
+        {
+          "name": "Wellinger A.",
+          "country": "Tyskland",
+          "bib": 35
+        },
+        {
+          "name": "Wasek P.",
+          "country": "Polen",
+          "bib": 36
+        },
+        {
+          "name": "Oblak R.",
+          "country": "Slovenien",
+          "bib": 37
+        },
+        {
+          "name": "Kobayashi S.",
+          "country": "Japan",
+          "bib": 38
+        },
+        {
+          "name": "Ortner M.",
+          "country": "Österrike",
+          "bib": 26
+        },
+        {
+          "name": "Mizernykh I.",
+          "country": "Kazakstan",
+          "bib": 40
+        },
+        {
+          "name": "Oestvold B.",
+          "country": "Norge",
+          "bib": 41
+        },
+        {
+          "name": "Aigner C.",
+          "country": "Österrike",
+          "bib": 42
+        },
+        {
+          "name": "Vassilyev D.",
+          "country": "Kazakstan",
+          "bib": 43
+        },
+        {
+          "name": "Bickner K.",
+          "country": "USA",
+          "bib": 44
+        },
+        {
+          "name": "Koudelka R.",
+          "country": "Tjeckien",
+          "bib": 45
+        },
+        {
+          "name": "Ammann S.",
+          "country": "Schweiz",
+          "bib": 46
+        },
+        {
+          "name": "Pedersen R.",
+          "country": "Norge",
+          "bib": 47
+        },
+        {
+          "name": "Bresadola G.",
+          "country": "Italien",
+          "bib": 48
+        },
+        {
+          "name": "Langmo I.",
+          "country": "Norge",
+          "bib": 49
+        },
+        {
+          "name": "Insam A.",
+          "country": "Italien",
+          "bib": 50
+        },
+        {
+          "name": "Sundal K.",
+          "country": "Norge",
+          "bib": 14
+        },
+        {
+          "name": "Kobayashi R.",
+          "country": "Japan",
+          "bib": 2
+        },
+        {
+          "name": "Nikaido R.",
+          "country": "Japan",
+          "bib": 3
+        },
+        {
+          "name": "Raimund P.",
+          "country": "Tyskland",
+          "bib": 4
+        },
+        {
+          "name": "Lanisek A.",
+          "country": "Slovenien",
+          "bib": 5
+        },
+        {
+          "name": "Tschofenig D.",
+          "country": "Österrike",
+          "bib": 6
+        },
+        {
+          "name": "Hoffmann F.",
+          "country": "Tyskland",
+          "bib": 7
+        },
+        {
+          "name": "Hoerl J.",
+          "country": "Österrike",
+          "bib": 8
+        },
+        {
+          "name": "Embacher S.",
+          "country": "Österrike",
+          "bib": 9
+        },
+        {
+          "name": "Kraft S.",
+          "country": "Österrike",
+          "bib": 10
+        },
+        {
+          "name": "Tomasiak K.",
+          "country": "Polen",
+          "bib": 11
+        },
+        {
+          "name": "Zografski V.",
+          "country": "Bulgarien",
+          "bib": 12
+        },
+        {
+          "name": "Fettner M.",
+          "country": "Österrike",
+          "bib": 13
+        },
+        {
+          "name": "Prevc D.",
+          "country": "Slovenien",
+          "bib": 1
+        },
+        {
+          "name": "Foubert V.",
+          "country": "Frankrike",
+          "bib": 15
+        },
+        {
+          "name": "Nakamura N.",
+          "country": "Japan",
+          "bib": 16
+        },
+        {
+          "name": "Forfang J. A.",
+          "country": "Norge",
+          "bib": 17
+        },
+        {
+          "name": "Schuster J.",
+          "country": "Österrike",
+          "bib": 18
+        },
+        {
+          "name": "Zajc T.",
+          "country": "Slovenien",
+          "bib": 19
+        },
+        {
+          "name": "Lindvik M.",
+          "country": "Norge",
+          "bib": 20
+        },
+        {
+          "name": "Granerud H. E.",
+          "country": "Norge",
+          "bib": 21
+        },
+        {
+          "name": "Stoch K.",
+          "country": "Polen",
+          "bib": 22
+        },
+        {
+          "name": "Paschke P.",
+          "country": "Tyskland",
+          "bib": 23
+        },
+        {
+          "name": "Deschwanden G.",
+          "country": "Schweiz",
+          "bib": 24
+        },
+        {
+          "name": "Colby J.",
+          "country": "USA",
+          "bib": 25
+        }
+      ]
+    },
+    {
+      "type": "startlist",
+      "sport": "Backhoppning",
+      "event": "Storbacke damer",
+      "total": 50,
+      "swe_athletes": [
+        {
+          "name": "Westman F.",
+          "country": "Sverige"
+        }
+      ],
+      "athletes": [
+        {
+          "name": "Hollandt A.",
+          "country": "Tyskland",
+          "bib": 39
+        },
+        {
+          "name": "Komar K.",
+          "country": "Slovenien",
+          "bib": 27
+        },
+        {
+          "name": "Indrackova A.",
+          "country": "Tjeckien",
+          "bib": 28
+        },
+        {
+          "name": "Pagnier J.",
+          "country": "Frankrike",
+          "bib": 29
+        },
+        {
+          "name": "Jones P.",
+          "country": "USA",
+          "bib": 30
+        },
+        {
+          "name": "Ulrichova K.",
+          "country": "Tjeckien",
+          "bib": 31
+        },
+        {
+          "name": "Dong B.",
+          "country": "Kina",
+          "bib": 32
+        },
+        {
+          "name": "Sato Y.",
+          "country": "Japan",
+          "bib": 33
+        },
+        {
+          "name": "Johnson J.",
+          "country": "USA",
+          "bib": 34
+        },
+        {
+          "name": "Midtskogen I. S.",
+          "country": "Norge",
+          "bib": 35
+        },
+        {
+          "name": "Kovacic M.",
+          "country": "Slovenien",
+          "bib": 36
+        },
+        {
+          "name": "Hirvonen H.",
+          "country": "Finland",
+          "bib": 37
+        },
+        {
+          "name": "Maurer N.",
+          "country": "Kanada",
+          "bib": 38
+        },
+        {
+          "name": "Arnet S.",
+          "country": "Schweiz",
+          "bib": 26
+        },
+        {
+          "name": "Liu Q.",
+          "country": "Kina",
+          "bib": 40
+        },
+        {
+          "name": "Korhonen M.",
+          "country": "Finland",
+          "bib": 41
+        },
+        {
+          "name": "Toth D. V.",
+          "country": "Rumänien",
+          "bib": 42
+        },
+        {
+          "name": "Kykkaenen J.",
+          "country": "Finland",
+          "bib": 43
+        },
+        {
+          "name": "Jesenko J.",
+          "country": "Slovenien",
+          "bib": 44
+        },
+        {
+          "name": "Terbovsek T.",
+          "country": "Slovenien",
+          "bib": 45
+        },
+        {
+          "name": "Zanitzer M.",
+          "country": "Italien",
+          "bib": 46
+        },
+        {
+          "name": "Mattila S.",
+          "country": "Finland",
+          "bib": 47
+        },
+        {
+          "name": "Kapustikova K. M.",
+          "country": "Slovakien",
+          "bib": 48
+        },
+        {
+          "name": "Beltowska P.",
+          "country": "Polen",
+          "bib": 49
+        },
+        {
+          "name": "Wang L.",
+          "country": "Kina",
+          "bib": 50
+        },
+        {
+          "name": "Seto Y.",
+          "country": "Japan",
+          "bib": 14
+        },
+        {
+          "name": "Maruyama N.",
+          "country": "Japan",
+          "bib": 2
+        },
+        {
+          "name": "Eder L.",
+          "country": "Österrike",
+          "bib": 3
+        },
+        {
+          "name": "Stroem A. O.",
+          "country": "Norge",
+          "bib": 4
+        },
+        {
+          "name": "Freitag S.",
+          "country": "Tyskland",
+          "bib": 5
+        },
+        {
+          "name": "Strate A.",
+          "country": "Kanada",
+          "bib": 6
+        },
+        {
+          "name": "Reisch A.",
+          "country": "Tyskland",
+          "bib": 7
+        },
+        {
+          "name": "Schmid K.",
+          "country": "Tyskland",
+          "bib": 8
+        },
+        {
+          "name": "Takanashi S.",
+          "country": "Japan",
+          "bib": 9
+        },
+        {
+          "name": "Vodan N.",
+          "country": "Slovenien",
+          "bib": 10
+        },
+        {
+          "name": "Traaserud H. D.",
+          "country": "Norge",
+          "bib": 11
+        },
+        {
+          "name": "Zeng P.",
+          "country": "Kina",
+          "bib": 12
+        },
+        {
+          "name": "Muehlbacher J.",
+          "country": "Österrike",
+          "bib": 13
+        },
+        {
+          "name": "Prevc N.",
+          "country": "Slovenien",
+          "bib": 1
+        },
+        {
+          "name": "Ito Y.",
+          "country": "Japan",
+          "bib": 15
+        },
+        {
+          "name": "Kvandal E. M.",
+          "country": "Norge",
+          "bib": 16
+        },
+        {
+          "name": "Seyfarth J.",
+          "country": "Tyskland",
+          "bib": 17
+        },
+        {
+          "name": "Miyajima R.",
+          "country": "Japan",
+          "bib": 18
+        },
+        {
+          "name": "Rautionaho J.",
+          "country": "Finland",
+          "bib": 19
+        },
+        {
+          "name": "Opseth S.",
+          "country": "Norge",
+          "bib": 20
+        },
+        {
+          "name": "Westman F.",
+          "country": "Sverige",
+          "bib": 21
+        },
+        {
+          "name": "Sieff A.",
+          "country": "Italien",
+          "bib": 22
+        },
+        {
+          "name": "Twardosz A.",
+          "country": "Polen",
+          "bib": 23
+        },
+        {
+          "name": "Hansen G. W.",
+          "country": "Norge",
+          "bib": 24
+        },
+        {
+          "name": "Belshaw A.",
+          "country": "USA",
+          "bib": 25
+        }
+      ]
+    },
+    {
+      "type": "startlist",
+      "sport": "Backhoppning",
+      "event": "Storbacke lag",
+      "total": 16,
+      "swe_athletes": [],
+      "athletes": [
+        {
+          "name": "Österrike",
+          "country": "Österrike",
+          "bib": 1
+        },
+        {
+          "name": "Estland",
+          "country": "Estland",
+          "bib": 2
+        },
+        {
+          "name": "Finland",
+          "country": "Finland",
+          "bib": 3
+        },
+        {
+          "name": "Frankrike",
+          "country": "Frankrike",
+          "bib": 4
+        },
+        {
+          "name": "Tyskland",
+          "country": "Tyskland",
+          "bib": 5
+        },
+        {
+          "name": "Italien",
+          "country": "Italien",
+          "bib": 6
+        },
+        {
+          "name": "Japan",
+          "country": "Japan",
+          "bib": 7
+        },
+        {
+          "name": "Kazakstan",
+          "country": "Kazakstan",
+          "bib": 8
+        },
+        {
+          "name": "Norge",
+          "country": "Norge",
+          "bib": 9
+        },
+        {
+          "name": "Polen",
+          "country": "Polen",
+          "bib": 10
+        },
+        {
+          "name": "Rumänien",
+          "country": "Rumänien",
+          "bib": 11
+        },
+        {
+          "name": "Slovenien",
+          "country": "Slovenien",
+          "bib": 12
+        },
+        {
+          "name": "Schweiz",
+          "country": "Schweiz",
+          "bib": 13
+        },
+        {
+          "name": "Turkiet",
+          "country": "Turkiet",
+          "bib": 14
+        },
+        {
+          "name": "Ukraina",
+          "country": "Ukraina",
+          "bib": 15
+        },
+        {
+          "name": "USA",
+          "country": "USA",
+          "bib": 16
+        }
+      ]
     }
   ]
 }

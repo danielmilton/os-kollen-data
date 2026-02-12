@@ -313,5 +313,41 @@
     "gold_result": "1:06.28 OR",
     "silver_result": "1:06.78",
     "bronze_result": "1:07.34"
+  },
+  {
+    "event": "Alpine Skiing – Women's Super-G",
+    "gold_winner": "Federica Brignone (ITA)",
+    "silver_winner": "Romane Miradoli (FRA)",
+    "bronze_winner": "Cornelia Huetter (AUT)",
+    "gold_result": "1:23.41",
+    "silver_result": "1:23.82",
+    "bronze_result": "1:23.93"
+  },
+  {
+    "event": "Cross-Country Skiing – Women's 10km Individual",
+    "gold_winner": "Frida Karlsson (SWE)",
+    "silver_winner": "Ebba Andersson (SWE)",
+    "bronze_winner": "Jessie Diggins (USA)",
+    "gold_result": "22:49.2",
+    "silver_result": "23:35.8",
+    "bronze_result": "23:38.9"
+  },
+  {
+    "event": "Freestyle Skiing – Men's Moguls",
+    "gold_winner": "Cooper Woods (AUS)",
+    "silver_winner": "Mikael Kingsbury (CAN)",
+    "bronze_winner": "Ikuma Horishima (JPN)",
+    "gold_result": "83.71",
+    "silver_result": "83.71",
+    "bronze_result": "83.44"
+  },
+  {
+    "event": "Snowboarding – Men's Snowboard Cross",
+    "gold_winner": "Alessandro Hämmerle (AUT)",
+    "silver_winner": "Eliot Grondin (CAN)",
+    "bronze_winner": "Jakob Dusek (AUT)",
+    "gold_result": "",
+    "silver_result": "",
+    "bronze_result": ""
   }
 ]

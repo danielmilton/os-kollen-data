@@ -8,20 +8,28 @@
     "total": 13
   },
   {
+    "country_name": "Italy",
+    "country_code": "ITA",
+    "gold": 5,
+    "silver": 2,
+    "bronze": 7,
+    "total": 14
+  },
+  {
     "country_name": "United States",
     "country_code": "USA",
     "gold": 4,
     "silver": 6,
-    "bronze": 2,
-    "total": 12
+    "bronze": 3,
+    "total": 13
   },
   {
-    "country_name": "Italy",
-    "country_code": "ITA",
+    "country_name": "Sweden",
+    "country_code": "SWE",
     "gold": 4,
-    "silver": 2,
-    "bronze": 7,
-    "total": 13
+    "silver": 3,
+    "bronze": 1,
+    "total": 8
   },
   {
     "country_name": "Switzerland",
@@ -32,6 +40,22 @@
     "total": 7
   },
   {
+    "country_name": "Austria",
+    "country_code": "AUT",
+    "gold": 3,
+    "silver": 5,
+    "bronze": 3,
+    "total": 11
+  },
+  {
+    "country_name": "France",
+    "country_code": "FRA",
+    "gold": 3,
+    "silver": 4,
+    "bronze": 1,
+    "total": 8
+  },
+  {
     "country_name": "Germany",
     "country_code": "GER",
     "gold": 3,
@@ -40,36 +64,12 @@
     "total": 8
   },
   {
-    "country_name": "France",
-    "country_code": "FRA",
-    "gold": 3,
-    "silver": 3,
-    "bronze": 1,
-    "total": 7
-  },
-  {
-    "country_name": "Sweden",
-    "country_code": "SWE",
-    "gold": 3,
-    "silver": 2,
-    "bronze": 1,
-    "total": 6
-  },
-  {
-    "country_name": "Austria",
-    "country_code": "AUT",
-    "gold": 2,
-    "silver": 5,
-    "bronze": 1,
-    "total": 8
-  },
-  {
     "country_name": "Japan",
     "country_code": "JPN",
     "gold": 2,
     "silver": 2,
-    "bronze": 4,
-    "total": 8
+    "bronze": 5,
+    "total": 9
   },
   {
     "country_name": "Netherlands",
@@ -96,12 +96,20 @@
     "total": 2
   },
   {
+    "country_name": "Australia",
+    "country_code": "AUS",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 0,
+    "total": 1
+  },
+  {
     "country_name": "Canada",
     "country_code": "CAN",
     "gold": 0,
-    "silver": 1,
+    "silver": 3,
     "bronze": 3,
-    "total": 4
+    "total": 6
   },
   {
     "country_name": "China",

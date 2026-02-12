@@ -349,5 +349,23 @@
     "gold_result": "",
     "silver_result": "",
     "bronze_result": ""
+  },
+  {
+    "event": "Luge – Mixed Team Relay",
+    "gold_winner": "Julia Taubitz, Tobias Wendl, Tobias Arlt, Max Langenhan, Dajana Eitberger, Magdalena Matschina (GER)",
+    "silver_winner": "Lisa Schulte, Thomas Steu, Wolfgang Kindl, Jonas Mueller, Selina Egle, Lara Michaela Kipp (AUT)",
+    "bronze_winner": "Verena Hofer, Emanuel Rieder, Simon Kainzwaldner, Dominik Fischnaller, Andrea Voetter, Marion Oberhofer (ITA)",
+    "gold_result": "3:41.672",
+    "silver_result": "3:42.214",
+    "bronze_result": "3:42.521"
+  },
+  {
+    "event": "Speedskating – Women's 5000m",
+    "gold_winner": "Francesca Lollobrigida (ITA)",
+    "silver_winner": "Merel Conijn (NED)",
+    "bronze_winner": "Ragne Wiklund (NOR)",
+    "gold_result": "6:46.17",
+    "silver_result": "6:46.27",
+    "bronze_result": "6:46.34"
   }
 ]

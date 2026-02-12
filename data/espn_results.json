@@ -367,5 +367,14 @@
     "gold_result": "6:46.17",
     "silver_result": "6:46.27",
     "bronze_result": "6:46.34"
+  },
+  {
+    "event": "Snowboarding – Women's Halfpipe",
+    "gold_winner": "Choi Gaon (KOR)",
+    "silver_winner": "Chloe Kim (USA)",
+    "bronze_winner": "Mitsuki Ono (JPN)",
+    "gold_result": "90.25",
+    "silver_result": "88.00",
+    "bronze_result": "85.00"
   }
 ]

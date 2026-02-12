@@ -196,11 +196,24 @@ def parse_individual_feed(data: str, entry: dict) -> dict | None:
     records = data.split("~")
     athletes: list[dict] = []
     has_finished = False
+    current_round = None  # Track section via ZAE header field
 
-    for rec in records[2:]:
+    for rec in records[1:]:
         d, raa, rab = parse_fields(rec)
+
+        # Header record with round name (e.g. "Totalt", "Kvartsfinal 1", "Final")
+        if "ZAE" in d:
+            current_round = d["ZAE"]
+            continue
+
         if "AE" not in d:
             continue
+
+        # For multi-round events (sprints): only use "Totalt" (overall standings)
+        # For single-section events: current_round stays None, all records pass
+        if current_round is not None and current_round != "Totalt":
+            continue
+
         if d.get("AB") == "3":
             has_finished = True
 

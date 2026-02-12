@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-12T20:30:13.016016+00:00",
+  "scraped_at": "2026-02-12T21:55:15.141638+00:00",
   "matches": [
     {
       "type": "team",
@@ -257,119 +257,36 @@
           "diff": "0.00"
         },
         {
-          "pos": 1,
+          "pos": 2,
           "name": "Ogden B.",
           "country": "USA",
-          "time": "3:26.10",
-          "diff": "0.00"
+          "time": "3:40.61",
+          "diff": "0.87"
         },
         {
-          "pos": 1,
-          "name": "Mocellini S.",
-          "country": "Italien",
-          "time": "3:31.03",
-          "diff": "0.00"
-        },
-        {
-          "pos": 1,
+          "pos": 3,
           "name": "Vike O.",
           "country": "Norge",
-          "time": "3:31.96",
-          "diff": "0.00"
+          "time": "3:46.55",
+          "diff": "6.81"
         },
         {
-          "pos": 1,
-          "name": "Grahn A.",
-          "country": "Sverige",
-          "time": "3:38.25",
-          "diff": "0.00"
-        },
-        {
-          "pos": 1,
-          "name": "Tuz J.",
-          "country": "Tjeckien",
-          "time": "3:41.00",
-          "diff": "0.00"
-        },
-        {
-          "pos": 2,
-          "name": "Valnes E.",
-          "country": "Norge",
-          "time": "3:30.85",
-          "diff": "0.19"
-        },
-        {
-          "pos": 2,
+          "pos": 9,
           "name": "Myhlback A.",
-          "country": "Sverige",
-          "time": "3:28.39",
-          "diff": "2.29"
+          "country": "Sverige"
         },
         {
-          "pos": 2,
-          "name": "Schoonmaker J. C.",
-          "country": "USA",
-          "time": "3:32.07",
-          "diff": "0.11"
+          "pos": 10,
+          "name": "Grahn A.",
+          "country": "Sverige"
         },
         {
-          "pos": 2,
-          "name": "Dapra S.",
-          "country": "Italien",
-          "time": "3:38.70",
-          "diff": "0.45"
-        },
-        {
-          "pos": 2,
-          "name": "Vuorinen L.",
-          "country": "Finland",
-          "time": "3:40.28",
-          "diff": "0.56"
-        },
-        {
-          "pos": 3,
-          "name": "Chappaz J.",
-          "country": "Frankrike",
-          "time": "3:12.86",
-          "diff": "5.49"
-        },
-        {
-          "pos": 3,
-          "name": "Pellegrino F.",
-          "country": "Italien",
-          "time": "3:28.77",
-          "diff": "2.67"
-        },
-        {
-          "pos": 3,
-          "name": "Maki J.",
-          "country": "Finland",
-          "time": "3:31.42",
-          "diff": "0.39"
-        },
-        {
-          "pos": 3,
-          "name": "Amundsen H. O.",
-          "country": "Norge",
-          "time": "3:32.50",
-          "diff": "0.54"
-        },
-        {
-          "pos": 3,
-          "name": "Cerny O.",
-          "country": "Tjeckien",
-          "time": "3:38.72",
-          "diff": "0.47"
-        },
-        {
-          "pos": 4,
+          "pos": 20,
           "name": "Anger E.",
-          "country": "Sverige",
-          "time": "3:31.15",
-          "diff": "0.49"
+          "country": "Sverige"
         },
         {
-          "pos": 6,
+          "pos": 30,
           "name": "Haeggstroem J.",
           "country": "Sverige"
         }
@@ -389,102 +306,23 @@
           "diff": "0.00"
         },
         {
-          "pos": 1,
+          "pos": 2,
           "name": "Sundling J.",
           "country": "Sverige",
-          "time": "3:55.29",
-          "diff": "0.00"
+          "time": "4:04.64",
+          "diff": "1.59"
         },
         {
-          "pos": 1,
-          "name": "Matintalo J.",
-          "country": "Finland",
-          "time": "3:55.17",
-          "diff": "0.00"
-        },
-        {
-          "pos": 1,
+          "pos": 3,
           "name": "Dahlqvist M.",
           "country": "Sverige",
-          "time": "3:58.22",
-          "diff": "0.00"
+          "time": "4:07.88",
+          "diff": "4.83"
         },
         {
-          "pos": 1,
-          "name": "Rydzek C.",
-          "country": "Tyskland",
-          "time": "3:57.75",
-          "diff": "0.00"
-        },
-        {
-          "pos": 1,
-          "name": "Drivenes J.",
-          "country": "Norge",
-          "time": "4:13.16",
-          "diff": "0.00"
-        },
-        {
-          "pos": 2,
-          "name": "Skistad K. S.",
-          "country": "Norge",
-          "time": "3:56.05",
-          "diff": "0.76"
-        },
-        {
-          "pos": 2,
-          "name": "Ganz C.",
-          "country": "Italien",
-          "time": "3:56.05",
-          "diff": "0.61"
-        },
-        {
-          "pos": 2,
-          "name": "Gimmler L.",
-          "country": "Tyskland",
-          "time": "3:55.58",
-          "diff": "0.41"
-        },
-        {
-          "pos": 2,
-          "name": "Cassol F.",
-          "country": "Italien",
-          "time": "3:59.10",
-          "diff": "0.88"
-        },
-        {
-          "pos": 2,
-          "name": "Andreassen M.",
-          "country": "Norge",
-          "time": "3:57.95",
-          "diff": "0.20"
-        },
-        {
-          "pos": 3,
+          "pos": 13,
           "name": "Hagstroem J.",
-          "country": "Sverige",
-          "time": "3:38.85",
-          "diff": "2.64"
-        },
-        {
-          "pos": 3,
-          "name": "Joensuu J.",
-          "country": "Finland",
-          "time": "3:56.59",
-          "diff": "1.30"
-        },
-        {
-          "pos": 3,
-          "name": "Kern J.",
-          "country": "USA",
-          "time": "3:56.32",
-          "diff": "0.88"
-        },
-        {
-          "pos": 3,
-          "name": "Janatova K.",
-          "country": "Tjeckien",
-          "time": "3:59.20",
-          "diff": "0.98"
+          "country": "Sverige"
         }
       ]
     },
@@ -502,109 +340,40 @@
           "diff": "0.00"
         },
         {
-          "pos": 1,
-          "name": "Chanavat L.",
-          "country": "Frankrike",
-          "time": "2:45.03",
-          "diff": "0.00"
-        },
-        {
-          "pos": 1,
+          "pos": 2,
           "name": "Pellegrino F.",
           "country": "Italien",
-          "time": "2:53.08",
-          "diff": "0.00"
+          "time": "2:58.32",
+          "diff": "0.26"
         },
         {
-          "pos": 1,
-          "name": "Jouve R.",
-          "country": "Frankrike",
-          "time": "2:57.92",
-          "diff": "0.00"
-        },
-        {
-          "pos": 1,
-          "name": "Valnes E.",
-          "country": "Norge",
-          "time": "2:49.31",
-          "diff": "0.00"
-        },
-        {
-          "pos": 1,
-          "name": "Maki J.",
-          "country": "Finland",
-          "time": "2:57.59",
-          "diff": "0.00"
-        },
-        {
-          "pos": 1,
+          "pos": 3,
           "name": "Terentev A.",
           "country": "Ryssland",
-          "time": "2:50.67",
-          "diff": "0.00"
+          "time": "2:59.37",
+          "diff": "1.31"
         },
         {
-          "pos": 2,
-          "name": "Ustiugov S.",
-          "country": "Ryssland",
-          "time": "2:46.51",
-          "diff": "1.48"
-        },
-        {
-          "pos": 2,
-          "name": "Taugboel H.",
-          "country": "Norge",
-          "time": "2:57.93",
-          "diff": "0.01"
-        },
-        {
-          "pos": 2,
-          "name": "Maltsev A.",
-          "country": "Ryssland",
-          "time": "2:50.37",
-          "diff": "1.06"
-        },
-        {
-          "pos": 3,
+          "pos": 6,
           "name": "Svensson O.",
           "country": "Sverige",
-          "time": "2:52.26",
-          "diff": "0.69"
+          "time": "3:04.23",
+          "diff": "6.17"
         },
         {
-          "pos": 3,
-          "name": "Grate M.",
-          "country": "Sverige",
-          "time": "2:53.71",
-          "diff": "0.63"
-        },
-        {
-          "pos": 3,
+          "pos": 13,
           "name": "Haeggstroem J.",
-          "country": "Sverige",
-          "time": "2:58.01",
-          "diff": "0.09"
+          "country": "Sverige"
         },
         {
-          "pos": 3,
-          "name": "Vuorinen L.",
-          "country": "Finland",
-          "time": "2:54.64",
-          "diff": "5.33"
+          "pos": 16,
+          "name": "Grate M.",
+          "country": "Sverige"
         },
         {
-          "pos": 3,
-          "name": "Schoonmaker J. C.",
-          "country": "USA",
-          "time": "2:58.13",
-          "diff": "0.54"
-        },
-        {
-          "pos": 5,
+          "pos": 24,
           "name": "Persson A.",
-          "country": "Sverige",
-          "time": "2:53.35",
-          "diff": "1.78"
+          "country": "Sverige"
         }
       ]
     },
@@ -622,109 +391,30 @@
           "diff": "0.00"
         },
         {
-          "pos": 1,
+          "pos": 2,
           "name": "Dahlqvist M.",
           "country": "Sverige",
-          "time": "3:21.03",
-          "diff": "0.00"
+          "time": "3:12.56",
+          "diff": "2.88"
         },
         {
-          "pos": 1,
-          "name": "Faehndrich N.",
-          "country": "Schweiz",
-          "time": "3:16.51",
-          "diff": "0.00"
-        },
-        {
-          "pos": 1,
+          "pos": 3,
           "name": "Diggins J.",
           "country": "USA",
-          "time": "3:16.30",
-          "diff": "0.00"
+          "time": "3:12.84",
+          "diff": "3.16"
         },
         {
-          "pos": 1,
-          "name": "Stepanova V.",
-          "country": "Ryssland",
-          "time": "3:18.09",
-          "diff": "0.00"
-        },
-        {
-          "pos": 1,
+          "pos": 6,
           "name": "Ribom E.",
           "country": "Sverige",
-          "time": "3:15.22",
-          "diff": "0.00"
+          "time": "3:20.79",
+          "diff": "11.11"
         },
         {
-          "pos": 2,
-          "name": "Brennan R.",
-          "country": "USA",
-          "time": "3:14.83",
-          "diff": "5.80"
-        },
-        {
-          "pos": 2,
-          "name": "Weng T. U.",
-          "country": "Norge",
-          "time": "3:21.31",
-          "diff": "0.28"
-        },
-        {
-          "pos": 2,
-          "name": "Falla M. C.",
-          "country": "Norge",
-          "time": "3:16.88",
-          "diff": "0.37"
-        },
-        {
-          "pos": 2,
-          "name": "Krehl S.",
-          "country": "Tyskland",
-          "time": "3:18.37",
-          "diff": "0.28"
-        },
-        {
-          "pos": 3,
-          "name": "Lampic A.",
-          "country": "Slovenien",
-          "time": "3:18.60",
-          "diff": "3.12"
-        },
-        {
-          "pos": 3,
-          "name": "Nepryaeva N.",
-          "country": "Ryssland",
-          "time": "3:21.34",
-          "diff": "0.31"
-        },
-        {
-          "pos": 3,
-          "name": "Carl V.",
-          "country": "Tyskland",
-          "time": "3:18.26",
-          "diff": "1.75"
-        },
-        {
-          "pos": 3,
-          "name": "Fink P.",
-          "country": "Tyskland",
-          "time": "3:19.69",
-          "diff": "3.39"
-        },
-        {
-          "pos": 3,
-          "name": "Meier A.",
-          "country": "Schweiz",
-          "time": "3:21.12",
-          "diff": "3.03"
-        },
-        {
-          "pos": 4,
+          "pos": 17,
           "name": "Dyvik A.",
-          "country": "Sverige",
-          "time": "3:19.00",
-          "diff": "2.49"
+          "country": "Sverige"
         }
       ]
     },

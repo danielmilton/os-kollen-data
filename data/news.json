@@ -1,5 +1,21 @@
 [
   {
+    "title": "OS-guldmedaljörerna väcker avsky: ”Ondskefull”",
+    "link": "https://www.expressen.se/sport/os/os-guldmedaljorerna-vacker-avsky-ondskefull/",
+    "source": "Expressen",
+    "published_at": "2026-02-12T08:19:05+01:00",
+    "summary": "OS mest skandalomsusade par har vunnit guld.Men bedriften uppskattas inte av alla.– Vilket fruktansvärt budskap som skickas från konståkningen i kväll, säger USA Todays reporter Christine Brennan.",
+    "image_url": "https://static.bonniernews.se/images/a1/c5/a1c52d1aaa1943fba7e3239cbbd05deb/16x9/265@70.png"
+  },
+  {
+    "title": "Skeleton-stjärnan trotsar förbudet: ”Kommer inte svika dem”",
+    "link": "https://www.svt.se/sport/vintersport/skeleton-stjarnan-trotsar-forbudet-kommer-inte-svika-dem",
+    "source": "SVT",
+    "published_at": "2026-02-12T08:05:28+01:00",
+    "summary": "IOK försöker stoppa ukrainaren Vladyslav Heraskevych från att bära en hjälm med bilder på avlidna ukrainska idrottare. Ett förbud han kommer bryta – med risk att bli diskvalificerad. – Jag kommer inte att svika dem, säger skeletonåkaren till SVT.",
+    "image_url": null
+  },
+  {
     "title": "Tre Kronor vinner i OS-premiären",
     "link": "https://www.expressen.se/sport/os/tre-kronor-vinner-i-os-premiaren-/",
     "source": "Expressen",
@@ -224,14 +240,6 @@
     "image_url": null
   },
   {
-    "title": "Bulgariskans skrällbrons i distansloppet – tränas av Wolfgang Pichler",
-    "link": "https://www.svt.se/sport/skidskytte/bulgariskans-skrallbrons-i-distansloppet-tranas-av-wolfgang-pichler",
-    "source": "SVT",
-    "published_at": "2026-02-11T16:45:44+01:00",
-    "summary": "Distansloppet blev en tävling att glömma för svenskorna. Inte för bronsmedaljören Lora Hristova – under ledning av den tidigare svenska skidskyttetränaren Wolfgang Pichler. – Det här är otroligt, jag trodde inte på medalj, säger han till SVT Sport.",
-    "image_url": null
-  },
-  {
     "title": "Lyxiga gåvan – \nefter OS-guldet",
     "link": "https://www.aftonbladet.se/sportbladet/a/pBWdxw/jutta-leerdam-fick-en-birkin-efter-os-guldet?utm_medium=rss",
     "source": "Aftonbladet",
@@ -272,20 +280,28 @@
     "image_url": null
   },
   {
-    "title": "Ihop med mästare \n– och känd börshaj",
-    "link": "https://www.aftonbladet.se/sportbladet/a/wrOAOG/allt-vi-vet-om-syskonen-wrana?utm_medium=rss",
-    "source": "Aftonbladet",
-    "published_at": "2026-02-10T14:35:58+00:00",
-    "summary": "PLUS Nya OS-hjältarna",
-    "image_url": "https://images.aftonbladet-cdn.se/v2/images/5c1fe83c-2fb5-485f-9bab-6bf3554d581a?fit=crop&format=auto&h=510&q=50&tight=true&w=907&s=13bb21fe944c2ad524c496de96b43ab80e46dd49"
-  },
-  {
     "title": "Betygen på ALLA (!) \nsvenskar i OS 2026",
     "link": "https://www.aftonbladet.se/sportbladet/a/L41gBq/betyg-pa-alla-som-sverige-skickar-till-os-i-milano-2026?utm_medium=rss",
     "source": "Aftonbladet",
     "published_at": "2026-02-05T13:54:24+00:00",
     "summary": "PLUS Över 100 idrottare ✓ Sex får högsta betyg",
     "image_url": "https://images.aftonbladet-cdn.se/v2/images/3036459d-7349-454f-8551-450d0281c021?fit=crop&format=auto&h=563&q=50&tight=true&w=1000&s=4441ba4100df52d789b466287aef1db393fb208a"
+  },
+  {
+    "title": "Bulgariskans skrällbrons i distansloppet – tränas av Wolfgang Pichler",
+    "link": "https://www.svt.se/sport/skidskytte/bulgariskans-skrallbrons-i-distansloppet-tranas-av-wolfgang-pichler",
+    "source": "SVT",
+    "published_at": "2026-02-11T16:45:44+01:00",
+    "summary": "Distansloppet blev en tävling att glömma för svenskorna. Inte för bronsmedaljören Lora Hristova – under ledning av den tidigare svenska skidskyttetränaren Wolfgang Pichler. – Det här är otroligt, jag trodde inte på medalj, säger han till SVT Sport.",
+    "image_url": null
+  },
+  {
+    "title": "Ihop med mästare \n– och känd börshaj",
+    "link": "https://www.aftonbladet.se/sportbladet/a/wrOAOG/allt-vi-vet-om-syskonen-wrana?utm_medium=rss",
+    "source": "Aftonbladet",
+    "published_at": "2026-02-10T14:35:58+00:00",
+    "summary": "PLUS Nya OS-hjältarna",
+    "image_url": "https://images.aftonbladet-cdn.se/v2/images/5c1fe83c-2fb5-485f-9bab-6bf3554d581a?fit=crop&format=auto&h=510&q=50&tight=true&w=907&s=13bb21fe944c2ad524c496de96b43ab80e46dd49"
   },
   {
     "title": "Beskedet chockar Norge: ”Fattar inte det”",
@@ -381,22 +397,6 @@
     "source": "TV4",
     "published_at": "2026-02-05T09:28:01+00:00",
     "summary": "Nylander gör sitt första mål i OS-turneringen",
-    "image_url": null
-  },
-  {
-    "title": "Pichlers alkoholutspel: ”Vi är inte som Sverige”",
-    "link": "https://www.expressen.se/sport/os/pichlers-alkoholutspel-vi-ar-inte-som-sverige/",
-    "source": "Expressen",
-    "published_at": "2026-02-11T17:52:02+01:00",
-    "summary": "Lora Hristova stod för en jätteskräll när hon tog brons i skidskyttedistansen. Bakom succén? Svenskbekantingen Wolfgang Pichler. Som var tydligen med hur det ska firas. – Jag måste köpa många flaskor vin, ingen kan stoppa mig.",
-    "image_url": "https://static.bonniernews.se/images/9c/20/9c20d8df243043838bb50cde7a145c2b/16x9/265@70.jpg"
-  },
-  {
-    "title": "Utsatt för kinesisk hockeybluff: ”Jäkligt sofistikerat”",
-    "link": "https://www.tv4.se/artikel/7t5UuslC2pl9L6AcxiPdVA/johan-utsatt-foer-kinesisk-hockeybluff-jaekligt-sofistikerat",
-    "source": "TV4",
-    "published_at": "2026-02-09T13:26:34+00:00",
-    "summary": "Under tre månader skulle 56 studenter från Kina, som sponsrades av ett kinesiskt företag, träna ishockey vid det nystartade utbildningscentret Nordic Hockey Center i Stenungsund. Men några kinesiska studenter dök aldrig upp – trots att idrottsverksamheten lagt ut stora summor pengar för deras ankomst. – I min värld var det en ren och skär bluff, som var jäkligt sofistikerad, säger Johan Lindström, grundare av utbildningscentret. ”Något är jäkligt konstigt” Enligt avtalet skulle det kinesiska företaget betala 205 000 euro, motsvarande cirka 2,2 miljoner, för hockeyutbildningen. Utöver det skulle parterna dela på de administrativa kostnaderna på 120 000 kronor. Johan hyrde isrinken för tre månader och förbokade boende, mat och bussar till studenterna. Han betalade också sin del av kostnaderna, alltså 60 000 kronor. Men när den andra parten skulle betala sin del upphörde kommunikationen: – De sa att banken hade strulat och att de ska flyga upp en person som kunde göra transfern på plats. Efter det har jag inte hört någonting alls. Då kände jag att något är jäkligt konstigt. Johan tvingades då stoppa affären, bara dagar innan utbildningen skulle starta. Enligt honom hade hans företag då gått miste om 250 000 kronor i potentiella intäkter, utöver de de administrativa kostnaderna. – Vi blev blåsta på flera månaders jobb. Det är en stor ekonomisk förlust för oss som nystartade. Såg inga varningsflaggor Johan beskriver samtalen med det kinesiska företaget som både detaljerad och professionell där såväl praktiska som administrativa frågor diskuterades. Han fick bland annat klädstorlekar för samtliga studenter för att kunna beställa träningsutrustning. – Kommunikationen var grym. Det var inga varningsflaggor som dök upp, säger han. Han uppger att man även kontrollerade företaget noggrant, bland annat genom bankdialoger och jämförelser med liknande internationella utbildningsupplägg. Men efter den plötsliga tystnaden är han nu övertygad om att det rör sig om ett bedrägeri – oc",
     "image_url": null
   }
 ]

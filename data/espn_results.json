@@ -376,5 +376,23 @@
     "gold_result": "90.25",
     "silver_result": "88.00",
     "bronze_result": "85.00"
+  },
+  {
+    "event": "Short-Track Speedskating – Women's 500m",
+    "gold_winner": "Xandra Velzeboer (NED)",
+    "silver_winner": "Arianna Fontana (ITA)",
+    "bronze_winner": "Courtney Sarault (CAN)",
+    "gold_result": "41.609",
+    "silver_result": "42.294",
+    "bronze_result": "42.427"
+  },
+  {
+    "event": "Short-Track Speedskating – Men's 1000m",
+    "gold_winner": "Jens Van 'T Wout (NED)",
+    "silver_winner": "Sun Long (CHN)",
+    "bronze_winner": "Rim Jong-un (KOR)",
+    "gold_result": "1:24.537",
+    "silver_result": "1:24.565",
+    "bronze_result": "1:24.611"
   }
 ]

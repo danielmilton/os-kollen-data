@@ -35,24 +35,56 @@ DELAY_BETWEEN_FEEDS = 2.0  # seconds
 FEEDS = [
     # ── Team sports ──
     {"feed": "t_4_8_C06aJvIB_1_sv_1", "sport": "Ishockey", "event": "Herrar", "type": "team"},
-    # Hockey women feed ID unknown — will be added when discovered
-    # Curling feed IDs unknown — will be added when discovered
+    {"feed": "t_4_8_Q3A3IbXH_1_sv_1", "sport": "Ishockey", "event": "Damer", "type": "team"},
 
-    # ── Individual sports ──
+    # ── Alpint ──
     {"feed": "t_39_8401_OfheouK0_1_sv_1", "sport": "Alpint", "event": "Störtlopp herrar", "type": "individual"},
     {"feed": "t_39_8402_IyKiEbl0_1_sv_1", "sport": "Alpint", "event": "Störtlopp damer", "type": "individual"},
+    {"feed": "t_39_8403_pAt4qJlD_1_sv_1", "sport": "Alpint", "event": "Super-G herrar", "type": "individual"},
+    {"feed": "t_39_8404_M5UQDvZg_1_sv_1", "sport": "Alpint", "event": "Super-G damer", "type": "individual"},
+    {"feed": "t_39_8405_KjH282RD_1_sv_1", "sport": "Alpint", "event": "Storslalom herrar", "type": "individual"},
+    {"feed": "t_39_8406_IRdw204s_1_sv_1", "sport": "Alpint", "event": "Storslalom damer", "type": "individual"},
+    {"feed": "t_39_8407_bsG67MtK_1_sv_1", "sport": "Alpint", "event": "Slalom herrar", "type": "individual"},
+    {"feed": "t_39_8408_vc7EEKJm_1_sv_1", "sport": "Alpint", "event": "Slalom damer", "type": "individual"},
     {"feed": "t_39_28273_I3qVGY4S_1_sv_1", "sport": "Alpint", "event": "Kombination herrar", "type": "individual"},
     {"feed": "t_39_28275_xGt40CSk_1_sv_1", "sport": "Alpint", "event": "Kombination damer", "type": "individual"},
+    {"feed": "t_39_9083_jkIaCxJC_1_sv_1", "sport": "Alpint", "event": "Team event", "type": "individual"},
+
+    # ── Längdskidor ──
     {"feed": "t_40_8462_tvqeUbWm_1_sv_1", "sport": "Längdskidor", "event": "Sprint klassisk herrar", "type": "individual"},
     {"feed": "t_40_8463_On67TIof_1_sv_1", "sport": "Längdskidor", "event": "Sprint klassisk damer", "type": "individual"},
+    {"feed": "t_40_8535_2HOS5urr_1_sv_1", "sport": "Längdskidor", "event": "Sprint fristil herrar", "type": "individual"},
+    {"feed": "t_40_8536_WUyu9LZQ_1_sv_1", "sport": "Längdskidor", "event": "Sprint fristil damer", "type": "individual"},
     {"feed": "t_40_8466_v9kUjyhL_1_sv_1", "sport": "Längdskidor", "event": "Skiathlon herrar", "type": "individual"},
     {"feed": "t_40_8467_zuueie7R_1_sv_1", "sport": "Längdskidor", "event": "Skiathlon damer", "type": "individual"},
-    {"feed": "t_41_8446_tUJuI4Ug_1_sv_1", "sport": "Skidskytte", "event": "Individuell herrar", "type": "individual"},
+    {"feed": "t_40_8527_8E020FFr_1_sv_1", "sport": "Längdskidor", "event": "Individuell fristil herrar", "type": "individual"},
+    {"feed": "t_40_8528_2y06aZUl_1_sv_1", "sport": "Längdskidor", "event": "Individuell fristil damer", "type": "individual"},
+    {"feed": "t_40_8460_Slyp4JCf_1_sv_1", "sport": "Längdskidor", "event": "Individuell klassisk herrar", "type": "individual"},
+    {"feed": "t_40_8461_pQou5acl_1_sv_1", "sport": "Längdskidor", "event": "Individuell klassisk damer", "type": "individual"},
+    {"feed": "t_40_8468_Gv4Abgpe_1_sv_1", "sport": "Längdskidor", "event": "Masstart klassisk herrar", "type": "individual"},
+    {"feed": "t_40_8469_b3gFcDa1_1_sv_1", "sport": "Längdskidor", "event": "Masstart klassisk damer", "type": "individual"},
+    {"feed": "t_40_8472_0Sc2elMN_1_sv_1", "sport": "Längdskidor", "event": "Stafett herrar", "type": "individual"},
+    {"feed": "t_40_8473_KY9Le8yU_1_sv_1", "sport": "Längdskidor", "event": "Stafett damer", "type": "individual"},
+
+    # ── Skidskytte ──
     {"feed": "t_41_8456_bRNPS2EC_1_sv_1", "sport": "Skidskytte", "event": "Mixedstafett", "type": "individual"},
+    {"feed": "t_41_8446_tUJuI4Ug_1_sv_1", "sport": "Skidskytte", "event": "Individuell herrar", "type": "individual"},
+    {"feed": "t_41_8447_bLdTIpFm_1_sv_1", "sport": "Skidskytte", "event": "Individuell damer", "type": "individual"},
+    {"feed": "t_41_8448_AVOlmZF8_1_sv_1", "sport": "Skidskytte", "event": "Sprint herrar", "type": "individual"},
+    {"feed": "t_41_8449_dSKplF02_1_sv_1", "sport": "Skidskytte", "event": "Sprint damer", "type": "individual"},
+    {"feed": "t_41_8450_tIoMUQas_1_sv_1", "sport": "Skidskytte", "event": "Jaktstart herrar", "type": "individual"},
+    {"feed": "t_41_8451_4hOhngVE_1_sv_1", "sport": "Skidskytte", "event": "Jaktstart damer", "type": "individual"},
+    {"feed": "t_41_8452_G2YKTra6_1_sv_1", "sport": "Skidskytte", "event": "Masstart herrar", "type": "individual"},
+    {"feed": "t_41_8453_2aUGUOq0_1_sv_1", "sport": "Skidskytte", "event": "Masstart damer", "type": "individual"},
+    {"feed": "t_41_8454_8pZuh66J_1_sv_1", "sport": "Skidskytte", "event": "Stafett herrar", "type": "individual"},
+    {"feed": "t_41_8455_xIMTRMTI_1_sv_1", "sport": "Skidskytte", "event": "Stafett damer", "type": "individual"},
+
+    # ── Backhoppning ──
     {"feed": "t_38_8416_nVMa9LU8_1_sv_1", "sport": "Backhoppning", "event": "Normalbacke herrar", "type": "individual"},
     {"feed": "t_38_8417_ljWf8gPM_1_sv_1", "sport": "Backhoppning", "event": "Normalbacke damer", "type": "individual"},
     {"feed": "t_38_13911_WELa7DvT_1_sv_1", "sport": "Backhoppning", "event": "Normalbacke mixed", "type": "individual"},
     {"feed": "t_38_8418_thM38upF_1_sv_1", "sport": "Backhoppning", "event": "Storbacke herrar", "type": "individual"},
+    {"feed": "t_38_8419_0th0i9wQ_1_sv_1", "sport": "Backhoppning", "event": "Storbacke damer", "type": "individual"},
     {"feed": "t_38_8544_KrL77aaL_1_sv_1", "sport": "Backhoppning", "event": "Storbacke lag", "type": "individual"},
 ]
 
@@ -95,6 +127,13 @@ def parse_fields(record: str) -> tuple[dict, list, list]:
     return d, raa, rab
 
 
+def _clean_team(name: str) -> str:
+    """Strip gender suffix (e.g. 'Finland D' -> 'Finland')."""
+    if name.endswith(" D"):
+        return name[:-2]
+    return name
+
+
 def parse_team_feed(data: str, entry: dict) -> list[dict]:
     """Parse a team sport feed (hockey, curling) into match dicts."""
     records = data.split("~")
@@ -111,13 +150,17 @@ def parse_team_feed(data: str, entry: dict) -> list[dict]:
         status_code = d.get("AB", "")
         status = "finished" if status_code == "3" else ("live" if status_code == "2" else "scheduled")
 
+        home = _clean_team(d.get("CX", d.get("AE", "")))
+        # Away team may be in same record (AF/FK fields) or in next record
+        away = _clean_team(d.get("AF", d.get("FK", "")))
+
         match = {
             "type": "team",
             "sport": entry["sport"],
             "event": entry["event"],
             "event_id": d.get("AA", ""),
-            "home": d.get("CX", d.get("AE", "")),
-            "away": "",
+            "home": home,
+            "away": away,
             "home_score": _int(d.get("AG", "")),
             "away_score": _int(d.get("AH", "")),
             "status": status,
@@ -133,11 +176,12 @@ def parse_team_feed(data: str, entry: dict) -> list[dict]:
                 periods.append(f"{h or '0'}-{a or '0'}")
         match["periods"] = ", ".join(periods) if periods else ""
 
-        # Next record should be away team
-        i += 1
-        if i < len(records):
-            d2, _, _ = parse_fields(records[i])
-            match["away"] = d2.get("CX", d2.get("AE", ""))
+        # If away team not found in same record, check next record
+        if not match["away"]:
+            i += 1
+            if i < len(records):
+                d2, _, _ = parse_fields(records[i])
+                match["away"] = _clean_team(d2.get("CX", d2.get("AE", "")))
 
         if status == "finished":
             matches.append(match)
@@ -162,13 +206,31 @@ def parse_individual_feed(data: str, entry: dict) -> dict | None:
 
         ra = dict(zip(raa, rab))
         pos = ra.get("7", "")
-        athletes.append({
+        athlete = {
             "pos": _int(pos) if pos else 999,
             "name": d.get("AE", ""),
             "country": d.get("FU", ""),
-            "time": ra.get("5", ""),
-            "diff": ra.get("6", ""),
-        })
+        }
+        # Time-based sports (alpine, XC, biathlon)
+        if ra.get("5"):
+            athlete["time"] = ra["5"]
+        if ra.get("6"):
+            athlete["diff"] = ra["6"]
+        # Distance-based sports (ski jumping)
+        if ra.get("2"):
+            athlete["dist"] = ra["2"]
+        if ra.get("3"):
+            athlete["dist_pts"] = ra["3"]
+        if ra.get("4"):
+            athlete["style_pts"] = ra["4"]
+        if ra.get("12"):
+            athlete["best_dist"] = ra["12"]
+        if ra.get("13"):
+            athlete["best_pts"] = ra["13"]
+        # Biathlon penalties
+        if ra.get("9"):
+            athlete["penalties"] = _int(ra["9"])
+        athletes.append(athlete)
 
     if not has_finished or not athletes:
         return None

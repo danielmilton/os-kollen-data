@@ -16,6 +16,7 @@ from datetime import datetime, timezone
 OUTPUT_FILE = "data/flashscore_matches.json"
 
 FLASHSCORE_BASE = "https://www.flashscore.se/x/feed/"
+FLASHSCORE_SITE = "https://www.flashscore.se"
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -25,6 +26,8 @@ HEADERS = {
     "Referer": "https://www.flashscore.se/",
     "X-Fsign": "SW9D1eZo",
 }
+# Minimum timestamp for OS 2026 matches (2026-02-01 00:00 UTC)
+MIN_TIMESTAMP = 1769904000
 
 DELAY_BETWEEN_FEEDS = 2.0  # seconds
 
@@ -32,11 +35,13 @@ DELAY_BETWEEN_FEEDS = 2.0  # seconds
 # From docs/flashscore_investigation.md section 6
 # type: "team" for match-based sports, "individual" for ranked results
 
-FEEDS = [
-    # ── Team sports ──
-    {"feed": "t_4_8_C06aJvIB_1_sv_1", "sport": "Ishockey", "event": "Herrar", "type": "team"},
-    {"feed": "t_4_8_Q3A3IbXH_1_sv_1", "sport": "Ishockey", "event": "Damer", "type": "team"},
+# Team sports: scraped from HTML results page (feed API only shows today's matches)
+TEAM_FEEDS = [
+    {"url": "/ishockey/varld/olympiska-spelen/resultat/", "sport": "Ishockey", "event": "Herrar"},
+    {"url": "/ishockey/varld/olympiska-spelen-damer/resultat/", "sport": "Ishockey", "event": "Damer"},
+]
 
+FEEDS = [
     # ── Alpint ──
     {"feed": "t_39_8401_OfheouK0_1_sv_1", "sport": "Alpint", "event": "Störtlopp herrar", "type": "individual"},
     {"feed": "t_39_8402_IyKiEbl0_1_sv_1", "sport": "Alpint", "event": "Störtlopp damer", "type": "individual"},
@@ -107,6 +112,78 @@ def fetch_feed(feed_url: str) -> str:
     except Exception as e:
         print(f"  FAIL {feed_url}: {e}")
         return ""
+
+
+def fetch_team_results_html(entry: dict) -> list[dict]:
+    """Fetch all finished team matches from Flashscore HTML results page.
+
+    The feed API only shows today's matches, but the HTML results page
+    contains the full tournament history embedded in cjs.initialFeeds['results'].
+    """
+    import re
+    page_url = FLASHSCORE_SITE + entry["url"]
+    req = urllib.request.Request(page_url, headers={
+        "User-Agent": HEADERS["User-Agent"],
+        "Accept": "text/html",
+    })
+    try:
+        with urllib.request.urlopen(req, timeout=20) as resp:
+            html = resp.read().decode("utf-8", errors="replace")
+            print(f"  GET {entry['url']} -> {resp.getcode()} ({len(html)} bytes)")
+    except Exception as e:
+        print(f"  FAIL {entry['url']}: {e}")
+        return []
+
+    # Extract embedded results data
+    m = re.search(r"cjs\.initialFeeds\['results'\]\s*=\s*\{\s*data:\s*`(.*?)`", html, re.DOTALL)
+    if not m:
+        print(f"  No results data found in HTML for {entry['sport']} {entry['event']}")
+        return []
+
+    data = m.group(1)
+    records = data.split("~")
+    matches: list[dict] = []
+
+    for rec in records:
+        fields = {}
+        for field in rec.split("\u00ac"):
+            if "\u00f7" not in field:
+                continue
+            k, v = field.split("\u00f7", 1)
+            fields[k] = v
+
+        if "AA" not in fields or fields.get("AB") != "3":
+            continue
+
+        timestamp = _int(fields.get("AD", ""))
+        if not timestamp or timestamp < MIN_TIMESTAMP:
+            continue
+
+        home = _clean_team(fields.get("CX", fields.get("AE", "")))
+        away = _clean_team(fields.get("AF", fields.get("FK", "")))
+
+        periods = []
+        for h_key, a_key in [("BA", "BB"), ("BC", "BD"), ("BE", "BF")]:
+            h = fields.get(h_key, "")
+            a = fields.get(a_key, "")
+            if h or a:
+                periods.append(f"{h or '0'}-{a or '0'}")
+
+        matches.append({
+            "type": "team",
+            "sport": entry["sport"],
+            "event": entry["event"],
+            "event_id": fields.get("AA", ""),
+            "home": home,
+            "away": away,
+            "home_score": _int(fields.get("AG", "")),
+            "away_score": _int(fields.get("AH", "")),
+            "status": "finished",
+            "timestamp": timestamp,
+            "periods": ", ".join(periods) if periods else "",
+        })
+
+    return matches
 
 
 def parse_fields(record: str) -> tuple[dict, list, list]:
@@ -286,6 +363,14 @@ def scrape_all() -> list[dict]:
     """Scrape all feeds with rate limiting."""
     all_matches: list[dict] = []
 
+    # Team sports: scrape from HTML results page (full history)
+    for entry in TEAM_FEEDS:
+        matches = fetch_team_results_html(entry)
+        all_matches.extend(matches)
+        print(f"  {entry['sport']} {entry['event']}: {len(matches)} finished matches")
+        time.sleep(DELAY_BETWEEN_FEEDS)
+
+    # Individual sports: scrape from feed API
     for entry in FEEDS:
         data = fetch_feed(entry["feed"])
         if not data:
@@ -297,18 +382,13 @@ def scrape_all() -> list[dict]:
             time.sleep(DELAY_BETWEEN_FEEDS)
             continue
 
-        if entry["type"] == "team":
-            matches = parse_team_feed(data, entry)
-            all_matches.extend(matches)
-            print(f"  {entry['sport']} {entry['event']}: {len(matches)} finished matches")
+        result = parse_individual_feed(data, entry)
+        if result:
+            all_matches.append(result)
+            n_swe = sum(1 for r in result["results"] if r["country"] in SWE_COUNTRIES)
+            print(f"  {entry['sport']} {entry['event']}: {len(result['results'])} results ({n_swe} SWE)")
         else:
-            result = parse_individual_feed(data, entry)
-            if result:
-                all_matches.append(result)
-                n_swe = sum(1 for r in result["results"] if r["country"] in SWE_COUNTRIES)
-                print(f"  {entry['sport']} {entry['event']}: {len(result['results'])} results ({n_swe} SWE)")
-            else:
-                print(f"  {entry['sport']} {entry['event']}: no finished results")
+            print(f"  {entry['sport']} {entry['event']}: no finished results")
 
         time.sleep(DELAY_BETWEEN_FEEDS)
 

@@ -302,30 +302,45 @@ def scrape_all() -> list[dict]:
     return all_matches
 
 
-def write_if_changed(matches: list[dict]) -> bool:
-    """Write JSON only if data changed. Never overwrite with empty."""
-    output = {
-        "scraped_at": datetime.now(timezone.utc).isoformat(),
-        "matches": matches,
-    }
+def _match_key(m: dict) -> str:
+    """Generate a unique key for a match (same logic as backend)."""
+    if m.get("type") == "team":
+        return f"{m['sport']}:{m['event']}:{m.get('home','')}-{m.get('away','')}"
+    return f"{m['sport']}:{m['event']}"
 
+
+def write_if_changed(matches: list[dict]) -> bool:
+    """Merge new matches with existing data and write. Never lose old results."""
     try:
         with open(OUTPUT_FILE) as f:
             existing = json.load(f)
     except (FileNotFoundError, json.JSONDecodeError):
         existing = {}
 
-    if matches == existing.get("matches", []):
-        print("  No changes")
-        return False
-
     if not matches and existing.get("matches"):
         print("  Scraper returned 0 matches, keeping existing data")
         return False
 
+    # Build merged dict: start with existing, update/add from new scrape
+    merged = {}
+    for m in existing.get("matches", []):
+        merged[_match_key(m)] = m
+    for m in matches:
+        merged[_match_key(m)] = m  # New data overwrites old for same key
+
+    merged_list = list(merged.values())
+
+    if merged_list == existing.get("matches", []):
+        print("  No changes")
+        return False
+
+    output = {
+        "scraped_at": datetime.now(timezone.utc).isoformat(),
+        "matches": merged_list,
+    }
     with open(OUTPUT_FILE, "w") as f:
         json.dump(output, f, indent=2, ensure_ascii=False)
-    print(f"  Wrote {len(matches)} entries to {OUTPUT_FILE}")
+    print(f"  Wrote {len(merged_list)} entries to {OUTPUT_FILE} ({len(merged_list) - len(existing.get('matches', []))} new)")
     return True
 
 

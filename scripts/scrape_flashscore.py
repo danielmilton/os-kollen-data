@@ -339,9 +339,10 @@ def parse_individual_feed(data: str, entry: dict) -> dict | None:
             athlete["best_dist"] = ra["12"]
         if ra.get("13"):
             athlete["best_pts"] = ra["13"]
-        # Biathlon penalties
-        if ra.get("9"):
-            athlete["penalties"] = _int(ra["9"])
+        # Biathlon penalties (field 9 for some events, field 10 for others)
+        pen_str = ra.get("9") or ra.get("10")
+        if pen_str:
+            athlete["penalties"] = _int(pen_str)
         athletes.append(athlete)
 
     if not has_finished or not athletes:

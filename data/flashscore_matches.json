@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-13T00:09:58.756961+00:00",
+  "scraped_at": "2026-02-13T00:30:09.086299+00:00",
   "matches": [
     {
       "type": "team",
@@ -790,49 +790,56 @@
           "name": "Julia Simon",
           "country": "Frankrike",
           "time": "41:15.6",
-          "diff": "0.0"
+          "diff": "0.0",
+          "penalties": 1
         },
         {
           "pos": 2,
           "name": "Lou Jeanmonnot",
           "country": "Frankrike",
           "time": "42:08.7",
-          "diff": "53.1"
+          "diff": "53.1",
+          "penalties": 2
         },
         {
           "pos": 3,
           "name": "Lora Hirstova",
           "country": "Bulgarien",
           "time": "42:20.1",
-          "diff": "1:04.5"
+          "diff": "1:04.5",
+          "penalties": 0
         },
         {
           "pos": 9,
           "name": "Linn Gestblom",
           "country": "Sverige",
           "time": "43:28.2",
-          "diff": "2:12.6"
+          "diff": "2:12.6",
+          "penalties": 2
         },
         {
           "pos": 12,
           "name": "Anna Magnusson",
           "country": "Sverige",
           "time": "43:39.9",
-          "diff": "2:24.3"
+          "diff": "2:24.3",
+          "penalties": 2
         },
         {
           "pos": 13,
           "name": "Elvira Oberg",
           "country": "Sverige",
           "time": "43:42.0",
-          "diff": "2:26.4"
+          "diff": "2:26.4",
+          "penalties": 2
         },
         {
           "pos": 41,
           "name": "Hanna Oberg",
           "country": "Sverige",
           "time": "45:20.2",
-          "diff": "4:04.6"
+          "diff": "4:04.6",
+          "penalties": 3
         }
       ]
     },

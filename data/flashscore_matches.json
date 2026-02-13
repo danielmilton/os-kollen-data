@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-13T17:43:45.128392+00:00",
+  "scraped_at": "2026-02-13T19:06:36.968295+00:00",
   "matches": [
     {
       "type": "team",
@@ -2071,7 +2071,7 @@
       "type": "startlist",
       "sport": "Längdskidor",
       "event": "Stafett damer",
-      "total": 10,
+      "total": 19,
       "swe_athletes": [
         {
           "name": "Sverige D",
@@ -2080,24 +2080,14 @@
       ],
       "athletes": [
         {
-          "name": "Sverige D",
-          "country": "Sverige",
-          "bib": 1
-        },
-        {
           "name": "Norge D",
           "country": "Norge",
           "bib": 2
         },
         {
-          "name": "Tyskland D",
-          "country": "Tyskland",
-          "bib": 3
-        },
-        {
-          "name": "Finland D",
-          "country": "Finland",
-          "bib": 4
+          "name": "Österrike D",
+          "country": "Österrike",
+          "bib": 18
         },
         {
           "name": "Schweiz D",
@@ -2105,9 +2095,49 @@
           "bib": 5
         },
         {
+          "name": "Slovenien D",
+          "country": "Slovenien",
+          "bib": 19
+        },
+        {
+          "name": "Tyskland D",
+          "country": "Tyskland",
+          "bib": 3
+        },
+        {
+          "name": "Sverige D",
+          "country": "Sverige",
+          "bib": 1
+        },
+        {
+          "name": "Frankrike D",
+          "country": "Frankrike",
+          "bib": 17
+        },
+        {
+          "name": "Finland D",
+          "country": "Finland",
+          "bib": 4
+        },
+        {
+          "name": "Polen D",
+          "country": "Polen",
+          "bib": 16
+        },
+        {
+          "name": "Lettland D",
+          "country": "Lettland",
+          "bib": 15
+        },
+        {
           "name": "USA D",
           "country": "USA",
           "bib": 6
+        },
+        {
+          "name": "Ukraina D",
+          "country": "Ukraina",
+          "bib": 14
         },
         {
           "name": "Italien D",
@@ -2115,9 +2145,19 @@
           "bib": 7
         },
         {
+          "name": "Kina D",
+          "country": "Kina",
+          "bib": 13
+        },
+        {
           "name": "Tjeckien D",
           "country": "Tjeckien",
           "bib": 8
+        },
+        {
+          "name": "Kazakstan D",
+          "country": "Kazakstan",
+          "bib": 12
         },
         {
           "name": "Kanada D",
@@ -2125,8 +2165,13 @@
           "bib": 9
         },
         {
-          "name": "Japan D",
-          "country": "Japan",
+          "name": "Australien D",
+          "country": "Australien",
+          "bib": 11
+        },
+        {
+          "name": "Estland D",
+          "country": "Estland",
           "bib": 10
         }
       ]
@@ -2635,82 +2680,82 @@
         {
           "name": "Mikulas Karlik",
           "country": "Tjeckien",
-          "bib": 46
+          "bib": 45
         },
         {
           "name": "Tuomas Harjula",
           "country": "Finland",
-          "bib": 32
+          "bib": 22
         },
         {
           "name": "Jakov Fak",
           "country": "Slovenien",
-          "bib": 33
+          "bib": 25
         },
         {
           "name": "Dmytro Pidruchnyi",
           "country": "Ukraina",
-          "bib": 34
+          "bib": 27
         },
         {
           "name": "Adam Runnalls",
           "country": "Kanada",
-          "bib": 35
+          "bib": 31
         },
         {
           "name": "Rihards Lozbers",
           "country": "Lettland",
-          "bib": 36
+          "bib": 32
         },
         {
           "name": "Tomas Mikyska",
           "country": "Tjeckien",
-          "bib": 37
+          "bib": 33
         },
         {
           "name": "Lovro Planko",
           "country": "Slovenien",
-          "bib": 38
+          "bib": 34
         },
         {
           "name": "Anton Vidmar",
           "country": "Slovenien",
-          "bib": 39
+          "bib": 35
         },
         {
           "name": "Miha Dovzan",
           "country": "Slovenien",
-          "bib": 40
+          "bib": 36
         },
         {
           "name": "Grzegorz Galica",
           "country": "Polen",
-          "bib": 41
+          "bib": 37
         },
         {
           "name": "Fabian Müllaür",
           "country": "Österrike",
-          "bib": 42
+          "bib": 39
         },
         {
           "name": "Otto Invenius",
           "country": "Finland",
-          "bib": 43
+          "bib": 40
         },
         {
           "name": "Blagoy Todev",
           "country": "Bulgarien",
-          "bib": 44
+          "bib": 43
         },
         {
           "name": "Rene Zahkna",
           "country": "Estland",
-          "bib": 45
+          "bib": 44
         },
         {
           "name": "David Zobel",
           "country": "Tyskland",
-          "bib": 31
+          "bib": 20
         },
         {
           "name": "Paul Schommer",
@@ -2785,92 +2830,92 @@
         {
           "name": "Andrejs Rastorgujevs",
           "country": "Lettland",
-          "bib": 16
+          "bib": 30
         },
         {
           "name": "Sebastian Samülsson",
           "country": "Sverige",
-          "bib": 2
+          "bib": 5
         },
         {
           "name": "Qüntin Fillon Maillet",
           "country": "Frankrike",
-          "bib": 3
+          "bib": 1
         },
         {
           "name": "Sturla Holm Lägreid",
           "country": "Norge",
-          "bib": 4
+          "bib": 3
         },
         {
           "name": "Tommaso Giacomel",
           "country": "Italien",
-          "bib": 5
+          "bib": 21
         },
         {
           "name": "Eric Perrot",
           "country": "Frankrike",
-          "bib": 6
+          "bib": 9
         },
         {
           "name": "Vetle Sjastad Christiansen",
           "country": "Norge",
-          "bib": 7
+          "bib": 2
         },
         {
           "name": "Philipp Nawrath",
           "country": "Tyskland",
-          "bib": 8
+          "bib": 26
         },
         {
           "name": "Philipp Horn",
           "country": "Tyskland",
-          "bib": 9
+          "bib": 10
         },
         {
           "name": "Campbell Wright",
           "country": "USA",
-          "bib": 10
+          "bib": 12
         },
         {
           "name": "Martin Ponsiluoma",
           "country": "Sverige",
-          "bib": 11
+          "bib": 7
         },
         {
           "name": "Justus Strelow",
           "country": "Tyskland",
-          "bib": 12
+          "bib": 23
         },
         {
           "name": "Simon Eder",
           "country": "Österrike",
-          "bib": 13
+          "bib": 46
         },
         {
           "name": "Malte Stefansson",
           "country": "Sverige",
-          "bib": 14
+          "bib": 42
         },
         {
           "name": "Emilien Jacqülin",
           "country": "Frankrike",
-          "bib": 15
+          "bib": 4
         },
         {
           "name": "Olav Botn Joahn",
           "country": "Norge",
-          "bib": 1
+          "bib": 8
         },
         {
           "name": "Jan Gunka",
           "country": "Polen",
-          "bib": 17
+          "bib": 28
         },
         {
           "name": "Lukas Hofer",
           "country": "Italien",
-          "bib": 18
+          "bib": 13
         },
         {
           "name": "Vitezslav Hornig",
@@ -2880,57 +2925,57 @@
         {
           "name": "Vitalii Mandzyn",
           "country": "Ukraina",
-          "bib": 20
+          "bib": 24
         },
         {
           "name": "Joscha Burkhalter",
           "country": "Schweiz",
-          "bib": 21
+          "bib": 14
         },
         {
           "name": "Fra Claude Fabien",
           "country": "Frankrike",
-          "bib": 22
+          "bib": 41
         },
         {
           "name": "Bel Claude Florent",
           "country": "Belgien",
-          "bib": 23
+          "bib": 38
         },
         {
           "name": "Michal Krcmar",
           "country": "Tjeckien",
-          "bib": 24
+          "bib": 29
         },
         {
           "name": "Johannes Dale",
           "country": "Norge",
-          "bib": 25
+          "bib": 6
         },
         {
           "name": "Olli Hiidensalo",
           "country": "Finland",
-          "bib": 26
+          "bib": 11
         },
         {
           "name": "Sebastian Stalder",
           "country": "Schweiz",
-          "bib": 27
+          "bib": 15
         },
         {
           "name": "Nicola Romanin",
           "country": "Italien",
-          "bib": 28
+          "bib": 16
         },
         {
           "name": "Niklas Hartweg",
           "country": "Schweiz",
-          "bib": 29
+          "bib": 17
         },
         {
           "name": "Tero Seppala",
           "country": "Finland",
-          "bib": 30
+          "bib": 18
         }
       ]
     },
@@ -4422,6 +4467,32 @@
           "penalties": 5
         }
       ]
+    },
+    {
+      "type": "team",
+      "sport": "Ishockey",
+      "event": "Herrar",
+      "event_id": "riCscclo",
+      "home": "Frankrike",
+      "away": "Tjeckien",
+      "home_score": 3,
+      "away_score": 6,
+      "status": "finished",
+      "timestamp": 1770997200,
+      "periods": "0-2, 3-2, 0-2"
+    },
+    {
+      "type": "team",
+      "sport": "Ishockey",
+      "event": "Damer",
+      "event_id": "UcMW1qOO",
+      "home": "Tjeckien",
+      "away": "Sverige",
+      "home_score": 0,
+      "away_score": 2,
+      "status": "finished",
+      "timestamp": 1770997200,
+      "periods": "0-0, 0-1, 0-1"
     }
   ]
 }

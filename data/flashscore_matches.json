@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-13T00:47:48.584150+00:00",
+  "scraped_at": "2026-02-13T01:23:50.779571+00:00",
   "matches": [
     {
       "type": "team",
@@ -45,6 +45,7 @@
       "sport": "Alpint",
       "event": "Störtlopp herrar",
       "status": "finished",
+      "timestamp": 1770460200,
       "results": [
         {
           "pos": 1,
@@ -74,6 +75,7 @@
       "sport": "Alpint",
       "event": "Störtlopp damer",
       "status": "finished",
+      "timestamp": 1770546600,
       "results": [
         {
           "pos": 1,
@@ -103,6 +105,7 @@
       "sport": "Alpint",
       "event": "Super-G herrar",
       "status": "finished",
+      "timestamp": 1770805800,
       "results": [
         {
           "pos": 1,
@@ -132,6 +135,7 @@
       "sport": "Alpint",
       "event": "Super-G damer",
       "status": "finished",
+      "timestamp": 1770892200,
       "results": [
         {
           "pos": 1,
@@ -161,6 +165,7 @@
       "sport": "Alpint",
       "event": "Kombination herrar",
       "status": "finished",
+      "timestamp": 1770629400,
       "results": [
         {
           "pos": 1,
@@ -190,6 +195,7 @@
       "sport": "Alpint",
       "event": "Kombination damer",
       "status": "finished",
+      "timestamp": 1770715800,
       "results": [
         {
           "pos": 1,
@@ -216,38 +222,10 @@
     },
     {
       "type": "individual",
-      "sport": "Alpint",
-      "event": "Team event",
-      "status": "finished",
-      "results": [
-        {
-          "pos": 1,
-          "name": "Österrike",
-          "country": "Österrike",
-          "diff": "0.00"
-        },
-        {
-          "pos": 2,
-          "name": "Tyskland",
-          "country": "Tyskland"
-        },
-        {
-          "pos": 3,
-          "name": "Norge",
-          "country": "Norge"
-        },
-        {
-          "pos": 13,
-          "name": "Sverige",
-          "country": "Sverige"
-        }
-      ]
-    },
-    {
-      "type": "individual",
       "sport": "Längdskidor",
       "event": "Sprint klassisk herrar",
       "status": "finished",
+      "timestamp": 1770726900,
       "results": [
         {
           "pos": 1,
@@ -301,6 +279,7 @@
       "sport": "Längdskidor",
       "event": "Sprint klassisk damer",
       "status": "finished",
+      "timestamp": 1770726300,
       "results": [
         {
           "pos": 1,
@@ -334,104 +313,9 @@
     {
       "type": "individual",
       "sport": "Längdskidor",
-      "event": "Sprint fristil herrar",
-      "status": "finished",
-      "results": [
-        {
-          "pos": 1,
-          "name": "Johannes Hösflot Kläbo",
-          "country": "Norge",
-          "time": "2:58.06",
-          "diff": "0.00"
-        },
-        {
-          "pos": 2,
-          "name": "Federico Pellegrino",
-          "country": "Italien",
-          "time": "2:58.32",
-          "diff": "0.26"
-        },
-        {
-          "pos": 3,
-          "name": "Alexander Terentev",
-          "country": "Ryssland",
-          "time": "2:59.37",
-          "diff": "1.31"
-        },
-        {
-          "pos": 6,
-          "name": "Oskar Svensson",
-          "country": "Sverige",
-          "time": "3:04.23",
-          "diff": "6.17"
-        },
-        {
-          "pos": 13,
-          "name": "Johan Häggström",
-          "country": "Sverige",
-          "time": "2:50.61"
-        },
-        {
-          "pos": 16,
-          "name": "Marcus Grate",
-          "country": "Sverige",
-          "time": "2:52.14"
-        },
-        {
-          "pos": 24,
-          "name": "Anton Persson",
-          "country": "Sverige",
-          "time": "2:53.71"
-        }
-      ]
-    },
-    {
-      "type": "individual",
-      "sport": "Längdskidor",
-      "event": "Sprint fristil damer",
-      "status": "finished",
-      "results": [
-        {
-          "pos": 1,
-          "name": "Jonna Sundling",
-          "country": "Sverige",
-          "time": "3:09.68",
-          "diff": "0.00"
-        },
-        {
-          "pos": 2,
-          "name": "Maja Dahlqvist",
-          "country": "Sverige",
-          "time": "3:12.56",
-          "diff": "2.88"
-        },
-        {
-          "pos": 3,
-          "name": "Jessica Diggins",
-          "country": "USA",
-          "time": "3:12.84",
-          "diff": "3.16"
-        },
-        {
-          "pos": 6,
-          "name": "Emma Ribom",
-          "country": "Sverige",
-          "time": "3:20.79",
-          "diff": "11.11"
-        },
-        {
-          "pos": 17,
-          "name": "Anna Dyvik",
-          "country": "Sverige",
-          "time": "3:19.15"
-        }
-      ]
-    },
-    {
-      "type": "individual",
-      "sport": "Längdskidor",
       "event": "Skiathlon herrar",
       "status": "finished",
+      "timestamp": 1770550200,
       "results": [
         {
           "pos": 1,
@@ -489,6 +373,7 @@
       "sport": "Längdskidor",
       "event": "Skiathlon damer",
       "status": "finished",
+      "timestamp": 1770465600,
       "results": [
         {
           "pos": 1,
@@ -532,6 +417,7 @@
       "sport": "Längdskidor",
       "event": "Individuell fristil damer",
       "status": "finished",
+      "timestamp": 1770897600,
       "results": [
         {
           "pos": 1,
@@ -575,6 +461,7 @@
       "sport": "Skidskytte",
       "event": "Mixedstafett",
       "status": "finished",
+      "timestamp": 1770555900,
       "results": [
         {
           "pos": 1,
@@ -615,6 +502,7 @@
       "sport": "Skidskytte",
       "event": "Individuell herrar",
       "status": "finished",
+      "timestamp": 1770726600,
       "results": [
         {
           "pos": 1,
@@ -679,6 +567,7 @@
       "sport": "Skidskytte",
       "event": "Individuell damer",
       "status": "finished",
+      "timestamp": 1770815700,
       "results": [
         {
           "pos": 1,
@@ -743,6 +632,7 @@
       "sport": "Backhoppning",
       "event": "Normalbacke herrar",
       "status": "finished",
+      "timestamp": 1770660000,
       "results": [
         {
           "pos": 1,
@@ -781,6 +671,7 @@
       "sport": "Backhoppning",
       "event": "Normalbacke damer",
       "status": "finished",
+      "timestamp": 1770486300,
       "results": [
         {
           "pos": 1,
@@ -827,6 +718,7 @@
       "sport": "Backhoppning",
       "event": "Normalbacke mixed",
       "status": "finished",
+      "timestamp": 1770745500,
       "results": [
         {
           "pos": 1,

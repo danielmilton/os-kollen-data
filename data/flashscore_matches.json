@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-13T13:25:57.536546+00:00",
+  "scraped_at": "2026-02-13T15:58:32.376415+00:00",
   "matches": [
     {
       "type": "team",
@@ -3886,6 +3886,97 @@
           "country": "Sverige",
           "time": "22:35.8",
           "diff": "1:59.6"
+        }
+      ]
+    },
+    {
+      "type": "team",
+      "sport": "Ishockey",
+      "event": "Herrar",
+      "event_id": "bafUK0th",
+      "home": "Finland",
+      "away": "Sverige",
+      "home_score": 4,
+      "away_score": 1,
+      "status": "finished",
+      "timestamp": 1770981000,
+      "periods": "2-0, 1-1, 1-0"
+    },
+    {
+      "type": "team",
+      "sport": "Ishockey",
+      "event": "Herrar",
+      "event_id": "QZDBXwQc",
+      "home": "Italien",
+      "away": "Slovakien",
+      "home_score": 2,
+      "away_score": 3,
+      "status": "finished",
+      "timestamp": 1770981000,
+      "periods": "0-0, 1-2, 1-1"
+    },
+    {
+      "type": "individual",
+      "sport": "Skidskytte",
+      "event": "Sprint herrar",
+      "status": "finished",
+      "timestamp": 1770987600,
+      "results": [
+        {
+          "pos": 1,
+          "name": "Qüntin Fillon Maillet",
+          "country": "Frankrike",
+          "time": "22:53.1",
+          "diff": "0.0",
+          "penalties": 0
+        },
+        {
+          "pos": 2,
+          "name": "Vetle Sjastad Christiansen",
+          "country": "Norge",
+          "time": "23:06.8",
+          "diff": "13.7",
+          "penalties": 0
+        },
+        {
+          "pos": 3,
+          "name": "Sturla Holm Lägreid",
+          "country": "Norge",
+          "time": "23:09.0",
+          "diff": "15.9",
+          "penalties": 0
+        },
+        {
+          "pos": 5,
+          "name": "Sebastian Samülsson",
+          "country": "Sverige",
+          "time": "23:18.1",
+          "diff": "25.0",
+          "penalties": 0
+        },
+        {
+          "pos": 7,
+          "name": "Martin Ponsiluoma",
+          "country": "Sverige",
+          "time": "23:39.8",
+          "diff": "46.7",
+          "penalties": 2
+        },
+        {
+          "pos": 43,
+          "name": "Malte Stefansson",
+          "country": "Sverige",
+          "time": "25:23.9",
+          "diff": "2:30.8",
+          "penalties": 2
+        },
+        {
+          "pos": 72,
+          "name": "Jesper Nelin",
+          "country": "Sverige",
+          "time": "26:23.0",
+          "diff": "3:29.9",
+          "penalties": 5
         }
       ]
     }

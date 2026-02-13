@@ -423,15 +423,6 @@
     "bronze_result": ""
   },
   {
-    "event": "Speedskating – Men's 10000m",
-    "gold_winner": "Metodej Jilek (CZE)",
-    "silver_winner": "Vladimir Semirunniy (POL)",
-    "bronze_winner": "Jorrit Bergsma (NED)",
-    "gold_result": "12:33.43",
-    "silver_result": "12:39.08",
-    "bronze_result": "12:40.48"
-  },
-  {
     "event": "Snowboarding – Men's Halfpipe",
     "gold_winner": "Yuto Totsuka (JPN)",
     "silver_winner": "Scotty James (AUS)",
@@ -439,5 +430,14 @@
     "gold_result": "95.00",
     "silver_result": "93.50",
     "bronze_result": "92.00"
+  },
+  {
+    "event": "Speedskating – Men's 10000m",
+    "gold_winner": "Metodej Jilek (CZE)",
+    "silver_winner": "Vladimir Semirunniy (POL)",
+    "bronze_winner": "Jorrit Bergsma (NED)",
+    "gold_result": "12:33.43",
+    "silver_result": "12:39.08",
+    "bronze_result": "12:40.48"
   }
 ]

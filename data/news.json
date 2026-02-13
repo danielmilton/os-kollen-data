@@ -1,18 +1,26 @@
 [
   {
+    "title": "Franskt OS-guld i skidskyttesprinten – Sebastian Samuelsson strax utanför pallen",
+    "link": "https://www.svt.se/sport/skidskytte/franskt-os-guld-i-skidskyttesprinten-sebastian-samuelsson-strax-utanfor-pallen",
+    "source": "SVT",
+    "published_at": "2026-02-13T14:57:15+01:00",
+    "summary": "Sprint i herrarnas OS-skidskytte. Då blev det franskt OS-guld – samtidigt som Sebastian Samuelsson var strax utanför pallen. – Härligt att se honom igen, ett väldigt fint lopp, säger TV4:s expert David Ekholm.",
+    "image_url": null
+  },
+  {
     "title": "Tre frågor om Tre Kronors OS-smäll mot Finland",
     "link": "https://www.expressen.se/sport/os/tre-fragor-om-tre-kronors-os-small-mot-finland/",
     "source": "Expressen",
     "published_at": "2026-02-13T14:46:57+01:00",
     "summary": "Hej och hå.Tre Kronor åkte på en rejäl smäll mot Finland i OS-hockeyn.Expressens utsända i Milano, David Carlsson och Johan Eriksson, försöker bli kloka på vad som hände.",
-    "image_url": "https://static.bonniernews.se/images/2d/6f/2d6ff5764d5b4247a86b2ad726dafce3/16x9/265@70.png"
+    "image_url": "https://static.bonniernews.se/images/78/ad/78ad5442dc56439bba2bb465a70b907b/16x9/265@70.jpg"
   },
   {
-    "title": "Tre Kronor föll mot Finland: ”Tyvärr passivt – slarvar”",
+    "title": "Tre Kronor föll mot Finland – är pressat att vinna nästa match: ”Det gör ont”",
     "link": "https://www.svt.se/sport/ishockey/tre-kronor-foll-mot-finland-tyvarr-passivt-slarvar",
     "source": "SVT",
     "published_at": "2026-02-13T14:41:35+01:00",
-    "summary": "Rivalmöte i OS-gruppspelets andra match. Då vann Finland mot Tre Kronor med 4–1. – Det är tyvärr passivt, säger Henrik Lundqvist i SVT:s studio.",
+    "summary": "Rivalmöte i OS-gruppspelets andra match. Då vann Finland mot Tre Kronor med 4–1. – Det här suger nu och det gör ont att förlora mot Finland, säger förbundskapten Sam Hallam till SVT Sport.",
     "image_url": null
   },
   {
@@ -160,14 +168,6 @@
     "image_url": "https://images.aftonbladet-cdn.se/v2/images/8abf1682-b7c2-4d2e-b728-525304bba32f?fit=crop&format=auto&h=500&q=50&w=1400&s=0759a82a171249027b449afcd4361462317cd98a"
   },
   {
-    "title": "Johaug svarar efter Frida Karlssons OS-guld: ”Höna av en fjäder”",
-    "link": "https://www.svt.se/sport/langdskidor/johaug-svarar-efter-frida-karlssons-os-guld-hona-av-en-fjader",
-    "source": "SVT",
-    "published_at": "2026-02-12T22:20:08+01:00",
-    "summary": "Therese Johaug menade att Frida Karlsson inte hade utvecklats på fyra år. Men efter svenskans dubbla OS-guld backar nu Johaug från uttalandet. – Det har blivit en höna av en fjäder, säger hon i Aktuellt.",
-    "image_url": null
-  },
-  {
     "title": "Hon jämförs med turkisk pistolman",
     "link": "https://www.aftonbladet.se/sportbladet/a/zO7xB9/isabella-wrana-jamfors-med-os-ikonen?utm_medium=rss",
     "source": "Aftonbladet",
@@ -205,6 +205,14 @@
     "source": "TV4",
     "published_at": "2026-02-11T17:27:51+00:00",
     "summary": "Högt tonläge och personangrepp • ”Avdankad förlorar-advokat”",
+    "image_url": null
+  },
+  {
+    "title": "Johaug svarar efter Frida Karlssons OS-guld: ”Höna av en fjäder”",
+    "link": "https://www.svt.se/sport/langdskidor/johaug-svarar-efter-frida-karlssons-os-guld-hona-av-en-fjader",
+    "source": "SVT",
+    "published_at": "2026-02-12T22:20:08+01:00",
+    "summary": "Therese Johaug menade att Frida Karlsson inte hade utvecklats på fyra år. Men efter svenskans dubbla OS-guld backar nu Johaug från uttalandet. – Det har blivit en höna av en fjäder, säger hon i Aktuellt.",
     "image_url": null
   },
   {
@@ -390,13 +398,5 @@
     "published_at": "2026-02-12T19:06:01+01:00",
     "summary": "Överkörning i OS-hockeyn",
     "image_url": "https://static.bonniernews.se/images/50/74/5074690582114dfea33322155e393772/16x9/265@70.jpg"
-  },
-  {
-    "title": "”Sämsta scenariot som kunde hända”",
-    "link": "https://www.aftonbladet.se/sportbladet/a/d4nkLJ/walter-wallberg-slutade-fyra-efter-dramatik?utm_medium=rss",
-    "source": "Aftonbladet",
-    "published_at": "2026-02-12T12:22:19+00:00",
-    "summary": "Wallberg efter OS-finalen: ”Är fruktansvärt”",
-    "image_url": "https://images.aftonbladet-cdn.se/v2/images/81408c5c-0e80-4599-9632-1453dab01f7a?fit=crop&format=auto&h=814&q=50&w=1900&s=c97df6dd9f29230c9a97bb1015b72400594cf4e6"
   }
 ]

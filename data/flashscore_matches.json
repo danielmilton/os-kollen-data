@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-13T22:45:53.802541+00:00",
+  "scraped_at": "2026-02-13T23:19:07.385152+00:00",
   "matches": [
     {
       "type": "team",
@@ -4766,6 +4766,19 @@
       "status": "finished",
       "timestamp": 1771013400,
       "periods": "1-0, 5-0, 0-0"
+    },
+    {
+      "type": "team",
+      "sport": "Ishockey",
+      "event": "Herrar",
+      "event_id": "YH0xlKBU",
+      "home": "Kanada",
+      "away": "Schweiz",
+      "home_score": 5,
+      "away_score": 1,
+      "status": "finished",
+      "timestamp": 1771013400,
+      "periods": "2-1, 1-0, 2-0"
     }
   ]
 }

@@ -51,9 +51,8 @@ FEEDS = [
     {"feed": "t_39_8406_IRdw204s_1_sv_1", "sport": "Alpint", "event": "Storslalom damer", "type": "individual"},
     {"feed": "t_39_8407_bsG67MtK_1_sv_1", "sport": "Alpint", "event": "Slalom herrar", "type": "individual"},
     {"feed": "t_39_8408_vc7EEKJm_1_sv_1", "sport": "Alpint", "event": "Slalom damer", "type": "individual"},
-    {"feed": "t_39_28273_I3qVGY4S_1_sv_1", "sport": "Alpint", "event": "Kombination herrar", "type": "individual"},
-    {"feed": "t_39_28275_xGt40CSk_1_sv_1", "sport": "Alpint", "event": "Kombination damer", "type": "individual"},
-    {"feed": "t_39_9083_jkIaCxJC_1_sv_1", "sport": "Alpint", "event": "Team event", "type": "individual"},
+    {"feed": "t_39_28273_I3qVGY4S_1_sv_1", "sport": "Alpint", "event": "Lagkombination herrar", "type": "individual"},
+    {"feed": "t_39_28275_xGt40CSk_1_sv_1", "sport": "Alpint", "event": "Lagkombination damer", "type": "individual"},
 
     # ── Längdskidor ──
     {"feed": "t_40_8462_tvqeUbWm_1_sv_1", "sport": "Längdskidor", "event": "Sprint klassisk herrar", "type": "individual"},

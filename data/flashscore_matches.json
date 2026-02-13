@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-13T01:32:32.073228+00:00",
+  "scraped_at": "2026-02-13T01:40:07.059520+00:00",
   "matches": [
     {
       "type": "team",
@@ -157,66 +157,6 @@
           "country": "Österrike",
           "time": "1:23.93",
           "diff": "0.52"
-        }
-      ]
-    },
-    {
-      "type": "individual",
-      "sport": "Alpint",
-      "event": "Kombination herrar",
-      "status": "finished",
-      "timestamp": 1770629400,
-      "results": [
-        {
-          "pos": 1,
-          "name": "Schweiz 2",
-          "country": "Schweiz",
-          "time": "2:44.04",
-          "diff": "0.00"
-        },
-        {
-          "pos": 2,
-          "name": "Schweiz",
-          "country": "Schweiz",
-          "time": "2:45.03",
-          "diff": "0.99"
-        },
-        {
-          "pos": 3,
-          "name": "Österrike",
-          "country": "Österrike",
-          "time": "2:45.03",
-          "diff": "0.99"
-        }
-      ]
-    },
-    {
-      "type": "individual",
-      "sport": "Alpint",
-      "event": "Kombination damer",
-      "status": "finished",
-      "timestamp": 1770715800,
-      "results": [
-        {
-          "pos": 1,
-          "name": "Österrike 2 D",
-          "country": "Österrike",
-          "time": "2:21.66",
-          "diff": "0.00"
-        },
-        {
-          "pos": 2,
-          "name": "Tyskland D",
-          "country": "Tyskland",
-          "time": "2:21.71",
-          "diff": "0.05"
-        },
-        {
-          "pos": 3,
-          "name": "USA 2 D",
-          "country": "USA",
-          "time": "2:21.91",
-          "diff": "0.25"
         }
       ]
     },
@@ -4895,6 +4835,66 @@
           "name": "USA",
           "country": "USA",
           "bib": 16
+        }
+      ]
+    },
+    {
+      "type": "individual",
+      "sport": "Alpint",
+      "event": "Lagkombination herrar",
+      "status": "finished",
+      "timestamp": 1770629400,
+      "results": [
+        {
+          "pos": 1,
+          "name": "Schweiz 2",
+          "country": "Schweiz",
+          "time": "2:44.04",
+          "diff": "0.00"
+        },
+        {
+          "pos": 2,
+          "name": "Schweiz",
+          "country": "Schweiz",
+          "time": "2:45.03",
+          "diff": "0.99"
+        },
+        {
+          "pos": 3,
+          "name": "Österrike",
+          "country": "Österrike",
+          "time": "2:45.03",
+          "diff": "0.99"
+        }
+      ]
+    },
+    {
+      "type": "individual",
+      "sport": "Alpint",
+      "event": "Lagkombination damer",
+      "status": "finished",
+      "timestamp": 1770715800,
+      "results": [
+        {
+          "pos": 1,
+          "name": "Österrike 2 D",
+          "country": "Österrike",
+          "time": "2:21.66",
+          "diff": "0.00"
+        },
+        {
+          "pos": 2,
+          "name": "Tyskland D",
+          "country": "Tyskland",
+          "time": "2:21.71",
+          "diff": "0.05"
+        },
+        {
+          "pos": 3,
+          "name": "USA 2 D",
+          "country": "USA",
+          "time": "2:21.91",
+          "diff": "0.25"
         }
       ]
     }

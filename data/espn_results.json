@@ -448,5 +448,14 @@
     "gold_result": "3:43.33",
     "silver_result": "3:44.21",
     "bronze_result": "3:44.40"
+  },
+  {
+    "event": "Figure Skating – Men's Singles",
+    "gold_winner": "MIkhail Shaidorov (KAZ)",
+    "silver_winner": "Yuma Kagiyama (JPN)",
+    "bronze_winner": "Shun Sato (JPN)",
+    "gold_result": "291.58",
+    "silver_result": "280.06",
+    "bronze_result": "274.90"
   }
 ]

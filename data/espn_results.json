@@ -412,5 +412,14 @@
     "gold_result": "",
     "silver_result": "",
     "bronze_result": ""
+  },
+  {
+    "event": "Biathlon – Men's 10km Sprint",
+    "gold_winner": "Quentin Fillon Maillet (FRA)",
+    "silver_winner": "Vetle Sjaastad Christiansen (NOR)",
+    "bronze_winner": "Sturla Holm Laegreid (NOR)",
+    "gold_result": "22:53.1",
+    "silver_result": "23:06.8",
+    "bronze_result": "23:09.0"
   }
 ]

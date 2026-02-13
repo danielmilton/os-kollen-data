@@ -211,25 +211,36 @@ def _clean_team(name: str) -> str:
     return name
 
 
+def _fix_diacritics(s: str) -> str:
+    """Restore common Nordic/European diacritics from ASCII transliterations.
+
+    Flashscore URL slugs strip diacritics: 'hagstroem' → 'hagström'.
+    """
+    for ascii_form, char in [("oe", "ö"), ("ae", "ä"), ("ue", "ü")]:
+        s = s.replace(ascii_form, char)
+        s = s.replace(ascii_form.capitalize(), char.upper())
+    return s
+
+
 def _full_name(ae: str, wu: str) -> str:
     """Convert abbreviated name + URL slug to full name.
 
-    AE='Klaebo J. H.', WU='klaebo-johannes-hoesflot' → 'Johannes Hoesflot Klaebo'
+    AE='Klaebo J. H.', WU='klaebo-johannes-hoesflot' → 'Johannes Hösflot Kläbo'
     """
     if not wu or not ae:
-        return ae
+        return _fix_diacritics(ae) if ae else ae
     parts = wu.split("-")
     if len(parts) < 2:
-        return ae
+        return _fix_diacritics(ae)
     # Count initials in AE (words like "J.", "H.", "E.")
     initials = sum(1 for w in ae.split() if len(w) <= 3 and w.endswith("."))
     if initials == 0:
-        return ae
+        return _fix_diacritics(ae)
     n_given = min(initials, len(parts) - 1)
     surname_parts = parts[: len(parts) - n_given]
     given_parts = parts[len(parts) - n_given :]
-    surname = " ".join(p.title() for p in surname_parts)
-    given = " ".join(p.title() for p in given_parts)
+    surname = " ".join(_fix_diacritics(p).title() for p in surname_parts)
+    given = " ".join(_fix_diacritics(p).title() for p in given_parts)
     return f"{given} {surname}" if given else surname
 
 
@@ -296,6 +307,8 @@ def parse_individual_feed(data: str, entry: dict) -> dict | None:
     athletes: list[dict] = []
     has_finished = False
     current_round = None  # Track section via ZAE header field
+    # For sprint events: collect best times from heat rounds to fill missing Totalt times
+    heat_times: dict[str, str] = {}  # WU key -> time
 
     for rec in records[1:]:
         d, raa, rab = parse_fields(rec)
@@ -308,20 +321,24 @@ def parse_individual_feed(data: str, entry: dict) -> dict | None:
         if "AE" not in d:
             continue
 
-        # For multi-round events (sprints): only use "Totalt" (overall standings)
-        # For single-section events: current_round stays None, all records pass
+        ra = dict(zip(raa, rab))
+
+        # Collect times from heat rounds (non-Totalt) for fallback
         if current_round is not None and current_round != "Totalt":
+            wu = d.get("WU", d.get("AE", ""))
+            if ra.get("5") and wu not in heat_times:
+                heat_times[wu] = ra["5"]
             continue
 
         if d.get("AB") == "3":
             has_finished = True
 
-        ra = dict(zip(raa, rab))
         pos = ra.get("7", "")
         athlete = {
             "pos": _int(pos) if pos else 999,
             "name": _full_name(d.get("AE", ""), d.get("WU", "")),
             "country": d.get("FU", ""),
+            "_wu": d.get("WU", d.get("AE", "")),
         }
         # Time-based sports (alpine, XC, biathlon)
         if ra.get("5"):
@@ -345,6 +362,12 @@ def parse_individual_feed(data: str, entry: dict) -> dict | None:
             athlete["penalties"] = _int(pen_str)
         athletes.append(athlete)
 
+    # Fill missing times from heat rounds (sprint events)
+    if heat_times:
+        for a in athletes:
+            if "time" not in a and a.get("_wu") in heat_times:
+                a["time"] = heat_times[a["_wu"]]
+
     if not has_finished or not athletes:
         return None
 
@@ -361,6 +384,10 @@ def parse_individual_feed(data: str, entry: dict) -> dict | None:
             seen.add(key)
             filtered.append(a)
     filtered.sort(key=lambda x: x["pos"])
+
+    # Strip internal helper fields
+    for a in filtered:
+        a.pop("_wu", None)
 
     if not filtered:
         return None

@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-13T00:30:09.086299+00:00",
+  "scraped_at": "2026-02-13T00:47:48.584150+00:00",
   "matches": [
     {
       "type": "team",
@@ -149,7 +149,7 @@
         },
         {
           "pos": 3,
-          "name": "Cornelia Huetter",
+          "name": "Cornelia Hütter",
           "country": "Österrike",
           "time": "1:23.93",
           "diff": "0.52"
@@ -251,7 +251,7 @@
       "results": [
         {
           "pos": 1,
-          "name": "Johannes Hoesflot Klaebo",
+          "name": "Johannes Hösflot Kläbo",
           "country": "Norge",
           "time": "3:39.74",
           "diff": "0.00"
@@ -273,22 +273,26 @@
         {
           "pos": 9,
           "name": "Alvar Myhlback",
-          "country": "Sverige"
+          "country": "Sverige",
+          "time": "3:14.53"
         },
         {
           "pos": 10,
           "name": "Anton Grahn",
-          "country": "Sverige"
+          "country": "Sverige",
+          "time": "3:18.21"
         },
         {
           "pos": 20,
           "name": "Edvin Anger",
-          "country": "Sverige"
+          "country": "Sverige",
+          "time": "3:17.31"
         },
         {
           "pos": 30,
-          "name": "Johan Haeggstroem",
-          "country": "Sverige"
+          "name": "Johan Häggström",
+          "country": "Sverige",
+          "time": "3:18.73"
         }
       ]
     },
@@ -321,8 +325,9 @@
         },
         {
           "pos": 13,
-          "name": "Johanna Hagstroem",
-          "country": "Sverige"
+          "name": "Johanna Hagström",
+          "country": "Sverige",
+          "time": "3:38.85"
         }
       ]
     },
@@ -334,7 +339,7 @@
       "results": [
         {
           "pos": 1,
-          "name": "Johannes Hoesflot Klaebo",
+          "name": "Johannes Hösflot Kläbo",
           "country": "Norge",
           "time": "2:58.06",
           "diff": "0.00"
@@ -362,18 +367,21 @@
         },
         {
           "pos": 13,
-          "name": "Johan Haeggstroem",
-          "country": "Sverige"
+          "name": "Johan Häggström",
+          "country": "Sverige",
+          "time": "2:50.61"
         },
         {
           "pos": 16,
           "name": "Marcus Grate",
-          "country": "Sverige"
+          "country": "Sverige",
+          "time": "2:52.14"
         },
         {
           "pos": 24,
           "name": "Anton Persson",
-          "country": "Sverige"
+          "country": "Sverige",
+          "time": "2:53.71"
         }
       ]
     },
@@ -414,7 +422,8 @@
         {
           "pos": 17,
           "name": "Anna Dyvik",
-          "country": "Sverige"
+          "country": "Sverige",
+          "time": "3:19.15"
         }
       ]
     },
@@ -426,7 +435,7 @@
       "results": [
         {
           "pos": 1,
-          "name": "Johannes Hoesflot Klaebo",
+          "name": "Johannes Hösflot Kläbo",
           "country": "Norge",
           "time": "46:11.0",
           "diff": "0.0"
@@ -440,7 +449,7 @@
         },
         {
           "pos": 3,
-          "name": "Martin Loewstroem Nyenget",
+          "name": "Martin Löwström Nyenget",
           "country": "Norge",
           "time": "46:13.1",
           "diff": "2.1"
@@ -583,7 +592,7 @@
         },
         {
           "pos": 3,
-          "name": "Johannes Hoesflot Klaebo",
+          "name": "Johannes Hösflot Kläbo",
           "country": "Norge",
           "time": "38:32.3",
           "diff": "37.5"
@@ -604,7 +613,7 @@
         },
         {
           "pos": 21,
-          "name": "Johan Haeggstroem",
+          "name": "Johan Häggström",
           "country": "Sverige",
           "time": "40:30.9",
           "diff": "2:36.1"
@@ -739,7 +748,7 @@
         },
         {
           "pos": 3,
-          "name": "Sturla Holm Laegreid",
+          "name": "Sturla Holm Lägreid",
           "country": "Norge",
           "time": "52:19.8",
           "diff": "48.3",
@@ -747,7 +756,7 @@
         },
         {
           "pos": 7,
-          "name": "Sebastian Samuelsson",
+          "name": "Sebastian Samülsson",
           "country": "Sverige",
           "time": "54:00.8",
           "diff": "2:29.3",
@@ -889,7 +898,7 @@
       "results": [
         {
           "pos": 1,
-          "name": "Odine Stroem Anna",
+          "name": "Odine Ström Anna",
           "country": "Norge",
           "dist": "267.3",
           "dist_pts": "100.0",
@@ -1266,7 +1275,7 @@
       "swe_athletes": [],
       "athletes": [
         {
-          "name": "Sam Maes",
+          "name": "Sam Mäs",
           "country": "Belgien",
           "bib": 16
         },
@@ -1326,12 +1335,12 @@
           "bib": 20
         },
         {
-          "name": "Leo Anguenot",
+          "name": "Leo Angünot",
           "country": "Frankrike",
           "bib": 19
         },
         {
-          "name": "Raphael Haaser",
+          "name": "Raphäl Haaser",
           "country": "Österrike",
           "bib": 18
         },
@@ -1386,7 +1395,7 @@
           "bib": 8
         },
         {
-          "name": "Luca Aerni",
+          "name": "Luca Ärni",
           "country": "Schweiz",
           "bib": 7
         },
@@ -1438,12 +1447,12 @@
       ],
       "athletes": [
         {
-          "name": "Mina Fuerst Holtmann",
+          "name": "Mina Fürst Holtmann",
           "country": "Norge",
           "bib": 16
         },
         {
-          "name": "Mikaela Shiffrin",
+          "name": "Mikäla Shiffrin",
           "country": "USA",
           "bib": 30
         },
@@ -1468,7 +1477,7 @@
           "bib": 26
         },
         {
-          "name": "Lena Duerr",
+          "name": "Lena Dürr",
           "country": "Tyskland",
           "bib": 25
         },
@@ -1612,17 +1621,17 @@
           "bib": 29
         },
         {
-          "name": "Sam Maes",
+          "name": "Sam Mäs",
           "country": "Belgien",
           "bib": 28
         },
         {
-          "name": "Manuel Feller",
+          "name": "Manül Feller",
           "country": "Österrike",
           "bib": 27
         },
         {
-          "name": "Samuel Kolega",
+          "name": "Samül Kolega",
           "country": "Kroatien",
           "bib": 26
         },
@@ -1652,7 +1661,7 @@
           "bib": 21
         },
         {
-          "name": "Michael Matt",
+          "name": "Michäl Matt",
           "country": "Österrike",
           "bib": 20
         },
@@ -1732,7 +1741,7 @@
           "bib": 5
         },
         {
-          "name": "Clement Noel",
+          "name": "Clement Nöl",
           "country": "Frankrike",
           "bib": 4
         },
@@ -1755,7 +1764,7 @@
       "total": 30,
       "swe_athletes": [
         {
-          "name": "Cornelia Oehlund",
+          "name": "Cornelia Öhlund",
           "country": "Sverige"
         },
         {
@@ -1773,7 +1782,7 @@
       ],
       "athletes": [
         {
-          "name": "Cornelia Oehlund",
+          "name": "Cornelia Öhlund",
           "country": "Sverige",
           "bib": 16
         },
@@ -1853,7 +1862,7 @@
           "bib": 1
         },
         {
-          "name": "Mina Fuerst Holtmann",
+          "name": "Mina Fürst Holtmann",
           "country": "Norge",
           "bib": 15
         },
@@ -1903,12 +1912,12 @@
           "bib": 6
         },
         {
-          "name": "Lena Duerr",
+          "name": "Lena Dürr",
           "country": "Tyskland",
           "bib": 5
         },
         {
-          "name": "Mikaela Shiffrin",
+          "name": "Mikäla Shiffrin",
           "country": "USA",
           "bib": 4
         },
@@ -1949,7 +1958,7 @@
       ],
       "athletes": [
         {
-          "name": "Johannes Hoesflot Klaebo",
+          "name": "Johannes Hösflot Kläbo",
           "country": "Norge",
           "bib": 44
         },
@@ -1959,7 +1968,7 @@
           "bib": 54
         },
         {
-          "name": "Harald Oestberg Amundsen",
+          "name": "Harald Östberg Amundsen",
           "country": "Norge",
           "bib": 58
         },
@@ -1969,7 +1978,7 @@
           "bib": 48
         },
         {
-          "name": "Martin Loewstroem Nyenget",
+          "name": "Martin Löwström Nyenget",
           "country": "Norge",
           "bib": 60
         },
@@ -2049,7 +2058,7 @@
           "bib": 6
         },
         {
-          "name": "Noe Naeff",
+          "name": "Nö Näff",
           "country": "Schweiz",
           "bib": 7
         },
@@ -2089,7 +2098,7 @@
           "bib": 14
         },
         {
-          "name": "Matyas Bauer",
+          "name": "Matyas Baür",
           "country": "Tjeckien",
           "bib": 15
         },
@@ -2144,7 +2153,7 @@
           "bib": 26
         },
         {
-          "name": "Joe Davies",
+          "name": "Jö Davies",
           "country": "Storbritannien",
           "bib": 27
         },
@@ -2404,7 +2413,7 @@
           "bib": 91
         },
         {
-          "name": "Samuel Ikpefan",
+          "name": "Samül Ikpefan",
           "country": "Nigeria",
           "bib": 92
         },
@@ -2474,7 +2483,7 @@
           "bib": 105
         },
         {
-          "name": "Klaus Jungbluth Rodriguez",
+          "name": "Klaus Jungbluth Rodrigüz",
           "country": "Ecuador",
           "bib": 106
         },
@@ -2607,7 +2616,7 @@
           "bib": 17
         },
         {
-          "name": "Johannes Hoesflot Klaebo",
+          "name": "Johannes Hösflot Kläbo",
           "country": "Norge",
           "bib": 1
         },
@@ -2642,7 +2651,7 @@
           "bib": 10
         },
         {
-          "name": "Martin Loewstroem Nyenget",
+          "name": "Martin Löwström Nyenget",
           "country": "Norge",
           "bib": 9
         },
@@ -2657,12 +2666,12 @@
           "bib": 7
         },
         {
-          "name": "Simen Hegstad Krueger",
+          "name": "Simen Hegstad Krüger",
           "country": "Norge",
           "bib": 6
         },
         {
-          "name": "Harald Oestberg Amundsen",
+          "name": "Harald Östberg Amundsen",
           "country": "Norge",
           "bib": 5
         },
@@ -2811,7 +2820,7 @@
           "bib": 13
         },
         {
-          "name": "Kristin Austgulen Fosnaes",
+          "name": "Kristin Austgulen Fosnäs",
           "country": "Norge",
           "bib": 12
         },
@@ -2821,7 +2830,7 @@
           "bib": 11
         },
         {
-          "name": "Nadine Faehndrich",
+          "name": "Nadine Fähndrich",
           "country": "Schweiz",
           "bib": 10
         },
@@ -2831,7 +2840,7 @@
           "bib": 9
         },
         {
-          "name": "Jasmi Joensuu",
+          "name": "Jasmi Jönsuu",
           "country": "Finland",
           "bib": 8
         },
@@ -3014,7 +3023,7 @@
           "country": "Sverige"
         },
         {
-          "name": "Sebastian Samuelsson",
+          "name": "Sebastian Samülsson",
           "country": "Sverige"
         }
       ],
@@ -3170,7 +3179,7 @@
           "bib": 85
         },
         {
-          "name": "Fabian Muellauer",
+          "name": "Fabian Müllaür",
           "country": "Österrike",
           "bib": 84
         },
@@ -3210,7 +3219,7 @@
           "bib": 77
         },
         {
-          "name": "Dmitrii Shamaev",
+          "name": "Dmitrii Shamäv",
           "country": "Rumänien",
           "bib": 76
         },
@@ -3285,7 +3294,7 @@
           "bib": 28
         },
         {
-          "name": "Emilien Jacquelin",
+          "name": "Emilien Jacqülin",
           "country": "Frankrike",
           "bib": 42
         },
@@ -3345,17 +3354,17 @@
           "bib": 62
         },
         {
-          "name": "Sturla Holm Laegreid",
+          "name": "Sturla Holm Lägreid",
           "country": "Norge",
           "bib": 56
         },
         {
-          "name": "Quentin Fillon Maillet",
+          "name": "Qüntin Fillon Maillet",
           "country": "Frankrike",
           "bib": 40
         },
         {
-          "name": "Sebastian Samuelsson",
+          "name": "Sebastian Samülsson",
           "country": "Sverige",
           "bib": 44
         },
@@ -3390,7 +3399,7 @@
           "bib": 15
         },
         {
-          "name": "Jacques Jefferies",
+          "name": "Jacqüs Jefferies",
           "country": "Storbritannien",
           "bib": 14
         },
@@ -3535,7 +3544,7 @@
           "bib": 25
         },
         {
-          "name": "Maya Cloetens",
+          "name": "Maya Clötens",
           "country": "Belgien",
           "bib": 24
         },
@@ -3674,7 +3683,7 @@
           "country": "Sverige"
         },
         {
-          "name": "Sebastian Samuelsson",
+          "name": "Sebastian Samülsson",
           "country": "Sverige"
         }
       ],
@@ -3745,7 +3754,7 @@
           "bib": 19
         },
         {
-          "name": "Emilien Jacquelin",
+          "name": "Emilien Jacqülin",
           "country": "Frankrike",
           "bib": 18
         },
@@ -3810,7 +3819,7 @@
           "bib": 6
         },
         {
-          "name": "Sturla Holm Laegreid",
+          "name": "Sturla Holm Lägreid",
           "country": "Norge",
           "bib": 5
         },
@@ -3820,12 +3829,12 @@
           "bib": 4
         },
         {
-          "name": "Quentin Fillon Maillet",
+          "name": "Qüntin Fillon Maillet",
           "country": "Frankrike",
           "bib": 3
         },
         {
-          "name": "Sebastian Samuelsson",
+          "name": "Sebastian Samülsson",
           "country": "Sverige",
           "bib": 2
         }
@@ -3895,7 +3904,7 @@
           "bib": 25
         },
         {
-          "name": "Maya Cloetens",
+          "name": "Maya Clötens",
           "country": "Belgien",
           "bib": 24
         },
@@ -4034,7 +4043,7 @@
           "country": "Sverige"
         },
         {
-          "name": "Sebastian Samuelsson",
+          "name": "Sebastian Samülsson",
           "country": "Sverige"
         }
       ],
@@ -4105,7 +4114,7 @@
           "bib": 19
         },
         {
-          "name": "Emilien Jacquelin",
+          "name": "Emilien Jacqülin",
           "country": "Frankrike",
           "bib": 18
         },
@@ -4170,7 +4179,7 @@
           "bib": 6
         },
         {
-          "name": "Sturla Holm Laegreid",
+          "name": "Sturla Holm Lägreid",
           "country": "Norge",
           "bib": 5
         },
@@ -4180,12 +4189,12 @@
           "bib": 4
         },
         {
-          "name": "Quentin Fillon Maillet",
+          "name": "Qüntin Fillon Maillet",
           "country": "Frankrike",
           "bib": 3
         },
         {
-          "name": "Sebastian Samuelsson",
+          "name": "Sebastian Samülsson",
           "country": "Sverige",
           "bib": 2
         }
@@ -4255,7 +4264,7 @@
           "bib": 25
         },
         {
-          "name": "Maya Cloetens",
+          "name": "Maya Clötens",
           "country": "Belgien",
           "bib": 24
         },
@@ -4582,7 +4591,7 @@
           "bib": 40
         },
         {
-          "name": "Oestvold Benjamin",
+          "name": "Östvold Benjamin",
           "country": "Norge",
           "bib": 41
         },
@@ -4692,7 +4701,7 @@
           "bib": 12
         },
         {
-          "name": "Manuel Fettner",
+          "name": "Manül Fettner",
           "country": "Österrike",
           "bib": 13
         },
@@ -4816,7 +4825,7 @@
           "bib": 34
         },
         {
-          "name": "Ingvild Synnoeve Midtskogen",
+          "name": "Ingvild Synnöve Midtskogen",
           "country": "Norge",
           "bib": 35
         },
@@ -4856,7 +4865,7 @@
           "bib": 42
         },
         {
-          "name": "Kykkaenen Julia",
+          "name": "Kykkänen Julia",
           "country": "Finland",
           "bib": 43
         },
@@ -4911,7 +4920,7 @@
           "bib": 3
         },
         {
-          "name": "Odine Stroem Anna",
+          "name": "Odine Ström Anna",
           "country": "Norge",
           "bib": 4
         },
@@ -4956,7 +4965,7 @@
           "bib": 12
         },
         {
-          "name": "Julia Muehlbacher",
+          "name": "Julia Mühlbacher",
           "country": "Österrike",
           "bib": 13
         },

@@ -306,6 +306,7 @@ def parse_individual_feed(data: str, entry: dict) -> dict | None:
     records = data.split("~")
     athletes: list[dict] = []
     has_finished = False
+    event_timestamp = None
     current_round = None  # Track section via ZAE header field
     # For sprint events: collect best times from heat rounds to fill missing Totalt times
     heat_times: dict[str, str] = {}  # WU key -> time
@@ -320,6 +321,11 @@ def parse_individual_feed(data: str, entry: dict) -> dict | None:
 
         if "AE" not in d:
             continue
+
+        # Track event timestamp from AD field
+        ad = _int(d.get("AD", ""))
+        if ad and (event_timestamp is None or ad > event_timestamp):
+            event_timestamp = ad
 
         ra = dict(zip(raa, rab))
 
@@ -371,6 +377,12 @@ def parse_individual_feed(data: str, entry: dict) -> dict | None:
     if not has_finished or not athletes:
         return None
 
+    # Reject old data (e.g. Beijing 2022 results for events not yet competed in 2026)
+    if event_timestamp and event_timestamp < MIN_TIMESTAMP:
+        print(f"  SKIP {entry['sport']} {entry['event']}: old data "
+              f"(timestamp {event_timestamp} < {MIN_TIMESTAMP})")
+        return None
+
     athletes.sort(key=lambda x: x["pos"])
 
     # Keep Swedish athletes + top 3
@@ -397,6 +409,7 @@ def parse_individual_feed(data: str, entry: dict) -> dict | None:
         "sport": entry["sport"],
         "event": entry["event"],
         "status": "finished",
+        "timestamp": event_timestamp,
         "results": filtered,
     }
 
@@ -456,9 +469,10 @@ def _int(s: str) -> int | None:
         return None
 
 
-def scrape_all() -> list[dict]:
-    """Scrape all feeds with rate limiting."""
+def scrape_all() -> tuple[list[dict], set[str]]:
+    """Scrape all feeds with rate limiting. Returns (matches, attempted_keys)."""
     all_matches: list[dict] = []
+    attempted_keys: set[str] = set()  # Track all individual event keys we tried
 
     # Team sports: scrape from HTML results page (full history)
     for entry in TEAM_FEEDS:
@@ -469,6 +483,9 @@ def scrape_all() -> list[dict]:
 
     # Individual sports: scrape from feed API
     for entry in FEEDS:
+        key = f"{entry['sport']}:{entry['event']}"
+        attempted_keys.add(key)
+
         data = fetch_feed(entry["feed"])
         if not data:
             # Retry once
@@ -495,7 +512,7 @@ def scrape_all() -> list[dict]:
 
         time.sleep(DELAY_BETWEEN_FEEDS)
 
-    return all_matches
+    return all_matches, attempted_keys
 
 
 def _match_key(m: dict) -> str:
@@ -505,8 +522,8 @@ def _match_key(m: dict) -> str:
     return f"{m['sport']}:{m['event']}"
 
 
-def write_if_changed(matches: list[dict]) -> bool:
-    """Merge new matches with existing data and write. Never lose old results."""
+def write_if_changed(matches: list[dict], attempted_keys: set[str] | None = None) -> bool:
+    """Merge new matches with existing data and write. Removes stale entries."""
     try:
         with open(OUTPUT_FILE) as f:
             existing = json.load(f)
@@ -517,10 +534,19 @@ def write_if_changed(matches: list[dict]) -> bool:
         print("  Scraper returned 0 matches, keeping existing data")
         return False
 
+    # Build set of new keys for quick lookup
+    new_keys = {_match_key(m) for m in matches}
+
     # Build merged dict: start with existing, update/add from new scrape
     merged = {}
     for m in existing.get("matches", []):
-        merged[_match_key(m)] = m
+        key = _match_key(m)
+        # Remove stale entries: if we attempted this key but got no new data,
+        # drop the old entry (it was likely old/invalid data)
+        if attempted_keys and key in attempted_keys and key not in new_keys:
+            print(f"  REMOVE stale: {key}")
+            continue
+        merged[key] = m
     for m in matches:
         merged[_match_key(m)] = m  # New data overwrites old for same key
 
@@ -542,9 +568,9 @@ def write_if_changed(matches: list[dict]) -> bool:
 
 def main():
     print("Scraping Flashscore Winter Olympics 2026...")
-    matches = scrape_all()
+    matches, attempted_keys = scrape_all()
     print(f"Total: {len(matches)} entries")
-    changed = write_if_changed(matches)
+    changed = write_if_changed(matches, attempted_keys)
     if changed:
         print("Data changed!")
     else:

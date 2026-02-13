@@ -394,5 +394,14 @@
     "gold_result": "6:46.17",
     "silver_result": "6:46.27",
     "bronze_result": "6:46.34"
+  },
+  {
+    "event": "Cross-Country Skiing – Men's 10km Individual",
+    "gold_winner": "Johannes Høsflot Klæbo (NOR)",
+    "silver_winner": "Mathis Desloges (FRA)",
+    "bronze_winner": "Einar Hedegart (NOR)",
+    "gold_result": "20:36.2",
+    "silver_result": "20:41.1",
+    "bronze_result": "20:50.2"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-13T11:09:15.602777+00:00",
+  "scraped_at": "2026-02-13T13:25:57.536546+00:00",
   "matches": [
     {
       "type": "team",
@@ -2134,482 +2134,6 @@
     {
       "type": "startlist",
       "sport": "Skidskytte",
-      "event": "Sprint herrar",
-      "total": 90,
-      "swe_athletes": [
-        {
-          "name": "Jesper Nelin",
-          "country": "Sverige"
-        },
-        {
-          "name": "Malte Stefansson",
-          "country": "Sverige"
-        },
-        {
-          "name": "Martin Ponsiluoma",
-          "country": "Sverige"
-        },
-        {
-          "name": "Sebastian Samülsson",
-          "country": "Sverige"
-        }
-      ],
-      "athletes": [
-        {
-          "name": "Niklas Hartweg",
-          "country": "Schweiz",
-          "bib": 41
-        },
-        {
-          "name": "Mikulas Karlik",
-          "country": "Tjeckien",
-          "bib": 68
-        },
-        {
-          "name": "Renars Birkentals",
-          "country": "Lettland",
-          "bib": 67
-        },
-        {
-          "name": "Patrick Jakob",
-          "country": "Österrike",
-          "bib": 66
-        },
-        {
-          "name": "Otto Invenius",
-          "country": "Finland",
-          "bib": 65
-        },
-        {
-          "name": "Johannes Dale",
-          "country": "Norge",
-          "bib": 64
-        },
-        {
-          "name": "George Buta",
-          "country": "Rumänien",
-          "bib": 63
-        },
-        {
-          "name": "Zachary Connely",
-          "country": "Kanada",
-          "bib": 61
-        },
-        {
-          "name": "Konstantin Vasilev",
-          "country": "Bulgarien",
-          "bib": 57
-        },
-        {
-          "name": "Nicola Romanin",
-          "country": "Italien",
-          "bib": 53
-        },
-        {
-          "name": "Pavel Magazeev",
-          "country": "Moldavien",
-          "bib": 45
-        },
-        {
-          "name": "Kresimir Crnkovic",
-          "country": "Kroatien",
-          "bib": 43
-        },
-        {
-          "name": "Markos Kehva Mark",
-          "country": "Estland",
-          "bib": 69
-        },
-        {
-          "name": "Anton Dudchenko",
-          "country": "Ukraina",
-          "bib": 39
-        },
-        {
-          "name": "Lovro Planko",
-          "country": "Slovenien",
-          "bib": 37
-        },
-        {
-          "name": "Grzegorz Galica",
-          "country": "Polen",
-          "bib": 35
-        },
-        {
-          "name": "Tero Seppala",
-          "country": "Finland",
-          "bib": 34
-        },
-        {
-          "name": "Jakov Fak",
-          "country": "Slovenien",
-          "bib": 33
-        },
-        {
-          "name": "Paul Schommer",
-          "country": "USA",
-          "bib": 31
-        },
-        {
-          "name": "Sondre Slettemark",
-          "country": "Grönland",
-          "bib": 29
-        },
-        {
-          "name": "Sebastian Stalder",
-          "country": "Schweiz",
-          "bib": 27
-        },
-        {
-          "name": "Konrad Badacz",
-          "country": "Polen",
-          "bib": 25
-        },
-        {
-          "name": "Vytautas Strolia",
-          "country": "Litauen",
-          "bib": 24
-        },
-        {
-          "name": "Sean Doherty",
-          "country": "USA",
-          "bib": 80
-        },
-        {
-          "name": "Choi Du-Jin",
-          "country": "Sydkorea",
-          "bib": 90
-        },
-        {
-          "name": "Nikita Cigak",
-          "country": "Litauen",
-          "bib": 89
-        },
-        {
-          "name": "Logan Pletz",
-          "country": "Kanada",
-          "bib": 88
-        },
-        {
-          "name": "Raul Antonio Flore",
-          "country": "Rumänien",
-          "bib": 87
-        },
-        {
-          "name": "Jasper Fleming",
-          "country": "Kanada",
-          "bib": 86
-        },
-        {
-          "name": "Rihards Lozbers",
-          "country": "Lettland",
-          "bib": 85
-        },
-        {
-          "name": "Fabian Müllaür",
-          "country": "Österrike",
-          "bib": 84
-        },
-        {
-          "name": "Bohdan Borkovskyi",
-          "country": "Ukraina",
-          "bib": 83
-        },
-        {
-          "name": "Marcin Zawol",
-          "country": "Polen",
-          "bib": 82
-        },
-        {
-          "name": "Kristo Siimer",
-          "country": "Estland",
-          "bib": 81
-        },
-        {
-          "name": "Xingyuan Yan",
-          "country": "Kina",
-          "bib": 23
-        },
-        {
-          "name": "Miha Dovzan",
-          "country": "Slovenien",
-          "bib": 79
-        },
-        {
-          "name": "Jeremy Finello",
-          "country": "Schweiz",
-          "bib": 78
-        },
-        {
-          "name": "Adam Runnalls",
-          "country": "Kanada",
-          "bib": 77
-        },
-        {
-          "name": "Dmitrii Shamäv",
-          "country": "Rumänien",
-          "bib": 76
-        },
-        {
-          "name": "Anton Sinapov",
-          "country": "Bulgarien",
-          "bib": 75
-        },
-        {
-          "name": "Tuomas Harjula",
-          "country": "Finland",
-          "bib": 74
-        },
-        {
-          "name": "Rene Zahkna",
-          "country": "Estland",
-          "bib": 73
-        },
-        {
-          "name": "Vladislav Kireyev",
-          "country": "Kazakstan",
-          "bib": 72
-        },
-        {
-          "name": "Jakub Borgula",
-          "country": "Slovakien",
-          "bib": 71
-        },
-        {
-          "name": "Karol Dombrovski",
-          "country": "Litauen",
-          "bib": 70
-        },
-        {
-          "name": "Justus Strelow",
-          "country": "Tyskland",
-          "bib": 30
-        },
-        {
-          "name": "Vitalii Mandzyn",
-          "country": "Ukraina",
-          "bib": 16
-        },
-        {
-          "name": "Vladimir Iliev",
-          "country": "Bulgarien",
-          "bib": 55
-        },
-        {
-          "name": "Vitezslav Hornig",
-          "country": "Tjeckien",
-          "bib": 38
-        },
-        {
-          "name": "Lukas Hofer",
-          "country": "Italien",
-          "bib": 46
-        },
-        {
-          "name": "Jan Gunka",
-          "country": "Polen",
-          "bib": 47
-        },
-        {
-          "name": "Andrejs Rastorgujevs",
-          "country": "Lettland",
-          "bib": 51
-        },
-        {
-          "name": "Jesper Nelin",
-          "country": "Sverige",
-          "bib": 28
-        },
-        {
-          "name": "Emilien Jacqülin",
-          "country": "Frankrike",
-          "bib": 42
-        },
-        {
-          "name": "Maxime Germain",
-          "country": "USA",
-          "bib": 59
-        },
-        {
-          "name": "Malte Stefansson",
-          "country": "Sverige",
-          "bib": 11
-        },
-        {
-          "name": "Simon Eder",
-          "country": "Österrike",
-          "bib": 18
-        },
-        {
-          "name": "Joscha Burkhalter",
-          "country": "Schweiz",
-          "bib": 22
-        },
-        {
-          "name": "Martin Ponsiluoma",
-          "country": "Sverige",
-          "bib": 50
-        },
-        {
-          "name": "Campbell Wright",
-          "country": "USA",
-          "bib": 54
-        },
-        {
-          "name": "Philipp Horn",
-          "country": "Tyskland",
-          "bib": 36
-        },
-        {
-          "name": "Philipp Nawrath",
-          "country": "Tyskland",
-          "bib": 52
-        },
-        {
-          "name": "Vetle Sjastad Christiansen",
-          "country": "Norge",
-          "bib": 60
-        },
-        {
-          "name": "Eric Perrot",
-          "country": "Frankrike",
-          "bib": 48
-        },
-        {
-          "name": "Tommaso Giacomel",
-          "country": "Italien",
-          "bib": 62
-        },
-        {
-          "name": "Sturla Holm Lägreid",
-          "country": "Norge",
-          "bib": 56
-        },
-        {
-          "name": "Qüntin Fillon Maillet",
-          "country": "Frankrike",
-          "bib": 40
-        },
-        {
-          "name": "Sebastian Samülsson",
-          "country": "Sverige",
-          "bib": 44
-        },
-        {
-          "name": "Thierry Langer",
-          "country": "Belgien",
-          "bib": 8
-        },
-        {
-          "name": "Dmytro Pidruchnyi",
-          "country": "Ukraina",
-          "bib": 21
-        },
-        {
-          "name": "David Zobel",
-          "country": "Tyskland",
-          "bib": 20
-        },
-        {
-          "name": "Matija Legovic",
-          "country": "Kroatien",
-          "bib": 19
-        },
-        {
-          "name": "Anton Vidmar",
-          "country": "Slovenien",
-          "bib": 17
-        },
-        {
-          "name": "Olli Hiidensalo",
-          "country": "Finland",
-          "bib": 15
-        },
-        {
-          "name": "Jacqüs Jefferies",
-          "country": "Storbritannien",
-          "bib": 14
-        },
-        {
-          "name": "George Marian Coltea",
-          "country": "Rumänien",
-          "bib": 13
-        },
-        {
-          "name": "Asset Dyussenov",
-          "country": "Kazakstan",
-          "bib": 12
-        },
-        {
-          "name": "Blagoy Todev",
-          "country": "Bulgarien",
-          "bib": 10
-        },
-        {
-          "name": "Maksim Makarov",
-          "country": "Moldavien",
-          "bib": 9
-        },
-        {
-          "name": "Olav Botn Joahn",
-          "country": "Norge",
-          "bib": 58
-        },
-        {
-          "name": "Dominic Unterweger",
-          "country": "Österrike",
-          "bib": 7
-        },
-        {
-          "name": "Elia Zeni",
-          "country": "Italien",
-          "bib": 6
-        },
-        {
-          "name": "Maksim Fomin",
-          "country": "Litauen",
-          "bib": 5
-        },
-        {
-          "name": "Tomas Mikyska",
-          "country": "Tjeckien",
-          "bib": 4
-        },
-        {
-          "name": "Edgars Mise",
-          "country": "Lettland",
-          "bib": 3
-        },
-        {
-          "name": "Jakob Kulbin",
-          "country": "Estland",
-          "bib": 2
-        },
-        {
-          "name": "Simon Adamov",
-          "country": "Slovakien",
-          "bib": 1
-        },
-        {
-          "name": "Michal Krcmar",
-          "country": "Tjeckien",
-          "bib": 26
-        },
-        {
-          "name": "Bel Claude Florent",
-          "country": "Belgien",
-          "bib": 49
-        },
-        {
-          "name": "Fra Claude Fabien",
-          "country": "Frankrike",
-          "bib": 32
-        }
-      ]
-    },
-    {
-      "type": "startlist",
-      "sport": "Skidskytte",
       "event": "Sprint damer",
       "total": 30,
       "swe_athletes": [
@@ -4304,6 +3828,64 @@
           "country": "USA",
           "time": "2:21.91",
           "diff": "0.25"
+        }
+      ]
+    },
+    {
+      "type": "individual",
+      "sport": "Längdskidor",
+      "event": "Individuell fristil herrar",
+      "status": "finished",
+      "timestamp": 1770979500,
+      "results": [
+        {
+          "pos": 1,
+          "name": "Johannes Hösflot Kläbo",
+          "country": "Norge",
+          "time": "20:36.2",
+          "diff": "0.0"
+        },
+        {
+          "pos": 2,
+          "name": "Mathis Desloges",
+          "country": "Frankrike",
+          "time": "20:41.1",
+          "diff": "4.9"
+        },
+        {
+          "pos": 3,
+          "name": "Einar Hedegart",
+          "country": "Norge",
+          "time": "20:50.2",
+          "diff": "14.0"
+        },
+        {
+          "pos": 20,
+          "name": "William Poromaa",
+          "country": "Sverige",
+          "time": "21:51.6",
+          "diff": "1:15.4"
+        },
+        {
+          "pos": 29,
+          "name": "Gustaf Berglund",
+          "country": "Sverige",
+          "time": "22:13.2",
+          "diff": "1:37.0"
+        },
+        {
+          "pos": 40,
+          "name": "Truls Gisselman",
+          "country": "Sverige",
+          "time": "22:34.9",
+          "diff": "1:58.7"
+        },
+        {
+          "pos": 42,
+          "name": "Edvin Anger",
+          "country": "Sverige",
+          "time": "22:35.8",
+          "diff": "1:59.6"
         }
       ]
     }

@@ -421,5 +421,14 @@
     "gold_result": "22:53.1",
     "silver_result": "23:06.8",
     "bronze_result": "23:09.0"
+  },
+  {
+    "event": "Speedskating – Men's 10000m",
+    "gold_winner": "Metodej Jilek (CZE)",
+    "silver_winner": "Vladimir Semirunniy (POL)",
+    "bronze_winner": "Jorrit Bergsma (NED)",
+    "gold_result": "12:33.43",
+    "silver_result": "12:39.08",
+    "bronze_result": "12:40.48"
   }
 ]

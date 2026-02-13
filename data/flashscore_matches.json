@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-13T22:00:45.452692+00:00",
+  "scraped_at": "2026-02-13T22:45:53.802541+00:00",
   "matches": [
     {
       "type": "team",
@@ -4753,6 +4753,19 @@
       "status": "finished",
       "timestamp": 1770997200,
       "periods": "0-0, 0-1, 0-1"
+    },
+    {
+      "type": "team",
+      "sport": "Ishockey",
+      "event": "Damer",
+      "event_id": "Im0QB7Z1",
+      "home": "USA",
+      "away": "Italy",
+      "home_score": 6,
+      "away_score": 0,
+      "status": "finished",
+      "timestamp": 1771013400,
+      "periods": "1-0, 5-0, 0-0"
     }
   ]
 }

@@ -211,6 +211,28 @@ def _clean_team(name: str) -> str:
     return name
 
 
+def _full_name(ae: str, wu: str) -> str:
+    """Convert abbreviated name + URL slug to full name.
+
+    AE='Klaebo J. H.', WU='klaebo-johannes-hoesflot' → 'Johannes Hoesflot Klaebo'
+    """
+    if not wu or not ae:
+        return ae
+    parts = wu.split("-")
+    if len(parts) < 2:
+        return ae
+    # Count initials in AE (words like "J.", "H.", "E.")
+    initials = sum(1 for w in ae.split() if len(w) <= 3 and w.endswith("."))
+    if initials == 0:
+        return ae
+    n_given = min(initials, len(parts) - 1)
+    surname_parts = parts[: len(parts) - n_given]
+    given_parts = parts[len(parts) - n_given :]
+    surname = " ".join(p.title() for p in surname_parts)
+    given = " ".join(p.title() for p in given_parts)
+    return f"{given} {surname}" if given else surname
+
+
 def parse_team_feed(data: str, entry: dict) -> list[dict]:
     """Parse a team sport feed (hockey, curling) into match dicts."""
     records = data.split("~")
@@ -298,7 +320,7 @@ def parse_individual_feed(data: str, entry: dict) -> dict | None:
         pos = ra.get("7", "")
         athlete = {
             "pos": _int(pos) if pos else 999,
-            "name": d.get("AE", ""),
+            "name": _full_name(d.get("AE", ""), d.get("WU", "")),
             "country": d.get("FU", ""),
         }
         # Time-based sports (alpine, XC, biathlon)
@@ -378,7 +400,7 @@ def parse_start_list(data: str, entry: dict) -> dict | None:
         ra = dict(zip(raa, rab))
         bib = ra.get("7", "")
         athletes.append({
-            "name": d.get("AE", ""),
+            "name": _full_name(d.get("AE", ""), d.get("WU", "")),
             "country": d.get("FU", ""),
             "bib": _int(bib) if bib else None,
         })

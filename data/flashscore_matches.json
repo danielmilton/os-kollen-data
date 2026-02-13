@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-13T20:52:17.456054+00:00",
+  "scraped_at": "2026-02-13T22:00:45.452692+00:00",
   "matches": [
     {
       "type": "team",
@@ -3915,14 +3915,239 @@
       "swe_athletes": [],
       "athletes": [
         {
-          "name": "Dawid Kubacki",
+          "name": "Kaimar Vagul",
+          "country": "Estland",
+          "bib": 5
+        },
+        {
+          "name": "Andreas Wellinger",
+          "country": "Tyskland",
+          "bib": 27
+        },
+        {
+          "name": "Pawel Wasek",
           "country": "Polen",
+          "bib": 23
+        },
+        {
+          "name": "Ilya Mizernykh",
+          "country": "Kazakstan",
+          "bib": 20
+        },
+        {
+          "name": "Danil Vassilyev",
+          "country": "Kazakstan",
+          "bib": 19
+        },
+        {
+          "name": "Kevin Bickner",
+          "country": "USA",
+          "bib": 22
+        },
+        {
+          "name": "Roman Koudelka",
+          "country": "Tjeckien",
+          "bib": 21
+        },
+        {
+          "name": "Giovanni Bresadola",
+          "country": "Italien",
+          "bib": 16
+        },
+        {
+          "name": "Alex Insam",
+          "country": "Italien",
+          "bib": 18
+        },
+        {
+          "name": "Francesco Cecon",
+          "country": "Italien",
+          "bib": 1
+        },
+        {
+          "name": "Qiwu Song",
+          "country": "Kina",
+          "bib": 2
+        },
+        {
+          "name": "Alexandru Mihnea Spulber",
+          "country": "Rumänien",
+          "bib": 3
+        },
+        {
+          "name": "Muhammed Ali Bedir",
+          "country": "Turkiet",
+          "bib": 4
+        },
+        {
+          "name": "Sandro Hauswirth",
+          "country": "Schweiz",
+          "bib": 24
+        },
+        {
+          "name": "Daniel Andrei Cacina",
+          "country": "Rumänien",
+          "bib": 6
+        },
+        {
+          "name": "Fatih Arda Ipcioglu",
+          "country": "Turkiet",
+          "bib": 7
+        },
+        {
+          "name": "Jules Chervet",
+          "country": "Frankrike",
+          "bib": 8
+        },
+        {
+          "name": "Vilho Palosaari",
+          "country": "Finland",
+          "bib": 9
+        },
+        {
+          "name": "Enzo Milesi",
+          "country": "Frankrike",
+          "bib": 10
+        },
+        {
+          "name": "Mackenzie Boyd Clowes",
+          "country": "Kanada",
+          "bib": 11
+        },
+        {
+          "name": "Vitaliy Kalinichenko",
+          "country": "Ukraina",
+          "bib": 12
+        },
+        {
+          "name": "Tate Frantz",
+          "country": "USA",
+          "bib": 13
+        },
+        {
+          "name": "Yevhen Marusiak",
+          "country": "Ukraina",
+          "bib": 14
+        },
+        {
+          "name": "Hektor Kapustik",
+          "country": "Slovakien",
+          "bib": 15
+        },
+        {
+          "name": "Felix Trunz",
+          "country": "Schweiz",
+          "bib": 17
+        },
+        {
+          "name": "Valentin Foubert",
+          "country": "Frankrike",
+          "bib": 34
+        },
+        {
+          "name": "Ryoyu Kobayashi",
+          "country": "Japan",
+          "bib": 49
+        },
+        {
+          "name": "Ren Nikaido",
+          "country": "Japan",
+          "bib": 48
+        },
+        {
+          "name": "Philipp Raimund",
+          "country": "Tyskland",
+          "bib": 45
+        },
+        {
+          "name": "Anze Lanisek",
+          "country": "Slovenien",
+          "bib": 47
+        },
+        {
+          "name": "Daniel Tschofenig",
+          "country": "Österrike",
+          "bib": 46
+        },
+        {
+          "name": "Felix Hoffmann",
+          "country": "Tyskland",
+          "bib": 43
+        },
+        {
+          "name": "Jan Horl",
+          "country": "Österrike",
+          "bib": 44
+        },
+        {
+          "name": "Stephan Embacher",
+          "country": "Österrike",
+          "bib": 42
+        },
+        {
+          "name": "Stefan Kraft",
+          "country": "Österrike",
+          "bib": 41
+        },
+        {
+          "name": "Kacper Tomasiak",
+          "country": "Polen",
+          "bib": 38
+        },
+        {
+          "name": "Vladimir Zografski",
+          "country": "Bulgarien",
           "bib": 39
         },
         {
-          "name": "Piotr Zyla",
+          "name": "Kristoffer Sundal",
+          "country": "Norge",
+          "bib": 40
+        },
+        {
+          "name": "Domen Prevc",
+          "country": "Slovenien",
+          "bib": 50
+        },
+        {
+          "name": "Naoki Nakamura",
+          "country": "Japan",
+          "bib": 36
+        },
+        {
+          "name": "Johann Andre Forfang",
+          "country": "Norge",
+          "bib": 35
+        },
+        {
+          "name": "Timi Zajc",
+          "country": "Slovenien",
+          "bib": 33
+        },
+        {
+          "name": "Marius Lindvik",
+          "country": "Norge",
+          "bib": 37
+        },
+        {
+          "name": "Kamil Stoch",
           "country": "Polen",
-          "bib": 27
+          "bib": 30
+        },
+        {
+          "name": "Pius Paschke",
+          "country": "Tyskland",
+          "bib": 32
+        },
+        {
+          "name": "Gregor Deschwanden",
+          "country": "Schweiz",
+          "bib": 31
+        },
+        {
+          "name": "Jason Colby",
+          "country": "USA",
+          "bib": 29
         },
         {
           "name": "Niko Kytosaho",
@@ -3932,237 +4157,12 @@
         {
           "name": "Artti Aigro",
           "country": "Estland",
-          "bib": 29
+          "bib": 25
         },
         {
           "name": "Antti Aalto",
           "country": "Finland",
-          "bib": 30
-        },
-        {
-          "name": "Yukiya Sato",
-          "country": "Japan",
-          "bib": 31
-        },
-        {
-          "name": "Tomofumi Naito",
-          "country": "Japan",
-          "bib": 32
-        },
-        {
-          "name": "Sandro Hauswirth",
-          "country": "Schweiz",
-          "bib": 33
-        },
-        {
-          "name": "Maciej Kot",
-          "country": "Polen",
-          "bib": 34
-        },
-        {
-          "name": "Andreas Wellinger",
-          "country": "Tyskland",
-          "bib": 35
-        },
-        {
-          "name": "Pawel Wasek",
-          "country": "Polen",
-          "bib": 36
-        },
-        {
-          "name": "Rok Oblak",
-          "country": "Slovenien",
-          "bib": 37
-        },
-        {
-          "name": "Sakutaro Kobayashi",
-          "country": "Japan",
-          "bib": 38
-        },
-        {
-          "name": "Ortner Maximilian",
-          "country": "Österrike",
           "bib": 26
-        },
-        {
-          "name": "Ilya Mizernykh",
-          "country": "Kazakstan",
-          "bib": 40
-        },
-        {
-          "name": "Östvold Benjamin",
-          "country": "Norge",
-          "bib": 41
-        },
-        {
-          "name": "Clemens Aigner",
-          "country": "Österrike",
-          "bib": 42
-        },
-        {
-          "name": "Danil Vassilyev",
-          "country": "Kazakstan",
-          "bib": 43
-        },
-        {
-          "name": "Kevin Bickner",
-          "country": "USA",
-          "bib": 44
-        },
-        {
-          "name": "Roman Koudelka",
-          "country": "Tjeckien",
-          "bib": 45
-        },
-        {
-          "name": "Simon Ammann",
-          "country": "Schweiz",
-          "bib": 46
-        },
-        {
-          "name": "Robin Pedersen",
-          "country": "Norge",
-          "bib": 47
-        },
-        {
-          "name": "Giovanni Bresadola",
-          "country": "Italien",
-          "bib": 48
-        },
-        {
-          "name": "Isak Langmo",
-          "country": "Norge",
-          "bib": 49
-        },
-        {
-          "name": "Alex Insam",
-          "country": "Italien",
-          "bib": 50
-        },
-        {
-          "name": "Kristoffer Sundal",
-          "country": "Norge",
-          "bib": 14
-        },
-        {
-          "name": "Ryoyu Kobayashi",
-          "country": "Japan",
-          "bib": 2
-        },
-        {
-          "name": "Ren Nikaido",
-          "country": "Japan",
-          "bib": 3
-        },
-        {
-          "name": "Philipp Raimund",
-          "country": "Tyskland",
-          "bib": 4
-        },
-        {
-          "name": "Anze Lanisek",
-          "country": "Slovenien",
-          "bib": 5
-        },
-        {
-          "name": "Daniel Tschofenig",
-          "country": "Österrike",
-          "bib": 6
-        },
-        {
-          "name": "Felix Hoffmann",
-          "country": "Tyskland",
-          "bib": 7
-        },
-        {
-          "name": "Jan Horl",
-          "country": "Österrike",
-          "bib": 8
-        },
-        {
-          "name": "Stephan Embacher",
-          "country": "Österrike",
-          "bib": 9
-        },
-        {
-          "name": "Stefan Kraft",
-          "country": "Österrike",
-          "bib": 10
-        },
-        {
-          "name": "Kacper Tomasiak",
-          "country": "Polen",
-          "bib": 11
-        },
-        {
-          "name": "Vladimir Zografski",
-          "country": "Bulgarien",
-          "bib": 12
-        },
-        {
-          "name": "Manül Fettner",
-          "country": "Österrike",
-          "bib": 13
-        },
-        {
-          "name": "Domen Prevc",
-          "country": "Slovenien",
-          "bib": 1
-        },
-        {
-          "name": "Valentin Foubert",
-          "country": "Frankrike",
-          "bib": 15
-        },
-        {
-          "name": "Naoki Nakamura",
-          "country": "Japan",
-          "bib": 16
-        },
-        {
-          "name": "Johann Andre Forfang",
-          "country": "Norge",
-          "bib": 17
-        },
-        {
-          "name": "Jonas Schuster",
-          "country": "Österrike",
-          "bib": 18
-        },
-        {
-          "name": "Timi Zajc",
-          "country": "Slovenien",
-          "bib": 19
-        },
-        {
-          "name": "Marius Lindvik",
-          "country": "Norge",
-          "bib": 20
-        },
-        {
-          "name": "Halvor Egner Granerud",
-          "country": "Norge",
-          "bib": 21
-        },
-        {
-          "name": "Kamil Stoch",
-          "country": "Polen",
-          "bib": 22
-        },
-        {
-          "name": "Pius Paschke",
-          "country": "Tyskland",
-          "bib": 23
-        },
-        {
-          "name": "Gregor Deschwanden",
-          "country": "Schweiz",
-          "bib": 24
-        },
-        {
-          "name": "Jason Colby",
-          "country": "USA",
-          "bib": 25
         }
       ]
     },

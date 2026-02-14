@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-14T14:02:19.836513+00:00",
+  "scraped_at": "2026-02-14T14:39:59.185392+00:00",
   "matches": [
     {
       "type": "team",
@@ -3826,6 +3826,43 @@
       "status": "finished",
       "timestamp": 1771067400,
       "periods": "2-1, 0-1, 1-2"
+    },
+    {
+      "type": "individual",
+      "sport": "Alpint",
+      "event": "Storslalom herrar",
+      "status": "finished",
+      "timestamp": 1771059600,
+      "results": [
+        {
+          "pos": 1,
+          "name": "Lucas Braathen",
+          "country": "Brasilien",
+          "time": "2:25.00",
+          "diff": "0.00"
+        },
+        {
+          "pos": 2,
+          "name": "Marco Odermatt",
+          "country": "Schweiz",
+          "time": "2:25.58",
+          "diff": "0.58"
+        },
+        {
+          "pos": 3,
+          "name": "Loic Meillard",
+          "country": "Schweiz",
+          "time": "2:26.17",
+          "diff": "1.17"
+        },
+        {
+          "pos": 22,
+          "name": "Fabian Swartz",
+          "country": "Sverige",
+          "time": "2:28.76",
+          "diff": "3.76"
+        }
+      ]
     }
   ]
 }

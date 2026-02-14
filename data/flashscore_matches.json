@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-14T22:25:39.729096+00:00",
+  "scraped_at": "2026-02-14T22:51:58.817519+00:00",
   "matches": [
     {
       "type": "team",
@@ -4110,6 +4110,19 @@
           "best_pts": "149.4"
         }
       ]
+    },
+    {
+      "type": "team",
+      "sport": "Ishockey",
+      "event": "Herrar",
+      "event_id": "Ycx0Bm9e",
+      "home": "USA",
+      "away": "Danmark",
+      "home_score": 6,
+      "away_score": 3,
+      "status": "finished",
+      "timestamp": 1771099800,
+      "periods": "1-2, 3-1, 2-0"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-14T14:39:59.185392+00:00",
+  "scraped_at": "2026-02-14T15:00:43.043702+00:00",
   "matches": [
     {
       "type": "team",
@@ -3861,6 +3861,71 @@
           "country": "Sverige",
           "time": "2:28.76",
           "diff": "3.76"
+        }
+      ]
+    },
+    {
+      "type": "individual",
+      "sport": "Skidskytte",
+      "event": "Sprint damer",
+      "status": "finished",
+      "timestamp": 1771076700,
+      "results": [
+        {
+          "pos": 1,
+          "name": "Maren Kirkeeide",
+          "country": "Norge",
+          "time": "20:40.8",
+          "diff": "0.0",
+          "penalties": 0
+        },
+        {
+          "pos": 2,
+          "name": "Oceane Michelon",
+          "country": "Frankrike",
+          "time": "20:44.6",
+          "diff": "3.8",
+          "penalties": 0
+        },
+        {
+          "pos": 3,
+          "name": "Lou Jeanmonnot",
+          "country": "Frankrike",
+          "time": "21:04.5",
+          "diff": "23.7",
+          "penalties": 1
+        },
+        {
+          "pos": 18,
+          "name": "Hanna Oberg",
+          "country": "Sverige",
+          "time": "22:07.8",
+          "diff": "1:27.0",
+          "penalties": 2
+        },
+        {
+          "pos": 22,
+          "name": "Linn Gestblom",
+          "country": "Sverige",
+          "time": "22:13.7",
+          "diff": "1:32.9",
+          "penalties": 2
+        },
+        {
+          "pos": 27,
+          "name": "Elvira Oberg",
+          "country": "Sverige",
+          "time": "22:18.7",
+          "diff": "1:37.9",
+          "penalties": 2
+        },
+        {
+          "pos": 35,
+          "name": "Anna Magnusson",
+          "country": "Sverige",
+          "time": "22:37.9",
+          "diff": "1:57.1",
+          "penalties": 3
         }
       ]
     }

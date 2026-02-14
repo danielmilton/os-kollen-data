@@ -520,5 +520,14 @@
     "gold_result": "33.77 OR",
     "silver_result": "33.88",
     "bronze_result": "34.26"
+  },
+  {
+    "event": "Short-Track Speedskating – Men's 1500m",
+    "gold_winner": "Jens Van 'T Wout (NED)",
+    "silver_winner": "Hwang Dae Heon (KOR)",
+    "bronze_winner": "Roberts Kruzbergs (LAT)",
+    "gold_result": "2:12.219",
+    "silver_result": "2:12.304",
+    "bronze_result": "2:12.376"
   }
 ]

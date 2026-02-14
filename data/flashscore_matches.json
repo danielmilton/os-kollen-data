@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-14T16:43:00.026259+00:00",
+  "scraped_at": "2026-02-14T17:39:22.072205+00:00",
   "matches": [
     {
       "type": "team",
@@ -2234,8 +2234,12 @@
       "type": "startlist",
       "sport": "Skidskytte",
       "event": "Jaktstart damer",
-      "total": 23,
+      "total": 60,
       "swe_athletes": [
+        {
+          "name": "Linn Gestblom",
+          "country": "Sverige"
+        },
         {
           "name": "Anna Magnusson",
           "country": "Sverige"
@@ -2251,119 +2255,304 @@
       ],
       "athletes": [
         {
+          "name": "Anna Maka",
+          "country": "Polen",
+          "bib": 45
+        },
+        {
+          "name": "Lena Repinc",
+          "country": "Slovenien",
+          "bib": 21
+        },
+        {
+          "name": "Linn Gestblom",
+          "country": "Sverige",
+          "bib": 22
+        },
+        {
+          "name": "Michela Carrara",
+          "country": "Italien",
+          "bib": 23
+        },
+        {
+          "name": "Yuliia Dzhima",
+          "country": "Ukraina",
+          "bib": 24
+        },
+        {
+          "name": "Polona Klemencic",
+          "country": "Slovenien",
+          "bib": 25
+        },
+        {
+          "name": "Yuanmeng Chu",
+          "country": "Kina",
+          "bib": 31
+        },
+        {
+          "name": "Julia Simon",
+          "country": "Frankrike",
+          "bib": 34
+        },
+        {
+          "name": "Anastasiya Kuzmina",
+          "country": "Slovakien",
+          "bib": 36
+        },
+        {
+          "name": "Susan Külm",
+          "country": "Estland",
+          "bib": 37
+        },
+        {
+          "name": "Sanita Bulina",
+          "country": "Lettland",
+          "bib": 38
+        },
+        {
+          "name": "Paulina Batovska Fialkova",
+          "country": "Slovakien",
+          "bib": 40
+        },
+        {
+          "name": "Natalia Sidorowicz",
+          "country": "Polen",
+          "bib": 41
+        },
+        {
+          "name": "Oleksandra Merkushyna",
+          "country": "Ukraina",
+          "bib": 42
+        },
+        {
+          "name": "Hannah Auchentaller",
+          "country": "Italien",
+          "bib": 43
+        },
+        {
+          "name": "Anne De Besche",
+          "country": "Danmark",
+          "bib": 17
+        },
+        {
+          "name": "Deedra Irwin",
+          "country": "USA",
+          "bib": 47
+        },
+        {
+          "name": "Fanqi Meng",
+          "country": "Kina",
+          "bib": 48
+        },
+        {
+          "name": "Judita Traubaite",
+          "country": "Litauen",
+          "bib": 49
+        },
+        {
+          "name": "Tereza Vinklarkova",
+          "country": "Tjeckien",
+          "bib": 50
+        },
+        {
+          "name": "Maria Remenova",
+          "country": "Slovakien",
+          "bib": 51
+        },
+        {
+          "name": "Selina Grotian",
+          "country": "Tyskland",
+          "bib": 52
+        },
+        {
+          "name": "Ema Kapustova",
+          "country": "Slovakien",
+          "bib": 53
+        },
+        {
+          "name": "Khrystyna Dmytrenko",
+          "country": "Ukraina",
+          "bib": 54
+        },
+        {
+          "name": "Aita Gasparin",
+          "country": "Schweiz",
+          "bib": 55
+        },
+        {
+          "name": "Benita Peiffer",
+          "country": "Kanada",
+          "bib": 56
+        },
+        {
+          "name": "Tuuli Tomingas",
+          "country": "Estland",
+          "bib": 57
+        },
+        {
+          "name": "Ekaterina Avvakumova",
+          "country": "Sydkorea",
+          "bib": 58
+        },
+        {
+          "name": "Anastasia Tolmacheva",
+          "country": "Rumänien",
+          "bib": 59
+        },
+        {
+          "name": "Lena Häcki",
+          "country": "Schweiz",
+          "bib": 60
+        },
+        {
           "name": "Julia Tannheimer",
           "country": "Tyskland",
-          "bib": 21
+          "bib": 20
         },
         {
           "name": "Anna Magnusson",
           "country": "Sverige",
-          "bib": 2
+          "bib": 35
         },
         {
           "name": "Lisa Theresa Hauser",
           "country": "Österrike",
-          "bib": 4
+          "bib": 30
         },
         {
           "name": "Dorothea Wierer",
           "country": "Italien",
-          "bib": 5
+          "bib": 44
         },
         {
           "name": "Maren Kirkeeide",
           "country": "Norge",
-          "bib": 6
+          "bib": 1
         },
         {
           "name": "Oceane Michelon",
           "country": "Frankrike",
-          "bib": 7
+          "bib": 2
         },
         {
           "name": "Elvira Oberg",
           "country": "Sverige",
-          "bib": 8
+          "bib": 27
         },
         {
           "name": "Lou Jeanmonnot",
           "country": "Frankrike",
-          "bib": 9
+          "bib": 3
         },
         {
           "name": "Lisa Vittozzi",
           "country": "Italien",
-          "bib": 10
+          "bib": 5
         },
         {
           "name": "Hanna Oberg",
           "country": "Sverige",
-          "bib": 11
+          "bib": 18
         },
         {
           "name": "Lotte Lie",
           "country": "Belgien",
-          "bib": 13
+          "bib": 39
         },
         {
           "name": "Lucie Charvatova",
           "country": "Tjeckien",
-          "bib": 15
+          "bib": 46
         },
         {
           "name": "Amy Baserga",
           "country": "Schweiz",
-          "bib": 16
+          "bib": 29
         },
         {
           "name": "Joanna Jakiela",
           "country": "Polen",
-          "bib": 17
+          "bib": 28
         },
         {
           "name": "Karoline Knotten",
           "country": "Norge",
-          "bib": 18
+          "bib": 14
         },
         {
           "name": "Suvi Minkkinen",
           "country": "Finland",
-          "bib": 1
+          "bib": 6
         },
         {
           "name": "Marthe Johansen",
           "country": "Norge",
-          "bib": 23
+          "bib": 33
         },
         {
           "name": "Maya Clötens",
           "country": "Belgien",
-          "bib": 24
+          "bib": 26
         },
         {
           "name": "Anna Gandler",
           "country": "Österrike",
-          "bib": 25
+          "bib": 32
         },
         {
           "name": "Tereza Vobornikova",
           "country": "Tjeckien",
-          "bib": 26
+          "bib": 19
         },
         {
           "name": "Vanessa Voigt",
           "country": "Tyskland",
-          "bib": 27
+          "bib": 12
         },
         {
           "name": "Estere Volfa",
           "country": "Lettland",
-          "bib": 29
+          "bib": 16
         },
         {
           "name": "Ingrid Landmark Tandrevold",
           "country": "Norge",
-          "bib": 30
+          "bib": 10
+        },
+        {
+          "name": "Milena Todorova",
+          "country": "Bulgarien",
+          "bib": 4
+        },
+        {
+          "name": "Franziska Preuss",
+          "country": "Tyskland",
+          "bib": 7
+        },
+        {
+          "name": "Kamila Zuk",
+          "country": "Polen",
+          "bib": 8
+        },
+        {
+          "name": "Anna Andexer",
+          "country": "Österrike",
+          "bib": 9
+        },
+        {
+          "name": "Lora Hirstova",
+          "country": "Bulgarien",
+          "bib": 11
+        },
+        {
+          "name": "Lea Meier",
+          "country": "Schweiz",
+          "bib": 13
+        },
+        {
+          "name": "Baiba Bendika",
+          "country": "Lettland",
+          "bib": 15
         }
       ]
     },

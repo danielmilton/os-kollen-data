@@ -493,5 +493,14 @@
     "gold_result": "20",
     "silver_result": "15",
     "bronze_result": "18"
+  },
+  {
+    "event": "Speedskating – Men's 500m",
+    "gold_winner": "Jordan Stolz (USA)",
+    "silver_winner": "Jenning de Boo (NED)",
+    "bronze_winner": "Laurent Dubreuil (CAN)",
+    "gold_result": "33.77 OR",
+    "silver_result": "33.88",
+    "bronze_result": "34.26"
   }
 ]

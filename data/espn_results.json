@@ -495,6 +495,24 @@
     "bronze_result": "18"
   },
   {
+    "event": "Skeleton – Women's Individual",
+    "gold_winner": "Janine Flock (AUT)",
+    "silver_winner": "Susanne Kreher (GER)",
+    "bronze_winner": "Jacqueline Pfeifer (GER)",
+    "gold_result": "3:49.02",
+    "silver_result": "3:49.32",
+    "bronze_result": "3:49.46"
+  },
+  {
+    "event": "Ski Jumping – Men's Individual Large Hill",
+    "gold_winner": "Domen Prevc (SLO)",
+    "silver_winner": "Ren Nikaido (JPN)",
+    "bronze_winner": "Kacper Tomasiak (POL)",
+    "gold_result": "301.8",
+    "silver_result": "295.0",
+    "bronze_result": "291.2"
+  },
+  {
     "event": "Speedskating – Men's 500m",
     "gold_winner": "Jordan Stolz (USA)",
     "silver_winner": "Jenning de Boo (NED)",

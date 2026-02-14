@@ -468,6 +468,24 @@
     "bronze_result": "2:26.17"
   },
   {
+    "event": "Biathlon – Women's 7.5km Sprint",
+    "gold_winner": "Maren Kirkeeide (NOR)",
+    "silver_winner": "Oceane Michelon (FRA)",
+    "bronze_winner": "Lou Jeanmonnot (FRA)",
+    "gold_result": "20:40.8",
+    "silver_result": "20:44.6",
+    "bronze_result": "21:04.5"
+  },
+  {
+    "event": "Cross-Country Skiing – Women's 4x7.5km Relay",
+    "gold_winner": "Kristin Austgulen Fosnaes, Astrid Oeyre Slind, Karoline Simpson-Larsen, Heidi Weng (NOR)",
+    "silver_winner": "Linn Svahn, Ebba Andersson, Frida Karlsson, Jonna Sundling (SWE)",
+    "bronze_winner": "Johanna Matintalo, Kerttu Niskanen, Vilma Ryytty, Jasmi Joensuu (FIN)",
+    "gold_result": "1:15:44.8",
+    "silver_result": "1:16:35.7",
+    "bronze_result": "1:16:59.5"
+  },
+  {
     "event": "Freestyle Skiing – Women's Dual Moguls",
     "gold_winner": "Jakara Anthony (AUS)",
     "silver_winner": "Jaelin Kauf (USA)",

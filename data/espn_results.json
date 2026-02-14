@@ -457,5 +457,14 @@
     "gold_result": "12:33.43",
     "silver_result": "12:39.08",
     "bronze_result": "12:40.48"
+  },
+  {
+    "event": "Freestyle Skiing – Women's Dual Moguls",
+    "gold_winner": "Jakara Anthony (AUS)",
+    "silver_winner": "Jaelin Kauf (USA)",
+    "bronze_winner": "Elizabeth Lemley (USA)",
+    "gold_result": "20",
+    "silver_result": "15",
+    "bronze_result": "18"
   }
 ]

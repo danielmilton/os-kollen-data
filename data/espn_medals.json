@@ -19,9 +19,9 @@
     "country_name": "United States",
     "country_code": "USA",
     "gold": 4,
-    "silver": 7,
-    "bronze": 3,
-    "total": 14
+    "silver": 8,
+    "bronze": 4,
+    "total": 16
   },
   {
     "country_name": "France",
@@ -80,20 +80,20 @@
     "total": 7
   },
   {
+    "country_name": "Australia",
+    "country_code": "AUS",
+    "gold": 3,
+    "silver": 1,
+    "bronze": 0,
+    "total": 4
+  },
+  {
     "country_name": "Czechia",
     "country_code": "CZE",
     "gold": 2,
     "silver": 2,
     "bronze": 0,
     "total": 4
-  },
-  {
-    "country_name": "Australia",
-    "country_code": "AUS",
-    "gold": 2,
-    "silver": 1,
-    "bronze": 0,
-    "total": 3
   },
   {
     "country_name": "South Korea",

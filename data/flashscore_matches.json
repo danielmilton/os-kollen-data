@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-14T19:08:05.241641+00:00",
+  "scraped_at": "2026-02-14T19:36:31.084288+00:00",
   "matches": [
     {
       "type": "team",
@@ -3841,6 +3841,45 @@
       "status": "finished",
       "timestamp": 1771083600,
       "periods": "2-0, 1-0, 2-1"
+    },
+    {
+      "type": "individual",
+      "sport": "Backhoppning",
+      "event": "Storbacke herrar",
+      "status": "finished",
+      "timestamp": 1771091100,
+      "results": [
+        {
+          "pos": 1,
+          "name": "Domen Prevc",
+          "country": "Slovenien",
+          "dist": "301.8",
+          "dist_pts": "138.5",
+          "style_pts": "141.5",
+          "best_dist": "147.0",
+          "best_pts": "154.8"
+        },
+        {
+          "pos": 2,
+          "name": "Ren Nikaido",
+          "country": "Japan",
+          "dist": "295.0",
+          "dist_pts": "140.0",
+          "style_pts": "136.5",
+          "best_dist": "154.0",
+          "best_pts": "141.0"
+        },
+        {
+          "pos": 3,
+          "name": "Kacper Tomasiak",
+          "country": "Polen",
+          "dist": "291.2",
+          "dist_pts": "133.0",
+          "style_pts": "138.5",
+          "best_dist": "141.8",
+          "best_pts": "149.4"
+        }
+      ]
     }
   ]
 }

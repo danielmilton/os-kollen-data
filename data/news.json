@@ -12,7 +12,7 @@
     "link": "https://www.expressen.se/sport/os/sverige-tar-silver-i-stafetten-efter-jatteupphamtning/",
     "source": "Expressen",
     "published_at": "2026-02-14T13:16:31+01:00",
-    "summary": "OS-stafetten blev snabbt en mardröm för svensk del.Men precis som i Trondheim för ett år sedan stod Jonna Sundling för en mäktig avslutning och lyfte Sverige till ett silver, en minut bakom Norge.",
+    "summary": "OS-stafetten blev snabbt en mardröm för svensk del.Men precis som i Trondheim för ett år sedan stod Jonna Sundling för en mäktig avslutning och lyfte Sverige till ett silver, 50 sekunder bakom Norge.",
     "image_url": "https://static.bonniernews.se/images/03/fa/03fa8f7712c74e15bf45fc4668acbfb3/16x9/265@70.png"
   },
   {
@@ -29,6 +29,14 @@
     "source": "SVT",
     "published_at": "2026-02-14T12:29:42+01:00",
     "summary": "Linn Svahn hade gett Sverige en drömstart. Då föll Ebba Andersson två gånger om – och hennes ena skida gick sönder. – Den värsta mardrömmen har inträffat för Sverige, utbrister SVT Sports kommentator Jacob Hård.",
+    "image_url": null
+  },
+  {
+    "title": "OS-silver i stafetten – efter dubbla vurpor och upphämtning",
+    "link": "https://www.tv4.se/artikel/7exYWvJ3WkwaUwkWZMadBA/os-silver-i-stafetten-efter-dubbla-vurpor-och-upphaemtning",
+    "source": "TV4",
+    "published_at": "2026-02-14T12:20:30+00:00",
+    "summary": "Se Ebba Anderssons kullerbytta i spåret här",
     "image_url": null
   },
   {
@@ -53,7 +61,7 @@
     "source": "Aftonbladet",
     "published_at": "2026-02-14T11:44:32+00:00",
     "summary": "Bryter ihop efter målgång ✓ OS-silver",
-    "image_url": "https://images.aftonbladet-cdn.se/v2/images/30bb2c98-f5db-483f-b126-0c327c076bc8?fit=crop&format=auto&h=474&q=50&w=1302&s=68b572d05fe616f7fc085fcc20274942a37bce1b"
+    "image_url": "https://images.aftonbladet-cdn.se/v2/images/0c1c4125-a452-4b19-a9ae-86fd63148fcb?fit=crop&format=auto&h=505&q=50&w=1302&s=ba81f6e832ca1daa01230b6c8abddbcfaba7446a"
   },
   {
     "title": "Daniels blixtresa till OS – utan Victoria",
@@ -390,13 +398,5 @@
     "published_at": "2026-02-12T19:27:51+00:00",
     "summary": "Här är dagens höjdpunkter",
     "image_url": null
-  },
-  {
-    "title": "Åkte vilse – stor räddningsinsats",
-    "link": "https://www.aftonbladet.se/sportbladet/a/7pdBbB/raddningsinsats-i-os-bergen-tva-amerikaner-strandade?utm_medium=rss",
-    "source": "Aftonbladet",
-    "published_at": "2026-02-12T23:03:02+00:00",
-    "summary": "Pådrag i OS-bergen",
-    "image_url": "https://images.aftonbladet-cdn.se/v2/images/8abf1682-b7c2-4d2e-b728-525304bba32f?fit=crop&format=auto&h=500&q=50&w=1400&s=0759a82a171249027b449afcd4361462317cd98a"
   }
 ]

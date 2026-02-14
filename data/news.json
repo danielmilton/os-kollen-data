@@ -1,5 +1,13 @@
 [
   {
+    "title": "OS idag • Program, tv-tider, höjdpunkter – söndag 15 februari",
+    "link": "https://www.expressen.se/sport/os/os-idag--program-tv-tider-hojdpunkter-sondag-15-februari/",
+    "source": "Expressen",
+    "published_at": "2026-02-15T00:02:00+01:00",
+    "summary": "Sveriges stora medaljhopp i storslalom, Sara Hector, kliver äntligen in i OS.Dessutom bjuds det på dubbla jaktstarter i skidskytte och en herrstafett i längdskidor. Följ OS i Expressens app – ladda ner den här!",
+    "image_url": "https://static.bonniernews.se/images/28/ca/28ca1e4fe7284b77b73363e8a097057e/16x9/265@70.jpg"
+  },
+  {
     "title": "OS idag: 15 februari",
     "link": "https://www.svt.se/sport/artikel/os-idag-15-februari",
     "source": "SVT",
@@ -149,7 +157,7 @@
     "source": "Aftonbladet",
     "published_at": "2026-02-13T16:07:46+00:00",
     "summary": "OS-stjärnorna är tillsammans",
-    "image_url": "https://images.aftonbladet-cdn.se/v2/images/8134b77e-9681-486e-b41f-6c42db0aa209?fit=crop&format=auto&h=788&q=50&tight=true&w=1400&s=6b6775cf44f48ef75aa18d75d4a0c77cfd603fc6"
+    "image_url": "https://images.aftonbladet-cdn.se/v2/images/8134b77e-9681-486e-b41f-6c42db0aa209?fit=crop&format=auto&h=569&q=50&w=1400&s=be43ea9bcb6ae50ad4300e64ddec71a85933b4f1"
   },
   {
     "title": "Se otroliga bilderna – en mil ut på isen: ”Fantastiskt naturfenomen”",
@@ -390,13 +398,5 @@
     "published_at": "2026-02-13T09:46:36+00:00",
     "summary": "OS-ikonen rasar mot Snoop Doggs team",
     "image_url": "https://images.aftonbladet-cdn.se/v2/images/6aa63507-93d7-4930-a4ff-a3ed6322bbb9?fit=crop&format=auto&h=429&q=50&w=1000&s=709dd43a8a4308f28b90ab5fb44f1d11ef1d6fea"
-  },
-  {
-    "title": "Lucas Pinheiro Braathen tar Brasiliens första guld på vinter-OS",
-    "link": "https://www.svt.se/sport/langdskidor/lucas-pinheiro-braathen-tar-brasiliens-forsta-guld-pa-vinter-os",
-    "source": "SVT",
-    "published_at": "2026-02-14T14:29:50+01:00",
-    "summary": "Han bytte land från Norge för 2,5 år sedan – idag tog Lucas Pinheiro Braathen hem ett historiskt OS-guld för Brasilien i storslalom. Nationens första medalj på vinter-OS någonsin. – Det är en enorm press på honom det måste man ge honom, säger Pernilla Wiberg.",
-    "image_url": null
   }
 ]

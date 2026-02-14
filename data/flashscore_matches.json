@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-14T09:04:02.216509+00:00",
+  "scraped_at": "2026-02-14T11:37:01.972776+00:00",
   "matches": [
     {
       "type": "team",
@@ -1910,115 +1910,6 @@
     },
     {
       "type": "startlist",
-      "sport": "Längdskidor",
-      "event": "Stafett damer",
-      "total": 19,
-      "swe_athletes": [
-        {
-          "name": "Sverige D",
-          "country": "Sverige"
-        }
-      ],
-      "athletes": [
-        {
-          "name": "Norge D",
-          "country": "Norge",
-          "bib": 2
-        },
-        {
-          "name": "Österrike D",
-          "country": "Österrike",
-          "bib": 18
-        },
-        {
-          "name": "Schweiz D",
-          "country": "Schweiz",
-          "bib": 5
-        },
-        {
-          "name": "Slovenien D",
-          "country": "Slovenien",
-          "bib": 19
-        },
-        {
-          "name": "Tyskland D",
-          "country": "Tyskland",
-          "bib": 3
-        },
-        {
-          "name": "Sverige D",
-          "country": "Sverige",
-          "bib": 1
-        },
-        {
-          "name": "Frankrike D",
-          "country": "Frankrike",
-          "bib": 17
-        },
-        {
-          "name": "Finland D",
-          "country": "Finland",
-          "bib": 4
-        },
-        {
-          "name": "Polen D",
-          "country": "Polen",
-          "bib": 16
-        },
-        {
-          "name": "Lettland D",
-          "country": "Lettland",
-          "bib": 15
-        },
-        {
-          "name": "USA D",
-          "country": "USA",
-          "bib": 6
-        },
-        {
-          "name": "Ukraina D",
-          "country": "Ukraina",
-          "bib": 14
-        },
-        {
-          "name": "Italien D",
-          "country": "Italien",
-          "bib": 7
-        },
-        {
-          "name": "Kina D",
-          "country": "Kina",
-          "bib": 13
-        },
-        {
-          "name": "Tjeckien D",
-          "country": "Tjeckien",
-          "bib": 8
-        },
-        {
-          "name": "Kazakstan D",
-          "country": "Kazakstan",
-          "bib": 12
-        },
-        {
-          "name": "Kanada D",
-          "country": "Kanada",
-          "bib": 9
-        },
-        {
-          "name": "Australien D",
-          "country": "Australien",
-          "bib": 11
-        },
-        {
-          "name": "Estland D",
-          "country": "Estland",
-          "bib": 10
-        }
-      ]
-    },
-    {
-      "type": "startlist",
       "sport": "Skidskytte",
       "event": "Sprint damer",
       "total": 91,
@@ -2297,7 +2188,7 @@
           "bib": 28
         },
         {
-          "name": "Janina Hettich",
+          "name": "Selina Grotian",
           "country": "Tyskland",
           "bib": 36
         },
@@ -4360,6 +4251,43 @@
       "status": "finished",
       "timestamp": 1771013400,
       "periods": "2-1, 1-0, 2-0"
+    },
+    {
+      "type": "individual",
+      "sport": "Alpint",
+      "event": "Storslalom herrar",
+      "status": "finished",
+      "timestamp": 1771059600,
+      "results": [
+        {
+          "pos": 1,
+          "name": "Lucas Braathen",
+          "country": "Brasilien",
+          "time": "1:13.92",
+          "diff": "0.00"
+        },
+        {
+          "pos": 2,
+          "name": "Marco Odermatt",
+          "country": "Schweiz",
+          "time": "1:14.87",
+          "diff": "0.95"
+        },
+        {
+          "pos": 3,
+          "name": "Loic Meillard",
+          "country": "Schweiz",
+          "time": "1:15.49",
+          "diff": "1.57"
+        },
+        {
+          "pos": 23,
+          "name": "Fabian Swartz",
+          "country": "Sverige",
+          "time": "1:17.42",
+          "diff": "3.50"
+        }
+      ]
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-14T11:37:01.972776+00:00",
+  "scraped_at": "2026-02-14T12:27:28.365712+00:00",
   "matches": [
     {
       "type": "team",
@@ -4286,6 +4286,34 @@
           "country": "Sverige",
           "time": "1:17.42",
           "diff": "3.50"
+        }
+      ]
+    },
+    {
+      "type": "individual",
+      "sport": "Längdskidor",
+      "event": "Stafett damer",
+      "status": "finished",
+      "timestamp": 1771066800,
+      "results": [
+        {
+          "pos": 1,
+          "name": "Norge D",
+          "country": "Norge",
+          "time": "1:15:44.0",
+          "diff": "0.0"
+        },
+        {
+          "pos": 2,
+          "name": "Sverige D",
+          "country": "Sverige",
+          "diff": "50.9"
+        },
+        {
+          "pos": 3,
+          "name": "Finland D",
+          "country": "Finland",
+          "diff": "1:14.7"
         }
       ]
     }

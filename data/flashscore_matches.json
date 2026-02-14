@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-14T17:57:52.949261+00:00",
+  "scraped_at": "2026-02-14T18:42:33.635891+00:00",
   "matches": [
     {
       "type": "team",
@@ -1857,29 +1857,9 @@
       ],
       "athletes": [
         {
-          "name": "Norge",
-          "country": "Norge",
-          "bib": 1
-        },
-        {
-          "name": "Schweiz",
-          "country": "Schweiz",
-          "bib": 2
-        },
-        {
-          "name": "Sverige",
-          "country": "Sverige",
-          "bib": 3
-        },
-        {
-          "name": "Frankrike",
-          "country": "Frankrike",
-          "bib": 4
-        },
-        {
-          "name": "Kanada",
-          "country": "Kanada",
-          "bib": 5
+          "name": "USA",
+          "country": "USA",
+          "bib": 7
         },
         {
           "name": "Italien",
@@ -1887,24 +1867,44 @@
           "bib": 6
         },
         {
-          "name": "USA",
-          "country": "USA",
-          "bib": 7
-        },
-        {
           "name": "Tyskland",
           "country": "Tyskland",
           "bib": 8
         },
         {
-          "name": "United Kingdom",
-          "country": "Storbritannien",
-          "bib": 9
+          "name": "Kanada",
+          "country": "Kanada",
+          "bib": 5
+        },
+        {
+          "name": "Frankrike",
+          "country": "Frankrike",
+          "bib": 4
         },
         {
           "name": "Finland",
           "country": "Finland",
+          "bib": 9
+        },
+        {
+          "name": "Sverige",
+          "country": "Sverige",
+          "bib": 3
+        },
+        {
+          "name": "Tjeckien",
+          "country": "Tjeckien",
           "bib": 10
+        },
+        {
+          "name": "Schweiz",
+          "country": "Schweiz",
+          "bib": 2
+        },
+        {
+          "name": "Norge",
+          "country": "Norge",
+          "bib": 1
         }
       ]
     },
@@ -3813,6 +3813,65 @@
           "time": "22:37.9",
           "diff": "1:57.1",
           "penalties": 3
+        }
+      ]
+    },
+    {
+      "type": "team",
+      "sport": "Ishockey",
+      "event": "Herrar",
+      "event_id": "SvnoHIuH",
+      "home": "Finland",
+      "away": "Italien",
+      "home_score": 11,
+      "away_score": 0,
+      "status": "finished",
+      "timestamp": 1771083600,
+      "periods": "3-0, 3-0, 5-0"
+    },
+    {
+      "type": "team",
+      "sport": "Ishockey",
+      "event": "Damer",
+      "event_id": "KM1tMn9t",
+      "home": "Kanada",
+      "away": "Tyskland",
+      "home_score": 5,
+      "away_score": 1,
+      "status": "finished",
+      "timestamp": 1771083600,
+      "periods": "2-0, 1-0, 2-1"
+    },
+    {
+      "type": "individual",
+      "sport": "Backhoppning",
+      "event": "Storbacke herrar",
+      "status": "finished",
+      "timestamp": 1771091100,
+      "results": [
+        {
+          "pos": 1,
+          "name": "Ren Nikaido",
+          "country": "Japan",
+          "dist": "154.0",
+          "dist_pts": "140.0",
+          "best_dist": "154.0"
+        },
+        {
+          "pos": 2,
+          "name": "Domen Prevc",
+          "country": "Slovenien",
+          "dist": "147.0",
+          "dist_pts": "138.5",
+          "best_dist": "147.0"
+        },
+        {
+          "pos": 3,
+          "name": "Kristoffer Sundal",
+          "country": "Norge",
+          "dist": "145.0",
+          "dist_pts": "136.0",
+          "best_dist": "145.0"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-15T20:35:40.124196+00:00",
+  "scraped_at": "2026-02-15T20:58:52.820591+00:00",
   "matches": [
     {
       "type": "team",
@@ -3342,6 +3342,19 @@
           "best_pts": "139.4"
         }
       ]
+    },
+    {
+      "type": "team",
+      "sport": "Ishockey",
+      "event": "Herrar",
+      "event_id": "WC80FHRQ",
+      "home": "Danmark",
+      "away": "Lettland",
+      "home_score": 4,
+      "away_score": 2,
+      "status": "finished",
+      "timestamp": 1771179000,
+      "periods": "3-1, 0-1, 1-0"
     }
   ]
 }

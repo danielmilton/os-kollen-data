@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-15T10:51:32.038107+00:00",
+  "scraped_at": "2026-02-15T11:40:02.681526+00:00",
   "matches": [
     {
       "type": "team",
@@ -1674,70 +1674,6 @@
     },
     {
       "type": "startlist",
-      "sport": "Längdskidor",
-      "event": "Stafett herrar",
-      "total": 10,
-      "swe_athletes": [
-        {
-          "name": "Sverige",
-          "country": "Sverige"
-        }
-      ],
-      "athletes": [
-        {
-          "name": "USA",
-          "country": "USA",
-          "bib": 7
-        },
-        {
-          "name": "Italien",
-          "country": "Italien",
-          "bib": 6
-        },
-        {
-          "name": "Tyskland",
-          "country": "Tyskland",
-          "bib": 8
-        },
-        {
-          "name": "Kanada",
-          "country": "Kanada",
-          "bib": 5
-        },
-        {
-          "name": "Frankrike",
-          "country": "Frankrike",
-          "bib": 4
-        },
-        {
-          "name": "Finland",
-          "country": "Finland",
-          "bib": 9
-        },
-        {
-          "name": "Sverige",
-          "country": "Sverige",
-          "bib": 3
-        },
-        {
-          "name": "Tjeckien",
-          "country": "Tjeckien",
-          "bib": 10
-        },
-        {
-          "name": "Schweiz",
-          "country": "Schweiz",
-          "bib": 2
-        },
-        {
-          "name": "Norge",
-          "country": "Norge",
-          "bib": 1
-        }
-      ]
-    },
-    {
-      "type": "startlist",
       "sport": "Skidskytte",
       "event": "Jaktstart damer",
       "total": 60,
@@ -3399,6 +3335,106 @@
       "status": "finished",
       "timestamp": 1771099800,
       "periods": "1-2, 3-1, 2-0"
+    },
+    {
+      "type": "individual",
+      "sport": "Alpint",
+      "event": "Storslalom damer",
+      "status": "finished",
+      "timestamp": 1771146000,
+      "results": [
+        {
+          "pos": 1,
+          "name": "Federica Brignone",
+          "country": "Italien",
+          "time": "1:03.23",
+          "diff": "0.00"
+        },
+        {
+          "pos": 2,
+          "name": "Lena Dürr",
+          "country": "Tyskland",
+          "time": "1:03.57",
+          "diff": "0.34"
+        },
+        {
+          "pos": 3,
+          "name": "Sofia Goggia",
+          "country": "Italien",
+          "time": "1:03.69",
+          "diff": "0.46"
+        },
+        {
+          "pos": 5,
+          "name": "Sara Hector",
+          "country": "Sverige",
+          "time": "1:03.97",
+          "diff": "0.74"
+        },
+        {
+          "pos": 27,
+          "name": "Hanna Aronsson Elfman",
+          "country": "Sverige",
+          "time": "1:05.50",
+          "diff": "2.27"
+        },
+        {
+          "pos": 31,
+          "name": "Estelle Alphand",
+          "country": "Sverige",
+          "time": "1:06.02",
+          "diff": "2.79"
+        }
+      ]
+    },
+    {
+      "type": "individual",
+      "sport": "Skidskytte",
+      "event": "Jaktstart herrar",
+      "status": "finished",
+      "timestamp": 1771150500,
+      "results": [
+        {
+          "pos": 1,
+          "name": "Martin Ponsiluoma",
+          "country": "Sverige",
+          "time": "31:11.9",
+          "diff": "0.0",
+          "penalties": 1
+        },
+        {
+          "pos": 2,
+          "name": "Sturla Holm Lägreid",
+          "country": "Norge",
+          "time": "31:32.5",
+          "diff": "20.6",
+          "penalties": 2
+        },
+        {
+          "pos": 3,
+          "name": "Emilien Jacqülin",
+          "country": "Frankrike",
+          "time": "31:41.6",
+          "diff": "29.7",
+          "penalties": 3
+        },
+        {
+          "pos": 12,
+          "name": "Sebastian Samülsson",
+          "country": "Sverige",
+          "time": "33:34.6",
+          "diff": "2:22.7",
+          "penalties": 5
+        },
+        {
+          "pos": 52,
+          "name": "Malte Stefansson",
+          "country": "Sverige",
+          "time": "37:01.4",
+          "diff": "5:49.5",
+          "penalties": 6
+        }
+      ]
     }
   ]
 }

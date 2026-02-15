@@ -583,5 +583,14 @@
     "gold_result": "0.00",
     "silver_result": "+0.43",
     "bronze_result": "+0.55"
+  },
+  {
+    "event": "Speedskating – Women's 500m",
+    "gold_winner": "Femke Kok (NED)",
+    "silver_winner": "Jutta Leerdam (NED)",
+    "bronze_winner": "Miho Takagi (JPN)",
+    "gold_result": "36.49 OR",
+    "silver_result": "37.15",
+    "bronze_result": "37.27"
   }
 ]

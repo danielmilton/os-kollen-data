@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-15T11:40:02.681526+00:00",
+  "scraped_at": "2026-02-15T12:57:07.342459+00:00",
   "matches": [
     {
       "type": "team",
@@ -3338,57 +3338,6 @@
     },
     {
       "type": "individual",
-      "sport": "Alpint",
-      "event": "Storslalom damer",
-      "status": "finished",
-      "timestamp": 1771146000,
-      "results": [
-        {
-          "pos": 1,
-          "name": "Federica Brignone",
-          "country": "Italien",
-          "time": "1:03.23",
-          "diff": "0.00"
-        },
-        {
-          "pos": 2,
-          "name": "Lena Dürr",
-          "country": "Tyskland",
-          "time": "1:03.57",
-          "diff": "0.34"
-        },
-        {
-          "pos": 3,
-          "name": "Sofia Goggia",
-          "country": "Italien",
-          "time": "1:03.69",
-          "diff": "0.46"
-        },
-        {
-          "pos": 5,
-          "name": "Sara Hector",
-          "country": "Sverige",
-          "time": "1:03.97",
-          "diff": "0.74"
-        },
-        {
-          "pos": 27,
-          "name": "Hanna Aronsson Elfman",
-          "country": "Sverige",
-          "time": "1:05.50",
-          "diff": "2.27"
-        },
-        {
-          "pos": 31,
-          "name": "Estelle Alphand",
-          "country": "Sverige",
-          "time": "1:06.02",
-          "diff": "2.79"
-        }
-      ]
-    },
-    {
-      "type": "individual",
       "sport": "Skidskytte",
       "event": "Jaktstart herrar",
       "status": "finished",
@@ -3433,6 +3382,43 @@
           "time": "37:01.4",
           "diff": "5:49.5",
           "penalties": 6
+        }
+      ]
+    },
+    {
+      "type": "individual",
+      "sport": "Längdskidor",
+      "event": "Stafett herrar",
+      "status": "finished",
+      "timestamp": 1771153200,
+      "results": [
+        {
+          "pos": 1,
+          "name": "Norge",
+          "country": "Norge",
+          "time": "1:04:24.5",
+          "diff": "0.0"
+        },
+        {
+          "pos": 2,
+          "name": "Frankrike",
+          "country": "Frankrike",
+          "time": "1:04:46.7",
+          "diff": "22.2"
+        },
+        {
+          "pos": 3,
+          "name": "Italien",
+          "country": "Italien",
+          "time": "1:05:12.4",
+          "diff": "47.9"
+        },
+        {
+          "pos": 10,
+          "name": "Sverige",
+          "country": "Sverige",
+          "time": "1:07:53.3",
+          "diff": "3:28.8"
         }
       ]
     }

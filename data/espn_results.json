@@ -592,5 +592,14 @@
     "gold_result": "36.49 OR",
     "silver_result": "37.15",
     "bronze_result": "37.27"
+  },
+  {
+    "event": "Skeleton – Mixed Team",
+    "gold_winner": "Tabitha Stoecker, Matt Weston (GBR)",
+    "silver_winner": "Susanne Kreher, Axel Jungk (GER)",
+    "bronze_winner": "Jacqueline Pfeifer, Christopher Grotheer (GER)",
+    "gold_result": "1:59.36",
+    "silver_result": "1:59.53",
+    "bronze_result": "1:59.54"
   }
 ]

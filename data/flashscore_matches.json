@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-15T21:54:13.596529+00:00",
+  "scraped_at": "2026-02-15T22:49:11.133801+00:00",
   "matches": [
     {
       "type": "team",
@@ -3360,6 +3360,19 @@
       "status": "finished",
       "timestamp": 1771179000,
       "periods": "3-1, 0-1, 1-0"
+    },
+    {
+      "type": "team",
+      "sport": "Ishockey",
+      "event": "Herrar",
+      "event_id": "M17KVHfA",
+      "home": "USA",
+      "away": "Tyskland",
+      "home_score": 5,
+      "away_score": 1,
+      "status": "finished",
+      "timestamp": 1771186200,
+      "periods": "1-0, 2-0, 2-1"
     }
   ]
 }

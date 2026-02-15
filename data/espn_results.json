@@ -601,5 +601,14 @@
     "gold_result": "1:59.36",
     "silver_result": "1:59.53",
     "bronze_result": "1:59.54"
+  },
+  {
+    "event": "Ski Jumping – Women's Individual Large Hill",
+    "gold_winner": "Anna Odine Stroem (NOR)",
+    "silver_winner": "Eirin Maria Kvandal (NOR)",
+    "bronze_winner": "Nika Prevc (SLO)",
+    "gold_result": "284.8",
+    "silver_result": "282.7",
+    "bronze_result": "271.5"
   }
 ]

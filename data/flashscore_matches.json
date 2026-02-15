@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-15T20:58:52.820591+00:00",
+  "scraped_at": "2026-02-15T21:33:18.954494+00:00",
   "matches": [
     {
       "type": "team",
@@ -2491,88 +2491,78 @@
       "type": "startlist",
       "sport": "Backhoppning",
       "event": "Storbacke lag",
-      "total": 16,
+      "total": 14,
       "swe_athletes": [],
       "athletes": [
         {
-          "name": "Österrike",
-          "country": "Österrike",
+          "name": "Rumänien",
+          "country": "Rumänien",
           "bib": 1
-        },
-        {
-          "name": "Estland",
-          "country": "Estland",
-          "bib": 2
-        },
-        {
-          "name": "Finland",
-          "country": "Finland",
-          "bib": 3
         },
         {
           "name": "Frankrike",
           "country": "Frankrike",
+          "bib": 9
+        },
+        {
+          "name": "Österrike",
+          "country": "Österrike",
+          "bib": 17
+        },
+        {
+          "name": "Slovenien",
+          "country": "Slovenien",
+          "bib": 16
+        },
+        {
+          "name": "Kina",
+          "country": "Kina",
+          "bib": 2
+        },
+        {
+          "name": "Japan",
+          "country": "Japan",
+          "bib": 15
+        },
+        {
+          "name": "Kazakstan",
+          "country": "Kazakstan",
           "bib": 4
         },
         {
           "name": "Tyskland",
           "country": "Tyskland",
-          "bib": 5
-        },
-        {
-          "name": "Italien",
-          "country": "Italien",
-          "bib": 6
-        },
-        {
-          "name": "Japan",
-          "country": "Japan",
-          "bib": 7
-        },
-        {
-          "name": "Kazakstan",
-          "country": "Kazakstan",
-          "bib": 8
-        },
-        {
-          "name": "Norge",
-          "country": "Norge",
-          "bib": 9
-        },
-        {
-          "name": "Polen",
-          "country": "Polen",
-          "bib": 10
-        },
-        {
-          "name": "Rumänien",
-          "country": "Rumänien",
-          "bib": 11
-        },
-        {
-          "name": "Slovenien",
-          "country": "Slovenien",
-          "bib": 12
-        },
-        {
-          "name": "Schweiz",
-          "country": "Schweiz",
-          "bib": 13
-        },
-        {
-          "name": "Turkiet",
-          "country": "Turkiet",
           "bib": 14
         },
         {
           "name": "Ukraina",
           "country": "Ukraina",
-          "bib": 15
+          "bib": 5
+        },
+        {
+          "name": "Norge",
+          "country": "Norge",
+          "bib": 13
+        },
+        {
+          "name": "Estland",
+          "country": "Estland",
+          "bib": 6
+        },
+        {
+          "name": "Polen",
+          "country": "Polen",
+          "bib": 12
         },
         {
           "name": "USA",
           "country": "USA",
-          "bib": 16
+          "bib": 8
+        },
+        {
+          "name": "Schweiz",
+          "country": "Schweiz",
+          "bib": 10
         }
       ]
     },

@@ -547,5 +547,23 @@
     "gold_result": "",
     "silver_result": "",
     "bronze_result": ""
+  },
+  {
+    "event": "Alpine Skiing – Women's Giant Slalom",
+    "gold_winner": "Federica Brignone (ITA)",
+    "silver_winner": "Sara Hector (SWE)",
+    "bronze_winner": "",
+    "gold_result": "2:13.5",
+    "silver_result": "2:14.12",
+    "bronze_result": ""
+  },
+  {
+    "event": "Cross-Country Skiing – Men's 4x7.5km Relay",
+    "gold_winner": "Emil Iversen, Martin Løwstrøm Nyenget, Einar Hedegart, Johannes Høsflot Klæbo (NOR)",
+    "silver_winner": "Theo Schely, Hugo Lapalus, Mathis Desloges, Victor Lovera (FRA)",
+    "bronze_winner": "Davide Graz, Elia Barp, Martino Carollo, Federico Pellegrino (ITA)",
+    "gold_result": "1:04:24.5",
+    "silver_result": "1:04:46.7",
+    "bronze_result": "1:05:12.4"
   }
 ]

@@ -88,14 +88,6 @@
     "total": 5
   },
   {
-    "country_name": "Slovenia",
-    "country_code": "SLO",
-    "gold": 3,
-    "silver": 1,
-    "bronze": 0,
-    "total": 4
-  },
-  {
     "country_name": "Great Britain",
     "country_code": "GBR",
     "gold": 3,
@@ -109,6 +101,14 @@
     "gold": 2,
     "silver": 2,
     "bronze": 0,
+    "total": 4
+  },
+  {
+    "country_name": "Slovenia",
+    "country_code": "SLO",
+    "gold": 2,
+    "silver": 1,
+    "bronze": 1,
     "total": 4
   },
   {

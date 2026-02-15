@@ -576,24 +576,6 @@
     "bronze_result": ""
   },
   {
-    "event": "Snowboarding – Mixed Team Snowboard Cross",
-    "gold_winner": "Huw Nightingale, Charlotte Bankes (GBR)",
-    "silver_winner": "Lorenzo Sommariva, Michela Moioli (ITA)",
-    "bronze_winner": "Loan Bozzolo, Lea Casta (FRA)",
-    "gold_result": "0.00",
-    "silver_result": "+0.43",
-    "bronze_result": "+0.55"
-  },
-  {
-    "event": "Speedskating – Women's 500m",
-    "gold_winner": "Femke Kok (NED)",
-    "silver_winner": "Jutta Leerdam (NED)",
-    "bronze_winner": "Miho Takagi (JPN)",
-    "gold_result": "36.49 OR",
-    "silver_result": "37.15",
-    "bronze_result": "37.27"
-  },
-  {
     "event": "Skeleton – Mixed Team",
     "gold_winner": "Tabitha Stoecker, Matt Weston (GBR)",
     "silver_winner": "Susanne Kreher, Axel Jungk (GER)",
@@ -610,5 +592,23 @@
     "gold_result": "284.8",
     "silver_result": "282.7",
     "bronze_result": "271.5"
+  },
+  {
+    "event": "Snowboarding – Mixed Team Snowboard Cross",
+    "gold_winner": "Huw Nightingale, Charlotte Bankes (GBR)",
+    "silver_winner": "Lorenzo Sommariva, Michela Moioli (ITA)",
+    "bronze_winner": "Loan Bozzolo, Lea Casta (FRA)",
+    "gold_result": "0.00",
+    "silver_result": "+0.43",
+    "bronze_result": "+0.55"
+  },
+  {
+    "event": "Speedskating – Women's 500m",
+    "gold_winner": "Femke Kok (NED)",
+    "silver_winner": "Jutta Leerdam (NED)",
+    "bronze_winner": "Miho Takagi (JPN)",
+    "gold_result": "36.49 OR",
+    "silver_result": "37.15",
+    "bronze_result": "37.27"
   }
 ]

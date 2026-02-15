@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-15T19:18:23.055278+00:00",
+  "scraped_at": "2026-02-15T19:43:50.209895+00:00",
   "matches": [
     {
       "type": "team",
@@ -2954,6 +2954,55 @@
       "status": "finished",
       "timestamp": 1771170000,
       "periods": "3-1, 3-0, 4-1"
+    },
+    {
+      "type": "individual",
+      "sport": "Backhoppning",
+      "event": "Storbacke damer",
+      "status": "finished",
+      "timestamp": 1771177500,
+      "results": [
+        {
+          "pos": 1,
+          "name": "Odine Ström Anna",
+          "country": "Norge",
+          "dist": "284.8",
+          "dist_pts": "130.5",
+          "style_pts": "132.0",
+          "best_dist": "136.7",
+          "best_pts": "148.1"
+        },
+        {
+          "pos": 2,
+          "name": "Eirin Maria Kvandal",
+          "country": "Norge",
+          "dist": "282.7",
+          "dist_pts": "129.0",
+          "style_pts": "133.5",
+          "best_dist": "140.6",
+          "best_pts": "142.1"
+        },
+        {
+          "pos": 3,
+          "name": "Nika Prevc",
+          "country": "Slovenien",
+          "dist": "271.5",
+          "dist_pts": "128.0",
+          "style_pts": "127.5",
+          "best_dist": "128.3",
+          "best_pts": "143.2"
+        },
+        {
+          "pos": 4,
+          "name": "Frida Westman",
+          "country": "Sverige",
+          "dist": "265.4",
+          "dist_pts": "129.5",
+          "style_pts": "127.5",
+          "best_dist": "126.0",
+          "best_pts": "139.4"
+        }
+      ]
     }
   ]
 }

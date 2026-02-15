@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-15T13:49:23.768791+00:00",
+  "scraped_at": "2026-02-15T14:17:29.033507+00:00",
   "matches": [
     {
       "type": "team",
@@ -3085,6 +3085,63 @@
           "country": "Sverige",
           "time": "1:07:53.3",
           "diff": "3:28.8"
+        }
+      ]
+    },
+    {
+      "type": "team",
+      "sport": "Ishockey",
+      "event": "Herrar",
+      "event_id": "hMX24udB",
+      "home": "Schweiz",
+      "away": "Tjeckien",
+      "home_score": 4,
+      "away_score": 3,
+      "status": "finished",
+      "timestamp": 1771153800,
+      "periods": "0-1, 2-0, 1-2"
+    },
+    {
+      "type": "individual",
+      "sport": "Alpint",
+      "event": "Storslalom damer",
+      "status": "finished",
+      "timestamp": 1771146000,
+      "results": [
+        {
+          "pos": 1,
+          "name": "Federica Brignone",
+          "country": "Italien",
+          "time": "2:13.50",
+          "diff": "0.00"
+        },
+        {
+          "pos": 2,
+          "name": "Thea Louise Stjernesund",
+          "country": "Norge",
+          "time": "2:14.12",
+          "diff": "0.62"
+        },
+        {
+          "pos": 3,
+          "name": "Sara Hector",
+          "country": "Sverige",
+          "time": "2:14.12",
+          "diff": "0.62"
+        },
+        {
+          "pos": 21,
+          "name": "Hanna Aronsson Elfman",
+          "country": "Sverige",
+          "time": "2:15.35",
+          "diff": "1.85"
+        },
+        {
+          "pos": 27,
+          "name": "Estelle Alphand",
+          "country": "Sverige",
+          "time": "2:17.39",
+          "diff": "3.89"
         }
       ]
     }

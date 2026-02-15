@@ -3,17 +3,17 @@
     "country_name": "Norway",
     "country_code": "NOR",
     "gold": 11,
-    "silver": 4,
+    "silver": 5,
     "bronze": 7,
-    "total": 22
+    "total": 23
   },
   {
     "country_name": "Italy",
     "country_code": "ITA",
-    "gold": 6,
+    "gold": 7,
     "silver": 3,
     "bronze": 10,
-    "total": 19
+    "total": 20
   },
   {
     "country_name": "United States",
@@ -27,9 +27,9 @@
     "country_name": "Sweden",
     "country_code": "SWE",
     "gold": 5,
-    "silver": 4,
+    "silver": 5,
     "bronze": 1,
-    "total": 10
+    "total": 11
   },
   {
     "country_name": "France",

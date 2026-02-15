@@ -565,5 +565,14 @@
     "gold_result": "1:04:24.5",
     "silver_result": "1:04:46.7",
     "bronze_result": "1:05:12.4"
+  },
+  {
+    "event": "Snowboarding – Mixed Team Snowboard Cross",
+    "gold_winner": "Huw Nightingale, Charlotte Bankes (GBR)",
+    "silver_winner": "Lorenzo Sommariva, Michela Moioli (ITA)",
+    "bronze_winner": "Loan Bozzolo, Lea Casta (FRA)",
+    "gold_result": "0.00",
+    "silver_result": "+0.43",
+    "bronze_result": "+0.55"
   }
 ]

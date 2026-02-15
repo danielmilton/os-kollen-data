@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-15T14:17:29.033507+00:00",
+  "scraped_at": "2026-02-15T15:15:13.344031+00:00",
   "matches": [
     {
       "type": "team",
@@ -3142,6 +3142,71 @@
           "country": "Sverige",
           "time": "2:17.39",
           "diff": "3.89"
+        }
+      ]
+    },
+    {
+      "type": "individual",
+      "sport": "Skidskytte",
+      "event": "Jaktstart damer",
+      "status": "finished",
+      "timestamp": 1771163100,
+      "results": [
+        {
+          "pos": 1,
+          "name": "Lisa Vittozzi",
+          "country": "Italien",
+          "time": "30:11.8",
+          "diff": "0.0",
+          "penalties": 0
+        },
+        {
+          "pos": 2,
+          "name": "Maren Kirkeeide",
+          "country": "Norge",
+          "time": "30:40.6",
+          "diff": "28.8",
+          "penalties": 3
+        },
+        {
+          "pos": 3,
+          "name": "Suvi Minkkinen",
+          "country": "Finland",
+          "time": "30:46.1",
+          "diff": "34.3",
+          "penalties": 0
+        },
+        {
+          "pos": 8,
+          "name": "Hanna Oberg",
+          "country": "Sverige",
+          "time": "31:31.5",
+          "diff": "1:19.7",
+          "penalties": 2
+        },
+        {
+          "pos": 10,
+          "name": "Linn Gestblom",
+          "country": "Sverige",
+          "time": "31:47.2",
+          "diff": "1:35.4",
+          "penalties": 2
+        },
+        {
+          "pos": 17,
+          "name": "Anna Magnusson",
+          "country": "Sverige",
+          "time": "32:29.4",
+          "diff": "2:17.6",
+          "penalties": 3
+        },
+        {
+          "pos": 23,
+          "name": "Elvira Oberg",
+          "country": "Sverige",
+          "time": "32:49.9",
+          "diff": "2:38.1",
+          "penalties": 5
         }
       ]
     }

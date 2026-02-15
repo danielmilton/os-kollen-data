@@ -574,5 +574,14 @@
     "gold_result": "0.00",
     "silver_result": "+0.43",
     "bronze_result": "+0.55"
+  },
+  {
+    "event": "Biathlon – Women's 10km Pursuit",
+    "gold_winner": "Lisa Vittozzi (ITA)",
+    "silver_winner": "Maren Kirkeeide (NOR)",
+    "bronze_winner": "Suvi Minkkinen (FIN)",
+    "gold_result": "30:11.8",
+    "silver_result": "30:40.6",
+    "bronze_result": "30:46.1"
   }
 ]

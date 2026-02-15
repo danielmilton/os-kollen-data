@@ -529,5 +529,23 @@
     "gold_result": "33.77 OR",
     "silver_result": "33.88",
     "bronze_result": "34.26"
+  },
+  {
+    "event": "Biathlon – Men's 12.5km Pursuit",
+    "gold_winner": "Martin Ponsiluoma (SWE)",
+    "silver_winner": "Sturla Holm Laegreid (NOR)",
+    "bronze_winner": "Emilien Jacquelin (FRA)",
+    "gold_result": "31:11.9",
+    "silver_result": "31:32.5",
+    "bronze_result": "31:41.6"
+  },
+  {
+    "event": "Freestyle Skiing – Men's Dual Moguls",
+    "gold_winner": "Mikael Kingsbury (CAN)",
+    "silver_winner": "Ikuma Horishima (JPN)",
+    "bronze_winner": "Matt Graham (AUS)",
+    "gold_result": "",
+    "silver_result": "",
+    "bronze_result": ""
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-15T21:33:18.954494+00:00",
+  "scraped_at": "2026-02-15T21:54:13.596529+00:00",
   "matches": [
     {
       "type": "team",
@@ -2491,7 +2491,7 @@
       "type": "startlist",
       "sport": "Backhoppning",
       "event": "Storbacke lag",
-      "total": 14,
+      "total": 17,
       "swe_athletes": [],
       "athletes": [
         {
@@ -2518,6 +2518,11 @@
           "name": "Kina",
           "country": "Kina",
           "bib": 2
+        },
+        {
+          "name": "Turkiet",
+          "country": "Turkiet",
+          "bib": 3
         },
         {
           "name": "Japan",
@@ -2550,6 +2555,11 @@
           "bib": 6
         },
         {
+          "name": "Italien",
+          "country": "Italien",
+          "bib": 7
+        },
+        {
           "name": "Polen",
           "country": "Polen",
           "bib": 12
@@ -2558,6 +2568,11 @@
           "name": "USA",
           "country": "USA",
           "bib": 8
+        },
+        {
+          "name": "Finland",
+          "country": "Finland",
+          "bib": 11
         },
         {
           "name": "Schweiz",

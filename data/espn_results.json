@@ -531,6 +531,15 @@
     "bronze_result": "34.26"
   },
   {
+    "event": "Alpine Skiing – Women's Giant Slalom",
+    "gold_winner": "Federica Brignone (ITA)",
+    "silver_winner": "Sara Hector (SWE)",
+    "bronze_winner": "",
+    "gold_result": "2:13.5",
+    "silver_result": "2:14.12",
+    "bronze_result": ""
+  },
+  {
     "event": "Biathlon – Men's 12.5km Pursuit",
     "gold_winner": "Martin Ponsiluoma (SWE)",
     "silver_winner": "Sturla Holm Laegreid (NOR)",
@@ -540,22 +549,13 @@
     "bronze_result": "31:41.6"
   },
   {
-    "event": "Freestyle Skiing – Men's Dual Moguls",
-    "gold_winner": "Mikael Kingsbury (CAN)",
-    "silver_winner": "Ikuma Horishima (JPN)",
-    "bronze_winner": "Matt Graham (AUS)",
-    "gold_result": "",
-    "silver_result": "",
-    "bronze_result": ""
-  },
-  {
-    "event": "Alpine Skiing – Women's Giant Slalom",
-    "gold_winner": "Federica Brignone (ITA)",
-    "silver_winner": "Sara Hector (SWE)",
-    "bronze_winner": "",
-    "gold_result": "2:13.5",
-    "silver_result": "2:14.12",
-    "bronze_result": ""
+    "event": "Biathlon – Women's 10km Pursuit",
+    "gold_winner": "Lisa Vittozzi (ITA)",
+    "silver_winner": "Maren Kirkeeide (NOR)",
+    "bronze_winner": "Suvi Minkkinen (FIN)",
+    "gold_result": "30:11.8",
+    "silver_result": "30:40.6",
+    "bronze_result": "30:46.1"
   },
   {
     "event": "Cross-Country Skiing – Men's 4x7.5km Relay",
@@ -567,6 +567,15 @@
     "bronze_result": "1:05:12.4"
   },
   {
+    "event": "Freestyle Skiing – Men's Dual Moguls",
+    "gold_winner": "Mikael Kingsbury (CAN)",
+    "silver_winner": "Ikuma Horishima (JPN)",
+    "bronze_winner": "Matt Graham (AUS)",
+    "gold_result": "",
+    "silver_result": "",
+    "bronze_result": ""
+  },
+  {
     "event": "Snowboarding – Mixed Team Snowboard Cross",
     "gold_winner": "Huw Nightingale, Charlotte Bankes (GBR)",
     "silver_winner": "Lorenzo Sommariva, Michela Moioli (ITA)",
@@ -574,14 +583,5 @@
     "gold_result": "0.00",
     "silver_result": "+0.43",
     "bronze_result": "+0.55"
-  },
-  {
-    "event": "Biathlon – Women's 10km Pursuit",
-    "gold_winner": "Lisa Vittozzi (ITA)",
-    "silver_winner": "Maren Kirkeeide (NOR)",
-    "bronze_winner": "Suvi Minkkinen (FIN)",
-    "gold_result": "30:11.8",
-    "silver_result": "30:40.6",
-    "bronze_result": "30:46.1"
   }
 ]

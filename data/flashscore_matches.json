@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-16T16:10:20.942527+00:00",
+  "scraped_at": "2026-02-16T18:33:30.122331+00:00",
   "matches": [
     {
       "type": "team",
@@ -2040,100 +2040,6 @@
       ]
     },
     {
-      "type": "startlist",
-      "sport": "Backhoppning",
-      "event": "Storbacke lag",
-      "total": 17,
-      "swe_athletes": [],
-      "athletes": [
-        {
-          "name": "Rumänien",
-          "country": "Rumänien",
-          "bib": 1
-        },
-        {
-          "name": "Frankrike",
-          "country": "Frankrike",
-          "bib": 9
-        },
-        {
-          "name": "Österrike",
-          "country": "Österrike",
-          "bib": 17
-        },
-        {
-          "name": "Slovenien",
-          "country": "Slovenien",
-          "bib": 16
-        },
-        {
-          "name": "Kina",
-          "country": "Kina",
-          "bib": 2
-        },
-        {
-          "name": "Turkiet",
-          "country": "Turkiet",
-          "bib": 3
-        },
-        {
-          "name": "Japan",
-          "country": "Japan",
-          "bib": 15
-        },
-        {
-          "name": "Kazakstan",
-          "country": "Kazakstan",
-          "bib": 4
-        },
-        {
-          "name": "Tyskland",
-          "country": "Tyskland",
-          "bib": 14
-        },
-        {
-          "name": "Ukraina",
-          "country": "Ukraina",
-          "bib": 5
-        },
-        {
-          "name": "Norge",
-          "country": "Norge",
-          "bib": 13
-        },
-        {
-          "name": "Estland",
-          "country": "Estland",
-          "bib": 6
-        },
-        {
-          "name": "Italien",
-          "country": "Italien",
-          "bib": 7
-        },
-        {
-          "name": "Polen",
-          "country": "Polen",
-          "bib": 12
-        },
-        {
-          "name": "USA",
-          "country": "USA",
-          "bib": 8
-        },
-        {
-          "name": "Finland",
-          "country": "Finland",
-          "bib": 11
-        },
-        {
-          "name": "Schweiz",
-          "country": "Schweiz",
-          "bib": 10
-        }
-      ]
-    },
-    {
       "type": "individual",
       "sport": "Alpint",
       "event": "Lagkombination herrar",
@@ -2967,6 +2873,19 @@
           "country": "Sverige"
         }
       ]
+    },
+    {
+      "type": "team",
+      "sport": "Ishockey",
+      "event": "Damer",
+      "event_id": "YuUTPaUr",
+      "home": "USA",
+      "away": "Sverige",
+      "home_score": 5,
+      "away_score": 0,
+      "status": "finished",
+      "timestamp": 1771256400,
+      "periods": "1-0, 4-0, 0-0"
     }
   ]
 }

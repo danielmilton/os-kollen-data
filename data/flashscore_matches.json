@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-16T12:48:09.133268+00:00",
+  "scraped_at": "2026-02-16T13:57:45.784697+00:00",
   "matches": [
     {
       "type": "team",
@@ -2875,6 +2875,48 @@
       "status": "finished",
       "timestamp": 1771186200,
       "periods": "1-0, 2-0, 2-1"
+    },
+    {
+      "type": "individual",
+      "sport": "Alpint",
+      "event": "Slalom herrar",
+      "status": "finished",
+      "timestamp": 1771232400,
+      "results": [
+        {
+          "pos": 1,
+          "name": "Loic Meillard",
+          "country": "Schweiz",
+          "time": "1:53.61",
+          "diff": "0.00"
+        },
+        {
+          "pos": 2,
+          "name": "Fabio Gstrein",
+          "country": "Österrike",
+          "time": "1:53.96",
+          "diff": "0.35"
+        },
+        {
+          "pos": 3,
+          "name": "Henrik Kristoffersen",
+          "country": "Norge",
+          "time": "1:54.74",
+          "diff": "1.13"
+        },
+        {
+          "pos": 14,
+          "name": "Fabian Swartz",
+          "country": "Sverige",
+          "time": "1:56.58",
+          "diff": "2.97"
+        },
+        {
+          "pos": 56,
+          "name": "Kristoffer Jakobsen",
+          "country": "Sverige"
+        }
+      ]
     }
   ]
 }

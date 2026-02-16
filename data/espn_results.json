@@ -610,5 +610,14 @@
     "gold_result": "36.49 OR",
     "silver_result": "37.15",
     "bronze_result": "37.27"
+  },
+  {
+    "event": "Short-Track Speedskating – Women's 1000m",
+    "gold_winner": "Xandra Velzeboer (NED)",
+    "silver_winner": "Courtney Sarault (CAN)",
+    "bronze_winner": "Kim Gilli (KOR)",
+    "gold_result": "1:28.437",
+    "silver_result": "1:28.523",
+    "bronze_result": "1:28.614"
   }
 ]

@@ -621,13 +621,13 @@
     "bronze_result": "1:54.74"
   },
   {
-    "event": "Short-Track Speedskating – Women's 1000m",
-    "gold_winner": "Xandra Velzeboer (NED)",
-    "silver_winner": "Courtney Sarault (CAN)",
-    "bronze_winner": "Kim Gilli (KOR)",
-    "gold_result": "1:28.437",
-    "silver_result": "1:28.523",
-    "bronze_result": "1:28.614"
+    "event": "Bobsled – Women's Monobob",
+    "gold_winner": "Elana Meyers Taylor (USA)",
+    "silver_winner": "Laura Nolte (GER)",
+    "bronze_winner": "Kaillie Armbruster Humphries (USA)",
+    "gold_result": "3:57.93",
+    "silver_result": "3:57.97",
+    "bronze_result": "3:58.05"
   },
   {
     "event": "Freestyle Skiing – Women's Big Air Freestyle Skiing",
@@ -637,5 +637,23 @@
     "gold_result": "180.75",
     "silver_result": "179.00",
     "bronze_result": "178.25"
+  },
+  {
+    "event": "Short-Track Speedskating – Women's 1000m",
+    "gold_winner": "Xandra Velzeboer (NED)",
+    "silver_winner": "Courtney Sarault (CAN)",
+    "bronze_winner": "Kim Gilli (KOR)",
+    "gold_result": "1:28.437",
+    "silver_result": "1:28.523",
+    "bronze_result": "1:28.614"
+  },
+  {
+    "event": "Ski Jumping – Men's Super Team",
+    "gold_winner": "Jan Hoerl, Stephan Embacher (AUT)",
+    "silver_winner": "Pawel Wasek, Kacper Tomasiak (POL)",
+    "bronze_winner": "Johann André Forfang, Kristoffer Eriksen Sundal (NOR)",
+    "gold_result": "568.7",
+    "silver_result": "547.3",
+    "bronze_result": "538.0"
   }
 ]

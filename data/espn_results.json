@@ -628,5 +628,14 @@
     "gold_result": "1:28.437",
     "silver_result": "1:28.523",
     "bronze_result": "1:28.614"
+  },
+  {
+    "event": "Freestyle Skiing – Women's Big Air Freestyle Skiing",
+    "gold_winner": "Megan Oldham (CAN)",
+    "silver_winner": "Eileen Gu (CHN)",
+    "bronze_winner": "Flora Tabanelli (ITA)",
+    "gold_result": "180.75",
+    "silver_result": "179.00",
+    "bronze_result": "178.25"
   }
 ]

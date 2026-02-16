@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-16T20:17:52.669602+00:00",
+  "scraped_at": "2026-02-16T22:53:20.063652+00:00",
   "matches": [
     {
       "type": "team",
@@ -2919,6 +2919,19 @@
           "best_pts": "270.1"
         }
       ]
+    },
+    {
+      "type": "team",
+      "sport": "Ishockey",
+      "event": "Damer",
+      "event_id": "QDRAgWGa",
+      "home": "Kanada",
+      "away": "Schweiz",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "finished",
+      "timestamp": 1771272600,
+      "periods": "0-0, 2-0, 0-1"
     }
   ]
 }

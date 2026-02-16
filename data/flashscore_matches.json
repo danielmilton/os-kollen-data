@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-16T18:33:30.122331+00:00",
+  "scraped_at": "2026-02-16T19:21:29.654079+00:00",
   "matches": [
     {
       "type": "team",
@@ -2886,6 +2886,39 @@
       "status": "finished",
       "timestamp": 1771256400,
       "periods": "1-0, 4-0, 0-0"
+    },
+    {
+      "type": "individual",
+      "sport": "Backhoppning",
+      "event": "Storbacke lag",
+      "status": "finished",
+      "timestamp": 1771270200,
+      "results": [
+        {
+          "pos": 1,
+          "name": "Österrike",
+          "country": "Österrike",
+          "dist": "568.7",
+          "best_dist": "291.2",
+          "best_pts": "277.5"
+        },
+        {
+          "pos": 2,
+          "name": "Polen",
+          "country": "Polen",
+          "dist": "547.3",
+          "best_dist": "274.5",
+          "best_pts": "272.8"
+        },
+        {
+          "pos": 3,
+          "name": "Norge",
+          "country": "Norge",
+          "dist": "538.0",
+          "best_dist": "267.9",
+          "best_pts": "270.1"
+        }
+      ]
     }
   ]
 }

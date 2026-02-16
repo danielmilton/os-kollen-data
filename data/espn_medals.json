@@ -60,8 +60,8 @@
     "country_code": "GER",
     "gold": 4,
     "silver": 7,
-    "bronze": 5,
-    "total": 16
+    "bronze": 6,
+    "total": 17
   },
   {
     "country_name": "France",
@@ -74,10 +74,10 @@
   {
     "country_name": "Japan",
     "country_code": "JPN",
-    "gold": 3,
+    "gold": 4,
     "silver": 5,
     "bronze": 9,
-    "total": 17
+    "total": 18
   },
   {
     "country_name": "Australia",
@@ -166,6 +166,14 @@
     "silver": 1,
     "bronze": 1,
     "total": 2
+  },
+  {
+    "country_name": "Georgia",
+    "country_code": "GEO",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0,
+    "total": 1
   },
   {
     "country_name": "Finland",

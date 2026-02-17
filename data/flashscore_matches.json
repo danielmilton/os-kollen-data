@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-17T17:40:08.505713+00:00",
+  "scraped_at": "2026-02-17T18:37:30.050225+00:00",
   "matches": [
     {
       "type": "team",
@@ -2927,6 +2927,19 @@
           "penalties": 0
         }
       ]
+    },
+    {
+      "type": "team",
+      "sport": "Ishockey",
+      "event": "Herrar",
+      "event_id": "6qy9TSas",
+      "home": "Tjeckien",
+      "away": "Danmark",
+      "home_score": 3,
+      "away_score": 2,
+      "status": "finished",
+      "timestamp": 1771342800,
+      "periods": "0-0, 3-2, 0-0"
     }
   ]
 }

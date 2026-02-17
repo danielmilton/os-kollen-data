@@ -664,5 +664,14 @@
     "gold_result": "568.7",
     "silver_result": "547.3",
     "bronze_result": "538.0"
+  },
+  {
+    "event": "Nordic Combined – Men's Gundersen Large Hill",
+    "gold_winner": "Jens Lurås Oftebro (NOR)",
+    "silver_winner": "Johannes Lamparter (AUT)",
+    "bronze_winner": "Ilkka Herola (FIN)",
+    "gold_result": "24:45.0",
+    "silver_result": "24:50.9",
+    "bronze_result": "24:59.8"
   }
 ]

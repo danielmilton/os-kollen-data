@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-17T13:37:35.765022+00:00",
+  "scraped_at": "2026-02-17T14:33:32.060678+00:00",
   "matches": [
     {
       "type": "team",
@@ -2818,6 +2818,32 @@
       "status": "finished",
       "timestamp": 1771272600,
       "periods": "0-0, 2-0, 0-1"
+    },
+    {
+      "type": "team",
+      "sport": "Ishockey",
+      "event": "Herrar",
+      "event_id": "dzLlohRq",
+      "home": "Schweiz",
+      "away": "Italien",
+      "home_score": 3,
+      "away_score": 0,
+      "status": "finished",
+      "timestamp": 1771326600,
+      "periods": "2-0, 0-0, 1-0"
+    },
+    {
+      "type": "team",
+      "sport": "Ishockey",
+      "event": "Herrar",
+      "event_id": "QiUIjE3M",
+      "home": "Tyskland",
+      "away": "Frankrike",
+      "home_score": 5,
+      "away_score": 1,
+      "status": "finished",
+      "timestamp": 1771326600,
+      "periods": "3-0, 0-1, 2-0"
     }
   ]
 }

@@ -673,5 +673,23 @@
     "gold_result": "24:45.0",
     "silver_result": "24:50.9",
     "bronze_result": "24:59.8"
+  },
+  {
+    "event": "Biathlon – Men's 4x7.5km Relay",
+    "gold_winner": "Eric Perrot, Fabien Claude, Emilien Jacquelin, Quentin Fillon Maillet (FRA)",
+    "silver_winner": "Martin Uldal, Johan-Olav Botn, Sturla Holm Laegreid, Vetle Sjaastad Christiansen (NOR)",
+    "bronze_winner": "Viktor Brandt, Jesper Nelin, Martin Ponsiluoma, Sebastian Samuelsson (SWE)",
+    "gold_result": "1:19:55.2",
+    "silver_result": "1:20:05.0",
+    "bronze_result": "1:20:52.7"
+  },
+  {
+    "event": "Speedskating – Men's Team Pursuit",
+    "gold_winner": "Davide Ghiotto, Andrea Giovannini, Michele Malfatti (ITA)",
+    "silver_winner": "Casey Dawson, Ethan Cepuran, Emery Lehman (USA)",
+    "bronze_winner": "Liu Hanbin, Li Wenhao, Wu Yu (CHN)",
+    "gold_result": "",
+    "silver_result": "",
+    "bronze_result": ""
   }
 ]

@@ -675,6 +675,15 @@
     "bronze_result": "1:20:52.7"
   },
   {
+    "event": "Bobsled – Men's Two-Man",
+    "gold_winner": "Johannes Lochner, Georg Fleischhauer (GER)",
+    "silver_winner": "Francesco Friedrich, Alexander Schüller (GER)",
+    "bronze_winner": "Adam Ammour, Alexander Schaller (GER)",
+    "gold_result": "3:39.7",
+    "silver_result": "3:41.04",
+    "bronze_result": "3:41.52"
+  },
+  {
     "event": "Freestyle Skiing – Men's Big Air Freestyle Skiing",
     "gold_winner": "Tormod Frostad (NOR)",
     "silver_winner": "Mac Forehand (USA)",
@@ -709,14 +718,5 @@
     "gold_result": "",
     "silver_result": "",
     "bronze_result": ""
-  },
-  {
-    "event": "Bobsled – Men's Two-Man",
-    "gold_winner": "Johannes Lochner, Georg Fleischhauer (GER)",
-    "silver_winner": "Francesco Friedrich, Alexander Schüller (GER)",
-    "bronze_winner": "Adam Ammour, Alexander Schaller (GER)",
-    "gold_result": "3:39.7",
-    "silver_result": "3:41.04",
-    "bronze_result": "3:41.52"
   }
 ]

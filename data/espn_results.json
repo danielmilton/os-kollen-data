@@ -630,6 +630,15 @@
     "bronze_result": "3:58.05"
   },
   {
+    "event": "Figure Skating – Mixed Pairs",
+    "gold_winner": "Riku Miura, Ryuichi Kihara (JPN)",
+    "silver_winner": "Anastasiia Metelkina, Luka Berulava (GEO)",
+    "bronze_winner": "Minerva Hase, Nikita Volodin (GER)",
+    "gold_result": "231.24",
+    "silver_result": "221.75",
+    "bronze_result": "219.09"
+  },
+  {
     "event": "Freestyle Skiing – Women's Big Air Freestyle Skiing",
     "gold_winner": "Megan Oldham (CAN)",
     "silver_winner": "Eileen Gu (CHN)",
@@ -655,14 +664,5 @@
     "gold_result": "568.7",
     "silver_result": "547.3",
     "bronze_result": "538.0"
-  },
-  {
-    "event": "Figure Skating – Mixed Pairs",
-    "gold_winner": "Riku Miura, Ryuichi Kihara (JPN)",
-    "silver_winner": "Anastasiia Metelkina, Luka Berulava (GEO)",
-    "bronze_winner": "Minerva Hase, Nikita Volodin (GER)",
-    "gold_result": "231.24",
-    "silver_result": "221.75",
-    "bronze_result": "219.09"
   }
 ]

@@ -1,5 +1,13 @@
 [
   {
+    "title": "Utspelet inför OS-stafetten i skidskytte: ”Bättre än när vi tog OS-guld”",
+    "link": "https://www.svt.se/sport/skidskytte/utspelet-infor-os-stafetten-i-skidskytte-battre-an-nar-vi-tog-os-guld",
+    "source": "SVT",
+    "published_at": "2026-02-17T06:40:11+01:00",
+    "summary": "Sverige hör inte till favoriterna inför dagens OS-stafett i skidskytte. Men enligt flera i laget råder det ingen tvekan: Laget är bättre än när Sverige tog OS-guld för åtta år sedan. – Det är jag helt säker på att det är, säger Sebastian Samuelsson.",
+    "image_url": null
+  },
+  {
     "title": "Curlingfusket som har skapat rubriker världen över",
     "link": "https://www.svt.se/sport/curling/curlingfusket-som-har-skapat-rubriker-varlden-over",
     "source": "SVT",
@@ -101,7 +109,7 @@
     "source": "Aftonbladet",
     "published_at": "2026-02-16T20:10:56+00:00",
     "summary": "Agerar mot egna spelaren",
-    "image_url": "https://images.aftonbladet-cdn.se/v2/images/9bb60cf8-5457-4524-9533-f6a22c956cba?fit=crop&format=auto&h=1069&q=50&tight=true&w=1900&s=c8ed321c6b64e95dc8145fa5344e806d6defeb3c"
+    "image_url": "https://images.aftonbladet-cdn.se/v2/images/9bb60cf8-5457-4524-9533-f6a22c956cba?fit=crop&format=auto&h=679&q=50&w=1900&s=be9e5381e89658809f3517677e4eebc1a44c6951"
   },
   {
     "title": "Damkronorna överkört i OS-semifinalen – sänktes av mardrömsminuter",
@@ -110,14 +118,6 @@
     "published_at": "2026-02-16T18:57:41+01:00",
     "summary": "Damkronorna får ladda om inför kampen om brons. För i OS-semifinalen blev USA en övermäktig motståndare. – Det gäller att få till en fullständig träff i en sådan här match, det får vi inte riktigt, säger förbundskapten Ulf Lundberg.",
     "image_url": null
-  },
-  {
-    "title": "Sverige utklassat mot USA – missar OS-finalen",
-    "link": "https://www.expressen.se/sport/os/sverige-utklassat-mot-usa-missar-os-finalen/",
-    "source": "Expressen",
-    "published_at": "2026-02-16T18:57:36+01:00",
-    "summary": "Tre minuter skulle helt släcka det svenska guldhoppet.– Det är en riktig käftsmäll för ett riktigt bra svenskt hockeylandslag, säger Radiosportens Magnus Wahlman efter 2-0-målet.",
-    "image_url": "https://static.bonniernews.se/images/6b/c9/6bc9bb3884954bb780f71168dd67e2eb/16x9/265@70.jpg"
   },
   {
     "title": "OS-guide: Tisdag 17 februari",
@@ -214,6 +214,14 @@
     "published_at": "2026-02-16T09:41:04+00:00",
     "summary": "Sågar OS-förhållandena: ”Extremt”",
     "image_url": "https://images.aftonbladet-cdn.se/v2/images/bfab56a5-57d3-4c80-a8d2-0e9ae518db47?fit=crop&format=auto&h=220&q=50&w=1247&s=3c0d48556888c6eeaca94033459e30c2cc9f8c83"
+  },
+  {
+    "title": "Sverige utklassat mot USA – missar OS-finalen",
+    "link": "https://www.expressen.se/sport/os/sverige-utklassat-mot-usa-missar-os-finalen/",
+    "source": "Expressen",
+    "published_at": "2026-02-16T18:57:36+01:00",
+    "summary": "Tre minuter skulle helt släcka det svenska guldhoppet.– Det är en riktig käftsmäll för ett riktigt bra svenskt hockeylandslag, säger Radiosportens Magnus Wahlman efter 2-0-målet.",
+    "image_url": "https://static.bonniernews.se/images/6b/c9/6bc9bb3884954bb780f71168dd67e2eb/16x9/265@70.jpg"
   },
   {
     "title": "Attack mot Hallam: ”Matchat laget fel”",
@@ -390,13 +398,5 @@
     "published_at": "2026-02-16T13:34:04+01:00",
     "summary": "Heidi Weng körde hem OS-guld i stafett för Norge.Men veteranen petas i sprintstafetten.",
     "image_url": "https://static.bonniernews.se/images/fd/20/fd20ecfa617841c2ab7bb752ddd1ca3f/16x9/265@70.jpg"
-  },
-  {
-    "title": "Kanada övervakat direkt – efter nya anklagelser",
-    "link": "https://www.expressen.se/sport/os/kanada-overvakat-direkt-efter-nya-anklagelser/",
-    "source": "Expressen",
-    "published_at": "2026-02-16T12:19:45+01:00",
-    "summary": "Kanadas damer har dragits in i curlingens fuskbråk. På måndagen övervakades Rachel Homan – på begäran av motståndarna Kina. – Vi bryr oss inte, säger hon.",
-    "image_url": "https://static.bonniernews.se/images/8b/da/8bdafe57461240a48948a44d813408fc/16x9/265@70.png"
   }
 ]

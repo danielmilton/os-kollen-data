@@ -39,7 +39,7 @@
     "event": "Speedskating – Women's 3000m",
     "gold_winner": "Francesca Lollobrigida (ITA)",
     "silver_winner": "Ragne Wiklund (NOR)",
-    "bronze_winner": "Valérie Maltais (CAN)",
+    "bronze_winner": "Valerie Maltais (CAN)",
     "gold_result": "3:54.28 OR",
     "silver_result": "3:56.54",
     "bronze_result": "3:56.93"
@@ -666,15 +666,6 @@
     "bronze_result": "538.0"
   },
   {
-    "event": "Nordic Combined – Men's Gundersen Large Hill",
-    "gold_winner": "Jens Lurås Oftebro (NOR)",
-    "silver_winner": "Johannes Lamparter (AUT)",
-    "bronze_winner": "Ilkka Herola (FIN)",
-    "gold_result": "24:45.0",
-    "silver_result": "24:50.9",
-    "bronze_result": "24:59.8"
-  },
-  {
     "event": "Biathlon – Men's 4x7.5km Relay",
     "gold_winner": "Eric Perrot, Fabien Claude, Emilien Jacquelin, Quentin Fillon Maillet (FRA)",
     "silver_winner": "Martin Uldal, Johan-Olav Botn, Sturla Holm Laegreid, Vetle Sjaastad Christiansen (NOR)",
@@ -684,10 +675,28 @@
     "bronze_result": "1:20:52.7"
   },
   {
+    "event": "Nordic Combined – Men's Gundersen Large Hill",
+    "gold_winner": "Jens Lurås Oftebro (NOR)",
+    "silver_winner": "Johannes Lamparter (AUT)",
+    "bronze_winner": "Ilkka Herola (FIN)",
+    "gold_result": "24:45.0",
+    "silver_result": "24:50.9",
+    "bronze_result": "24:59.8"
+  },
+  {
     "event": "Speedskating – Men's Team Pursuit",
     "gold_winner": "Davide Ghiotto, Andrea Giovannini, Michele Malfatti (ITA)",
     "silver_winner": "Casey Dawson, Ethan Cepuran, Emery Lehman (USA)",
     "bronze_winner": "Liu Hanbin, Li Wenhao, Wu Yu (CHN)",
+    "gold_result": "",
+    "silver_result": "",
+    "bronze_result": ""
+  },
+  {
+    "event": "Speedskating – Women's Team Pursuit",
+    "gold_winner": "Ivanie Blondin, Isabelle Weidemann, Valerie Maltais (CAN)",
+    "silver_winner": "Joy Beune, Marijke Groenewoud, Antoinette Rijpma-de Jong (NED)",
+    "bronze_winner": "Miho Takagi, Hana Noake, Ayano Sato (JPN)",
     "gold_result": "",
     "silver_result": "",
     "bronze_result": ""

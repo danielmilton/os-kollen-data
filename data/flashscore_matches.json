@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-17T14:33:32.060678+00:00",
+  "scraped_at": "2026-02-17T15:32:06.269825+00:00",
   "matches": [
     {
       "type": "team",
@@ -2844,6 +2844,39 @@
       "status": "finished",
       "timestamp": 1771326600,
       "periods": "3-0, 0-1, 2-0"
+    },
+    {
+      "type": "individual",
+      "sport": "Skidskytte",
+      "event": "Stafett herrar",
+      "status": "finished",
+      "timestamp": 1771335000,
+      "results": [
+        {
+          "pos": 1,
+          "name": "Frankrike",
+          "country": "Frankrike",
+          "time": "1:19:55.2",
+          "diff": "0.0",
+          "penalties": 1
+        },
+        {
+          "pos": 2,
+          "name": "Norge",
+          "country": "Norge",
+          "time": "1:20:05.0",
+          "diff": "9.8",
+          "penalties": 0
+        },
+        {
+          "pos": 3,
+          "name": "Sverige",
+          "country": "Sverige",
+          "time": "1:20:52.7",
+          "diff": "57.5",
+          "penalties": 0
+        }
+      ]
     }
   ]
 }

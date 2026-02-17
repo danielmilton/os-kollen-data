@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-17T15:32:06.269825+00:00",
+  "scraped_at": "2026-02-17T17:40:08.505713+00:00",
   "matches": [
     {
       "type": "team",
@@ -1865,7 +1865,7 @@
       "type": "startlist",
       "sport": "Skidskytte",
       "event": "Stafett damer",
-      "total": 10,
+      "total": 20,
       "swe_athletes": [
         {
           "name": "Sverige D",
@@ -1874,14 +1874,24 @@
       ],
       "athletes": [
         {
-          "name": "Norge D",
-          "country": "Norge",
+          "name": "Frankrike D",
+          "country": "Frankrike",
           "bib": 1
         },
         {
-          "name": "Italien D",
-          "country": "Italien",
+          "name": "Schweiz D",
+          "country": "Schweiz",
+          "bib": 10
+        },
+        {
+          "name": "Norge D",
+          "country": "Norge",
           "bib": 2
+        },
+        {
+          "name": "Ukraina D",
+          "country": "Ukraina",
+          "bib": 14
         },
         {
           "name": "Sverige D",
@@ -1889,39 +1899,79 @@
           "bib": 3
         },
         {
-          "name": "Frankrike D",
-          "country": "Frankrike",
-          "bib": 4
+          "name": "Litaün D",
+          "country": "Litauen",
+          "bib": 20
         },
         {
-          "name": "Tjeckien D",
-          "country": "Tjeckien",
-          "bib": 5
+          "name": "Bulgarien D",
+          "country": "Bulgarien",
+          "bib": 15
+        },
+        {
+          "name": "Belgien D",
+          "country": "Belgien",
+          "bib": 19
+        },
+        {
+          "name": "Slovenien D",
+          "country": "Slovenien",
+          "bib": 13
+        },
+        {
+          "name": "Italien D",
+          "country": "Italien",
+          "bib": 4
         },
         {
           "name": "Tyskland D",
           "country": "Tyskland",
-          "bib": 6
-        },
-        {
-          "name": "Österrike D",
-          "country": "Österrike",
-          "bib": 7
+          "bib": 5
         },
         {
           "name": "Finland D",
           "country": "Finland",
-          "bib": 8
+          "bib": 6
         },
         {
-          "name": "Schweiz D",
-          "country": "Schweiz",
-          "bib": 9
+          "name": "Polen D",
+          "country": "Polen",
+          "bib": 12
+        },
+        {
+          "name": "Tjeckien D",
+          "country": "Tjeckien",
+          "bib": 7
+        },
+        {
+          "name": "Kanada D",
+          "country": "Kanada",
+          "bib": 18
+        },
+        {
+          "name": "USA D",
+          "country": "USA",
+          "bib": 11
+        },
+        {
+          "name": "Lettland D",
+          "country": "Lettland",
+          "bib": 17
+        },
+        {
+          "name": "Österrike D",
+          "country": "Österrike",
+          "bib": 8
         },
         {
           "name": "Slovakien D",
           "country": "Slovakien",
-          "bib": 10
+          "bib": 9
+        },
+        {
+          "name": "Estland D",
+          "country": "Estland",
+          "bib": 16
         }
       ]
     },

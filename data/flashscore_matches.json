@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-16T22:53:20.063652+00:00",
+  "scraped_at": "2026-02-17T13:37:35.765022+00:00",
   "matches": [
     {
       "type": "team",
@@ -1858,120 +1858,6 @@
           "name": "Anna Magnusson",
           "country": "Sverige",
           "bib": 8
-        }
-      ]
-    },
-    {
-      "type": "startlist",
-      "sport": "Skidskytte",
-      "event": "Stafett herrar",
-      "total": 20,
-      "swe_athletes": [
-        {
-          "name": "Sverige",
-          "country": "Sverige"
-        }
-      ],
-      "athletes": [
-        {
-          "name": "Bulgarien",
-          "country": "Bulgarien",
-          "bib": 19
-        },
-        {
-          "name": "Sverige",
-          "country": "Sverige",
-          "bib": 3
-        },
-        {
-          "name": "Frankrike",
-          "country": "Frankrike",
-          "bib": 2
-        },
-        {
-          "name": "Lettland",
-          "country": "Lettland",
-          "bib": 20
-        },
-        {
-          "name": "Österrike",
-          "country": "Österrike",
-          "bib": 18
-        },
-        {
-          "name": "Norge",
-          "country": "Norge",
-          "bib": 1
-        },
-        {
-          "name": "Tyskland",
-          "country": "Tyskland",
-          "bib": 4
-        },
-        {
-          "name": "Belgien",
-          "country": "Belgien",
-          "bib": 17
-        },
-        {
-          "name": "USA",
-          "country": "USA",
-          "bib": 5
-        },
-        {
-          "name": "Litaün",
-          "country": "Litauen",
-          "bib": 16
-        },
-        {
-          "name": "Italien",
-          "country": "Italien",
-          "bib": 6
-        },
-        {
-          "name": "Rumänien",
-          "country": "Rumänien",
-          "bib": 15
-        },
-        {
-          "name": "Tjeckien",
-          "country": "Tjeckien",
-          "bib": 7
-        },
-        {
-          "name": "Kanada",
-          "country": "Kanada",
-          "bib": 14
-        },
-        {
-          "name": "Estland",
-          "country": "Estland",
-          "bib": 8
-        },
-        {
-          "name": "Polen",
-          "country": "Polen",
-          "bib": 13
-        },
-        {
-          "name": "Slovenien",
-          "country": "Slovenien",
-          "bib": 12
-        },
-        {
-          "name": "Schweiz",
-          "country": "Schweiz",
-          "bib": 9
-        },
-        {
-          "name": "Ukraina",
-          "country": "Ukraina",
-          "bib": 10
-        },
-        {
-          "name": "Finland",
-          "country": "Finland",
-          "bib": 11
         }
       ]
     },

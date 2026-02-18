@@ -93,7 +93,7 @@
     "source": "Aftonbladet",
     "published_at": "2026-02-18T13:27:15+00:00",
     "summary": "Nya medaljen: ”Min dröm!” ✓ Se klipp!",
-    "image_url": "https://images.aftonbladet-cdn.se/v2/images/746182be-3fb5-4dbe-b73f-c3f7988eb6ef?fit=crop&format=auto&h=563&q=50&tight=true&w=1000&s=6985f3dadc694a2e6f302d968dda384553880d3c"
+    "image_url": "https://images.aftonbladet-cdn.se/v2/images/5a064dbb-5de4-4f43-b1ae-d8d1f5f4bf6c?fit=crop&format=auto&h=563&q=50&tight=true&w=1000&s=d00b516d6f979ff70e5f2d3c8312684678ec3182"
   },
   {
     "title": "Edvin Anger rasade ihop i OS-sprintstafetten – nytt guld till Norge",
@@ -118,14 +118,6 @@
     "published_at": "2026-02-18T12:05:37+01:00",
     "summary": "Jonna Sundling och Maja Dahlqvist tog ett historiskt guld i sprintstafetten. Nu bekräftar den sistnämnda att det var hennes sista OS-lopp i karriären. – Jag tänker inte att jag ska åka något mer det här mästerskapet, så det var inga problem att motivera sig, säger hon.",
     "image_url": "https://static.bonniernews.se/images/03/02/0302d0d76eed44bcb5e99a7255188e75/16x9/265@70.png"
-  },
-  {
-    "title": "OS-panelen: Så slutar kvartsfinalerna • ”USA är rädda för Sverige”",
-    "link": "https://www.expressen.se/sport/os/os-panelen-sa-slutar-kvartsfinalerna--usa-ar-radda-for-sverige/",
-    "source": "Expressen",
-    "published_at": "2026-02-18T11:53:45+01:00",
-    "summary": "Äntligen drar OS-turneringen i gång på riktigt på herrsidan.Slutspelet och kvartsfinalerna är här.Experten Sanny Lindström och Expressens utsända i Milano, Johan Eriksson och David Carlsson, tippar här hur det går i varje match.",
-    "image_url": "https://static.bonniernews.se/images/63/d3/63d3767fb7f546bea133c035befd5b2a/16x9/265@70.jpg"
   },
   {
     "title": "Ella Halvarsson om OS-besvikelsen: ”Väldigt tufft”",
@@ -262,6 +254,14 @@
     "published_at": "2026-02-05T09:28:01+00:00",
     "summary": null,
     "image_url": null
+  },
+  {
+    "title": "OS-panelen: Så slutar kvartsfinalerna • ”USA är rädda för Sverige”",
+    "link": "https://www.expressen.se/sport/os/os-panelen-sa-slutar-kvartsfinalerna--usa-ar-radda-for-sverige/",
+    "source": "Expressen",
+    "published_at": "2026-02-18T11:53:45+01:00",
+    "summary": "Äntligen drar OS-turneringen i gång på riktigt på herrsidan.Slutspelet och kvartsfinalerna är här.Experten Sanny Lindström och Expressens utsända i Milano, Johan Eriksson och David Carlsson, tippar här hur det går i varje match.",
+    "image_url": "https://static.bonniernews.se/images/63/d3/63d3767fb7f546bea133c035befd5b2a/16x9/265@70.jpg"
   },
   {
     "title": "Medaljsuccén fortsätter i OS – knäcker Norge och tar silvret",

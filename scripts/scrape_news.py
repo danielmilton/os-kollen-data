@@ -25,14 +25,31 @@ RSS_FEEDS = [
 ]
 
 OS_KEYWORDS = [
+    # OS-specifika termer (matchas mot lowercased text)
     "os 2026", "os i ", "vinter-os", "olympiska", "olympiska spelen",
     "olympics", "olympic", "milano cortina", "cortina", "milano",
-    "medaljhopp", "os-", "vinter-ol", "olympia",
-    "skidskytte", "längdskidor", "backhoppning", "alpint",
-    "curling", "ishockey", "konståkning", "skridsko",
-    "snowboard", "freestyle", "rodel", "skeleton", "bob",
+    "medaljhopp", "os-", "vinter-ol", "olympia", "vinterolympisk",
+    "cortina d'ampezzo",
+    # Medaljer & tävling
+    "medalj", "vintersport",
+    # Sporter
+    "skidskytte", "biathlon",
+    "längdskidor", "längdåkning", "langrenn",
+    "backhoppning", "backhopp",
+    "alpint", "störtlopp", "slalom", "super-g",
+    "curling",
+    "ishockey",
+    "konståkning", "skridsko", "hastighetsåkning",
+    "snowboard", "freestyle",
+    "rodel", "skeleton", "bobsled",
     "short track", "nordisk kombination",
+    # Svenska landslag
+    "tre kronor", "damkronorna",
 ]
+
+# Regex for uppercase "OS" as standalone word (Swedish for Olympiska Spelen)
+# Can't use lowercased text since "os" = "oss/us" in Swedish
+_OS_UPPER_RE = re.compile(r'\bOS\b')
 
 USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -73,7 +90,13 @@ def strip_html(html: str) -> tuple[str, list[str]]:
 
 def is_os_relevant(title: str, summary: str = "") -> bool:
     text = (title + " " + (summary or "")).lower()
-    return any(kw in text for kw in OS_KEYWORDS)
+    if any(kw in text for kw in OS_KEYWORDS):
+        return True
+    # Check for uppercase "OS" in original text (e.g. "i OS", "på OS", "OS-guld")
+    original = title + " " + (summary or "")
+    if _OS_UPPER_RE.search(original):
+        return True
+    return False
 
 
 def scrape_feeds() -> list[dict]:

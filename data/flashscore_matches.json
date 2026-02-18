@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-18T14:43:33.753645+00:00",
+  "scraped_at": "2026-02-18T15:56:01.318307+00:00",
   "matches": [
     {
       "type": "team",
@@ -2721,6 +2721,39 @@
       "status": "finished",
       "timestamp": 1771413000,
       "periods": "1-0, 3-1, 2-1"
+    },
+    {
+      "type": "individual",
+      "sport": "Skidskytte",
+      "event": "Stafett damer",
+      "status": "finished",
+      "timestamp": 1771422300,
+      "results": [
+        {
+          "pos": 1,
+          "name": "Frankrike D",
+          "country": "Frankrike",
+          "time": "1:10:22.7",
+          "diff": "0.0",
+          "penalties": 1
+        },
+        {
+          "pos": 2,
+          "name": "Sverige D",
+          "country": "Sverige",
+          "time": "1:11:14.0",
+          "diff": "51.3",
+          "penalties": 1
+        },
+        {
+          "pos": 3,
+          "name": "Norge D",
+          "country": "Norge",
+          "time": "1:11:30.3",
+          "diff": "1:07.6",
+          "penalties": 0
+        }
+      ]
     }
   ]
 }

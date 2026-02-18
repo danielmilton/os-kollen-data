@@ -44,7 +44,7 @@
     "link": "https://www.tv4.se/artikel/1TXloSlHCfxOvfZYkDrVFO/tre-kronor-jagar-kvittering-i-kvartsfinalrysaren-mot-usa",
     "source": "TV4",
     "published_at": "2026-02-18T21:39:59+00:00",
-    "summary": "Quinn Hughes avgjorde rysaren",
+    "summary": "”Det är svårt att smälta”",
     "image_url": null
   },
   {
@@ -128,14 +128,6 @@
     "image_url": "https://static.bonniernews.se/images/51/f4/51f4dc38e6c54c9d98dba6a6a746bdd2/16x9/265@70.jpg"
   },
   {
-    "title": "Var en seger för hela ishockeyn",
-    "link": "https://www.aftonbladet.se/sportbladet/hockey/a/WvjzqL/hans-abrahamssons-kronika-efter-kanadatjeckien-i-os?utm_medium=rss",
-    "source": "Aftonbladet",
-    "published_at": "2026-02-18T18:58:47+00:00",
-    "summary": "PLUS ABRAHAMSSON: Bara njöt",
-    "image_url": "https://images.aftonbladet-cdn.se/v2/images/d01a8573-f7bf-425c-b5f8-bd5b6fb8e462?fit=crop&format=auto&h=1069&q=50&tight=true&w=1900&s=27a25702da154fed3ec4e88f89a573a686bd7971"
-  },
-  {
     "title": "Mats Sundin dök upp – med livstidsdömda",
     "link": "https://www.expressen.se/sport/os/mats-sundin-dok-upp-med-livstidsdomda/",
     "source": "Expressen",
@@ -166,6 +158,14 @@
     "published_at": "2026-02-18T15:56:14+01:00",
     "summary": "Väntan är över. De svenska skidskyttedamerna har tagit sin första medalj i vinterns OS – efter att ha bärgat ett silver i stafetten. – Trots att vi inte har det perfekta mästerskapet visar vi att vi är bland de bästa, säger Elvira Öberg till SVT Sport.",
     "image_url": null
+  },
+  {
+    "title": "Tre Kronor har varnats: ”Kaos”",
+    "link": "https://www.aftonbladet.se/sportbladet/hockey/a/3p43Mv/sverige-forvarnade-for-matthew-och-brady-tkachuk-os-2026?utm_medium=rss",
+    "source": "Aftonbladet",
+    "published_at": "2026-02-18T15:26:14+00:00",
+    "summary": "”Mycket show”",
+    "image_url": "https://images.aftonbladet-cdn.se/v2/images/702a8944-0ec4-4b90-9f85-6b00f2497c65?fit=crop&format=auto&h=1069&q=50&tight=true&w=1900&s=50fbff63f543aad28d1aa08d54b068658046c60a"
   },
   {
     "title": "Spelarfruarna – så lever de under OS",
@@ -304,6 +304,14 @@
     "image_url": null
   },
   {
+    "title": "Var en seger för hela ishockeyn",
+    "link": "https://www.aftonbladet.se/sportbladet/hockey/a/WvjzqL/hans-abrahamssons-kronika-efter-kanadatjeckien-i-os?utm_medium=rss",
+    "source": "Aftonbladet",
+    "published_at": "2026-02-18T18:58:47+00:00",
+    "summary": "PLUS ABRAHAMSSON: Bara njöt",
+    "image_url": "https://images.aftonbladet-cdn.se/v2/images/d01a8573-f7bf-425c-b5f8-bd5b6fb8e462?fit=crop&format=auto&h=1069&q=50&tight=true&w=1900&s=27a25702da154fed3ec4e88f89a573a686bd7971"
+  },
+  {
     "title": "Tre Kronor utslaget ur USA – förlorade mot USA",
     "link": "https://www.expressen.se/sport/os/tre-kronor-utslaget-ur-usa-forlorade-mot-usa/",
     "source": "Expressen",
@@ -390,13 +398,5 @@
     "published_at": "2026-02-12T23:29:52+01:00",
     "summary": "Fina scener utspelade sig när Regina Martinez Lorenzo kom sist i damernas distanslopp. Mexikanskan överraskades av de svenska skidstjärnorna. – Det var så fint, säger Frida Karlsson om situationen.",
     "image_url": null
-  },
-  {
-    "title": "Åkte vilse – stor räddningsinsats",
-    "link": "https://www.aftonbladet.se/sportbladet/a/7pdBbB/raddningsinsats-i-os-bergen-tva-amerikaner-strandade?utm_medium=rss",
-    "source": "Aftonbladet",
-    "published_at": "2026-02-12T23:03:02+00:00",
-    "summary": "Pådrag i OS-bergen",
-    "image_url": "https://images.aftonbladet-cdn.se/v2/images/8abf1682-b7c2-4d2e-b728-525304bba32f?fit=crop&format=auto&h=500&q=50&w=1400&s=0759a82a171249027b449afcd4361462317cd98a"
   }
 ]

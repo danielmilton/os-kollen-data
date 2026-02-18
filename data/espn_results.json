@@ -736,5 +736,14 @@
     "gold_result": "18:28.9",
     "silver_result": "18:30.3",
     "bronze_result": "18:32.2"
+  },
+  {
+    "event": "Snowboarding – Men's Slopestyle",
+    "gold_winner": "Su Yiming (CHN)",
+    "silver_winner": "Taiga Hasegawa (JPN)",
+    "bronze_winner": "Jake Canter (USA)",
+    "gold_result": "82.41",
+    "silver_result": "82.13",
+    "bronze_result": "79.36"
   }
 ]

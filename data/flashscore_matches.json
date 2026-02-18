@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-18T11:26:42.129319+00:00",
+  "scraped_at": "2026-02-18T14:43:33.753645+00:00",
   "matches": [
     {
       "type": "team",
@@ -1686,120 +1686,6 @@
       ]
     },
     {
-      "type": "startlist",
-      "sport": "Skidskytte",
-      "event": "Stafett damer",
-      "total": 20,
-      "swe_athletes": [
-        {
-          "name": "Sverige D",
-          "country": "Sverige"
-        }
-      ],
-      "athletes": [
-        {
-          "name": "Frankrike D",
-          "country": "Frankrike",
-          "bib": 1
-        },
-        {
-          "name": "Schweiz D",
-          "country": "Schweiz",
-          "bib": 10
-        },
-        {
-          "name": "Norge D",
-          "country": "Norge",
-          "bib": 2
-        },
-        {
-          "name": "Ukraina D",
-          "country": "Ukraina",
-          "bib": 14
-        },
-        {
-          "name": "Sverige D",
-          "country": "Sverige",
-          "bib": 3
-        },
-        {
-          "name": "Litaün D",
-          "country": "Litauen",
-          "bib": 20
-        },
-        {
-          "name": "Bulgarien D",
-          "country": "Bulgarien",
-          "bib": 15
-        },
-        {
-          "name": "Belgien D",
-          "country": "Belgien",
-          "bib": 19
-        },
-        {
-          "name": "Slovenien D",
-          "country": "Slovenien",
-          "bib": 13
-        },
-        {
-          "name": "Italien D",
-          "country": "Italien",
-          "bib": 4
-        },
-        {
-          "name": "Tyskland D",
-          "country": "Tyskland",
-          "bib": 5
-        },
-        {
-          "name": "Finland D",
-          "country": "Finland",
-          "bib": 6
-        },
-        {
-          "name": "Polen D",
-          "country": "Polen",
-          "bib": 12
-        },
-        {
-          "name": "Tjeckien D",
-          "country": "Tjeckien",
-          "bib": 7
-        },
-        {
-          "name": "Kanada D",
-          "country": "Kanada",
-          "bib": 18
-        },
-        {
-          "name": "USA D",
-          "country": "USA",
-          "bib": 11
-        },
-        {
-          "name": "Lettland D",
-          "country": "Lettland",
-          "bib": 17
-        },
-        {
-          "name": "Österrike D",
-          "country": "Österrike",
-          "bib": 8
-        },
-        {
-          "name": "Slovakien D",
-          "country": "Slovakien",
-          "bib": 9
-        },
-        {
-          "name": "Estland D",
-          "country": "Estland",
-          "bib": 16
-        }
-      ]
-    },
-    {
       "type": "individual",
       "sport": "Alpint",
       "event": "Lagkombination herrar",
@@ -2789,36 +2675,32 @@
           "pos": 1,
           "name": "Mikäla Shiffrin",
           "country": "USA",
-          "time": "47.13",
+          "time": "1:39.10",
           "diff": "0.00"
         },
         {
           "pos": 2,
-          "name": "Lena Dürr",
-          "country": "Tyskland",
-          "time": "47.95",
-          "diff": "0.82"
+          "name": "Camille Rast",
+          "country": "Schweiz",
+          "time": "1:40.60",
+          "diff": "1.50"
         },
         {
           "pos": 3,
-          "name": "Cornelia Öhlund",
-          "country": "Sverige",
-          "time": "48.13",
-          "diff": "1.00"
-        },
-        {
-          "pos": 6,
           "name": "Anna Swenn Larsson",
           "country": "Sverige",
-          "time": "48.29",
-          "diff": "1.16"
+          "time": "1:40.81",
+          "diff": "1.71"
         },
         {
-          "pos": 11,
+          "pos": 56,
           "name": "Sara Hector",
-          "country": "Sverige",
-          "time": "48.84",
-          "diff": "1.71"
+          "country": "Sverige"
+        },
+        {
+          "pos": 57,
+          "name": "Cornelia Öhlund",
+          "country": "Sverige"
         },
         {
           "pos": 70,
@@ -2826,6 +2708,19 @@
           "country": "Sverige"
         }
       ]
+    },
+    {
+      "type": "team",
+      "sport": "Ishockey",
+      "event": "Herrar",
+      "event_id": "KjiLTUvK",
+      "home": "Slovakien",
+      "away": "Tyskland",
+      "home_score": 6,
+      "away_score": 2,
+      "status": "finished",
+      "timestamp": 1771413000,
+      "periods": "1-0, 3-1, 2-1"
     }
   ]
 }

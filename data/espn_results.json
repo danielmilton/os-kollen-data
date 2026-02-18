@@ -720,6 +720,15 @@
     "bronze_result": ""
   },
   {
+    "event": "Alpine Skiing – Women's Slalom",
+    "gold_winner": "Mikaela Shiffrin (USA)",
+    "silver_winner": "Camille Rast (SUI)",
+    "bronze_winner": "Anna Swenn-Larsson (SWE)",
+    "gold_result": "1:39.10",
+    "silver_result": "1:40.60",
+    "bronze_result": "1:40.81"
+  },
+  {
     "event": "Cross-Country Skiing – Women's Team Sprint",
     "gold_winner": "Jonna Sundling, Maja Dahlqvist (SWE)",
     "silver_winner": "Nadja Kaelin, Nadine Faehndrich (SUI)",
@@ -738,24 +747,6 @@
     "bronze_result": "18:32.2"
   },
   {
-    "event": "Snowboarding – Men's Slopestyle",
-    "gold_winner": "Su Yiming (CHN)",
-    "silver_winner": "Taiga Hasegawa (JPN)",
-    "bronze_winner": "Jake Canter (USA)",
-    "gold_result": "82.41",
-    "silver_result": "82.13",
-    "bronze_result": "79.36"
-  },
-  {
-    "event": "Alpine Skiing – Women's Slalom",
-    "gold_winner": "Mikaela Shiffrin (USA)",
-    "silver_winner": "Camille Rast (SUI)",
-    "bronze_winner": "Anna Swenn-Larsson (SWE)",
-    "gold_result": "1:39.10",
-    "silver_result": "1:40.60",
-    "bronze_result": "1:40.81"
-  },
-  {
     "event": "Freestyle Skiing – Women's Aerials",
     "gold_winner": "Xu Mengtao (CHN)",
     "silver_winner": "Danielle Scott (AUS)",
@@ -763,5 +754,14 @@
     "gold_result": "112.90",
     "silver_result": "102.17",
     "bronze_result": "101.90"
+  },
+  {
+    "event": "Snowboarding – Men's Slopestyle",
+    "gold_winner": "Su Yiming (CHN)",
+    "silver_winner": "Taiga Hasegawa (JPN)",
+    "bronze_winner": "Jake Canter (USA)",
+    "gold_result": "82.41",
+    "silver_result": "82.13",
+    "bronze_result": "79.36"
   }
 ]

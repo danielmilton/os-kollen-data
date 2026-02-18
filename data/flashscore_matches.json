@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-18T09:53:15.480630+00:00",
+  "scraped_at": "2026-02-18T11:26:42.129319+00:00",
   "matches": [
     {
       "type": "team",
@@ -2777,6 +2777,55 @@
       "status": "finished",
       "timestamp": 1771359000,
       "periods": "2-0, 1-1, 2-0"
+    },
+    {
+      "type": "individual",
+      "sport": "Alpint",
+      "event": "Slalom damer",
+      "status": "finished",
+      "timestamp": 1771405200,
+      "results": [
+        {
+          "pos": 1,
+          "name": "Mikäla Shiffrin",
+          "country": "USA",
+          "time": "47.13",
+          "diff": "0.00"
+        },
+        {
+          "pos": 2,
+          "name": "Lena Dürr",
+          "country": "Tyskland",
+          "time": "47.95",
+          "diff": "0.82"
+        },
+        {
+          "pos": 3,
+          "name": "Cornelia Öhlund",
+          "country": "Sverige",
+          "time": "48.13",
+          "diff": "1.00"
+        },
+        {
+          "pos": 6,
+          "name": "Anna Swenn Larsson",
+          "country": "Sverige",
+          "time": "48.29",
+          "diff": "1.16"
+        },
+        {
+          "pos": 11,
+          "name": "Sara Hector",
+          "country": "Sverige",
+          "time": "48.84",
+          "diff": "1.71"
+        },
+        {
+          "pos": 70,
+          "name": "Hanna Aronsson Elfman",
+          "country": "Sverige"
+        }
+      ]
     }
   ]
 }

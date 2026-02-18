@@ -718,5 +718,23 @@
     "gold_result": "",
     "silver_result": "",
     "bronze_result": ""
+  },
+  {
+    "event": "Cross-Country Skiing – Women's Team Sprint",
+    "gold_winner": "Jonna Sundling, Maja Dahlqvist (SWE)",
+    "silver_winner": "Nadja Kaelin, Nadine Faehndrich (SUI)",
+    "bronze_winner": "Laura Gimmler, Coletta Rydzek (GER)",
+    "gold_result": "20:29.99",
+    "silver_result": "20:31.39",
+    "bronze_result": "20:35.86"
+  },
+  {
+    "event": "Cross-Country Skiing – Men's Team Sprint",
+    "gold_winner": "Einar Hedegart, Johannes Høsflot Klæbo (NOR)",
+    "silver_winner": "Ben Ogden, Gus Schumacher (USA)",
+    "bronze_winner": "Elia Barp, Federica Brignone (ITA)",
+    "gold_result": "18:28.9",
+    "silver_result": "18:30.3",
+    "bronze_result": "18:32.2"
   }
 ]

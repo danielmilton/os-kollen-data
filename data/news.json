@@ -1,14 +1,14 @@
 [
   {
-    "title": "Tre Kronor utslaget ur USA – förlorade mot USA",
-    "link": "https://www.expressen.se/sport/os/tre-kronor-utslaget-ur-usa-forlorade-mot-usa/",
+    "title": "Tre Kronor utslaget ur OS – förlorade mot USA",
+    "link": "https://www.expressen.se/sport/os/tre-kronor-utslaget-ur-os-forlorade-mot-usa/",
     "source": "Expressen",
     "published_at": "2026-02-18T23:40:21+01:00",
     "summary": "God natt.Efter en övertidspärs mot USA är Tre Kronors OS över.",
     "image_url": "https://static.bonniernews.se/images/25/95/2595e7779e974e82aa9026bd07bc8fd4/16x9/265@70.png"
   },
   {
-    "title": "Tre Kronor utslaget ur OS-turneringen",
+    "title": "Tre Kronor utslaget ur OS-turneringen – USA avgjorde i förlängning: ”En sorg”",
     "link": "https://www.svt.se/sport/ishockey/tre-kronor-utslaget-ur-os-turneringen",
     "source": "SVT",
     "published_at": "2026-02-18T23:39:33+01:00",
@@ -21,7 +21,7 @@
     "source": "Aftonbladet",
     "published_at": "2026-02-18T22:39:45+00:00",
     "summary": "Blytung sorti i kvartsfinalen",
-    "image_url": "https://images.aftonbladet-cdn.se/v2/images/619254a2-34b1-4788-9dde-6c49c48d7a0a?fit=crop&format=auto&h=1069&q=50&tight=true&w=1900&s=9a9a7dc1553f50db3c6e923abab54d78e5d78b97"
+    "image_url": "https://images.aftonbladet-cdn.se/v2/images/ae5323c1-fbee-4369-a687-2ccec9aa8f1f?fit=crop&format=auto&h=1069&q=50&tight=true&w=1900&s=064e42ae2628152972001395856f7c4d36e0d9ef"
   },
   {
     "title": "Kanada vidare efter jättedrama",
@@ -40,7 +40,7 @@
     "image_url": "https://static.bonniernews.se/images/a0/f4/a0f4b76ee34640b0881b9c1d18b058a0/16x9/265@70.jpg"
   },
   {
-    "title": "Tre Kronor utslaget efter övertidsdrama",
+    "title": "Medaljdrömmen över för Sverige – förlorar mot USA i övertidsdrama",
     "link": "https://www.tv4.se/artikel/1TXloSlHCfxOvfZYkDrVFO/tre-kronor-jagar-kvittering-i-kvartsfinalrysaren-mot-usa",
     "source": "TV4",
     "published_at": "2026-02-18T21:39:59+00:00",
@@ -173,7 +173,7 @@
     "source": "Aftonbladet",
     "published_at": "2026-02-18T14:56:23+00:00",
     "summary": "PLUS Familjepusslet i Milano: ”Jag hade inte varit bekväm att vara helt själv” ✓ Bildextra",
-    "image_url": "https://images.aftonbladet-cdn.se/v2/images/f2852b8e-97b7-42a0-9b4e-86457a462a29?fit=crop&format=auto&h=450&q=50&tight=true&w=800&s=49a3d401885b4cefceaac55a78f3f50a2dd25036"
+    "image_url": "https://images.aftonbladet-cdn.se/v2/images/f2852b8e-97b7-42a0-9b4e-86457a462a29?fit=crop&format=auto&h=370&q=50&w=800&s=c51682ce1daa58a55b67e59865144b980a93b4b6"
   },
   {
     "title": "Knäckte Norge:\n”Ett uppdrag”",
@@ -304,6 +304,14 @@
     "image_url": null
   },
   {
+    "title": "Tre Kronor utslaget ur USA – förlorade mot USA",
+    "link": "https://www.expressen.se/sport/os/tre-kronor-utslaget-ur-usa-forlorade-mot-usa/",
+    "source": "Expressen",
+    "published_at": "2026-02-18T23:40:21+01:00",
+    "summary": "God natt.Efter en övertidspärs mot USA är Tre Kronors OS över.",
+    "image_url": "https://static.bonniernews.se/images/25/95/2595e7779e974e82aa9026bd07bc8fd4/16x9/265@70.png"
+  },
+  {
     "title": "Kärleken smugglades in – för att fira med Anna Swenn-Larsson",
     "link": "https://www.expressen.se/sport/os/karleken-smugglades-in-for-att-fira-med-anna-swenn-larsson/",
     "source": "Expressen",
@@ -390,13 +398,5 @@
     "published_at": "2026-02-12T23:03:02+00:00",
     "summary": "Pådrag i OS-bergen",
     "image_url": "https://images.aftonbladet-cdn.se/v2/images/8abf1682-b7c2-4d2e-b728-525304bba32f?fit=crop&format=auto&h=500&q=50&w=1400&s=0759a82a171249027b449afcd4361462317cd98a"
-  },
-  {
-    "title": "OS idag • Program, tv-tider, höjdpunkter – fredag 13 februari",
-    "link": "https://www.expressen.se/sport/os/os-idag--program-tv-tider-hojdpunkter-torsdag-12-februari-ti4nq/",
-    "source": "Expressen",
-    "published_at": "2026-02-12T23:00:00+01:00",
-    "summary": "Det är dags för ett klassiskt rivalmöte i OS – Tre Kronor–Finland. Dessutom: Kan Truls Gisselman upprepa succén från skiathlonen och får vi spelens första skidskyttemedalj? Följ OS i Expressens app – ladda ner den här!",
-    "image_url": "https://static.bonniernews.se/images/f6/db/f6dbf2c380bd49ad85aa244c7448df93/16x9/265@70.jpg"
   }
 ]

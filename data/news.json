@@ -1,19 +1,27 @@
 [
   {
-    "title": "Edvin Anger rasade ihop i OS-sprintstafetten – guld till Norge",
+    "title": "Edvin Anger rasade ihop i OS-sprintstafetten – nytt guld till Norge",
     "link": "https://www.svt.se/sport/langdskidor/edvin-anger-tappade-i-os-sprintstafetten-guld-till-norge",
     "source": "SVT",
     "published_at": "2026-02-18T12:33:55+01:00",
-    "summary": "De svenska herrarna hade chansen. Men Edvin Anger tappade på sista sträckan. Norge tog guldet i sprintstafetten efter ett ryck av giganten Johannes Hösflot Kläbo.",
+    "summary": "De svenska herrarna hade chansen. Men Edvin Anger tappade på sista sträckan – och slutade på tionde plats i sprintstafetten. – En revansch efter herrstafetten, men det räckte inte längre, säger SVT:s expert Anders Blomquist.",
     "image_url": null
   },
   {
-    "title": "Jonna Sundling och Maja Dahlqvist tar OS-guld i sprintstafett",
+    "title": "Jonna Sundling och Maja Dahlqvist tog OS-guld i sprintstafett efter ryck",
     "link": "https://www.svt.se/sport/langdskidor/jonna-sundling-och-maja-dahlqvist-tar-os-guld-i-sprintstafett",
     "source": "SVT",
     "published_at": "2026-02-18T12:05:37+01:00",
-    "summary": "Favoriterna höll för trycket. Jonna Sundling och Maja Dahlqvist tar OS-guld i sprintstafetten. – Det var en jättebra dag, säger Dahlqvist till SVT Sport.",
+    "summary": "Favoriterna höll för trycket. Jonna Sundling och Maja Dahlqvist tog OS-guld i sprintstafetten. – Det var en jättebra dag, säger Dahlqvist till SVT Sport.",
     "image_url": null
+  },
+  {
+    "title": "Guldkrossen – Sundling och Dahlqvist vann sprintstafetten",
+    "link": "https://www.expressen.se/sport/os/guldkrossen-sundling-och-dahlqvist-vann-sprintstafetten/",
+    "source": "Expressen",
+    "published_at": "2026-02-18T12:05:37+01:00",
+    "summary": "Jonna Sundling och Maja Dahlqvist tog ett historiskt guld i sprintstafetten. Nu bekräftar den sistnämnda att det var hennes sista OS-lopp i karriären. – Jag kunde inte tänka mig en bättre avslutning än det här, säger hon i HBO Max.",
+    "image_url": "https://static.bonniernews.se/images/87/d8/87d8c8e375ae425c96527304a02c9e25/16x9/265@70.jpg"
   },
   {
     "title": "OS-panelen: Så slutar kvartsfinalerna • ”USA är rädda för Sverige”",
@@ -96,11 +104,11 @@
     "image_url": "https://static.bonniernews.se/images/12/1b/121b49948eef4eb7810b05b143d7d223/16x9/265@70.png"
   },
   {
-    "title": "Sverige tar OS-guld i sprintstafetten",
+    "title": "Succén fortsätter – skiddamerna tar nytt OS-guld",
     "link": "https://www.tv4.se/artikel/aB6Fmz0EqPqQdLGjRvkjz/sverige-jagar-medalj-i-sprintstafetten",
     "source": "TV4",
     "published_at": "2026-02-18T08:49:40+00:00",
-    "summary": "Dahlqvist lyckas hålla undan • Norge missar medalj",
+    "summary": "Dahlqvists första – i hennes sista: ”Kunde inte sluta bättre för mig”",
     "image_url": null
   },
   {
@@ -126,14 +134,6 @@
     "published_at": "2026-02-18T08:05:01+01:00",
     "summary": "Norge är chockat över sina OS-framgångar.Man går mot en medaljkross av lillebrorsan Sverige.– Det kommer bli traumatiskt, säger NRK:s Jan Petter Saltvedt till Dagbladet.",
     "image_url": "https://static.bonniernews.se/images/f8/19/f81943a0ca5149e1a8396754acf0ce7f/16x9/265@70.png"
-  },
-  {
-    "title": "Blir bortjagade av Hollywoodstjärna",
-    "link": "https://tv.aftonbladet.se/video/396359?utm_medium=rss",
-    "source": "Aftonbladet",
-    "published_at": "2026-02-18T07:37:23+00:00",
-    "summary": "OS-RESAN På svenskhotellet i Cortina ✓ Prinsens underskrift! ✓ Bråk med filmteamet",
-    "image_url": null
   },
   {
     "title": "Tre Kronor ställs mot världens mest hatade hockeyspelare",
@@ -253,6 +253,14 @@
     "source": "TV4",
     "published_at": "2026-02-16T05:16:34+00:00",
     "summary": "Atleterna får inte en krona för att delta • ”Sticker i ögonen”",
+    "image_url": null
+  },
+  {
+    "title": "Blir bortjagade av Hollywoodstjärna",
+    "link": "https://tv.aftonbladet.se/video/396359?utm_medium=rss",
+    "source": "Aftonbladet",
+    "published_at": "2026-02-18T07:37:23+00:00",
+    "summary": "OS-RESAN På svenskhotellet i Cortina ✓ Prinsens underskrift! ✓ Bråk med filmteamet",
     "image_url": null
   },
   {
@@ -389,14 +397,6 @@
     "source": "SVT",
     "published_at": "2026-02-17T15:52:44+01:00",
     "summary": "Marco Pantani var världens bästa cyklist på sin tid. Men trots att han dog redan 2004, 34 år gammal, är han närvarande under vinter-OS. Skidskytten Emilien Jacquelin, som tog OS-guld med det franska stafettlaget, bär hans örhänge. – Det är en dröm som går i uppfyllelse, säger han.",
-    "image_url": null
-  },
-  {
-    "title": "Sverige tar brons i herrarnas stafett – sköt bort guldchans",
-    "link": "https://www.svt.se/sport/skidskytte/sverige-tar-brons-i-herrarnas-stafett-skot-bort-guldchans",
-    "source": "SVT",
-    "published_at": "2026-02-17T15:50:12+01:00",
-    "summary": "Den andra svenska skidskyttemedaljen är bärgad. De svenska herrarna slutade trea i OS-stafetten i Antholz. – Vi gjorde så gott vi kunde i dag, och då räckte det till brons, säger Martin Ponsiluoma till SVT Sport.",
     "image_url": null
   }
 ]

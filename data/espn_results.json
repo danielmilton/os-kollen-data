@@ -774,6 +774,15 @@
     "bronze_result": "4:04.314"
   },
   {
+    "event": "Short-Track Speedskating – Men's 500m",
+    "gold_winner": "Steven Dubois (CAN)",
+    "silver_winner": "Melle Van 'T Wout (NED)",
+    "bronze_winner": "Jens Van 'T Wout (NED)",
+    "gold_result": "40.835",
+    "silver_result": "40.912",
+    "bronze_result": "41.908"
+  },
+  {
     "event": "Snowboarding – Men's Slopestyle",
     "gold_winner": "Su Yiming (CHN)",
     "silver_winner": "Taiga Hasegawa (JPN)",
@@ -790,14 +799,5 @@
     "gold_result": "87.83",
     "silver_result": "87.48",
     "bronze_result": "85.80"
-  },
-  {
-    "event": "Short-Track Speedskating – Men's 500m",
-    "gold_winner": "Steven Dubois (CAN)",
-    "silver_winner": "Melle Van 'T Wout (NED)",
-    "bronze_winner": "Jens Van 'T Wout (NED)",
-    "gold_result": "40.835",
-    "silver_result": "40.912",
-    "bronze_result": "41.908"
   }
 ]

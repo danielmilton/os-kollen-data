@@ -32,20 +32,20 @@
     "total": 17
   },
   {
+    "country_name": "Netherlands",
+    "country_code": "NED",
+    "gold": 6,
+    "silver": 7,
+    "bronze": 2,
+    "total": 15
+  },
+  {
     "country_name": "Sweden",
     "country_code": "SWE",
     "gold": 6,
     "silver": 6,
     "bronze": 3,
     "total": 15
-  },
-  {
-    "country_name": "Netherlands",
-    "country_code": "NED",
-    "gold": 6,
-    "silver": 6,
-    "bronze": 1,
-    "total": 13
   },
   {
     "country_name": "Germany",

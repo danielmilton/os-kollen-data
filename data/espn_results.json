@@ -763,5 +763,23 @@
     "gold_result": "82.41",
     "silver_result": "82.13",
     "bronze_result": "79.36"
+  },
+  {
+    "event": "Biathlon – Women's 4x6km Relay",
+    "gold_winner": "Camille Bened, Lou Jeanmonnot, Oceane Michelon, Julia Simon (FRA)",
+    "silver_winner": "Linn Gestblom, Anna Magnusson, Elvira Oeberg, Hanna Oeberg (SWE)",
+    "bronze_winner": "Marthe Krakstad Johansen, Juni Arnekleiv, Karoline Offigstad Knotten, Maren Kirkeeide (NOR)",
+    "gold_result": "1:10:22.7",
+    "silver_result": "1:11:14.0",
+    "bronze_result": "1:11:30.3"
+  },
+  {
+    "event": "Snowboarding – Women's Slopestyle",
+    "gold_winner": "Mari Fukada (JPN)",
+    "silver_winner": "Zoi Sadowski-Synnott (NZL)",
+    "bronze_winner": "Kokomo Murase (JPN)",
+    "gold_result": "87.83",
+    "silver_result": "87.48",
+    "bronze_result": "85.80"
   }
 ]

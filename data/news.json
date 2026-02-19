@@ -280,14 +280,6 @@
     "image_url": "https://images.aftonbladet-cdn.se/v2/images/f2852b8e-97b7-42a0-9b4e-86457a462a29?fit=crop&format=auto&h=370&q=50&w=800&s=c51682ce1daa58a55b67e59865144b980a93b4b6"
   },
   {
-    "title": "Svenskt OS-brons – \nefter bisarra bilder",
-    "link": "https://www.aftonbladet.se/sportbladet/a/PdoJ9z/brons-till-swenn-larsson-efter-grenslingen?utm_medium=rss",
-    "source": "Aftonbladet",
-    "published_at": "2026-02-18T13:27:15+00:00",
-    "summary": "Se klipp!",
-    "image_url": "https://images.aftonbladet-cdn.se/v2/images/624bd9bd-e32a-4577-83d5-1ac4b30780f3?fit=crop&format=auto&h=563&q=50&tight=true&w=1000&s=7db37b423e9d881ce4b736e06ed7331819ae1be2"
-  },
-  {
     "title": "OS-glädje i tv-soffan kan leda till oväntade skador",
     "link": "https://www.tv4.se/artikel/5tCIRRuesv3uctRWM4DKx9/os-glaedje-i-tv-soffan-kan-leda-till-ovaentade-skador",
     "source": "TV4",
@@ -302,6 +294,14 @@
     "published_at": "2026-02-05T09:28:01+00:00",
     "summary": null,
     "image_url": null
+  },
+  {
+    "title": "Svenskt OS-brons – \nefter bisarra bilder",
+    "link": "https://www.aftonbladet.se/sportbladet/a/PdoJ9z/brons-till-swenn-larsson-efter-grenslingen?utm_medium=rss",
+    "source": "Aftonbladet",
+    "published_at": "2026-02-18T13:27:15+00:00",
+    "summary": "Se klipp!",
+    "image_url": "https://images.aftonbladet-cdn.se/v2/images/624bd9bd-e32a-4577-83d5-1ac4b30780f3?fit=crop&format=auto&h=563&q=50&tight=true&w=1000&s=7db37b423e9d881ce4b736e06ed7331819ae1be2"
   },
   {
     "title": "Efter Sveriges kalasträff – Schweiz kvitterar",

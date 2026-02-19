@@ -20,7 +20,15 @@
     "link": "https://www.svt.se/sport/ishockey/experten-efter-damkronornas-bronsforlust-jattesteg-framat",
     "source": "SVT",
     "published_at": "2026-02-19T18:32:44+01:00",
-    "summary": "Sverige föll i förlängningen i bronsmatchen mot Schweiz och OS-resan är därmed över. SVT:s expert Maria Rooth delar sina tankar om Damkronornas insats i detta OS. – Jag tycker inte Damkronorna kom upp i den nivån de haft tidigare i turneringen, säger hon.",
+    "summary": "Sverige föll i förlängningen i bronsmatchen mot Schweiz och OS-resan är därmed över. SVT:s expert Maria Rooth delar sina tankar om Damkronornas insats i detta OS. – Jag tycker inte att Damkronorna kom upp i den nivån de haft tidigare i turneringen, säger hon.",
+    "image_url": null
+  },
+  {
+    "title": "Här bryter hon ihop totalt – efter dundermissen: ”Skäms”",
+    "link": "https://www.tv4.se/artikel/47lhV90WoMhXsrNoWzFdsn/haer-bryter-hon-ihop-totalt-efter-dundermissen-skaems",
+    "source": "TV4",
+    "published_at": "2026-02-19T18:32:28+00:00",
+    "summary": "Se klippet när det brister för Iwona Januszyk i nya OS‑sporten",
     "image_url": null
   },
   {
@@ -108,15 +116,7 @@
     "link": "https://www.svt.se/sport/ishockey/har-tar-sverige-ledningen-i-bronsmatchen",
     "source": "SVT",
     "published_at": "2026-02-19T15:58:09+01:00",
-    "summary": "Det blir ingen hockeymedalj för Sverige i OS. Schweiz avgjorde bronsrysaren med minuten kvar av förlängningen. – Det är en otrolig besvikelse, säger Mira Jungåker till SVT Sport.",
-    "image_url": null
-  },
-  {
-    "title": "Kontroversiell rysk medalj i nya OS-sporten",
-    "link": "https://www.tv4.se/artikel/2jFABfyds9FF7zs0Bzw4tp/kontroversiell-rysk-medalj-i-nya-os-sporten",
-    "source": "TV4",
-    "published_at": "2026-02-19T15:34:11+00:00",
-    "summary": null,
+    "summary": "Det blir ingen hockeymedalj för Sverige i OS. Schweiz avgjorde bronsrysaren, 2–1, med minuten kvar av förlängningen. – Det är en otrolig besvikelse, säger Mira Jungåker till SVT Sport.",
     "image_url": null
   },
   {
@@ -144,14 +144,6 @@
     "image_url": null
   },
   {
-    "title": "Krista Pärmäkoski flygs tillbaka till OS",
-    "link": "https://www.expressen.se/sport/os/krista-parmakoski-flygs-tillbaka-till-os/",
-    "source": "Expressen",
-    "published_at": "2026-02-19T13:35:14+01:00",
-    "summary": "Finland tvingas krislösa inför den avslutande femmilen. Flera åkare har blivit sjuka och isolerats på hotellet.Därför flygs Krista Pärmäkoski, som lämnade OS för en vecka sedan, tillbaka till Italien.",
-    "image_url": "https://static.bonniernews.se/images/41/cd/41cda948a9a04268915ae46dfaeef798/16x9/265@70.jpg"
-  },
-  {
     "title": "Sverige missar OS‑bronset – efter sent avgörande",
     "link": "https://www.tv4.se/artikel/5pNOXqHekKrM4gBupvwY8E/sverige-jagar-os-brons-moeter-schweiz-i-medaljmatchen",
     "source": "TV4",
@@ -174,14 +166,6 @@
     "published_at": "2026-02-19T13:15:55+00:00",
     "summary": "PLUS Betyg på alla spelarnas OS ✓ ”Hjärnsläpp”",
     "image_url": "https://images.aftonbladet-cdn.se/v2/images/c6d38d4e-268d-40b1-abc4-6658ef8036f0?fit=crop&format=auto&h=450&q=50&tight=true&w=800&s=bcfbaa800c21ebf6dbc401a1efd678fd8c80bffb"
-  },
-  {
-    "title": "Anna Friberg: Öbergs ord provocerar – men hon har rätt",
-    "link": "https://www.expressen.se/sport/os/anna-friberg-obergs-ord-provocerar-men-hon-har-ratt/",
-    "source": "Expressen",
-    "published_at": "2026-02-19T12:56:54+01:00",
-    "summary": "Elvira Öberg tycker att det för jävligt att hon inte får några prispengar i OS. Det provocerar. Men Öberg har så klart rätt.",
-    "image_url": "https://static.bonniernews.se/images/33/54/33544d3e910c44a089d014602f97dc27/16x9/265@70.png"
   },
   {
     "title": "Här är Sveriges sista medaljchanser på OS",
@@ -360,6 +344,30 @@
     "image_url": null
   },
   {
+    "title": "Kontroversiell rysk medalj i nya OS-sporten",
+    "link": "https://www.tv4.se/artikel/2jFABfyds9FF7zs0Bzw4tp/kontroversiell-rysk-medalj-i-nya-os-sporten",
+    "source": "TV4",
+    "published_at": "2026-02-19T15:34:11+00:00",
+    "summary": null,
+    "image_url": null
+  },
+  {
+    "title": "Krista Pärmäkoski flygs tillbaka till OS",
+    "link": "https://www.expressen.se/sport/os/krista-parmakoski-flygs-tillbaka-till-os/",
+    "source": "Expressen",
+    "published_at": "2026-02-19T13:35:14+01:00",
+    "summary": "Finland tvingas krislösa inför den avslutande femmilen. Flera åkare har blivit sjuka och isolerats på hotellet.Därför flygs Krista Pärmäkoski, som lämnade OS för en vecka sedan, tillbaka till Italien.",
+    "image_url": "https://static.bonniernews.se/images/41/cd/41cda948a9a04268915ae46dfaeef798/16x9/265@70.jpg"
+  },
+  {
+    "title": "Anna Friberg: Öbergs ord provocerar – men hon har rätt",
+    "link": "https://www.expressen.se/sport/os/anna-friberg-obergs-ord-provocerar-men-hon-har-ratt/",
+    "source": "Expressen",
+    "published_at": "2026-02-19T12:56:54+01:00",
+    "summary": "Elvira Öberg tycker att det för jävligt att hon inte får några prispengar i OS. Det provocerar. Men Öberg har så klart rätt.",
+    "image_url": "https://static.bonniernews.se/images/33/54/33544d3e910c44a089d014602f97dc27/16x9/265@70.png"
+  },
+  {
     "title": "Svenske doldisen mitt i kaoset – stoppas från att prata",
     "link": "https://www.expressen.se/sport/os/svenske-doldisen-mitt-i-kaoset-stoppas-fran-att-prata/",
     "source": "Expressen",
@@ -390,13 +398,5 @@
     "published_at": "2026-02-19T11:25:58+01:00",
     "summary": "Häromdagen kunde Expressen avslöja att Linköping gjort en jättemiss och glömt registrera William Proos i tid.Nu står det klart att klubben inte får dispens och att forwarden blir kvar i Almtuna. – Man öppnar en jävla kran om man ska godkänna en sån här grej, säger Nicklas Danielsson till Expressen.",
     "image_url": "https://static.bonniernews.se/images/0e/0f/0e0f05ce36014a25a2a03f50e3e9adc7/16x9/265@70.jpg"
-  },
-  {
-    "title": "Svenskt OS-brons – \nefter bisarra bilder",
-    "link": "https://www.aftonbladet.se/sportbladet/a/PdoJ9z/brons-till-swenn-larsson-efter-grenslingen?utm_medium=rss",
-    "source": "Aftonbladet",
-    "published_at": "2026-02-18T13:27:15+00:00",
-    "summary": "Se klipp!",
-    "image_url": "https://images.aftonbladet-cdn.se/v2/images/624bd9bd-e32a-4577-83d5-1ac4b30780f3?fit=crop&format=auto&h=563&q=50&tight=true&w=1000&s=7db37b423e9d881ce4b736e06ed7331819ae1be2"
   }
 ]

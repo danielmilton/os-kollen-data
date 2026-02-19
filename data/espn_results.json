@@ -801,6 +801,15 @@
     "bronze_result": "85.80"
   },
   {
+    "event": "Ice Hockey – Women's Ice Hockey",
+    "gold_winner": "Switzerland (SUI)",
+    "silver_winner": "Sweden (SWE)",
+    "bronze_winner": "",
+    "gold_result": "",
+    "silver_result": "",
+    "bronze_result": ""
+  },
+  {
     "event": "Nordic Combined – Men's Team",
     "gold_winner": "Andreas Skoglund, Jens Lurås Oftebro (NOR)",
     "silver_winner": "Ilkka Herola, Eero Hirvonen (FIN)",
@@ -826,15 +835,6 @@
     "gold_result": "2:34.03",
     "silver_result": "2:35.55",
     "bronze_result": "2:36.34"
-  },
-  {
-    "event": "Ice Hockey – Women's Ice Hockey",
-    "gold_winner": "Switzerland (SUI)",
-    "silver_winner": "Sweden (SWE)",
-    "bronze_winner": "",
-    "gold_result": "",
-    "silver_result": "",
-    "bronze_result": ""
   },
   {
     "event": "Speedskating – Men's 1500m",

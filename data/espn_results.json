@@ -844,5 +844,14 @@
     "gold_result": "1:41.98 OR",
     "silver_result": "1:42.75",
     "bronze_result": "1:42.82"
+  },
+  {
+    "event": "Figure Skating – Women's Singles",
+    "gold_winner": "Alysa Liu (USA)",
+    "silver_winner": "Kaori Sakamoto (JPN)",
+    "bronze_winner": "Ami Nakai (JPN)",
+    "gold_result": "226.79",
+    "silver_result": "224.90",
+    "bronze_result": "219.16"
   }
 ]

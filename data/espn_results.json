@@ -817,5 +817,14 @@
     "gold_result": "2:34.03",
     "silver_result": "2:35.55",
     "bronze_result": "2:36.34"
+  },
+  {
+    "event": "Nordic Combined – Men's Team",
+    "gold_winner": "Andreas Skoglund, Jens Lurås Oftebro (NOR)",
+    "silver_winner": "Ilkka Herola, Eero Hirvonen (FIN)",
+    "bronze_winner": "Stefan Rettenegger, Johannes Lamparter (AUT)",
+    "gold_result": "41:18.0",
+    "silver_result": "41:18.5",
+    "bronze_result": "41:40.3"
   }
 ]

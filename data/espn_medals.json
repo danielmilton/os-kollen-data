@@ -19,9 +19,9 @@
     "country_name": "United States",
     "country_code": "USA",
     "gold": 7,
-    "silver": 11,
+    "silver": 12,
     "bronze": 6,
-    "total": 24
+    "total": 25
   },
   {
     "country_name": "France",
@@ -36,8 +36,8 @@
     "country_code": "NED",
     "gold": 6,
     "silver": 7,
-    "bronze": 2,
-    "total": 15
+    "bronze": 3,
+    "total": 16
   },
   {
     "country_name": "Sweden",
@@ -52,8 +52,8 @@
     "country_code": "SUI",
     "gold": 6,
     "silver": 4,
-    "bronze": 3,
-    "total": 13
+    "bronze": 4,
+    "total": 14
   },
   {
     "country_name": "Germany",
@@ -88,6 +88,14 @@
     "total": 14
   },
   {
+    "country_name": "China",
+    "country_code": "CHN",
+    "gold": 3,
+    "silver": 3,
+    "bronze": 4,
+    "total": 10
+  },
+  {
     "country_name": "Australia",
     "country_code": "AUS",
     "gold": 3,
@@ -102,14 +110,6 @@
     "silver": 0,
     "bronze": 0,
     "total": 3
-  },
-  {
-    "country_name": "China",
-    "country_code": "CHN",
-    "gold": 2,
-    "silver": 3,
-    "bronze": 4,
-    "total": 9
   },
   {
     "country_name": "South Korea",

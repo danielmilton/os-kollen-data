@@ -826,5 +826,23 @@
     "gold_result": "2:34.03",
     "silver_result": "2:35.55",
     "bronze_result": "2:36.34"
+  },
+  {
+    "event": "Ice Hockey – Women's Ice Hockey",
+    "gold_winner": "Switzerland (SUI)",
+    "silver_winner": "Sweden (SWE)",
+    "bronze_winner": "",
+    "gold_result": "",
+    "silver_result": "",
+    "bronze_result": ""
+  },
+  {
+    "event": "Speedskating – Men's 1500m",
+    "gold_winner": "Ning Zhongyan (CHN)",
+    "silver_winner": "Jordan Stolz (USA)",
+    "bronze_winner": "Kjeld Nuis (NED)",
+    "gold_result": "1:41.98 OR",
+    "silver_result": "1:42.75",
+    "bronze_result": "1:42.82"
   }
 ]

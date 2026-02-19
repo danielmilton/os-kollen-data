@@ -18,10 +18,10 @@
   {
     "country_name": "United States",
     "country_code": "USA",
-    "gold": 7,
+    "gold": 8,
     "silver": 12,
     "bronze": 6,
-    "total": 25
+    "total": 26
   },
   {
     "country_name": "France",
@@ -83,9 +83,9 @@
     "country_name": "Canada",
     "country_code": "CAN",
     "gold": 4,
-    "silver": 4,
+    "silver": 5,
     "bronze": 6,
-    "total": 14
+    "total": 15
   },
   {
     "country_name": "China",

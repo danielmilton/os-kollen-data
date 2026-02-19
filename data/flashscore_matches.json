@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-18T23:21:03.023694+00:00",
+  "scraped_at": "2026-02-19T17:17:50.211740+00:00",
   "matches": [
     {
       "type": "team",
@@ -2793,6 +2793,19 @@
       "status": "finished",
       "timestamp": 1771445400,
       "periods": "0-0, 1-0, 0-1"
+    },
+    {
+      "type": "team",
+      "sport": "Ishockey",
+      "event": "Damer",
+      "event_id": "t69TyyVI",
+      "home": "Schweiz",
+      "away": "Sverige",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "finished",
+      "timestamp": 1771508400,
+      "periods": "0-0, 1-1, 0-0"
     }
   ]
 }

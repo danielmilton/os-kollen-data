@@ -8,19 +8,19 @@
     "total": 34
   },
   {
+    "country_name": "United States",
+    "country_code": "USA",
+    "gold": 9,
+    "silver": 12,
+    "bronze": 6,
+    "total": 27
+  },
+  {
     "country_name": "Italy",
     "country_code": "ITA",
     "gold": 9,
     "silver": 5,
     "bronze": 12,
-    "total": 26
-  },
-  {
-    "country_name": "United States",
-    "country_code": "USA",
-    "gold": 8,
-    "silver": 12,
-    "bronze": 6,
     "total": 26
   },
   {
@@ -75,9 +75,9 @@
     "country_name": "Japan",
     "country_code": "JPN",
     "gold": 5,
-    "silver": 6,
-    "bronze": 11,
-    "total": 22
+    "silver": 7,
+    "bronze": 12,
+    "total": 24
   },
   {
     "country_name": "Canada",

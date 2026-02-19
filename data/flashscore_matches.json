@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-19T17:17:50.211740+00:00",
+  "scraped_at": "2026-02-19T21:34:37.416981+00:00",
   "matches": [
     {
       "type": "team",
@@ -2806,6 +2806,19 @@
       "status": "finished",
       "timestamp": 1771508400,
       "periods": "0-0, 1-1, 0-0"
+    },
+    {
+      "type": "team",
+      "sport": "Ishockey",
+      "event": "Damer",
+      "event_id": "8C1FavNP",
+      "home": "USA",
+      "away": "Kanada",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "finished",
+      "timestamp": 1771524600,
+      "periods": "0-0, 0-1, 1-0"
     }
   ]
 }

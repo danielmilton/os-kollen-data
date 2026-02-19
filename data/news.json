@@ -1,9 +1,25 @@
 [
   {
+    "title": "Så tog SVT:s reporter bilden som skakat curlingvärlden",
+    "link": "https://www.svt.se/sport/curling/sa-tog-svts-reporter-bilden-som-skakat-curlingvarlden",
+    "source": "SVT",
+    "published_at": "2026-02-19T07:59:42+01:00",
+    "summary": "Klippet på Marc Kennedys pekfinger blev en världsnyhet och ledde till attacker från Kanada mot SVT. Situationen filmades av SVT:s reporter Tobias Jonsson – och här berättar han hur det hela gick till. – Jag kan ha haft ett finger med i spelet, säger Jonsson.",
+    "image_url": null
+  },
+  {
+    "title": "Sebastian Samuelsson lämnar landslaget",
+    "link": "https://www.expressen.se/sport/os/sebastian-samuelsson-lamnar-landslaget/",
+    "source": "Expressen",
+    "published_at": "2026-02-19T07:43:44+01:00",
+    "summary": "Sebastian Samuelsson har kämpat med formen under OS. Nu väljer skidskyttestjärnan att lämna landslaget. – Jag tycker det är värt att ta risken, säger Samuelsson till Radiosporten.",
+    "image_url": "https://static.bonniernews.se/images/bc/82/bc826e1738d14ffea3097f88ac15406d/16x9/265@70.jpg"
+  },
+  {
     "title": "Beskedet: Tre Kronor-stjärnan har gjort sitt sista OS",
     "link": "https://www.expressen.se/sport/os/beskedet-tre-kronor-stjarnan-har-gjort-sitt-sista-os/",
     "source": "Expressen",
-    "published_at": "2026-02-19T07:21:42+01:00",
+    "published_at": "2026-02-19T07:21:40+01:00",
     "summary": "OS är över för Tre Kronor – och för veteranerna i laget kommer kanske chansen aldrig mer tillbaka.Som för Jacob Markström, 36.– Jag sitter väl i gungstol när nästa OS spelas. Det blir nog sista. Det suger, säger han.",
     "image_url": "https://static.bonniernews.se/images/76/4e/764ef1f94e3643c489e219388a3ef1d6/16x9/265@70.png"
   },
@@ -208,14 +224,6 @@
     "image_url": null
   },
   {
-    "title": "Maja Dahlqvist får se omtalade intervjun med pappan: ”Fyra sekunder”",
-    "link": "https://www.svt.se/sport/langdskidor/maja-dahlqvist-far-se-omtalade-intervjun-med-pappan-fyra-sekunder",
-    "source": "SVT",
-    "published_at": "2026-02-18T14:09:57+01:00",
-    "summary": "Maja Dahlqvist tog sitt första OS-guld. Då stod hennes pappa för en omtalad intervju. – Jaså, det här är klippet alla pratar om, säger Maja Dahlqvist när SVT visar henne bilderna.",
-    "image_url": null
-  },
-  {
     "title": "Svenskt OS-brons – \nefter bisarra bilder",
     "link": "https://www.aftonbladet.se/sportbladet/a/PdoJ9z/brons-till-swenn-larsson-efter-grenslingen?utm_medium=rss",
     "source": "Aftonbladet",
@@ -277,6 +285,14 @@
     "source": "TV4",
     "published_at": "2026-02-05T09:28:01+00:00",
     "summary": null,
+    "image_url": null
+  },
+  {
+    "title": "Maja Dahlqvist får se omtalade intervjun med pappan: ”Fyra sekunder”",
+    "link": "https://www.svt.se/sport/langdskidor/maja-dahlqvist-far-se-omtalade-intervjun-med-pappan-fyra-sekunder",
+    "source": "SVT",
+    "published_at": "2026-02-18T14:09:57+01:00",
+    "summary": "Maja Dahlqvist tog sitt första OS-guld. Då stod hennes pappa för en omtalad intervju. – Jaså, det här är klippet alla pratar om, säger Maja Dahlqvist när SVT visar henne bilderna.",
     "image_url": null
   },
   {
@@ -381,22 +397,6 @@
     "source": "SVT",
     "published_at": "2026-02-18T13:17:12+01:00",
     "summary": "Snöpliga bilder för Finland. Jasmin Kähärä körde för medalj men kraschade precis innan upploppet i damernas sprintstafett. – Jag var för trött i benen och kunde inte hantera det. Jag är riktigt besviken, säger hon till SVT Sport.",
-    "image_url": null
-  },
-  {
-    "title": "Edvin Anger rasade ihop i OS-sprintstafetten – nytt guld till Norge",
-    "link": "https://www.svt.se/sport/langdskidor/edvin-anger-tappade-i-os-sprintstafetten-guld-till-norge",
-    "source": "SVT",
-    "published_at": "2026-02-18T12:33:55+01:00",
-    "summary": "De svenska herrarna hade chansen. Men Edvin Anger tappade på sista sträckan – och slutade på tionde plats i sprintstafetten. – Tyvärr har inte jag det som behövs för att vi ska stå på pallen i dag, säger 23-åringen till SVT Sport.",
-    "image_url": null
-  },
-  {
-    "title": "Jonna Sundling och Maja Dahlqvist tog OS-guld i sprintstafett efter ryck",
-    "link": "https://www.svt.se/sport/langdskidor/jonna-sundling-och-maja-dahlqvist-tar-os-guld-i-sprintstafett",
-    "source": "SVT",
-    "published_at": "2026-02-18T12:05:37+01:00",
-    "summary": "Favoriterna höll för trycket. Jonna Sundling och Maja Dahlqvist tog OS-guld i sprintstafetten. – Det var en jättebra dag, säger Dahlqvist till SVT Sport.",
     "image_url": null
   }
 ]

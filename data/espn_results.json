@@ -799,5 +799,23 @@
     "gold_result": "87.83",
     "silver_result": "87.48",
     "bronze_result": "85.80"
+  },
+  {
+    "event": "Ski Mountaineering – Women's Sprint",
+    "gold_winner": "Marianne Fatton (SUI)",
+    "silver_winner": "Emily Harrop (FRA)",
+    "bronze_winner": "Ana Alonso Rodriguez (ESP)",
+    "gold_result": "2:59.77",
+    "silver_result": "3:02.15",
+    "bronze_result": "3:10.22"
+  },
+  {
+    "event": "Ski Mountaineering – Men's Sprint",
+    "gold_winner": "Oriol Cardona Coll (ESP)",
+    "silver_winner": "Nikita Filippov (AIN)",
+    "bronze_winner": "Thibault Anselmet (FRA)",
+    "gold_result": "2:34.03",
+    "silver_result": "2:35.55",
+    "bronze_result": "2:36.34"
   }
 ]

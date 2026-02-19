@@ -27,9 +27,9 @@
     "country_name": "France",
     "country_code": "FRA",
     "gold": 6,
-    "silver": 7,
+    "silver": 8,
     "bronze": 4,
-    "total": 17
+    "total": 18
   },
   {
     "country_name": "Netherlands",
@@ -46,6 +46,14 @@
     "silver": 6,
     "bronze": 3,
     "total": 15
+  },
+  {
+    "country_name": "Switzerland",
+    "country_code": "SUI",
+    "gold": 6,
+    "silver": 4,
+    "bronze": 3,
+    "total": 13
   },
   {
     "country_name": "Germany",
@@ -70,14 +78,6 @@
     "silver": 6,
     "bronze": 11,
     "total": 22
-  },
-  {
-    "country_name": "Switzerland",
-    "country_code": "SUI",
-    "gold": 5,
-    "silver": 4,
-    "bronze": 3,
-    "total": 12
   },
   {
     "country_name": "Canada",
@@ -190,6 +190,14 @@
     "silver": 0,
     "bronze": 2,
     "total": 2
+  },
+  {
+    "country_name": "Spain",
+    "country_code": "ESP",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1,
+    "total": 1
   },
   {
     "country_name": "Belgium",

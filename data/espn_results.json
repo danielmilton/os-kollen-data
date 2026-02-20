@@ -864,6 +864,15 @@
     "bronze_result": "39:42.7"
   },
   {
+    "event": "Curling – Men's",
+    "gold_winner": "Team Switzerland (SUI)",
+    "silver_winner": "Team Norway (NOR)",
+    "bronze_winner": "",
+    "gold_result": "9",
+    "silver_result": "1",
+    "bronze_result": ""
+  },
+  {
     "event": "Freestyle Skiing – Women's Ski Cross",
     "gold_winner": "Daniela Maier (GER)",
     "silver_winner": "Fanny Smith (SUI)",
@@ -882,15 +891,6 @@
     "bronze_result": "123.93"
   },
   {
-    "event": "Speedskating – Women's 1500m",
-    "gold_winner": "Antoinette Rijpma-de Jong (NED)",
-    "silver_winner": "Ragne Wiklund (NOR)",
-    "bronze_winner": "Valerie Maltais (CAN)",
-    "gold_result": "1:54.09",
-    "silver_result": "1:54.15",
-    "bronze_result": "1:54.40"
-  },
-  {
     "event": "Freestyle Skiing – Men's Halfpipe",
     "gold_winner": "Alex Ferreira (USA)",
     "silver_winner": "Henry Sildaru (EST)",
@@ -898,5 +898,14 @@
     "gold_result": "93.75",
     "silver_result": "93.00",
     "bronze_result": "91.00"
+  },
+  {
+    "event": "Speedskating – Women's 1500m",
+    "gold_winner": "Antoinette Rijpma-de Jong (NED)",
+    "silver_winner": "Ragne Wiklund (NOR)",
+    "bronze_winner": "Valerie Maltais (CAN)",
+    "gold_result": "1:54.09",
+    "silver_result": "1:54.15",
+    "bronze_result": "1:54.40"
   }
 ]

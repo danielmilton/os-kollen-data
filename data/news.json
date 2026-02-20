@@ -144,14 +144,6 @@
     "image_url": "https://static.bonniernews.se/images/ad/fd/adfd8659019b40839884cc73b21029b6/16x9/265@70.jpg"
   },
   {
-    "title": "Anna Kjellbin kritisk mot domarna efter medaljmissen",
-    "link": "https://www.expressen.se/sport/os/anna-kjellbin-kritisk-mot-domarna-efter-medaljmissen/",
-    "source": "Expressen",
-    "published_at": "2026-02-19T17:51:18+01:00",
-    "summary": "OS slutade utan medalj.Damkronornas lagkapten Anna Kjellbin är inte nöjd med domarnivån.– Den är alldeles för låg. Man måste ha högre krav, säger hon.",
-    "image_url": "https://static.bonniernews.se/images/f1/01/f101df9ec008407685961ff2fae4099d/16x9/265@70.png"
-  },
-  {
     "title": "Besvikelsen i förbundskaptenens sista match: ”Jättesurt”",
     "link": "https://www.svt.se/sport/ishockey/besvikelsen-i-forbundskaptenens-sista-match-jattesurt",
     "source": "SVT",
@@ -208,14 +200,6 @@
     "image_url": null
   },
   {
-    "title": "”Är inte aktuellt för Myhlback”",
-    "link": "https://www.aftonbladet.se/sportbladet/a/QJyv4V/femmilslagen-annu-inte-klara-behover-mer-tid?utm_medium=rss",
-    "source": "Aftonbladet",
-    "published_at": "2026-02-19T13:26:59+00:00",
-    "summary": "OS-beskedet om svenske stjärnan: ”Nej”",
-    "image_url": "https://images.aftonbladet-cdn.se/v2/images/51f754fb-8a62-4eab-8449-3e4f75a2f026?fit=crop&format=auto&h=679&q=50&w=1900&s=5be84d86cf1c889b2a3a16ffe99d29968b066ca5"
-  },
-  {
     "title": "De får lägsta betyg – och han var Tre Kronors kung",
     "link": "https://www.aftonbladet.se/sportbladet/hockey/a/8pQdbW/tre-kronor-os-2026-betyg-pa-samtliga-spelares-os?utm_medium=rss",
     "source": "Aftonbladet",
@@ -230,14 +214,6 @@
     "published_at": "2026-02-19T12:41:11+01:00",
     "summary": "Sverige har redan uppnått sitt mål att ta 15 medaljer i detta OS. Men det finns fortfarande flera medaljchanser kvar. Med bara några dagar kvar av de olympiska spelen kan Sverige slå rekordet i antal medaljer från OS i Peking 2022.",
     "image_url": null
-  },
-  {
-    "title": "Förvånade alla med sin medalj",
-    "link": "https://www.aftonbladet.se/sportbladet/a/Gx3q5V/han-gav-kungen-sin-medalj?utm_medium=rss",
-    "source": "Aftonbladet",
-    "published_at": "2026-02-19T12:39:52+00:00",
-    "summary": "Förklaringen bakom: ”Succé”",
-    "image_url": "https://images.aftonbladet-cdn.se/v2/images/2299622e-2523-4ac7-83f4-036b5ad4db83?fit=crop&format=auto&h=661&q=50&w=1900&s=3e722a0c30660fcc929e3e4893c7b9655d4b3a32"
   },
   {
     "title": "Tyska succéduon pekar ut svensken: ”Anledningen till att vi står här”",
@@ -278,6 +254,30 @@
     "published_at": "2026-02-05T09:28:01+00:00",
     "summary": null,
     "image_url": null
+  },
+  {
+    "title": "Anna Kjellbin kritisk mot domarna efter medaljmissen",
+    "link": "https://www.expressen.se/sport/os/anna-kjellbin-kritisk-mot-domarna-efter-medaljmissen/",
+    "source": "Expressen",
+    "published_at": "2026-02-19T17:51:18+01:00",
+    "summary": "OS slutade utan medalj.Damkronornas lagkapten Anna Kjellbin är inte nöjd med domarnivån.– Den är alldeles för låg. Man måste ha högre krav, säger hon.",
+    "image_url": "https://static.bonniernews.se/images/f1/01/f101df9ec008407685961ff2fae4099d/16x9/265@70.png"
+  },
+  {
+    "title": "”Är inte aktuellt för Myhlback”",
+    "link": "https://www.aftonbladet.se/sportbladet/a/QJyv4V/femmilslagen-annu-inte-klara-behover-mer-tid?utm_medium=rss",
+    "source": "Aftonbladet",
+    "published_at": "2026-02-19T13:26:59+00:00",
+    "summary": "OS-beskedet om svenske stjärnan: ”Nej”",
+    "image_url": "https://images.aftonbladet-cdn.se/v2/images/51f754fb-8a62-4eab-8449-3e4f75a2f026?fit=crop&format=auto&h=679&q=50&w=1900&s=5be84d86cf1c889b2a3a16ffe99d29968b066ca5"
+  },
+  {
+    "title": "Förvånade alla med sin medalj",
+    "link": "https://www.aftonbladet.se/sportbladet/a/Gx3q5V/han-gav-kungen-sin-medalj?utm_medium=rss",
+    "source": "Aftonbladet",
+    "published_at": "2026-02-19T12:39:52+00:00",
+    "summary": "Förklaringen bakom: ”Succé”",
+    "image_url": "https://images.aftonbladet-cdn.se/v2/images/2299622e-2523-4ac7-83f4-036b5ad4db83?fit=crop&format=auto&h=661&q=50&w=1900&s=3e722a0c30660fcc929e3e4893c7b9655d4b3a32"
   },
   {
     "title": "Bryter ihop helt \n– skriker rakt ut",

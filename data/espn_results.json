@@ -855,15 +855,6 @@
     "bronze_result": "1:42.82"
   },
   {
-    "event": "Freestyle Skiing – Women's Ski Cross",
-    "gold_winner": "Daniela Maier (GER)",
-    "silver_winner": "Fanny Smith (SUI)",
-    "bronze_winner": "Sandra Naeslund (SWE)",
-    "gold_result": "",
-    "silver_result": "",
-    "bronze_result": ""
-  },
-  {
     "event": "Biathlon – Men's 15km Mass Start",
     "gold_winner": "Johannes Dale-Skjevdal (NOR)",
     "silver_winner": "Sturla Holm Laegreid (NOR)",
@@ -871,6 +862,15 @@
     "gold_result": "39:17.1",
     "silver_result": "39:27.6",
     "bronze_result": "39:42.7"
+  },
+  {
+    "event": "Freestyle Skiing – Women's Ski Cross",
+    "gold_winner": "Daniela Maier (GER)",
+    "silver_winner": "Fanny Smith (SUI)",
+    "bronze_winner": "Sandra Naeslund (SWE)",
+    "gold_result": "",
+    "silver_result": "",
+    "bronze_result": ""
   },
   {
     "event": "Freestyle Skiing – Men's Aerials",

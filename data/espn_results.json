@@ -880,5 +880,14 @@
     "gold_result": "132.60",
     "silver_result": "131.58",
     "bronze_result": "123.93"
+  },
+  {
+    "event": "Speedskating – Women's 1500m",
+    "gold_winner": "Antoinette Rijpma-de Jong (NED)",
+    "silver_winner": "Ragne Wiklund (NOR)",
+    "bronze_winner": "Valerie Maltais (CAN)",
+    "gold_result": "1:54.09",
+    "silver_result": "1:54.15",
+    "bronze_result": "1:54.40"
   }
 ]

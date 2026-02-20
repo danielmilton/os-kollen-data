@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-20T18:44:11.097065+00:00",
+  "scraped_at": "2026-02-20T22:57:26.514015+00:00",
   "matches": [
     {
       "type": "team",
@@ -2896,6 +2896,19 @@
       "status": "finished",
       "timestamp": 1771602000,
       "periods": "0-1, 1-1, 2-0"
+    },
+    {
+      "type": "team",
+      "sport": "Ishockey",
+      "event": "Herrar",
+      "event_id": "QeCcGsJb",
+      "home": "USA",
+      "away": "Slovakien",
+      "home_score": 6,
+      "away_score": 2,
+      "status": "finished",
+      "timestamp": 1771618200,
+      "periods": "2-0, 3-0, 1-2"
     }
   ]
 }

@@ -900,15 +900,6 @@
     "bronze_result": "91.00"
   },
   {
-    "event": "Speedskating – Women's 1500m",
-    "gold_winner": "Antoinette Rijpma-de Jong (NED)",
-    "silver_winner": "Ragne Wiklund (NOR)",
-    "bronze_winner": "Valerie Maltais (CAN)",
-    "gold_result": "1:54.09",
-    "silver_result": "1:54.15",
-    "bronze_result": "1:54.40"
-  },
-  {
     "event": "Short-Track Speedskating – Men's 5000m Relay",
     "gold_winner": "Jens Van 'T Wout, Melle Van 'T Wout, Teun Boer, Friso Emons (NED)",
     "silver_winner": "Hwang Daeheon, Lee Jeongmin, Lee Juneseo, Rim Jongun (KOR)",
@@ -916,5 +907,23 @@
     "gold_result": "6:51.847",
     "silver_result": "6:52.239",
     "bronze_result": "6:52.335"
+  },
+  {
+    "event": "Short-Track Speedskating – Women's 1500m",
+    "gold_winner": "Kim Gilli (KOR)",
+    "silver_winner": "Choi Minjeong (KOR)",
+    "bronze_winner": "Corinne Stoddard (USA)",
+    "gold_result": "2:32.076",
+    "silver_result": "2:32.450",
+    "bronze_result": "2:32.578"
+  },
+  {
+    "event": "Speedskating – Women's 1500m",
+    "gold_winner": "Antoinette Rijpma-de Jong (NED)",
+    "silver_winner": "Ragne Wiklund (NOR)",
+    "bronze_winner": "Valerie Maltais (CAN)",
+    "gold_result": "1:54.09",
+    "silver_result": "1:54.15",
+    "bronze_result": "1:54.40"
   }
 ]

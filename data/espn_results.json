@@ -853,5 +853,14 @@
     "gold_result": "1:41.98 OR",
     "silver_result": "1:42.75",
     "bronze_result": "1:42.82"
+  },
+  {
+    "event": "Freestyle Skiing – Women's Ski Cross",
+    "gold_winner": "Daniela Maier (GER)",
+    "silver_winner": "Fanny Smith (SUI)",
+    "bronze_winner": "Sandra Naeslund (SWE)",
+    "gold_result": "",
+    "silver_result": "",
+    "bronze_result": ""
   }
 ]

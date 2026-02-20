@@ -363,7 +363,7 @@
     "event": "Short-Track Speedskating – Men's 1000m",
     "gold_winner": "Jens Van 'T Wout (NED)",
     "silver_winner": "Sun Long (CHN)",
-    "bronze_winner": "Rim Jong-un (KOR)",
+    "bronze_winner": "Rim Jongun (KOR)",
     "gold_result": "1:24.537",
     "silver_result": "1:24.565",
     "bronze_result": "1:24.611"
@@ -907,5 +907,14 @@
     "gold_result": "1:54.09",
     "silver_result": "1:54.15",
     "bronze_result": "1:54.40"
+  },
+  {
+    "event": "Short-Track Speedskating – Men's 5000m Relay",
+    "gold_winner": "Jens Van 'T Wout, Melle Van 'T Wout, Teun Boer, Friso Emons (NED)",
+    "silver_winner": "Hwang Daeheon, Lee Jeongmin, Lee Juneseo, Rim Jongun (KOR)",
+    "bronze_winner": "Pietro Sighel, Thomas Nadalini, Luca Spechenhauser, Andrea Cassinelli (ITA)",
+    "gold_result": "6:51.847",
+    "silver_result": "6:52.239",
+    "bronze_result": "6:52.335"
   }
 ]

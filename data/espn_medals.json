@@ -20,16 +20,16 @@
     "country_code": "ITA",
     "gold": 9,
     "silver": 5,
-    "bronze": 12,
-    "total": 26
+    "bronze": 13,
+    "total": 27
   },
   {
     "country_name": "Netherlands",
     "country_code": "NED",
-    "gold": 7,
+    "gold": 8,
     "silver": 7,
     "bronze": 3,
-    "total": 17
+    "total": 18
   },
   {
     "country_name": "Germany",
@@ -115,9 +115,9 @@
     "country_name": "South Korea",
     "country_code": "KOR",
     "gold": 2,
-    "silver": 2,
+    "silver": 3,
     "bronze": 3,
-    "total": 7
+    "total": 8
   },
   {
     "country_name": "Czechia",

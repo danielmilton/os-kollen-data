@@ -1,5 +1,13 @@
 [
   {
+    "title": "Sebastian Samuelssons attack: ”Visa mer respekt”",
+    "link": "https://www.expressen.se/sport/os/sebastian-samuelssons-attack-visa-mer-respekt-/",
+    "source": "Expressen",
+    "published_at": "2026-02-20T17:22:44+01:00",
+    "summary": "Sebastian Samuelsson är djupt besviken.OS blev inte vad han hade hoppats på. Samtidigt är 28-åringen kritisk mot både media och tv-tittare. – Det är många som följer OS som inte förstår. De tror att vi tränar dåligt, säger han.",
+    "image_url": "https://static.bonniernews.se/images/e0/5d/e05df3ddea6f4f66bffacc8068b88227/16x9/265@70.jpg"
+  },
+  {
     "title": "Lag Hasselborgs succé – klara för OS-final",
     "link": "https://www.expressen.se/sport/os/lag-hasselborgs-succe-klara-for-os-final-/",
     "source": "Expressen",
@@ -12,7 +20,7 @@
     "link": "https://www.svt.se/sport/curling/medalj-sakrad-for-lag-hasselborg-vidare-till-os-final",
     "source": "SVT",
     "published_at": "2026-02-20T16:46:31+01:00",
-    "summary": "Lag Hasselborg gick segrande efter en rysande semifinal mot Kanada. Med det är svenskorna klara för OS-final. – Det är ett skakat Kanada nu, säger TV4:s expert Anette Norberg.",
+    "summary": "Lag Hasselborg gick segrande efter en rysande semifinal mot Kanada. Med det är svenskorna klara för OS-final. – Det var ingen tvekan om vilket lag som var bäst på banan, säger SVT:s expert Eva Lund.",
     "image_url": null
   },
   {
@@ -27,17 +35,17 @@
     "title": "Sandra Näslund tar OS-brons",
     "link": "https://www.expressen.se/sport/os/sandra-naslund-tar-os-brons/",
     "source": "Expressen",
-    "published_at": "2026-02-20T16:34:50+01:00",
+    "published_at": "2026-02-20T16:34:49+01:00",
     "summary": "Sandra Näslund tar OS-brons i skicross.När hon kramade om familjen brast det.– Det beskriver hur mycket det betyder och vilken tuff resa det har varit, säger hon.",
-    "image_url": "https://static.bonniernews.se/images/91/d2/91d2b43a59874aa4985e9fa8ee4af170/16x9/265@70.png"
+    "image_url": null
   },
   {
-    "title": "JUST NU: JA! \nSverige klart \nför OS-final",
+    "title": "Är klara för en \nhistorisk final: \n”Den jäveln...”",
     "link": "https://www.aftonbladet.se/sportbladet/a/bOGAkv/curling-i-os-sverige-till-final-da-spelas-os-finalen?utm_medium=rss",
     "source": "Aftonbladet",
     "published_at": "2026-02-20T15:46:25+00:00",
     "summary": "Ny medalj säkrad ✓ Besegrade Kanada",
-    "image_url": "https://images.aftonbladet-cdn.se/v2/images/15294699-629c-4201-82a1-53bad1f8d58a?fit=crop&format=auto&h=747&q=50&w=1900&s=989f0310d8bfa6ffaeeb31b992eabb7050468320"
+    "image_url": "https://images.aftonbladet-cdn.se/v2/images/242dca15-8250-4180-9fb8-63d9b22a266e?fit=crop&format=auto&h=747&q=50&w=1900&s=e895924f54d3396e8515d07ea01cc7b643da56ca"
   },
   {
     "title": "Sidney Crosby missar OS-semifinalen mot Finland",
@@ -56,11 +64,11 @@
     "image_url": null
   },
   {
-    "title": "Storspelande Lag Hasselborg säkrar medalj – klara för OS-final",
+    "title": "Lag Hasselborg säkrar medalj – klara för OS-final",
     "link": "https://www.tv4.se/artikel/1G9KKJ51rDI4p01tSwq1sR/lag-hasselborg-pa-jakt-efter-ny-medalj-med-jaettefoerdel-i-semin",
     "source": "TV4",
     "published_at": "2026-02-20T13:41:16+00:00",
-    "summary": "Slog välförtjänt ut storfavoriten Kanada",
+    "summary": "Slog välförtjänt ut favoriten Kanada • ”Imponerande”",
     "image_url": null
   },
   {
@@ -390,13 +398,5 @@
     "published_at": "2026-02-19T09:52:38+00:00",
     "summary": "PODD Dundertungt – betyg på OS-spelarna",
     "image_url": "https://images.aftonbladet-cdn.se/v2/images/f21ef61a-f5be-4877-a204-d811f58a97ae?fit=crop&format=auto&h=904&q=50&w=1900&s=509fa474ff2c7ca601de5071f284469f2b77512e"
-  },
-  {
-    "title": "JUST NU: Saknas",
-    "link": "https://www.aftonbladet.se/sportbladet/a/q6W5Q1/oro-infor-femmilen-karlsson-pa-hotellet-med-en-kanning?utm_medium=rss",
-    "source": "Aftonbladet",
-    "published_at": "2026-02-20T09:38:45+00:00",
-    "summary": "Svenska oron inför OS-avslutningen",
-    "image_url": "https://images.aftonbladet-cdn.se/v2/images/5cf738f0-c447-4506-8eed-e2a577a27ece?fit=crop&format=auto&h=450&q=50&tight=true&w=800&s=4e3e58d76c27a25c61effcf3fae70dbe92037ed5"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-20T13:20:49.629637+00:00",
+  "scraped_at": "2026-02-20T15:01:40.609868+00:00",
   "matches": [
     {
       "type": "team",
@@ -2647,6 +2647,63 @@
       "status": "finished",
       "timestamp": 1771524600,
       "periods": "0-0, 0-1, 1-0"
+    },
+    {
+      "type": "individual",
+      "sport": "Skidskytte",
+      "event": "Masstart herrar",
+      "status": "finished",
+      "timestamp": 1771593300,
+      "results": [
+        {
+          "pos": 1,
+          "name": "Johannes Dale",
+          "country": "Norge",
+          "time": "39:17.1",
+          "diff": "0.0",
+          "penalties": 0
+        },
+        {
+          "pos": 2,
+          "name": "Sturla Holm Lägreid",
+          "country": "Norge",
+          "time": "39:27.6",
+          "diff": "10.5",
+          "penalties": 1
+        },
+        {
+          "pos": 3,
+          "name": "Qüntin Fillon Maillet",
+          "country": "Frankrike",
+          "time": "39:42.7",
+          "diff": "25.6",
+          "penalties": 4
+        },
+        {
+          "pos": 18,
+          "name": "Sebastian Samülsson",
+          "country": "Sverige",
+          "time": "42:52.1",
+          "diff": "3:35.0",
+          "penalties": 4
+        },
+        {
+          "pos": 21,
+          "name": "Martin Ponsiluoma",
+          "country": "Sverige",
+          "time": "43:03.8",
+          "diff": "3:46.7",
+          "penalties": 7
+        },
+        {
+          "pos": 26,
+          "name": "Jesper Nelin",
+          "country": "Sverige",
+          "time": "44:17.3",
+          "diff": "5:00.2",
+          "penalties": 7
+        }
+      ]
     }
   ]
 }

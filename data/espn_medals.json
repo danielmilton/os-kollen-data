@@ -48,20 +48,20 @@
     "total": 16
   },
   {
-    "country_name": "Sweden",
-    "country_code": "SWE",
+    "country_name": "Switzerland",
+    "country_code": "SUI",
     "gold": 6,
     "silver": 6,
     "bronze": 4,
     "total": 16
   },
   {
-    "country_name": "Switzerland",
-    "country_code": "SUI",
+    "country_name": "Sweden",
+    "country_code": "SWE",
     "gold": 6,
-    "silver": 5,
+    "silver": 6,
     "bronze": 4,
-    "total": 15
+    "total": 16
   },
   {
     "country_name": "Austria",
@@ -90,10 +90,10 @@
   {
     "country_name": "China",
     "country_code": "CHN",
-    "gold": 3,
+    "gold": 4,
     "silver": 3,
-    "bronze": 4,
-    "total": 10
+    "bronze": 5,
+    "total": 12
   },
   {
     "country_name": "Australia",

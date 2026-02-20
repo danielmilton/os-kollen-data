@@ -889,5 +889,14 @@
     "gold_result": "1:54.09",
     "silver_result": "1:54.15",
     "bronze_result": "1:54.40"
+  },
+  {
+    "event": "Freestyle Skiing – Men's Halfpipe",
+    "gold_winner": "Alex Ferreira (USA)",
+    "silver_winner": "Henry Sildaru (EST)",
+    "bronze_winner": "Brendan Mackay (CAN)",
+    "gold_result": "93.75",
+    "silver_result": "93.00",
+    "bronze_result": "91.00"
   }
 ]

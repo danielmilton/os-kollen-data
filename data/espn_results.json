@@ -862,5 +862,23 @@
     "gold_result": "",
     "silver_result": "",
     "bronze_result": ""
+  },
+  {
+    "event": "Biathlon – Men's 15km Mass Start",
+    "gold_winner": "Johannes Dale-Skjevdal (NOR)",
+    "silver_winner": "Sturla Holm Laegreid (NOR)",
+    "bronze_winner": "Quentin Fillon Maillet (FRA)",
+    "gold_result": "39:17.1",
+    "silver_result": "39:27.6",
+    "bronze_result": "39:42.7"
+  },
+  {
+    "event": "Freestyle Skiing – Men's Aerials",
+    "gold_winner": "Wang Xindi (CHN)",
+    "silver_winner": "Noe Roth (SUI)",
+    "bronze_winner": "Li Tianma (CHN)",
+    "gold_result": "132.60",
+    "silver_result": "131.58",
+    "bronze_result": "123.93"
   }
 ]

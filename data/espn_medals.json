@@ -2,10 +2,10 @@
   {
     "country_name": "Norway",
     "country_code": "NOR",
-    "gold": 16,
-    "silver": 8,
+    "gold": 17,
+    "silver": 9,
     "bronze": 10,
-    "total": 34
+    "total": 36
   },
   {
     "country_name": "United States",
@@ -36,8 +36,8 @@
     "country_code": "FRA",
     "gold": 6,
     "silver": 8,
-    "bronze": 5,
-    "total": 19
+    "bronze": 6,
+    "total": 20
   },
   {
     "country_name": "Netherlands",

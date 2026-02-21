@@ -927,6 +927,15 @@
     "bronze_result": "1:54.40"
   },
   {
+    "event": "Biathlon – Women's 12.5km Mass Start",
+    "gold_winner": "Oceane Michelon (FRA)",
+    "silver_winner": "Julia Simon (FRA)",
+    "bronze_winner": "Tereza Voborníková (CZE)",
+    "gold_result": "37:18.1",
+    "silver_result": "37:24.7",
+    "bronze_result": "37:25.5"
+  },
+  {
     "event": "Cross-Country Skiing – Men's 50km Mass Start",
     "gold_winner": "Johannes Høsflot Klæbo (NOR)",
     "silver_winner": "Martin Løwstrøm Nyenget (NOR)",
@@ -934,6 +943,15 @@
     "gold_result": "2:06:44.8",
     "silver_result": "2:06:53.7",
     "bronze_result": "2:07:15.5"
+  },
+  {
+    "event": "Curling – Women's",
+    "gold_winner": "Team Canada (CAN)",
+    "silver_winner": "Team United States (USA)",
+    "bronze_winner": "",
+    "gold_result": "10",
+    "silver_result": "7",
+    "bronze_result": ""
   },
   {
     "event": "Freestyle Skiing – Mixed Team Aerials",
@@ -961,24 +979,6 @@
     "gold_result": "26:57.44",
     "silver_result": "27:09.30",
     "bronze_result": "27:23.94"
-  },
-  {
-    "event": "Biathlon – Women's 12.5km Mass Start",
-    "gold_winner": "Oceane Michelon (FRA)",
-    "silver_winner": "Julia Simon (FRA)",
-    "bronze_winner": "Tereza Voborníková (CZE)",
-    "gold_result": "37:18.1",
-    "silver_result": "37:24.7",
-    "bronze_result": "37:25.5"
-  },
-  {
-    "event": "Curling – Women's",
-    "gold_winner": "Team Canada (CAN)",
-    "silver_winner": "Team United States (USA)",
-    "bronze_winner": "",
-    "gold_result": "10",
-    "silver_result": "7",
-    "bronze_result": ""
   },
   {
     "event": "Speedskating – Men's Mass Start",

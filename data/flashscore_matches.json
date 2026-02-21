@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-21T13:25:03.349956+00:00",
+  "scraped_at": "2026-02-21T14:35:12.133302+00:00",
   "matches": [
     {
       "type": "team",
@@ -2435,6 +2435,71 @@
           "country": "Sverige",
           "time": "2:19:55.5",
           "diff": "13:10.7"
+        }
+      ]
+    },
+    {
+      "type": "individual",
+      "sport": "Skidskytte",
+      "event": "Masstart damer",
+      "status": "finished",
+      "timestamp": 1771679700,
+      "results": [
+        {
+          "pos": 1,
+          "name": "Oceane Michelon",
+          "country": "Frankrike",
+          "time": "37:18.1",
+          "diff": "0.0",
+          "penalties": 2
+        },
+        {
+          "pos": 2,
+          "name": "Julia Simon",
+          "country": "Frankrike",
+          "time": "37:24.7",
+          "diff": "6.6",
+          "penalties": 1
+        },
+        {
+          "pos": 3,
+          "name": "Tereza Vobornikova",
+          "country": "Tjeckien",
+          "time": "37:25.5",
+          "diff": "7.4",
+          "penalties": 1
+        },
+        {
+          "pos": 4,
+          "name": "Anna Magnusson",
+          "country": "Sverige",
+          "time": "37:44.7",
+          "diff": "26.6",
+          "penalties": 0
+        },
+        {
+          "pos": 6,
+          "name": "Elvira Oberg",
+          "country": "Sverige",
+          "time": "37:50.0",
+          "diff": "31.9",
+          "penalties": 1
+        },
+        {
+          "pos": 10,
+          "name": "Hanna Oberg",
+          "country": "Sverige",
+          "time": "38:21.2",
+          "diff": "1:03.1",
+          "penalties": 3
+        },
+        {
+          "pos": 25,
+          "name": "Linn Gestblom",
+          "country": "Sverige",
+          "time": "40:23.0",
+          "diff": "3:04.9",
+          "penalties": 5
         }
       ]
     }

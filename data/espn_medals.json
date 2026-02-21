@@ -24,20 +24,20 @@
     "total": 29
   },
   {
+    "country_name": "France",
+    "country_code": "FRA",
+    "gold": 8,
+    "silver": 9,
+    "bronze": 6,
+    "total": 23
+  },
+  {
     "country_name": "Netherlands",
     "country_code": "NED",
     "gold": 8,
     "silver": 7,
     "bronze": 3,
     "total": 18
-  },
-  {
-    "country_name": "France",
-    "country_code": "FRA",
-    "gold": 7,
-    "silver": 8,
-    "bronze": 6,
-    "total": 21
   },
   {
     "country_name": "Germany",
@@ -124,8 +124,8 @@
     "country_code": "CZE",
     "gold": 2,
     "silver": 2,
-    "bronze": 0,
-    "total": 4
+    "bronze": 1,
+    "total": 5
   },
   {
     "country_name": "Slovenia",

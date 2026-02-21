@@ -925,5 +925,14 @@
     "gold_result": "1:54.09",
     "silver_result": "1:54.15",
     "bronze_result": "1:54.40"
+  },
+  {
+    "event": "Freestyle Skiing – Mixed Team Aerials",
+    "gold_winner": "Kaila Kuhn, Connor Curran, Christopher Lillis (USA)",
+    "silver_winner": "Lina Kozomara, Noe Roth, Pirmin Werner (SUI)",
+    "bronze_winner": "Xu Mengtao, Wang Xindi, Li Tianma (CHN)",
+    "gold_result": "325.35",
+    "silver_result": "296.91",
+    "bronze_result": "279.68"
   }
 ]

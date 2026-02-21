@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-21T10:13:41.724219+00:00",
+  "scraped_at": "2026-02-21T12:24:29.844573+00:00",
   "matches": [
     {
       "type": "team",
@@ -1194,9 +1194,14 @@
       ],
       "athletes": [
         {
-          "name": "Marthe Johansen",
-          "country": "Norge",
-          "bib": 28
+          "name": "Tereza Vobornikova",
+          "country": "Tjeckien",
+          "bib": 20
+        },
+        {
+          "name": "Justine Braisaz",
+          "country": "Frankrike",
+          "bib": 11
         },
         {
           "name": "Baiba Bendika",
@@ -1264,14 +1269,14 @@
           "bib": 16
         },
         {
-          "name": "Tereza Vobornikova",
-          "country": "Tjeckien",
-          "bib": 20
-        },
-        {
           "name": "Suvi Minkkinen",
           "country": "Finland",
           "bib": 7
+        },
+        {
+          "name": "Marthe Johansen",
+          "country": "Norge",
+          "bib": 28
         },
         {
           "name": "Janina Hettich",
@@ -1332,11 +1337,6 @@
           "name": "Lisa Theresa Hauser",
           "country": "Österrike",
           "bib": 15
-        },
-        {
-          "name": "Camille Bened",
-          "country": "Frankrike",
-          "bib": 11
         },
         {
           "name": "Anna Magnusson",

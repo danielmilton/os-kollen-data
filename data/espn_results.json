@@ -927,6 +927,15 @@
     "bronze_result": "1:54.40"
   },
   {
+    "event": "Cross-Country Skiing – Men's 50km Mass Start",
+    "gold_winner": "Johannes Høsflot Klæbo (NOR)",
+    "silver_winner": "Martin Løwstrøm Nyenget (NOR)",
+    "bronze_winner": "Emil Iversen (NOR)",
+    "gold_result": "2:06:44.8",
+    "silver_result": "2:06:53.7",
+    "bronze_result": "2:07:15.5"
+  },
+  {
     "event": "Freestyle Skiing – Mixed Team Aerials",
     "gold_winner": "Kaila Kuhn, Connor Curran, Christopher Lillis (USA)",
     "silver_winner": "Lina Kozomara, Noe Roth, Pirmin Werner (SUI)",
@@ -934,5 +943,14 @@
     "gold_result": "325.35",
     "silver_result": "296.91",
     "bronze_result": "279.68"
+  },
+  {
+    "event": "Freestyle Skiing – Men's Ski Cross",
+    "gold_winner": "Simone Deromedis (ITA)",
+    "silver_winner": "Federico Tomasoni (ITA)",
+    "bronze_winner": "Alex Fiva (SUI)",
+    "gold_result": "",
+    "silver_result": "",
+    "bronze_result": ""
   }
 ]

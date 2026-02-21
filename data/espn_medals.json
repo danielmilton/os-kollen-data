@@ -2,10 +2,10 @@
   {
     "country_name": "Norway",
     "country_code": "NOR",
-    "gold": 17,
-    "silver": 10,
-    "bronze": 10,
-    "total": 37
+    "gold": 18,
+    "silver": 11,
+    "bronze": 11,
+    "total": 40
   },
   {
     "country_name": "United States",
@@ -18,10 +18,10 @@
   {
     "country_name": "Italy",
     "country_code": "ITA",
-    "gold": 9,
-    "silver": 5,
+    "gold": 10,
+    "silver": 6,
     "bronze": 13,
-    "total": 27
+    "total": 29
   },
   {
     "country_name": "Netherlands",
@@ -52,8 +52,8 @@
     "country_code": "SUI",
     "gold": 6,
     "silver": 7,
-    "bronze": 5,
-    "total": 18
+    "bronze": 6,
+    "total": 19
   },
   {
     "country_name": "Sweden",

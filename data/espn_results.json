@@ -952,5 +952,14 @@
     "gold_result": "",
     "silver_result": "",
     "bronze_result": ""
+  },
+  {
+    "event": "Ski Mountaineering – Mixed Relay",
+    "gold_winner": "Thibault Anselmet, Emily Harrop (FRA)",
+    "silver_winner": "Marianne Fatton, Jon Kistler (SUI)",
+    "bronze_winner": "Ana Alonso Rodriguez, Oriol Cardona Coll (ESP)",
+    "gold_result": "26:57.44",
+    "silver_result": "27:09.30",
+    "bronze_result": "27:23.94"
   }
 ]

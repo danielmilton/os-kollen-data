@@ -1,5 +1,13 @@
 [
   {
+    "title": "OS idag: 22 februari",
+    "link": "https://www.svt.se/sport/artikel/os-idag-22-februari",
+    "source": "SVT",
+    "published_at": "2026-02-21T23:30:51+01:00",
+    "summary": "Underbart är kort. OS sista dag är här – men det finns mycket att se fram emot. Det kan bli svenskt guld i curling om Lag Hasselborg vinner kampen mot Schweiz. I längdspåren kör flera svenskar för medalj i damernas masstart – även om favoriten Frida Karlsson uteblir. Och så blir det drömfinal mellan USA och Kanada i hockeyn.",
+    "image_url": null
+  },
+  {
     "title": "Bisarra målet i bronsmatchen – finska målvakten sågas",
     "link": "https://www.expressen.se/sport/os/bisarra-malet-i-bronsmatchen-finska-malvakten-sagas/",
     "source": "Expressen",
@@ -12,7 +20,7 @@
     "link": "https://www.svt.se/sport/ishockey/finland-kniper-os-bronset-krossade-slovakien-i-bronsmatchen",
     "source": "SVT",
     "published_at": "2026-02-21T22:56:17+01:00",
-    "summary": "De lyckades inte försvara sitt guld. Men Finland kan åtminstone glädjas över bronspengen – efter att ha krossat Slovakien med 6–1 i bronsmatchen. – Det är det tredje bästa laget i världen, säger TV4:s expertkommentator Sanny Lindström.",
+    "summary": "De lyckades inte försvara sitt guld. Men Finland kan åtminstone glädjas över bronspengen – efter att ha krossat Slovakien med 6–1 i bronsmatchen. – Det här är en speciell grupp, säger målvakten Juuse Saros.",
     "image_url": null
   },
   {
@@ -20,7 +28,7 @@
     "link": "https://www.expressen.se/sport/os/kanada-tar-os-guld-efter-rysare--/",
     "source": "Expressen",
     "published_at": "2026-02-21T22:42:56+01:00",
-    "summary": "Drygt en vecka efter storbråket med Sverige står Kanada som OS-mästare. Lag Brad Jacobs slog Storbritannien i en rysare till final. – Att vi kan vinna det här med tanke på allt, det är otroligt, säger Marc Kennedy.",
+    "summary": "Kanada är OS-mästare – en dryg vecka efter storbråket med Sverige. Då höll skipper Brad Jacobs ett brandtal på presskonferensen. – Jag hoppas bilden av oss på pallen bränns in i era hjärnor för alltid, säger han.",
     "image_url": "https://static.bonniernews.se/images/97/f2/97f23ec25aa54b4ebf27c69b16aa14f9/16x9/265@70.png"
   },
   {
@@ -64,12 +72,12 @@
     "image_url": null
   },
   {
-    "title": "JUST NU: Kanada tar OS-guld",
+    "title": "”Curlinggudarna \nstod på vår sida”",
     "link": "https://www.aftonbladet.se/sportbladet/a/rrEBpA/curling-kanada-vann-os-finalen-mot-storbritannien?utm_medium=rss",
     "source": "Aftonbladet",
     "published_at": "2026-02-21T20:50:13+00:00",
-    "summary": "Vann curlingfinalen",
-    "image_url": "https://images.aftonbladet-cdn.se/v2/images/1d0cbee4-5bd2-4bcc-be32-c789a3efbe2c?fit=crop&format=auto&h=814&q=50&w=1900&s=c1cde0fa073064c85746cf514f0ef853da039086"
+    "summary": "Tog OS-guld: ”Mest välförtjänt någonsin”",
+    "image_url": "https://images.aftonbladet-cdn.se/v2/images/26c86079-6c1e-4c00-8b06-33627f64f0cf?fit=crop&format=auto&h=600&q=50&w=1400&s=3ee9802140455e48bdb43c656981523a15f19b98"
   },
   {
     "title": "Sverige blåsta på medaljchans på OS: ”Det är tråkigt”",
@@ -389,14 +397,6 @@
     "source": "SVT",
     "published_at": "2026-02-21T12:39:50+01:00",
     "summary": "OS blev en mardrömstävling för bröderna Mobärg. Erik grenslade och David kraschade. – Det är eventuellt mitt sista OS och det var väl den chansen och den drömmen, säger Erik Mobärg till SVT Sport.",
-    "image_url": null
-  },
-  {
-    "title": "Stjärnorna bröt plötsligt OS-femmilen – lämnade i tårar",
-    "link": "https://www.svt.se/sport/langdskidor/stjarnorna-brot-plotsligt-os-femmilen-iivo-niskanen-i-tarar",
-    "source": "SVT",
-    "published_at": "2026-02-21T12:05:56+01:00",
-    "summary": "Bara 15 av 50 kilometer var avklarade. Då bröt plötsligt stjärnorna Iivo Niskanen och Harald Östberg Amundsen femmilen. De båda längdstjärnorna var i tårar efteråt.",
     "image_url": null
   }
 ]

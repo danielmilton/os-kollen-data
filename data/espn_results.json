@@ -997,5 +997,14 @@
     "gold_result": "60",
     "silver_result": "40",
     "bronze_result": "20"
+  },
+  {
+    "event": "Bobsled – Women's Two-Man",
+    "gold_winner": "Laura Nolte, Deborah Levi (GER)",
+    "silver_winner": "Lisa Buckwitz, Neele Schuten (GER)",
+    "bronze_winner": "Kaillie Armbruster Humphries, Jasmine Jones (USA)",
+    "gold_result": "3:48.46",
+    "silver_result": "3:48.99",
+    "bronze_result": "3:49.21"
   }
 ]

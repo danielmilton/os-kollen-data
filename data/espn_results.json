@@ -970,5 +970,23 @@
     "gold_result": "37:18.1",
     "silver_result": "37:24.7",
     "bronze_result": "37:25.5"
+  },
+  {
+    "event": "Curling – Women's",
+    "gold_winner": "Team Canada (CAN)",
+    "silver_winner": "Team United States (USA)",
+    "bronze_winner": "",
+    "gold_result": "10",
+    "silver_result": "7",
+    "bronze_result": ""
+  },
+  {
+    "event": "Speedskating – Men's Mass Start",
+    "gold_winner": "Jorrit Bergsma (NED)",
+    "silver_winner": "Viktor Hald Thorup (DEN)",
+    "bronze_winner": "Andrea Giovannini (ITA)",
+    "gold_result": "68",
+    "silver_result": "47",
+    "bronze_result": "21"
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-21T12:24:29.844573+00:00",
+  "scraped_at": "2026-02-21T13:25:03.349956+00:00",
   "matches": [
     {
       "type": "team",
@@ -1166,182 +1166,6 @@
           "name": "Victoria Carl",
           "country": "Tyskland",
           "bib": 2
-        }
-      ]
-    },
-    {
-      "type": "startlist",
-      "sport": "Skidskytte",
-      "event": "Masstart damer",
-      "total": 30,
-      "swe_athletes": [
-        {
-          "name": "Linn Gestblom",
-          "country": "Sverige"
-        },
-        {
-          "name": "Hanna Oberg",
-          "country": "Sverige"
-        },
-        {
-          "name": "Elvira Oberg",
-          "country": "Sverige"
-        },
-        {
-          "name": "Anna Magnusson",
-          "country": "Sverige"
-        }
-      ],
-      "athletes": [
-        {
-          "name": "Tereza Vobornikova",
-          "country": "Tjeckien",
-          "bib": 20
-        },
-        {
-          "name": "Justine Braisaz",
-          "country": "Frankrike",
-          "bib": 11
-        },
-        {
-          "name": "Baiba Bendika",
-          "country": "Lettland",
-          "bib": 27
-        },
-        {
-          "name": "Anne De Besche",
-          "country": "Danmark",
-          "bib": 26
-        },
-        {
-          "name": "Natalia Sidorowicz",
-          "country": "Polen",
-          "bib": 25
-        },
-        {
-          "name": "Anna Andexer",
-          "country": "Österrike",
-          "bib": 24
-        },
-        {
-          "name": "Kamila Zuk",
-          "country": "Polen",
-          "bib": 22
-        },
-        {
-          "name": "Milena Todorova",
-          "country": "Bulgarien",
-          "bib": 19
-        },
-        {
-          "name": "Linn Gestblom",
-          "country": "Sverige",
-          "bib": 18
-        },
-        {
-          "name": "Lea Meier",
-          "country": "Schweiz",
-          "bib": 17
-        },
-        {
-          "name": "Franziska Preuss",
-          "country": "Tyskland",
-          "bib": 13
-        },
-        {
-          "name": "Lora Hirstova",
-          "country": "Bulgarien",
-          "bib": 6
-        },
-        {
-          "name": "Julia Simon",
-          "country": "Frankrike",
-          "bib": 1
-        },
-        {
-          "name": "Estere Volfa",
-          "country": "Lettland",
-          "bib": 23
-        },
-        {
-          "name": "Vanessa Voigt",
-          "country": "Tyskland",
-          "bib": 16
-        },
-        {
-          "name": "Suvi Minkkinen",
-          "country": "Finland",
-          "bib": 7
-        },
-        {
-          "name": "Marthe Johansen",
-          "country": "Norge",
-          "bib": 28
-        },
-        {
-          "name": "Janina Hettich",
-          "country": "Tyskland",
-          "bib": 30
-        },
-        {
-          "name": "Karoline Knotten",
-          "country": "Norge",
-          "bib": 21
-        },
-        {
-          "name": "Joanna Jakiela",
-          "country": "Polen",
-          "bib": 29
-        },
-        {
-          "name": "Amy Baserga",
-          "country": "Schweiz",
-          "bib": 14
-        },
-        {
-          "name": "Hanna Oberg",
-          "country": "Sverige",
-          "bib": 9
-        },
-        {
-          "name": "Lisa Vittozzi",
-          "country": "Italien",
-          "bib": 3
-        },
-        {
-          "name": "Lou Jeanmonnot",
-          "country": "Frankrike",
-          "bib": 4
-        },
-        {
-          "name": "Elvira Oberg",
-          "country": "Sverige",
-          "bib": 10
-        },
-        {
-          "name": "Oceane Michelon",
-          "country": "Frankrike",
-          "bib": 5
-        },
-        {
-          "name": "Maren Kirkeeide",
-          "country": "Norge",
-          "bib": 2
-        },
-        {
-          "name": "Dorothea Wierer",
-          "country": "Italien",
-          "bib": 12
-        },
-        {
-          "name": "Lisa Theresa Hauser",
-          "country": "Österrike",
-          "bib": 15
-        },
-        {
-          "name": "Anna Magnusson",
-          "country": "Sverige",
-          "bib": 8
         }
       ]
     },
@@ -2562,6 +2386,57 @@
       "status": "finished",
       "timestamp": 1771618200,
       "periods": "2-0, 3-0, 1-2"
+    },
+    {
+      "type": "individual",
+      "sport": "Längdskidor",
+      "event": "Masstart klassisk herrar",
+      "status": "finished",
+      "timestamp": 1771668000,
+      "results": [
+        {
+          "pos": 1,
+          "name": "Johannes Hösflot Kläbo",
+          "country": "Norge",
+          "time": "2:06:44.8",
+          "diff": "0.0"
+        },
+        {
+          "pos": 2,
+          "name": "Martin Löwström Nyenget",
+          "country": "Norge",
+          "time": "2:06:53.7",
+          "diff": "8.9"
+        },
+        {
+          "pos": 3,
+          "name": "Emil Iversen",
+          "country": "Norge",
+          "time": "2:07:15.5",
+          "diff": "30.7"
+        },
+        {
+          "pos": 9,
+          "name": "Gustaf Berglund",
+          "country": "Sverige",
+          "time": "2:11:58.5",
+          "diff": "5:13.7"
+        },
+        {
+          "pos": 24,
+          "name": "Calle Halfvarsson",
+          "country": "Sverige",
+          "time": "2:19:24.3",
+          "diff": "12:39.5"
+        },
+        {
+          "pos": 25,
+          "name": "Johan Häggström",
+          "country": "Sverige",
+          "time": "2:19:55.5",
+          "diff": "13:10.7"
+        }
+      ]
     }
   ]
 }

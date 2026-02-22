@@ -1015,5 +1015,14 @@
     "gold_result": "60",
     "silver_result": "40",
     "bronze_result": "20"
+  },
+  {
+    "event": "Freestyle Skiing – Women's Halfpipe",
+    "gold_winner": "Eileen Gu (CHN)",
+    "silver_winner": "Li Fanghui (CHN)",
+    "bronze_winner": "Zoe Atkin (GBR)",
+    "gold_result": "94.75",
+    "silver_result": "93.00",
+    "bronze_result": "92.50"
   }
 ]

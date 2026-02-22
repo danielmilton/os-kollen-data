@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-22T09:04:52.985872+00:00",
+  "scraped_at": "2026-02-22T11:50:07.929003+00:00",
   "matches": [
     {
       "type": "team",
@@ -2316,6 +2316,49 @@
           "time": "40:23.0",
           "diff": "3:04.9",
           "penalties": 5
+        }
+      ]
+    },
+    {
+      "type": "individual",
+      "sport": "Längdskidor",
+      "event": "Masstart klassisk damer",
+      "status": "finished",
+      "timestamp": 1771750800,
+      "results": [
+        {
+          "pos": 1,
+          "name": "Ebba Andersson",
+          "country": "Sverige",
+          "diff": "0.0"
+        },
+        {
+          "pos": 2,
+          "name": "Heidi Weng",
+          "country": "Norge",
+          "diff": "2:15.3"
+        },
+        {
+          "pos": 3,
+          "name": "Nadja Kälin",
+          "country": "Schweiz",
+          "diff": "6:41.5"
+        },
+        {
+          "pos": 10,
+          "name": "Emma Ribom",
+          "country": "Sverige",
+          "diff": "8:50.4"
+        },
+        {
+          "pos": 44,
+          "name": "Jonna Sundling",
+          "country": "Sverige"
+        },
+        {
+          "pos": 45,
+          "name": "Frida Karlsson",
+          "country": "Sverige"
         }
       ]
     }

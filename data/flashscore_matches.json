@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-22T12:02:07.175812+00:00",
+  "scraped_at": "2026-02-22T16:02:28.841587+00:00",
   "matches": [
     {
       "type": "team",
@@ -2365,6 +2365,19 @@
           "country": "Sverige"
         }
       ]
+    },
+    {
+      "type": "team",
+      "sport": "Ishockey",
+      "event": "Herrar",
+      "event_id": "GtDybvcn",
+      "home": "Kanada",
+      "away": "USA",
+      "home_score": 1,
+      "away_score": 2,
+      "status": "finished",
+      "timestamp": 1771765800,
+      "periods": "0-1, 1-0, 0-0"
     }
   ]
 }

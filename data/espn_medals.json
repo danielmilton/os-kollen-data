@@ -50,18 +50,18 @@
   {
     "country_name": "Sweden",
     "country_code": "SWE",
-    "gold": 7,
+    "gold": 8,
     "silver": 6,
     "bronze": 4,
-    "total": 17
+    "total": 18
   },
   {
     "country_name": "Switzerland",
     "country_code": "SUI",
     "gold": 6,
-    "silver": 8,
+    "silver": 9,
     "bronze": 8,
-    "total": 22
+    "total": 23
   },
   {
     "country_name": "Austria",

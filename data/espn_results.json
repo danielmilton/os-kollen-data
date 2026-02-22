@@ -865,11 +865,11 @@
   },
   {
     "event": "Curling – Men's",
-    "gold_winner": "Team Canada (CAN)",
-    "silver_winner": "Team Great Britain (GBR)",
+    "gold_winner": "Team Switzerland (SUI)",
+    "silver_winner": "Team Norway (NOR)",
     "bronze_winner": "",
     "gold_result": "9",
-    "silver_result": "6",
+    "silver_result": "1",
     "bronze_result": ""
   },
   {
@@ -1024,5 +1024,14 @@
     "gold_result": "94.75",
     "silver_result": "93.00",
     "bronze_result": "92.50"
+  },
+  {
+    "event": "Cross-Country Skiing – Women's 50km Mass Start",
+    "gold_winner": "Ebba Andersson (SWE)",
+    "silver_winner": "Heidi Weng (NOR)",
+    "bronze_winner": "Nadja Kaelin (SUI)",
+    "gold_result": "2:16:28.2",
+    "silver_result": "2:18:43.5",
+    "bronze_result": "2:23:09.7"
   }
 ]

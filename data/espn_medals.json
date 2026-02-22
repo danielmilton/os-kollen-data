@@ -56,14 +56,6 @@
     "total": 20
   },
   {
-    "country_name": "Canada",
-    "country_code": "CAN",
-    "gold": 6,
-    "silver": 7,
-    "bronze": 9,
-    "total": 22
-  },
-  {
     "country_name": "Sweden",
     "country_code": "SWE",
     "gold": 6,
@@ -88,12 +80,20 @@
     "total": 24
   },
   {
+    "country_name": "Canada",
+    "country_code": "CAN",
+    "gold": 5,
+    "silver": 6,
+    "bronze": 9,
+    "total": 20
+  },
+  {
     "country_name": "China",
     "country_code": "CHN",
-    "gold": 4,
-    "silver": 3,
+    "gold": 5,
+    "silver": 4,
     "bronze": 6,
-    "total": 13
+    "total": 15
   },
   {
     "country_name": "South Korea",

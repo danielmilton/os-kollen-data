@@ -928,8 +928,8 @@
   },
   {
     "event": "Ice Hockey – Men's Ice Hockey",
-    "gold_winner": "United States (USA)",
-    "silver_winner": "Canada (CAN)",
+    "gold_winner": "Finland (FIN)",
+    "silver_winner": "Slovakia (SVK)",
     "bronze_winner": "",
     "gold_result": "",
     "silver_result": "",
@@ -964,11 +964,11 @@
   },
   {
     "event": "Curling – Women's",
-    "gold_winner": "Team Sweden (SWE)",
-    "silver_winner": "Team Switzerland (SUI)",
+    "gold_winner": "Team Canada (CAN)",
+    "silver_winner": "Team United States (USA)",
     "bronze_winner": "",
-    "gold_result": "6",
-    "silver_result": "5",
+    "gold_result": "10",
+    "silver_result": "7",
     "bronze_result": ""
   },
   {

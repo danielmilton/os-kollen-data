@@ -8,6 +8,14 @@
     "image_url": "https://static.bonniernews.se/images/99/82/9982e1535b404a698f710b29b08ce83f/16x9/265@70.png"
   },
   {
+    "title": "Tar timeout efter pappans död",
+    "link": "https://www.aftonbladet.se/sportbladet/hockey/a/16568J/jon-cooper-tar-timeout-efter-pappans-dod?utm_medium=rss",
+    "source": "Aftonbladet",
+    "published_at": "2026-02-25T20:00:34+00:00",
+    "summary": "I sorg efter OS: ”Mina tankar och böner”",
+    "image_url": "https://images.aftonbladet-cdn.se/v2/images/34572604-d4e6-47d1-91bb-a3d2d624ff31?fit=crop&format=auto&h=500&q=50&w=1400&s=46df8e8b7ccb62cb8a5da7c414549fcdc01e0490"
+  },
+  {
     "title": "Ryska ishockeydomare stängs av – efter fylleskandal",
     "link": "https://www.expressen.se/sport/hockey/ryska-ishockeydomare-stangs-av-efter-fylleskandal/",
     "source": "Expressen",
@@ -53,7 +61,7 @@
     "source": "Aftonbladet",
     "published_at": "2026-02-25T16:47:13+00:00",
     "summary": "Stjärnan uppsatt på lista",
-    "image_url": "https://images.aftonbladet-cdn.se/v2/images/b41597b6-8bc5-463f-8e71-0fc8ea89af52?fit=crop&format=auto&h=500&q=50&w=1400&s=309b6416806e9e23466a9cb57303ad02518c5b90"
+    "image_url": "https://images.aftonbladet-cdn.se/v2/images/b41597b6-8bc5-463f-8e71-0fc8ea89af52?fit=crop&format=auto&h=788&q=50&tight=true&w=1400&s=f167dbcae71a2fba05df7be179ec483d8d9b43e5"
   },
   {
     "title": "700 miljoner kronor till svenska idrottsföreningar",
@@ -390,13 +398,5 @@
     "published_at": "2026-02-24T10:33:31+01:00",
     "summary": "Zlatan mot Lag Hasselborg?Det vill guldmedaljörerna se efter att storstjärnan fått upp ögon för sporten.– Han får komma och pröva, säger Agnes Knochenhauer.",
     "image_url": "https://static.bonniernews.se/images/0b/e5/0be51a6c58fd444f90f2b577595df6f8/16x9/265@70.png"
-  },
-  {
-    "title": "Lindsey Vonn har lämnat sjukhuset – tackar läkaren: ”Han räddade mig”",
-    "link": "https://www.svt.se/sport/alpint/lindsey-vonn-har-lamnat-sjukhuset-tackar-lakaren-han-raddade-mig",
-    "source": "SVT",
-    "published_at": "2026-02-23T16:17:53+01:00",
-    "summary": "Lindsey Vonn har lämnat sjukhuset efter skräckskadan i OS. Det berättar hon nu i en video på Instagram. – Doktor Tom Hackett räddade mitt ben från att amputeras, säger Vonn.",
-    "image_url": null
   }
 ]

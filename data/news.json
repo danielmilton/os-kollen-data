@@ -104,14 +104,6 @@
     "image_url": "https://images.aftonbladet-cdn.se/v2/images/945f6569-f8af-473f-ab6f-e74f2afe6009?fit=crop&format=auto&h=679&q=50&w=1900&s=01fd93fdf9671a5d91cc3f7bdbb0ef668d6a1832"
   },
   {
-    "title": "Damernas curling-VM 2026: TV-tider och spelschema",
-    "link": "https://www.svt.se/sport/curling/damernas-curling-vm-2026-tv-tider-och-spelschema",
-    "source": "SVT",
-    "published_at": "2026-02-25T18:36:39+01:00",
-    "summary": "Damernas curling-VM avgörs i Calgary, Kanada, från den 14 mars till den 22 mars. Sverige representeras av Lag Wranå med skippern Isabella Wranå i spetsen. Här får du bland annat information om SVT:s sändningstider.",
-    "image_url": null
-  },
-  {
     "title": "Svaret – efter \nhastiga sortin",
     "link": "https://www.aftonbladet.se/sportbladet/a/K8n8vM/alvar-myhlback-talar-ut-om-os-finns-inga-problem?utm_medium=rss",
     "source": "Aftonbladet",
@@ -166,6 +158,14 @@
     "published_at": "2026-02-20T09:04:46+00:00",
     "summary": "PLUS Så kan truppen se ut: ”Han kommer att bli fanbärare” ✓ Nya stjärnorna ✓ Femmorna",
     "image_url": "https://images.aftonbladet-cdn.se/v2/images/9c972427-4c6f-4770-9b8c-9c82e69826f3?fit=crop&format=auto&h=563&q=50&tight=true&w=1000&s=e9165e12f0fc99169498e120e1fdf4ebf0012965"
+  },
+  {
+    "title": "Damernas curling-VM 2026: TV-tider och spelschema",
+    "link": "https://www.svt.se/sport/curling/damernas-curling-vm-2026-tv-tider-och-spelschema",
+    "source": "SVT",
+    "published_at": "2026-02-25T18:36:39+01:00",
+    "summary": "Damernas curling-VM avgörs i Calgary, Kanada, från den 14 mars till den 22 mars. Sverige representeras av Lag Wranå med skippern Isabella Wranå i spetsen. Här får du bland annat information om SVT:s sändningstider.",
+    "image_url": null
   },
   {
     "title": "SVT:s OS-siffror – de lockade flest tittare",

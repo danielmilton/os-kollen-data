@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-02-27T22:57:53.301197+00:00",
+  "scraped_at": "2026-02-27T23:29:02.591913+00:00",
   "matches": [
     {
       "type": "team",
@@ -2348,6 +2348,36 @@
       "status": "finished",
       "timestamp": 1771765800,
       "periods": "0-1, 1-0, 0-0"
+    },
+    {
+      "type": "individual",
+      "sport": "Alpint",
+      "event": "Störtlopp herrar",
+      "status": "finished",
+      "timestamp": 1770460200,
+      "results": [
+        {
+          "pos": 1,
+          "name": "Frajo Von Almen",
+          "country": "Schweiz",
+          "time": "1:51.61",
+          "diff": "0.00"
+        },
+        {
+          "pos": 2,
+          "name": "Giovanni Franzoni",
+          "country": "Italien",
+          "time": "1:51.81",
+          "diff": "0.20"
+        },
+        {
+          "pos": 3,
+          "name": "Dominik Paris",
+          "country": "Italien",
+          "time": "1:52.11",
+          "diff": "0.50"
+        }
+      ]
     }
   ]
 }

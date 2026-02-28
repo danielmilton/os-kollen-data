@@ -28,7 +28,7 @@
     "link": "https://www.svt.se/sport/langdskidor/linn-svahns-nya-succe-i-falun",
     "source": "SVT",
     "published_at": "2026-02-28T17:00:53+01:00",
-    "summary": "OS-formen håller i sig. Linn Svahn var helt överlägsen i sprinten i Falun – efter ett jätteryck i finalen. – Det är så härligt att åka när allt funkar, säger hon.",
+    "summary": "OS-formen håller i sig. Linn Svahn tog hem sprinten i Falun – efter ett jätteryck i finalen. – Det är så härligt att åka när allt funkar, säger hon.",
     "image_url": null
   },
   {
@@ -38,14 +38,6 @@
     "published_at": "2026-02-28T16:42:03+00:00",
     "summary": "Bryter tystnaden om OS",
     "image_url": "https://images.aftonbladet-cdn.se/v2/images/64c29d59-62c5-40cf-99a3-62238528dd02?fit=crop&format=auto&h=1069&q=50&tight=true&w=1900&s=fa0c7816b493a06d6b694f31e9757d52a12dac4d"
-  },
-  {
-    "title": "Kaoset i Falun: Svenskan flyger in i reklamskylt",
-    "link": "https://www.expressen.se/sport/langdskidor/kaoset-i-falun-svenskan-flyger-in-i-reklamskylt/",
-    "source": "Expressen",
-    "published_at": "2026-02-28T16:35:11+01:00",
-    "summary": "Kraschkaos i Falun.Mängder av åkare har trillat under sprinttävlingarna.– Jag hade ingenstans att ta vägen, säger Lisa Ingesson.",
-    "image_url": "https://static.bonniernews.se/images/cb/59/cb5997de2153410c953a142a16cf6af4/16x9/265@70.png"
   },
   {
     "title": "Philip Lindkvist Flötten tar JVM-guld i skidskytte – första sedan 2002",
@@ -150,6 +142,14 @@
     "published_at": "2026-02-24T05:43:25+00:00",
     "summary": "PLUS Betyg på ALLA svenskar ✓ 15 sågas hårt",
     "image_url": "https://images.aftonbladet-cdn.se/v2/images/c6520df8-c8ae-43f1-beb4-4ec78117b230?fit=crop&format=auto&h=450&q=50&tight=true&w=800&s=9f9e5b3094aae3bb7ba0f081f8810e662f171857"
+  },
+  {
+    "title": "Kaoset i Falun: Svenskan flyger in i reklamskylt",
+    "link": "https://www.expressen.se/sport/langdskidor/kaoset-i-falun-svenskan-flyger-in-i-reklamskylt/",
+    "source": "Expressen",
+    "published_at": "2026-02-28T16:35:11+01:00",
+    "summary": "Kraschkaos i Falun.Mängder av åkare har trillat under sprinttävlingarna.– Jag hade ingenstans att ta vägen, säger Lisa Ingesson.",
+    "image_url": "https://static.bonniernews.se/images/cb/59/cb5997de2153410c953a142a16cf6af4/16x9/265@70.png"
   },
   {
     "title": "Analys: SHL-spelarna som gjorde succé mot OS-stjärnorna",

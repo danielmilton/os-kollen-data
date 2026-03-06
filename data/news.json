@@ -1,9 +1,17 @@
 [
   {
+    "title": "Här gör Ryssland entré på Paralympics-invigningen",
+    "link": "https://www.svt.se/sport/artikel/har-gor-ryssland-entre-pa-paralympics-invigningen",
+    "source": "SVT",
+    "published_at": "2026-03-06T22:37:39+01:00",
+    "summary": "Paralympics 2026 är invigt. För första gången sedan 2014 var Ryssland med – ett beslut som kritiserats från många håll. Förutom de deltagande ländernas olika entréer bjöd invigningen också på musik- och dansnummer, flera tal – och en hälsning från rymden.",
+    "image_url": null
+  },
+  {
     "title": "Ryssland dyker upp med flagga på invigningen",
     "link": "https://www.expressen.se/sport/ryssland-dyker-upp-med-flagga-pa-invigningen/",
     "source": "Expressen",
-    "published_at": "2026-03-06T21:40:28+01:00",
+    "published_at": "2026-03-06T22:31:06+01:00",
     "summary": "Ryssland äntrade med sin flagga vajande i luften. Scenerna från Paralympics väcker kraftig kritik. – Jag hoppas ryssarna får stryk i varenda gren, säger tidigare paralympiern David Lega (KD) till GP.",
     "image_url": "https://static.bonniernews.se/images/1a/51/1a51dc6017904185a48833037b114c22/16x9/265@70.jpg"
   },
@@ -22,14 +30,6 @@
     "published_at": "2026-03-06T19:19:55+01:00",
     "summary": "Anna Jönsson Haag kände oro hela OS.Nu är det Emil Jönssons Haags tur.– Kämpa säger jag bara, jag kommer hem snart, säger han och skrattar.",
     "image_url": "https://static.bonniernews.se/images/01/ff/01ffeeec98ef4ada8adb791ba94bef67/16x9/265@70.jpg"
-  },
-  {
-    "title": "Snowboardtalangen Malena Zamfirova allvarligt skadad",
-    "link": "https://www.expressen.se/sport/snowboardtalangen-malena-zamfirova-allvarligt-skadad/",
-    "source": "Expressen",
-    "published_at": "2026-03-06T18:50:30+01:00",
-    "summary": "Snowboardtalangen Malena Zamfirova, 16, är allvarligt skadad. OS-atleten blev påkörd av en berusad man under träning. – Hennes frakturer är extremt allvarliga, säger Bulgariens ungdoms- och idrottsminister Dimitar Iliev till BNT.",
-    "image_url": "https://static.bonniernews.se/images/04/49/0449409193994bec8c038bc15d43dd49/16x9/265@70.jpg"
   },
   {
     "title": "Eric Perrot fortsätter dominera i världscupen – vann direkt i Kontiolax",
@@ -110,6 +110,14 @@
     "published_at": "2026-03-05T09:32:02+00:00",
     "summary": "”Coolt om vi lyckades”",
     "image_url": "https://images.aftonbladet-cdn.se/v2/images/b59e5852-6a24-4ff7-9308-75c19939c96d?fit=crop&format=auto&h=280&q=50&w=800&s=303e91cc5fd88356efb226d9af91e9dc8b9b9177"
+  },
+  {
+    "title": "Snowboardtalangen Malena Zamfirova allvarligt skadad",
+    "link": "https://www.expressen.se/sport/snowboardtalangen-malena-zamfirova-allvarligt-skadad/",
+    "source": "Expressen",
+    "published_at": "2026-03-06T18:50:30+01:00",
+    "summary": "Snowboardtalangen Malena Zamfirova, 16, är allvarligt skadad. OS-atleten blev påkörd av en berusad man under träning. – Hennes frakturer är extremt allvarliga, säger Bulgariens ungdoms- och idrottsminister Dimitar Iliev till BNT.",
+    "image_url": "https://static.bonniernews.se/images/04/49/0449409193994bec8c038bc15d43dd49/16x9/265@70.jpg"
   },
   {
     "title": "Ebba Årsjö tävlar i alla alpina grenar i Paralympics",
@@ -390,13 +398,5 @@
     "published_at": "2026-02-18T11:44:00+01:00",
     "summary": "Ella Halvarsson drabbades av influensan över jul och har haft det svårt att komma tillbaka i form. Under OS har hon inte fått köra ett enda lopp. – Till en början var det väldigt tufft, säger hon.",
     "image_url": null
-  },
-  {
-    "title": "Sverige ”försvann” – nu lämnar han OS",
-    "link": "https://www.aftonbladet.se/sportbladet/a/aJ7QE5/sverige-missade-medaljilagsprint?utm_medium=rss",
-    "source": "Aftonbladet",
-    "published_at": "2026-02-18T11:34:58+00:00",
-    "summary": "”Panikkänsla”",
-    "image_url": "https://images.aftonbladet-cdn.se/v2/images/70dbeca7-fbe7-45a2-951a-38e2e3f93899?fit=crop&format=auto&h=450&q=50&tight=true&w=800&s=ca39fbfaceae50f33d6e8a8c39a57168b0904a1b"
   }
 ]

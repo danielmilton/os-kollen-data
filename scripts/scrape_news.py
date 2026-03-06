@@ -25,31 +25,31 @@ RSS_FEEDS = [
 ]
 
 OS_KEYWORDS = [
-    # OS-specifika termer (matchas mot lowercased text)
-    "os 2026", "os i ", "vinter-os", "olympiska", "olympiska spelen",
-    "olympics", "olympic", "milano cortina", "cortina", "milano",
-    "medaljhopp", "os-", "vinter-ol", "olympia", "vinterolympisk",
-    "cortina d'ampezzo",
+    # Paralympics-specifika termer
+    "paralympics", "paralympiska", "parasport", "para-",
+    "vinter-paralympics", "paralympics 2026",
+    # OS-termer som fortfarande kan vara relevanta
+    "milano cortina", "cortina", "milano",
+    "medaljhopp", "vinterolympisk", "cortina d'ampezzo",
     # Medaljer & tävling
     "medalj", "vintersport",
-    # Sporter
+    # Para-sporter
     "skidskytte", "biathlon",
     "längdskidor", "längdåkning", "langrenn",
-    "backhoppning", "backhopp",
     "alpint", "störtlopp", "slalom", "super-g",
-    "curling",
-    "ishockey",
-    "konståkning", "skridsko", "hastighetsåkning",
-    "snowboard", "freestyle",
-    "rodel", "skeleton", "bobsled",
-    "short track", "nordisk kombination",
-    # Svenska landslag
-    "tre kronor", "damkronorna",
+    "rullstolscurling", "curling",
+    "paraishockey", "kälkhockey", "sledge hockey",
+    "snowboard",
+    # Para-specifika termer
+    "funktionsnedsättning", "parasportförbundet",
+    "synskadade", "ledsagare",
+    # Svenska paralympier
+    "ebba årsjö", "zebastian modin", "aaron lindström",
+    "arvid skoglund", "viljo petersson",
 ]
 
-# Regex for uppercase "OS" as standalone word (Swedish for Olympiska Spelen)
-# Can't use lowercased text since "os" = "oss/us" in Swedish
-_OS_UPPER_RE = re.compile(r'\bOS\b')
+# Regex for uppercase words (OS, IPC, etc.)
+_UPPER_RE = re.compile(r'\b(OS|IPC|Paralympics)\b')
 
 USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
@@ -92,9 +92,9 @@ def is_os_relevant(title: str, summary: str = "") -> bool:
     text = (title + " " + (summary or "")).lower()
     if any(kw in text for kw in OS_KEYWORDS):
         return True
-    # Check for uppercase "OS" in original text (e.g. "i OS", "på OS", "OS-guld")
+    # Check for uppercase keywords in original text
     original = title + " " + (summary or "")
-    if _OS_UPPER_RE.search(original):
+    if _UPPER_RE.search(original):
         return True
     return False
 

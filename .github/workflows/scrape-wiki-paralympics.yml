@@ -1,0 +1,46 @@
+name: Scrape Wikipedia Paralympics
+
+on:
+  schedule:
+    - cron: '*/10 * * 3 *'  # Every 10 min, March only (Paralympics)
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run Wikipedia scraper
+        run: python scripts/scrape_wiki_paralympics.py
+
+      - name: Commit and push if changed
+        id: push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/wiki_medals.json data/wiki_results.json
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Update Wikipedia Paralympics data [bot]" && git pull --rebase && git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Push data to backend
+        if: steps.push.outputs.changed == 'true'
+        env:
+          INGEST_KEY: ${{ secrets.INGEST_KEY }}
+        run: |
+          jq -n --slurpfile m data/wiki_medals.json --slurpfile r data/wiki_results.json \
+            '{medals: $m[0], results: $r[0]}' | \
+            curl -sf -X POST https://oskollen.se/api/ingest/wiki \
+              -H "Content-Type: application/json" \
+              -H "X-Ingest-Key: $INGEST_KEY" -d @- || true

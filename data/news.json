@@ -1,9 +1,17 @@
 [
   {
+    "title": "Succé i Paralympicsdebuten: ”Inte så nervöst”",
+    "link": "https://www.svt.se/sport/curling/succe-i-paralympicsdebuten-inte-sa-nervost",
+    "source": "SVT",
+    "published_at": "2026-03-07T15:56:48+01:00",
+    "summary": "Sabina Johansson var reserv i curlingen under hela Paralympics i Peking 2022. Idag fick hon sina första minuter i premiären mot Norge. – Jättehärligt få vinna, säger hon till SVT sport.",
+    "image_url": null
+  },
+  {
     "title": "Svensken snuvad på medalj av ryss",
     "link": "https://www.expressen.se/sport/alpint/svensken-snuvad-pa-medalj-av-ryss/",
     "source": "Expressen",
-    "published_at": "2026-03-07T15:08:55+01:00",
+    "published_at": "2026-03-07T15:55:10+01:00",
     "summary": "Aaron Lindström gick mot sin första medalj i Paralympics.Då blev svensken slagen av ryssen Aleksei Bugaev.– Att tiondelarna inte är på min sida är supertrist, säger Lindström.",
     "image_url": "https://static.bonniernews.se/images/d1/7a/d17ad468ea1b4f7a96766c5212d34c66/16x9/265@70.jpg"
   },
@@ -85,7 +93,7 @@
     "source": "Aftonbladet",
     "published_at": "2026-03-06T17:43:06+00:00",
     "summary": "Säsongens sämsta insats",
-    "image_url": "https://images.aftonbladet-cdn.se/v2/images/54fb34d9-3c0e-458f-9c3b-37fffcbf596d?fit=crop&format=auto&h=280&q=50&w=800&s=7bfabe856b046b8bf62c04fe916453525c75de0b"
+    "image_url": "https://images.aftonbladet-cdn.se/v2/images/54fb34d9-3c0e-458f-9c3b-37fffcbf596d?fit=crop&format=auto&h=450&q=50&tight=true&w=800&s=2fc2cc9f8f19a7cf8f6374ec770645753bd796bd"
   },
   {
     "title": "Ebba Årsjö vinner guld i störtlopp",
@@ -390,13 +398,5 @@
     "published_at": "2026-02-18T14:56:30+00:00",
     "summary": "”Väldigt kul att köra i dag” • Rekordet inom räckhåll",
     "image_url": null
-  },
-  {
-    "title": "Spelarfruarna – så lever de under OS",
-    "link": "https://www.aftonbladet.se/sportbladet/hockey/a/m0r94p/sa-lever-spelarfruarna-tre-kronor-i-os-i-milano-2026?utm_medium=rss",
-    "source": "Aftonbladet",
-    "published_at": "2026-02-18T14:56:23+00:00",
-    "summary": "PLUS Familjepusslet i Milano: ”Jag hade inte varit bekväm att vara helt själv” ✓ Bildextra",
-    "image_url": "https://images.aftonbladet-cdn.se/v2/images/f2852b8e-97b7-42a0-9b4e-86457a462a29?fit=crop&format=auto&h=450&q=50&tight=true&w=800&s=49a3d401885b4cefceaac55a78f3f50a2dd25036"
   }
 ]

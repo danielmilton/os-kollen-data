@@ -1,19 +1,19 @@
 [
   {
+    "country_name": "Ukraine",
+    "country_code": "UKR",
+    "gold": 3,
+    "silver": 1,
+    "bronze": 2,
+    "total": 6
+  },
+  {
     "country_name": "China",
     "country_code": "CHN",
     "gold": 2,
     "silver": 2,
     "bronze": 2,
     "total": 6
-  },
-  {
-    "country_name": "Ukraine",
-    "country_code": "UKR",
-    "gold": 2,
-    "silver": 0,
-    "bronze": 1,
-    "total": 3
   },
   {
     "country_name": "Austria",

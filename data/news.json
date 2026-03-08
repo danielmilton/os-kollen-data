@@ -1,5 +1,13 @@
 [
   {
+    "title": "Svenska skippern bäst hittills: ”Killen är en klippa”",
+    "link": "https://www.svt.se/sport/curling/svenska-skippern-bast-hittills-killen-ar-en-klippa",
+    "source": "SVT",
+    "published_at": "2026-03-08T18:28:57+01:00",
+    "summary": "Sverige har tre raka segrar i rullstolscurlingen och imponerar. Inte minst skippern Viljo Pettersson Dahl som är klart bäst av alla på sin position hittills. – Killen är en klippa att ha där bak, säger lagkamraten Ronny Persson.",
+    "image_url": null
+  },
+  {
     "title": "Efter OS-succén – Sturla Holm Lägreid tog säsongens första seger",
     "link": "https://www.svt.se/sport/skidskytte/efter-os-succen-sturla-holm-lagreid-tog-sasongens-forsta-seger",
     "source": "SVT",
@@ -56,20 +64,20 @@
     "image_url": null
   },
   {
-    "title": "OS-hjälten Jack Hughes gjorde hattrick mot New York Rangers",
-    "link": "https://www.svt.se/sport/ishockey/os-hjalten-jack-hughes-gjorde-hattrick-mot-new-york-rangers",
-    "source": "SVT",
-    "published_at": "2026-03-08T08:23:16+01:00",
-    "summary": "Jack Hughes, 24, avgjorde OS-finalen mot Kanada. I mötet med New York Rangers bjöd amerikanen på ett hattrick. – Jag njuter av att spela såna här matcher, säger han efter New Jersey Devils seger.",
-    "image_url": null
-  },
-  {
     "title": "OS-guldhjältens succé fortsätter",
     "link": "https://www.aftonbladet.se/sportbladet/hockey/a/zOEW5w/os-guldhjaltens-succe-fortsatter?utm_medium=rss",
     "source": "Aftonbladet",
     "published_at": "2026-03-08T06:33:42+00:00",
     "summary": "Skjuter skarpt även på hemmaplan",
     "image_url": "https://images.aftonbladet-cdn.se/v2/images/b6e49604-c123-42a6-98c3-3b7ba936d2c2?fit=crop&format=auto&h=280&q=50&w=800&s=b32fda326da16cdd33f4a6c5b9bbb0d3f4f8f27c"
+  },
+  {
+    "title": "OS-hjälten Jack Hughes gjorde hattrick mot New York Rangers",
+    "link": "https://www.svt.se/sport/ishockey/os-hjalten-jack-hughes-gjorde-hattrick-mot-new-york-rangers",
+    "source": "SVT",
+    "published_at": "2026-03-08T08:23:16+01:00",
+    "summary": "Jack Hughes, 24, avgjorde OS-finalen mot Kanada. I mötet med New York Rangers bjöd amerikanen på ett hattrick. – Jag njuter av att spela såna här matcher, säger han efter New Jersey Devils seger.",
+    "image_url": null
   },
   {
     "title": "Jack Hughes succé – hattrick mot ärkerivalen Rangers",
@@ -390,13 +398,5 @@
     "published_at": "2026-02-18T21:11:37+01:00",
     "summary": "Allt måste stämma för Tre Kronor mot USA.Offensiven, försvarsspelet, disciplinen – och William Nylanders handskar.– De byts varje timeout, säger Tre Kronor-stjärnan om udda matchvanan.",
     "image_url": "https://static.bonniernews.se/images/6d/ac/6dac0a085c9d4ef482051af1583880fb/16x9/265@70.jpg"
-  },
-  {
-    "title": "Finland vidare i OS efter vändning",
-    "link": "https://www.expressen.se/sport/os/finland-vidare-i-os-efter-vandning/",
-    "source": "Expressen",
-    "published_at": "2026-02-18T20:40:21+01:00",
-    "summary": "Kvartsfinalen blev en rysare.Finland är vidare efter övertidsseger mot Schweiz.Det efter en sen upphämtning i tredje perioden.",
-    "image_url": null
   }
 ]

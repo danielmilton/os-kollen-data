@@ -2,10 +2,10 @@
   {
     "country_name": "China",
     "country_code": "CHN",
-    "gold": 3,
-    "silver": 4,
-    "bronze": 2,
-    "total": 9
+    "gold": 6,
+    "silver": 5,
+    "bronze": 3,
+    "total": 14
   },
   {
     "country_name": "Ukraine",
@@ -27,37 +27,61 @@
     "country_name": "Canada",
     "country_code": "CAN",
     "gold": 1,
-    "silver": 2,
+    "silver": 3,
+    "bronze": 2,
+    "total": 6
+  },
+  {
+    "country_name": "United States",
+    "country_code": "USA",
+    "gold": 1,
+    "silver": 3,
     "bronze": 1,
-    "total": 4
+    "total": 5
+  },
+  {
+    "country_name": "France",
+    "country_code": "FRA",
+    "gold": 1,
+    "silver": 2,
+    "bronze": 0,
+    "total": 3
   },
   {
     "country_name": "Germany",
     "country_code": "GER",
     "gold": 1,
     "silver": 1,
-    "bronze": 3,
-    "total": 5
+    "bronze": 4,
+    "total": 6
   },
   {
-    "country_name": "United States",
-    "country_code": "USA",
+    "country_name": "Italy",
+    "country_code": "ITA",
     "gold": 1,
     "silver": 1,
     "bronze": 1,
     "total": 3
   },
   {
-    "country_name": "Norway",
-    "country_code": "NOR",
-    "gold": 1,
-    "silver": 0,
-    "bronze": 0,
-    "total": 1
-  },
-  {
     "country_name": "South Korea",
     "country_code": "KOR",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "country_name": "Switzerland",
+    "country_code": "SUI",
+    "gold": 1,
+    "silver": 0,
+    "bronze": 1,
+    "total": 2
+  },
+  {
+    "country_name": "Norway",
+    "country_code": "NOR",
     "gold": 1,
     "silver": 0,
     "bronze": 0,
@@ -72,28 +96,12 @@
     "total": 1
   },
   {
-    "country_name": "Switzerland",
-    "country_code": "SUI",
-    "gold": 1,
-    "silver": 0,
-    "bronze": 0,
-    "total": 1
-  },
-  {
-    "country_name": "France",
-    "country_code": "FRA",
-    "gold": 0,
-    "silver": 2,
-    "bronze": 0,
-    "total": 2
-  },
-  {
-    "country_name": "Italy",
-    "country_code": "ITA",
+    "country_name": "Australia",
+    "country_code": "AUS",
     "gold": 0,
     "silver": 1,
-    "bronze": 1,
-    "total": 2
+    "bronze": 0,
+    "total": 1
   },
   {
     "country_name": "Czech Republic",

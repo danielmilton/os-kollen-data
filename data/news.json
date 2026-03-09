@@ -3,9 +3,17 @@
     "title": "Kommer aldrig veta hur smutsigt det är",
     "link": "https://www.expressen.se/sport/kronikorer/vendela-ogren/kommer-aldrig-veta-hur-smutsigt-det-ar-/",
     "source": "Expressen",
-    "published_at": "2026-03-09T16:17:40+01:00",
+    "published_at": "2026-03-09T17:08:45+01:00",
     "summary": "Ebba Årsjö tvingas lyssna på den ryska nationalsången.Men det stannar inte där. Det finns fler anledningar att undra hur smutsigt Paralympics faktiskt är.",
     "image_url": "https://static.bonniernews.se/images/a7/ab/a7abbca9c2cd4e7dbb4ea964830e3edc/16x9/265@70.jpg"
+  },
+  {
+    "title": "Edvin Anger avslutar säsongen: ”Tyvärr”",
+    "link": "https://www.svt.se/sport/langdskidor/edvin-anger-vc6yp2",
+    "source": "SVT",
+    "published_at": "2026-03-09T16:41:38+01:00",
+    "summary": "Edvin Anger har legat lågt sedan OS på grund av sjukdom. Och så kommer det fortsätta – världscupsäsongen ut. – Det blir ingen mer världscup för mig i år, säger han till Södra Dalarnes Tidning.",
+    "image_url": null
   },
   {
     "title": "Förbundskaptenens besked om Aaron Lindström: ”Kraftig hjärnskakning”",
@@ -56,14 +64,6 @@
     "image_url": null
   },
   {
-    "title": "Svensken i skräckolycka –  otäcka bilderna i Paralympics",
-    "link": "https://www.expressen.se/sport/alpint/svensken-i-skrackolycka-otacka-bilderna-i-paralympics/",
-    "source": "Expressen",
-    "published_at": "2026-03-09T11:49:37+01:00",
-    "summary": "Medaljhoppet Aaron Lindström, 25, kraschade otäckt i Paralympics.Efter undersökning står det klart att svensken punkterat lungan.– Nu ska man hålla koll så att det inte blir värre, säger förbundskapten Joel Åkerström till Expressen.",
-    "image_url": "https://static.bonniernews.se/images/95/eb/95ebf0d45d4b43eeb384ec0d8bf644b6/16x9/265@70.png"
-  },
-  {
     "title": "Aaron Lindström kraschade otäckt i Paralympics super-G",
     "link": "https://www.svt.se/sport/parasport/aaron-lindstrom-kraschade-i-paralympics-super-g",
     "source": "SVT",
@@ -72,28 +72,12 @@
     "image_url": null
   },
   {
-    "title": "Ebba Årsjös succé – tar ny medalj i Paralympics",
-    "link": "https://www.expressen.se/sport/alpint/ebba-arsjos-succe-tar-ny-medalj-i-paralympics/",
-    "source": "Expressen",
-    "published_at": "2026-03-09T10:35:55+01:00",
-    "summary": "Brons till Ebba Årsjö, 25, i super-G.Framför henne tog Varvara Voronchikhina hem guldet till Ryssland.– Jag är inte ensam där om att känna de känslorna, säger Årsjö om att höra den ryska nationalsången.",
-    "image_url": "https://static.bonniernews.se/images/92/dc/92dcda1234714a6095a25507e5613867/16x9/265@70.png"
-  },
-  {
     "title": "Paralympics-brons till Ebba Årsjö i super-G – slagen av ryska",
     "link": "https://www.svt.se/sport/parasport/paralympics-brons-till-ebba-arsjo-i-super-g-slagen-av-ryska",
     "source": "SVT",
     "published_at": "2026-03-09T09:40:57+01:00",
     "summary": "Ryskan Varvara Voronchikhina snuvade Ebba Årsjö på Paralympics-guldet i super-G. Svenskan fick nöja sig med ett brons – och var rejält besviken efteråt. – Jag kände: ”Vad är det här?”, säger Årsjö till SVT Sport.",
     "image_url": null
-  },
-  {
-    "title": "Kanadensiska ”fusklaget” missar curling-VM",
-    "link": "https://www.expressen.se/sport/kanadensiska-fusklaget-missar-curling-vm/",
-    "source": "Expressen",
-    "published_at": "2026-03-09T09:37:05+01:00",
-    "summary": "Såg ni fram emot att se fuskanklagade OS-guldmedaljörer på curling-VM?Tänk om.Det kanadensiska OS-laget missar mästerskapet.",
-    "image_url": "https://static.bonniernews.se/images/49/b5/49b5142c9d55477380798e295f6ca748/16x9/265@70.png"
   },
   {
     "title": "Kanadas ”fuskande” curlinglag missar VM: ”Glad det är över”",
@@ -126,6 +110,30 @@
     "published_at": "2026-03-08T22:36:38+01:00",
     "summary": "Jean-Marc Chabloz framtid i det svenska landslaget är osäker. Skyttetränaren har ett utgående kontrakt – och bekräftar att han har fått ett erbjudande från ett annat lag. – Mitt skidskyttehjärta slår för Sverige, säger han till SVT Sport.",
     "image_url": null
+  },
+  {
+    "title": "Svensken i skräckolycka –  otäcka bilderna i Paralympics",
+    "link": "https://www.expressen.se/sport/alpint/svensken-i-skrackolycka-otacka-bilderna-i-paralympics/",
+    "source": "Expressen",
+    "published_at": "2026-03-09T11:49:37+01:00",
+    "summary": "Medaljhoppet Aaron Lindström, 25, kraschade otäckt i Paralympics.Efter undersökning står det klart att svensken punkterat lungan.– Nu ska man hålla koll så att det inte blir värre, säger förbundskapten Joel Åkerström till Expressen.",
+    "image_url": "https://static.bonniernews.se/images/95/eb/95ebf0d45d4b43eeb384ec0d8bf644b6/16x9/265@70.png"
+  },
+  {
+    "title": "Ebba Årsjös succé – tar ny medalj i Paralympics",
+    "link": "https://www.expressen.se/sport/alpint/ebba-arsjos-succe-tar-ny-medalj-i-paralympics/",
+    "source": "Expressen",
+    "published_at": "2026-03-09T10:35:55+01:00",
+    "summary": "Brons till Ebba Årsjö, 25, i super-G.Framför henne tog Varvara Voronchikhina hem guldet till Ryssland.– Jag är inte ensam där om att känna de känslorna, säger Årsjö om att höra den ryska nationalsången.",
+    "image_url": "https://static.bonniernews.se/images/92/dc/92dcda1234714a6095a25507e5613867/16x9/265@70.png"
+  },
+  {
+    "title": "Kanadensiska ”fusklaget” missar curling-VM",
+    "link": "https://www.expressen.se/sport/kanadensiska-fusklaget-missar-curling-vm/",
+    "source": "Expressen",
+    "published_at": "2026-03-09T09:37:05+01:00",
+    "summary": "Såg ni fram emot att se fuskanklagade OS-guldmedaljörer på curling-VM?Tänk om.Det kanadensiska OS-laget missar mästerskapet.",
+    "image_url": "https://static.bonniernews.se/images/49/b5/49b5142c9d55477380798e295f6ca748/16x9/265@70.png"
   },
   {
     "title": "Svenska skippern bäst hittills: ”Killen är en klippa”",
@@ -390,13 +398,5 @@
     "published_at": "2026-03-07T11:29:26+01:00",
     "summary": "Ebba Årsjö, 25, tar guld direkt.Efter succén i störtloppet bubblar känslorna över.– Nu blir jag emotionell igen, jag blir det varje gång jag säger det, säger hon och avslöjar dramat före start.",
     "image_url": "https://static.bonniernews.se/images/2e/f4/2ef41a8306ca468abdf0f86eff678895/16x9/265@70.png"
-  },
-  {
-    "title": "Här gör Ryssland entré på Paralympics-invigningen",
-    "link": "https://www.svt.se/sport/artikel/har-gor-ryssland-entre-pa-paralympics-invigningen",
-    "source": "SVT",
-    "published_at": "2026-03-06T22:37:39+01:00",
-    "summary": "Paralympics 2026 är invigt. För första gången sedan 2014 var Ryssland med – ett beslut som kritiserats från många håll. Förutom de deltagande ländernas olika entréer bjöd invigningen också på musik- och dansnummer, flera tal – och en hälsning från rymden.",
-    "image_url": null
   }
 ]

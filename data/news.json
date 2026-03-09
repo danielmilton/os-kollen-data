@@ -48,14 +48,6 @@
     "image_url": null
   },
   {
-    "title": "Finska tränaren får lämna jobbet efter fylleskandalen på OS",
-    "link": "https://www.expressen.se/sport/alpint/finska-tranaren-far-lamna-jobbet-efter-fylleskandalen-pa-os/",
-    "source": "Expressen",
-    "published_at": "2026-03-09T15:07:29+01:00",
-    "summary": "En fylleskandal skakade det finska landslaget under OS.Nu får den skyldige tränaren Igor Medved lämna sitt uppdrag, enligt Yle.– Jag tror att det här var ganska efterlängtat, säger experten Janne Ahonen.",
-    "image_url": "https://static.bonniernews.se/images/5b/f4/5bf4505be47849c288f8ad07602d7bfc/16x9/265@70.jpg"
-  },
-  {
     "title": "Får sparken efter finska skandalen",
     "link": "https://www.aftonbladet.se/sportbladet/a/m0P690/finlands-backhoppningstranare-far-sparken-efter-fylleskandalen-i-os?utm_medium=rss",
     "source": "Aftonbladet",
@@ -96,20 +88,28 @@
     "image_url": null
   },
   {
-    "title": "Kanadas ”fuskande” curlinglag missar VM: ”Glad det är över”",
-    "link": "https://www.svt.se/sport/curling/kanadas-fuskande-curlinglag-missar-vm",
-    "source": "SVT",
-    "published_at": "2026-03-09T07:18:47+01:00",
-    "summary": "De fångades av SVT:s kameror under OS och anklagades för fusk. Nu missar Kanadas Lag Brad Jacobs VM. I helgen föll man i de kanadensiska mästerskapen.",
-    "image_url": null
-  },
-  {
     "title": "”Blivit svårare att träna med henne...”",
     "link": "https://www.aftonbladet.se/sportbladet/a/ln32Le/isabella-wranas-liv-efter-os-guldet-har-varit-galet?utm_medium=rss",
     "source": "Aftonbladet",
     "published_at": "2026-03-08T23:00:34+00:00",
     "summary": "Hysteri efter OS-succén",
     "image_url": "https://images.aftonbladet-cdn.se/v2/images/bc8f71e4-ede4-4853-8c92-3f5feb630851?fit=crop&format=auto&h=747&q=50&w=1900&s=c11722a8626b904f30a4cb6341cb3933c9f65410"
+  },
+  {
+    "title": "Finska tränaren får lämna jobbet efter fylleskandalen på OS",
+    "link": "https://www.expressen.se/sport/alpint/finska-tranaren-far-lamna-jobbet-efter-fylleskandalen-pa-os/",
+    "source": "Expressen",
+    "published_at": "2026-03-09T15:07:29+01:00",
+    "summary": "En fylleskandal skakade det finska landslaget under OS.Nu får den skyldige tränaren Igor Medved lämna sitt uppdrag, enligt Yle.– Jag tror att det här var ganska efterlängtat, säger experten Janne Ahonen.",
+    "image_url": "https://static.bonniernews.se/images/5b/f4/5bf4505be47849c288f8ad07602d7bfc/16x9/265@70.jpg"
+  },
+  {
+    "title": "Kanadas ”fuskande” curlinglag missar VM: ”Glad det är över”",
+    "link": "https://www.svt.se/sport/curling/kanadas-fuskande-curlinglag-missar-vm",
+    "source": "SVT",
+    "published_at": "2026-03-09T07:18:47+01:00",
+    "summary": "De fångades av SVT:s kameror under OS och anklagades för fusk. Nu missar Kanadas Lag Brad Jacobs VM. I helgen föll man i de kanadensiska mästerskapen.",
+    "image_url": null
   },
   {
     "title": "Kronprinsessan Victorias tysta protest mot Putin: ”Håller sig undan flaggor”",

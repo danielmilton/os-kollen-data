@@ -2,10 +2,10 @@
   {
     "country_name": "China",
     "country_code": "CHN",
-    "gold": 9,
+    "gold": 10,
     "silver": 7,
     "bronze": 9,
-    "total": 25
+    "total": 26
   },
   {
     "country_name": "United States",
@@ -115,9 +115,9 @@
     "country_name": "South Korea",
     "country_code": "KOR",
     "gold": 1,
-    "silver": 2,
+    "silver": 3,
     "bronze": 1,
-    "total": 4
+    "total": 5
   },
   {
     "country_name": "Belarus",

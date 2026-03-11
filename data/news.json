@@ -9,7 +9,7 @@
   },
   {
     "title": "Marcus Holm gör sitt åttonde Paralympics",
-    "link": "https://www.svt.se/sport/curling/marcus-holm-gor-sitt-attonde-paralympics",
+    "link": "https://www.svt.se/sport/parasport/marcus-holm-gor-sitt-attonde-paralympics",
     "source": "SVT",
     "published_at": "2026-03-10T18:27:29+01:00",
     "summary": "1994 tävlade Marcus Holm för första gången i Paralympics. Nu är han på plats i Italien och gör sitt åttonde. – Det är fortfarande lika roligt ,säger curlingspelaren.",
@@ -25,7 +25,7 @@
   },
   {
     "title": "Aaron Lindström fortsatt under behandling efter kraschen: ”Dag till dag”",
-    "link": "https://www.svt.se/sport/alpint/aaron-lindstrom-fortsatt-under-behandling-efter-kraschen-dag-till-dag",
+    "link": "https://www.svt.se/sport/parasport/aaron-lindstrom-fortsatt-under-behandling-efter-kraschen-dag-till-dag",
     "source": "SVT",
     "published_at": "2026-03-10T16:40:54+01:00",
     "summary": "Aaron Lindström ådrog sig en kraftig hjärnskakning och en punkterad lunga i sin otäcka krasch i herrarnas super-G. Skador som han fortsatt behandlas för på sjukhus. – Han mår bra nu men lungpunkteringen har blivit lite värre, säger landslagsläkaren Jari Havela till SVT Sport.",
@@ -62,6 +62,22 @@
     "published_at": "2026-03-09T13:23:24+00:00",
     "summary": "Skickades hem från OS",
     "image_url": "https://images.aftonbladet-cdn.se/v2/images/b1a20d8a-cf0c-41cb-806e-e5708112035b?fit=crop&format=auto&h=714&q=50&w=1874&s=d1efac1dcb16a55f3d55e5d90e24dbd4625bab74"
+  },
+  {
+    "title": "Marcus Holm gör sitt åttonde Paralympics",
+    "link": "https://www.svt.se/sport/curling/marcus-holm-gor-sitt-attonde-paralympics",
+    "source": "SVT",
+    "published_at": "2026-03-10T18:27:29+01:00",
+    "summary": "1994 tävlade Marcus Holm för första gången i Paralympics. Nu är han på plats i Italien och gör sitt åttonde. – Det är fortfarande lika roligt ,säger curlingspelaren.",
+    "image_url": null
+  },
+  {
+    "title": "Aaron Lindström fortsatt under behandling efter kraschen: ”Dag till dag”",
+    "link": "https://www.svt.se/sport/alpint/aaron-lindstrom-fortsatt-under-behandling-efter-kraschen-dag-till-dag",
+    "source": "SVT",
+    "published_at": "2026-03-10T16:40:54+01:00",
+    "summary": "Aaron Lindström ådrog sig en kraftig hjärnskakning och en punkterad lunga i sin otäcka krasch i herrarnas super-G. Skador som han fortsatt behandlas för på sjukhus. – Han mår bra nu men lungpunkteringen har blivit lite värre, säger landslagsläkaren Jari Havela till SVT Sport.",
+    "image_url": null
   },
   {
     "title": "Lars Frölander höll skilsmässan hemlig",
@@ -382,21 +398,5 @@
     "published_at": "2026-03-08T07:25:28+01:00",
     "summary": "LOS ANGELES. Sjunde raka förlusten.Hockeyfansen i Toronto tar sig för pannan.Och låter buropen skalla i Scotiabank Arena.Maple Leafs har inte vunnit en match sedan omstarten i NHL efter OS-uppehållet.I natt, svensk tid, föll man med 2-5 mot Tampa Bay Lightning.",
     "image_url": "https://static.bonniernews.se/images/ad/be/adbee0b4f7104d58962fe94152b7bac4/16x9/265@70.jpg"
-  },
-  {
-    "title": "SVT-experten avslöjar spelet bakom ”fällan”",
-    "link": "https://www.expressen.se/sport/svt-experten-avslojar-spelet-bakom-fallan/",
-    "source": "Expressen",
-    "published_at": "2026-03-08T07:16:08+01:00",
-    "summary": "Eva Lund, 54, hamnade mitt i OS största snackis.Nu avslöjar hon spelet bakom sin roll i det omtalade fuskbråket.– Det är ingen komplott, säger SVT-experten.",
-    "image_url": "https://static.bonniernews.se/images/a8/75/a8757f519d3d42238af190218183671b/16x9/265@70.png"
-  },
-  {
-    "title": "William Poromaa funderade på att avsluta säsongen efter OS",
-    "link": "https://www.svt.se/sport/langdskidor/william-poromaa-funderade-pa-att-avsluta-sasongen-efter-os",
-    "source": "SVT",
-    "published_at": "2026-03-07T22:25:55+01:00",
-    "summary": "OS blev en besvikelse för William Poromaa. Efteråt funderade han på att avsluta säsongen. – Det har varit många tankar, säger han till SVT Sport.",
-    "image_url": null
   }
 ]

@@ -190,5 +190,13 @@
     "silver": 0,
     "bronze": 1,
     "total": 1
+  },
+  {
+    "country_name": "Latvia",
+    "country_code": "LAT",
+    "gold": 0,
+    "silver": 0,
+    "bronze": 1,
+    "total": 1
   }
 ]

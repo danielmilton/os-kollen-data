@@ -1,5 +1,13 @@
 [
   {
+    "title": "Johannes Lukas: ”Vi ska inte ta den lätta vägen utan den bästa vägen",
+    "link": "https://www.svt.se/sport/skidskytte/johannes-lukas-vi-ska-inte-ta-den-latta-vagen-utan-den-basta-vagen",
+    "source": "SVT",
+    "published_at": "2026-03-11T21:09:28+01:00",
+    "summary": "Johannes Lukas har skrivit på för fyra år till som huvudtränare för det svenska skidskyttelandslaget. – Vi ska inte ta den lätta vägen utan den bästa vägen, säger Lukas om framtiden till SVT Sport.",
+    "image_url": null
+  },
+  {
     "title": "Finländske silvermedaljörens taktik förvånar: ”Galenskap”",
     "link": "https://www.svt.se/sport/langdskidor/finlandske-silvermedaljorens-taktik-forvanar-galenskap",
     "source": "SVT",
@@ -56,22 +64,6 @@
     "image_url": null
   },
   {
-    "title": "Uppgifter: Intern spricka i Tre Kronor under OS",
-    "link": "https://www.expressen.se/sport/hockey/tre-kronor/uppgifter-intern-spricka-i-tre-kronor-under-os/",
-    "source": "Expressen",
-    "published_at": "2026-03-11T15:31:03+01:00",
-    "summary": "Det blev ingen OS-medalj för Tre Kronor.Enligt källor till Hockeynews pekar nu en utvärdering på interna sprickor och öppna konflikter i laget under turneringen.",
-    "image_url": "https://static.bonniernews.se/images/9b/1b/9b1b42d0840d40e8a1e49862ee1b778f/16x9/265@70.png"
-  },
-  {
-    "title": "Zebastian Modin tar nytt brons i Paralympics",
-    "link": "https://www.expressen.se/sport/langdskidor/zebastian-modin-tar-nytt-brons-pa-paralympics/",
-    "source": "Expressen",
-    "published_at": "2026-03-11T14:50:44+01:00",
-    "summary": "Ny Paralympics-medalj till Zebastian Modin. Återigen åkte svensken hem ett brons – efter ett tiondelsdrama. – Det var hemska förhållanden, säger Modin till SVT.",
-    "image_url": "https://static.bonniernews.se/images/64/e6/64e60b6ae37d4dafa51222a532004002/16x9/265@70.jpg"
-  },
-  {
     "title": "Zebastian Modin tar Paralympics-brons efter galen sekundstrid",
     "link": "https://www.svt.se/sport/langdskidor/zebastian-modin-tar-paralympics-brons-efter-galen-sekundstrid",
     "source": "SVT",
@@ -102,6 +94,22 @@
     "published_at": "2026-03-10T13:08:36+00:00",
     "summary": "Bäst genom tiderna",
     "image_url": "https://images.aftonbladet-cdn.se/v2/images/37c4ad8d-8783-4a03-a5f2-ebfaabd2c4e1?fit=crop&format=auto&h=711&q=50&w=1869&s=d0236001bc2c0f8cf49e54344e1ddfd3c2faf56c"
+  },
+  {
+    "title": "Uppgifter: Intern spricka i Tre Kronor under OS",
+    "link": "https://www.expressen.se/sport/hockey/tre-kronor/uppgifter-intern-spricka-i-tre-kronor-under-os/",
+    "source": "Expressen",
+    "published_at": "2026-03-11T15:31:03+01:00",
+    "summary": "Det blev ingen OS-medalj för Tre Kronor.Enligt källor till Hockeynews pekar nu en utvärdering på interna sprickor och öppna konflikter i laget under turneringen.",
+    "image_url": "https://static.bonniernews.se/images/9b/1b/9b1b42d0840d40e8a1e49862ee1b778f/16x9/265@70.png"
+  },
+  {
+    "title": "Zebastian Modin tar nytt brons i Paralympics",
+    "link": "https://www.expressen.se/sport/langdskidor/zebastian-modin-tar-nytt-brons-pa-paralympics/",
+    "source": "Expressen",
+    "published_at": "2026-03-11T14:50:44+01:00",
+    "summary": "Ny Paralympics-medalj till Zebastian Modin. Återigen åkte svensken hem ett brons – efter ett tiondelsdrama. – Det var hemska förhållanden, säger Modin till SVT.",
+    "image_url": "https://static.bonniernews.se/images/64/e6/64e60b6ae37d4dafa51222a532004002/16x9/265@70.jpg"
   },
   {
     "title": "Katie Uhlaender lägger av efter fuskbråket med Kanada",
@@ -390,13 +398,5 @@
     "published_at": "2026-03-09T11:49:37+01:00",
     "summary": "Medaljhoppet Aaron Lindström, 25, kraschade otäckt i Paralympics.Efter undersökning står det klart att svensken punkterat lungan.– Nu ska man hålla koll så att det inte blir värre, säger förbundskapten Joel Åkerström till Expressen.",
     "image_url": "https://static.bonniernews.se/images/95/eb/95ebf0d45d4b43eeb384ec0d8bf644b6/16x9/265@70.png"
-  },
-  {
-    "title": "Ebba Årsjös succé – tar ny medalj i Paralympics",
-    "link": "https://www.expressen.se/sport/alpint/ebba-arsjos-succe-tar-ny-medalj-i-paralympics/",
-    "source": "Expressen",
-    "published_at": "2026-03-09T10:35:55+01:00",
-    "summary": "Brons till Ebba Årsjö, 25, i super-G.Framför henne tog Varvara Voronchikhina hem guldet till Ryssland.– Jag är inte ensam där om att känna de känslorna, säger Årsjö om att höra den ryska nationalsången.",
-    "image_url": "https://static.bonniernews.se/images/92/dc/92dcda1234714a6095a25507e5613867/16x9/265@70.png"
   }
 ]

@@ -18,10 +18,10 @@
   {
     "country_name": "Austria",
     "country_code": "AUT",
-    "gold": 4,
+    "gold": 5,
     "silver": 1,
-    "bronze": 3,
-    "total": 8
+    "bronze": 4,
+    "total": 10
   },
   {
     "country_name": "Russia",
@@ -35,9 +35,9 @@
     "country_name": "Italy",
     "country_code": "ITA",
     "gold": 3,
-    "silver": 5,
+    "silver": 6,
     "bronze": 1,
-    "total": 9
+    "total": 10
   },
   {
     "country_name": "France",

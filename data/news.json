@@ -1,10 +1,18 @@
 [
   {
+    "title": "Patrick Halgren efter kaoset i Paralympics: ”Jag är en viking från Småland”",
+    "link": "https://www.svt.se/sport/alpint/patrick-halgren-efter-kaoset-i-paralympics-jag-ar-en-viking-fran-smaland",
+    "source": "SVT",
+    "published_at": "2026-03-13T19:33:38+01:00",
+    "summary": "Herrarnas storslalom i Paralympics bjöd på minst sagt stökiga scener. 24 av 97 startande körde ur – och en av de var amerikanen Patrick Halgren, som har svensk rötter. – Det är lätt för mig, jag är så stark. Jag är en viking från Småland, säger Halgren, som inte hade något emot att köra ur.",
+    "image_url": null
+  },
+  {
     "title": "Bryter mot oskrivna regeln gång på gång: ”Fruktansvärt arg”",
     "link": "https://www.expressen.se/sport/hander-igen-och-igen-fruktansvart-arg/",
     "source": "Expressen",
-    "published_at": "2026-03-13T18:46:14+01:00",
-    "summary": "Ryssland uppges ha väntat ut Peking-OS.USA hann fira OS-guld i hockeyn innan bomberna regnade över Iran.– När det kommer till Paralympics så spelar det ingen roll – gör mig fruktansvärt arg, säger Åsa Llinares Norlin ordförande för Sveriges Paralympiska Kommittén.",
+    "published_at": "2026-03-13T19:01:29+01:00",
+    "summary": "Ryssland uppges ha väntat ut Peking-OS.USA hann fira OS-guld i hockey innan bomberna regnade över Iran.– När det kommer till Paralympics så spelar det ingen roll – gör mig fruktansvärt arg, säger Åsa Llinares Norlin ordförande för Sveriges Paralympiska Kommittén.",
     "image_url": "https://static.bonniernews.se/images/9a/ed/9aedd5e9a8d74eca8ac32f9ae25591d2/16x9/265@70.png"
   },
   {
@@ -48,14 +56,6 @@
     "image_url": null
   },
   {
-    "title": "Skandalscener i herrarnas störtlopp i Courchevel",
-    "link": "https://www.expressen.se/sport/alpint/skandalscener-i-herrarnas-stortlopp-i-courchevel-/",
-    "source": "Expressen",
-    "published_at": "2026-03-13T14:28:55+01:00",
-    "summary": "Jared Goldberg var på väg mot ett kanonåk. Det förstördes av funktionärer. – Det är ju en skandal, säger Viaplays Tobias Lyon.",
-    "image_url": "https://static.bonniernews.se/images/0c/b6/0cb6a73549754f5db13e67a7350abaf2/16x9/265@70.png"
-  },
-  {
     "title": "Hanna Öbergs utspel: ”OS är lite väl upphajpat”",
     "link": "https://www.svt.se/sport/skidskytte/hanna-obergs-utspel-os-ar-lite-val-upphajpat",
     "source": "SVT",
@@ -78,6 +78,14 @@
     "published_at": "2026-03-13T10:02:50+00:00",
     "summary": "Får gåva – av OS-stjärnan",
     "image_url": "https://images.aftonbladet-cdn.se/v2/images/f9e67511-c6ce-48a5-93f0-b890a383e6f6?fit=crop&format=auto&h=655&q=50&w=1831&s=cb6edadb6974ee00e1d153c8506f560ccd200f83"
+  },
+  {
+    "title": "Skandalscener i herrarnas störtlopp i Courchevel",
+    "link": "https://www.expressen.se/sport/alpint/skandalscener-i-herrarnas-stortlopp-i-courchevel-/",
+    "source": "Expressen",
+    "published_at": "2026-03-13T14:28:55+01:00",
+    "summary": "Jared Goldberg var på väg mot ett kanonåk. Det förstördes av funktionärer. – Det är ju en skandal, säger Viaplays Tobias Lyon.",
+    "image_url": "https://static.bonniernews.se/images/0c/b6/0cb6a73549754f5db13e67a7350abaf2/16x9/265@70.png"
   },
   {
     "title": "Efter OS-guldet – Isabella Wranå jagar VM-medalj: ”Är vår superkraft”",
@@ -390,13 +398,5 @@
     "published_at": "2026-03-11T08:20:15+01:00",
     "summary": "Nytt guld i Paralympics. Då hyllade Ebba Årsjö sin tuffa farmor som hejade på läktaren.– Jag vill vara som henne, säger skiddrottningen.",
     "image_url": "https://static.bonniernews.se/images/27/a7/27a7f41fc2f94f3381de8d06f1ab3a18/16x9/265@70.png"
-  },
-  {
-    "title": "Aaron Lindström fortsatt under behandling efter kraschen: ”Dag till dag”",
-    "link": "https://www.svt.se/sport/parasport/aaron-lindstrom-fortsatt-under-behandling-efter-kraschen-dag-till-dag",
-    "source": "SVT",
-    "published_at": "2026-03-10T16:40:54+01:00",
-    "summary": "Aaron Lindström ådrog sig en kraftig hjärnskakning och en punkterad lunga i sin otäcka krasch i herrarnas super-G. Skador som han fortsatt behandlas för på sjukhus. – Han mår bra nu men lungpunkteringen har blivit lite värre, säger landslagsläkaren Jari Havela till SVT Sport.",
-    "image_url": null
   }
 ]

@@ -10,10 +10,10 @@
   {
     "country_name": "United States",
     "country_code": "USA",
-    "gold": 7,
+    "gold": 8,
     "silver": 5,
-    "bronze": 4,
-    "total": 16
+    "bronze": 5,
+    "total": 18
   },
   {
     "country_name": "Austria",
@@ -139,9 +139,9 @@
     "country_name": "Japan",
     "country_code": "JPN",
     "gold": 0,
-    "silver": 2,
+    "silver": 3,
     "bronze": 0,
-    "total": 2
+    "total": 3
   },
   {
     "country_name": "Australia",

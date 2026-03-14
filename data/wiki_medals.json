@@ -4,16 +4,16 @@
     "country_code": "CHN",
     "gold": 12,
     "silver": 9,
-    "bronze": 12,
-    "total": 33
+    "bronze": 13,
+    "total": 34
   },
   {
     "country_name": "United States",
     "country_code": "USA",
-    "gold": 9,
+    "gold": 10,
     "silver": 5,
     "bronze": 5,
-    "total": 19
+    "total": 20
   },
   {
     "country_name": "Italy",
@@ -51,9 +51,9 @@
     "country_name": "Ukraine",
     "country_code": "UKR",
     "gold": 3,
-    "silver": 6,
+    "silver": 7,
     "bronze": 7,
-    "total": 16
+    "total": 17
   },
   {
     "country_name": "Sweden",

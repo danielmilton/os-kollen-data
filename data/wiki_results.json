@@ -1,8 +1,92 @@
 [
   {
-    "event": "Men's sprint, visually impaired",
-    "gold_winner": "Oleksandr KazikGuide: Serhii Kucheriavyi",
-    "silver_winner": "Iaroslav ReshetynskyiGuide: Dmytro Drahun",
-    "bronze_winner": "Anatolii KovalevskyiGuide: Oleksandr Mukshyn"
+    "event": "Downhilldetails",
+    "gold_winner": "Veronika AignerGuide: Lilly Sammer Austria",
+    "silver_winner": "1:22.55",
+    "bronze_winner": "Chiara MazzelGuide: Nicola Cotti Cottini Italy"
+  },
+  {
+    "event": "sitting",
+    "gold_winner": "1:25.79",
+    "silver_winner": "Audrey Pascual Spain",
+    "bronze_winner": "1:25.84"
+  },
+  {
+    "event": "standing",
+    "gold_winner": "1:22.00",
+    "silver_winner": "Aurélie Richard France",
+    "bronze_winner": "1:23.71"
+  },
+  {
+    "event": "Super-Gdetails",
+    "gold_winner": "Chiara MazzelGuide: Nicola Cotti Cottini Italy",
+    "silver_winner": "1:14.84",
+    "bronze_winner": "Veronika AignerGuide: Lilly Sammer Austria"
+  },
+  {
+    "event": "Giant slalomdetails",
+    "gold_winner": "Veronika AignerGuide: Eric Digruber Austria",
+    "silver_winner": "2:18.63",
+    "bronze_winner": "Chiara MazzelGuide: Nicola Cotti Cottini Italy"
+  },
+  {
+    "event": "Slalomdetails",
+    "gold_winner": "Veronika AignerGuide: Lilly Sammer Austria",
+    "silver_winner": "1:22.73",
+    "bronze_winner": "Elina StaryGuide: Stefan Winter Austria"
+  },
+  {
+    "event": "Super combineddetails",
+    "gold_winner": "Veronika AignerGuide: Lilly Sammer Austria",
+    "silver_winner": "2:01.75",
+    "bronze_winner": "Chiara MazzelGuide: Nicola Cotti Cottini Italy"
+  },
+  {
+    "event": "Individualdetails",
+    "gold_winner": "Wang YueGuide: Chen Guoming China",
+    "silver_winner": "35:04.7",
+    "bronze_winner": "Simona BubeníčkováGuide: David Srutek Czech Republic"
+  },
+  {
+    "event": "Sprintdetails",
+    "gold_winner": "Wang YueGuide: Chen Guoming China",
+    "silver_winner": "19:52.5",
+    "bronze_winner": "Carina EdlingerovaGuide: Alexandr Patava Czech Republic"
+  },
+  {
+    "event": "Sprint classicaldetails",
+    "gold_winner": "Anastasiia BagiianGuide: Sergei Siniakin Russia",
+    "silver_winner": "3:16.1",
+    "bronze_winner": "Linn KazmaierGuide: Florian Baumann Germany"
+  },
+  {
+    "event": "10 kilometres classicaldetails",
+    "gold_winner": "Anastasiia BagiianGuide: Sergei Siniakin Russia",
+    "silver_winner": "29:39.7",
+    "bronze_winner": "Simona BubeníčkováGuide: David Šrůtek Czech Republic"
+  },
+  {
+    "event": "Banked slalomdetails",
+    "gold_winner": "Kate Delson United States",
+    "silver_winner": "1:02.99",
+    "bronze_winner": "Lisa Bunschoten Netherlands"
+  },
+  {
+    "event": "Snowboard crossdetails",
+    "gold_winner": "Cécile Hernandez France",
+    "silver_winner": "Kate Delson United States",
+    "bronze_winner": "Wang Xinyu China"
+  },
+  {
+    "event": "SB-LL2",
+    "gold_winner": "54.28",
+    "silver_winner": "Fabrice von Grünigen Switzerland",
+    "bronze_winner": "56.29"
+  },
+  {
+    "event": "SB-UL",
+    "gold_winner": "56.28",
+    "silver_winner": "Wang Pengyao China",
+    "bronze_winner": "56.62"
   }
 ]

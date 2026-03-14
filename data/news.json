@@ -5,7 +5,7 @@
     "source": "Expressen",
     "published_at": "2026-03-14T14:45:43+01:00",
     "summary": "Med bara några portar kvar hade Ebba Årsjö guldet som i en liten ask. Då körde Paralympicsstjärnan ur. – Jag kom över mållinjen och kände att allt är över, säger hon.",
-    "image_url": "https://static.bonniernews.se/images/a6/8b/a68b3f440e8846ad8a033a1fbc5cc366/16x9/265@70.png"
+    "image_url": "https://static.bonniernews.se/images/aa/60/aa609a3ab79f4472bf31c5237de345f9/16x9/265@70.png"
   },
   {
     "title": "Ebba Årsjö kör ur – missade chansen att skriva historia",
@@ -64,14 +64,6 @@
     "image_url": null
   },
   {
-    "title": "Ebba Årsjö stormar mot fjärde guldet – leder slalomen",
-    "link": "https://www.expressen.se/sport/alpint/ebba-arsjo-stormar-mot-fjarde-guldet-leder-slalomen/",
-    "source": "Expressen",
-    "published_at": "2026-03-14T10:10:25+01:00",
-    "summary": "Ebba Årsjö stormar mot ett nytt guld.Men för första gången under Paralympics var hon nära en uråkning.– Jag är så otroligt less på de här raka banorna, säger hon.",
-    "image_url": "https://static.bonniernews.se/images/46/33/463314593dba444ba4ac087006876645/16x9/265@70.jpg"
-  },
-  {
     "title": "Viljo Petersson Dahl dominant när bronset säkrades i Paralympics",
     "link": "https://www.svt.se/sport/parasport/viljo-petersson-dahl-dominant-nar-bronset-sakrades-i-paralympics",
     "source": "SVT",
@@ -88,20 +80,28 @@
     "image_url": "https://images.aftonbladet-cdn.se/v2/images/9de68578-9f40-442e-9b79-09afab1e4de0?fit=crop&format=auto&h=500&q=50&w=1400&s=150b478f8575a511bf42b68372d429aba4f97465"
   },
   {
-    "title": "Patrick Halgren efter kaoset i Paralympics: ”Jag är en viking från Småland”",
-    "link": "https://www.svt.se/sport/alpint/patrick-halgren-efter-kaoset-i-paralympics-jag-ar-en-viking-fran-smaland",
-    "source": "SVT",
-    "published_at": "2026-03-13T19:33:38+01:00",
-    "summary": "Herrarnas storslalom i Paralympics bjöd på minst sagt stökiga scener. 24 av 97 startande körde ur – och en av de var amerikanen Patrick Halgren, som har svensk rötter. – Det är lätt för mig, jag är så stark. Jag är en viking från Småland, säger Halgren, som inte hade något emot att köra ur.",
-    "image_url": null
-  },
-  {
     "title": "”Visste att jag \ngillade henne”",
     "link": "https://www.aftonbladet.se/sportbladet/a/d4RMJq/trump-prisas-av-os-medaljoren?utm_medium=rss",
     "source": "Aftonbladet",
     "published_at": "2026-03-13T10:02:50+00:00",
     "summary": "Får gåva – av OS-stjärnan",
     "image_url": "https://images.aftonbladet-cdn.se/v2/images/f9e67511-c6ce-48a5-93f0-b890a383e6f6?fit=crop&format=auto&h=655&q=50&w=1831&s=cb6edadb6974ee00e1d153c8506f560ccd200f83"
+  },
+  {
+    "title": "Ebba Årsjö stormar mot fjärde guldet – leder slalomen",
+    "link": "https://www.expressen.se/sport/alpint/ebba-arsjo-stormar-mot-fjarde-guldet-leder-slalomen/",
+    "source": "Expressen",
+    "published_at": "2026-03-14T10:10:25+01:00",
+    "summary": "Ebba Årsjö stormar mot ett nytt guld.Men för första gången under Paralympics var hon nära en uråkning.– Jag är så otroligt less på de här raka banorna, säger hon.",
+    "image_url": "https://static.bonniernews.se/images/46/33/463314593dba444ba4ac087006876645/16x9/265@70.jpg"
+  },
+  {
+    "title": "Patrick Halgren efter kaoset i Paralympics: ”Jag är en viking från Småland”",
+    "link": "https://www.svt.se/sport/alpint/patrick-halgren-efter-kaoset-i-paralympics-jag-ar-en-viking-fran-smaland",
+    "source": "SVT",
+    "published_at": "2026-03-13T19:33:38+01:00",
+    "summary": "Herrarnas storslalom i Paralympics bjöd på minst sagt stökiga scener. 24 av 97 startande körde ur – och en av de var amerikanen Patrick Halgren, som har svensk rötter. – Det är lätt för mig, jag är så stark. Jag är en viking från Småland, säger Halgren, som inte hade något emot att köra ur.",
+    "image_url": null
   },
   {
     "title": "Funktionärer förstörde herrarnas störtlopp",

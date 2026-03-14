@@ -2,10 +2,10 @@
   {
     "country_name": "China",
     "country_code": "CHN",
-    "gold": 12,
+    "gold": 13,
     "silver": 9,
     "bronze": 13,
-    "total": 34
+    "total": 35
   },
   {
     "country_name": "United States",
@@ -67,9 +67,9 @@
     "country_name": "Germany",
     "country_code": "GER",
     "gold": 2,
-    "silver": 4,
+    "silver": 5,
     "bronze": 9,
-    "total": 15
+    "total": 16
   },
   {
     "country_name": "Canada",
@@ -92,8 +92,8 @@
     "country_code": "NOR",
     "gold": 2,
     "silver": 2,
-    "bronze": 1,
-    "total": 5
+    "bronze": 2,
+    "total": 6
   },
   {
     "country_name": "Switzerland",

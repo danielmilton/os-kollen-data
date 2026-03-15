@@ -16,6 +16,14 @@
     "total": 23
   },
   {
+    "country_name": "Russia",
+    "country_code": "RUS",
+    "gold": 8,
+    "silver": 1,
+    "bronze": 3,
+    "total": 12
+  },
+  {
     "country_name": "Italy",
     "country_code": "ITA",
     "gold": 7,
@@ -30,14 +38,6 @@
     "silver": 2,
     "bronze": 4,
     "total": 13
-  },
-  {
-    "country_name": "Russia",
-    "country_code": "RUS",
-    "gold": 7,
-    "silver": 1,
-    "bronze": 3,
-    "total": 11
   },
   {
     "country_name": "France",
@@ -64,6 +64,14 @@
     "total": 14
   },
   {
+    "country_name": "Netherlands",
+    "country_code": "NED",
+    "gold": 3,
+    "silver": 3,
+    "bronze": 1,
+    "total": 7
+  },
+  {
     "country_name": "Sweden",
     "country_code": "SWE",
     "gold": 3,
@@ -80,6 +88,14 @@
     "total": 17
   },
   {
+    "country_name": "Norway",
+    "country_code": "NOR",
+    "gold": 2,
+    "silver": 4,
+    "bronze": 2,
+    "total": 8
+  },
+  {
     "country_name": "South Korea",
     "country_code": "KOR",
     "gold": 2,
@@ -88,28 +104,12 @@
     "total": 7
   },
   {
-    "country_name": "Norway",
-    "country_code": "NOR",
-    "gold": 2,
-    "silver": 3,
-    "bronze": 2,
-    "total": 7
-  },
-  {
-    "country_name": "Netherlands",
-    "country_code": "NED",
-    "gold": 2,
-    "silver": 3,
-    "bronze": 1,
-    "total": 6
-  },
-  {
     "country_name": "Switzerland",
     "country_code": "SUI",
     "gold": 2,
     "silver": 2,
-    "bronze": 1,
-    "total": 5
+    "bronze": 2,
+    "total": 6
   },
   {
     "country_name": "Spain",
@@ -148,8 +148,8 @@
     "country_code": "JPN",
     "gold": 0,
     "silver": 3,
-    "bronze": 0,
-    "total": 3
+    "bronze": 1,
+    "total": 4
   },
   {
     "country_name": "Finland",
@@ -186,6 +186,14 @@
   {
     "country_name": "Great Britain",
     "country_code": "GBR",
+    "gold": 0,
+    "silver": 1,
+    "bronze": 0,
+    "total": 1
+  },
+  {
+    "country_name": "New Zealand",
+    "country_code": "NZL",
     "gold": 0,
     "silver": 1,
     "bronze": 0,

@@ -24,14 +24,6 @@
     "image_url": null
   },
   {
-    "title": "OS-mästarens drömtid – slog 17 år gammalt rekord",
-    "link": "https://www.expressen.se/sport/simning/os-mastarens-dromtid-slog-17-ar-gammalt-rekord/",
-    "source": "Expressen",
-    "published_at": "2026-03-20T18:29:18+01:00",
-    "summary": "Ett 17 år gammalt världsrekord är slaget. Den australiske simmaren Cameron McEvoy slog på fredagen världsrekordet på herrarnas 50 meter frisim i långbana under en tävling i Shenzhen i Kina.",
-    "image_url": "https://static.bonniernews.se/images/df/90/df90fc10018548859ace7cf14a6b6114/16x9/265@70.jpg"
-  },
-  {
     "title": "Jean-Marc Chabloz slutar i skidskyttelandslaget",
     "link": "https://www.svt.se/sport/skidskytte/jean-marc-chabloz-slutar-i-skidskyttelandslaget",
     "source": "SVT",
@@ -54,6 +46,14 @@
     "published_at": "2026-03-20T07:38:17+01:00",
     "summary": "Han åkte till OS med stora drömmar. Men beskriver det i efterhand som mardrömsveckor. De olympiska spelen i Italien blev en stor besvikelse för Edvin Anger och flera av de andra svenska längdherrarna. Nu snurrar tankarna: vad var det som gick snett?",
     "image_url": null
+  },
+  {
+    "title": "OS-mästarens drömtid – slog 17 år gammalt rekord",
+    "link": "https://www.expressen.se/sport/simning/os-mastarens-dromtid-slog-17-ar-gammalt-rekord/",
+    "source": "Expressen",
+    "published_at": "2026-03-20T18:29:18+01:00",
+    "summary": "Ett 17 år gammalt världsrekord är slaget. Den australiske simmaren Cameron McEvoy slog på fredagen världsrekordet på herrarnas 50 meter frisim i långbana under en tävling i Shenzhen i Kina.",
+    "image_url": "https://static.bonniernews.se/images/df/90/df90fc10018548859ace7cf14a6b6114/16x9/265@70.jpg"
   },
   {
     "title": "Pernille Karlsen Antonsen nobbade skidorna: ”Ångrar mig inte alls”",

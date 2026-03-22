@@ -1,5 +1,13 @@
 [
   {
+    "title": "Succén – bästa svenska insatsen på 22 år",
+    "link": "https://www.expressen.se/sport/friidrott/succen-basta-svenska-insatsen-pa-22-ar/",
+    "source": "Expressen",
+    "published_at": "2026-03-22T21:18:00+01:00",
+    "summary": "Två medaljer och många fina placeringar. Sverige gör sitt bästa inomhus-VM på 22 år. – Målet är att radera ut rekorden från 00-talet säger Kajsa Bergqvist.",
+    "image_url": null
+  },
+  {
     "title": "Svenskt VM-brons i curling – första på sju år",
     "link": "https://www.expressen.se/sport/svenskt-vm-brons-i-curling-forsta-pa-sju-ar/",
     "source": "Expressen",
@@ -390,13 +398,5 @@
     "published_at": "2026-03-18T17:58:40+00:00",
     "summary": "SVT:s expert om VM-bilderna: ”Ovanligt”",
     "image_url": "https://images.aftonbladet-cdn.se/v2/images/308e78ee-7cee-414c-abdb-e28ce0f9f19a?fit=crop&format=auto&h=814&q=50&w=1900&s=6fe7972b6a69a15409167cd6c57c3b2e61da5a77"
-  },
-  {
-    "title": "Sam Hallam om samtalen efter OS: ”Responsen är ärlig och rak”",
-    "link": "https://www.svt.se/sport/ishockey/sam-hallam-om-samtalen-efter-os-responsen-ar-arlig-och-rak",
-    "source": "SVT",
-    "published_at": "2026-03-17T20:32:11+01:00",
-    "summary": "Enligt uppgifter i media kan Tre Kronors förbundskapten Sam Hallam petas från VM. Samtidigt utvärderar förbundet fortsatt lagets OS-prestation. – Responsen är ärlig och rak, säger Sam Hallam.",
-    "image_url": null
   }
 ]

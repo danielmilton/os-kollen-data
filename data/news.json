@@ -1,13 +1,5 @@
 [
   {
-    "title": "Sophie Hansson tar en paus – står över EM",
-    "link": "https://www.expressen.se/sport/simning/sophie-hansson-tar-en-paus-star-over-em/",
-    "source": "Expressen",
-    "published_at": "2026-03-26T17:46:49+01:00",
-    "summary": "Simmaren Sophie Hansson, med flera VM- och EM-medaljer i bagaget, pausar karriären och hoppar över sommarens EM, rapporterar Dagens Nyheter.",
-    "image_url": "https://static.bonniernews.se/images/2a/15/2a1530c40c074fca97b6b1304d722911/16x9/265@70.jpg"
-  },
-  {
     "title": "Jonatan Lindberg vann kaosartade SM-loppet",
     "link": "https://www.svt.se/sport/langdskidor/jonathan-lindberg-vann-kaosartade-sm-loppet",
     "source": "SVT",
@@ -54,6 +46,14 @@
     "published_at": "2026-03-25T18:35:24+00:00",
     "summary": "Bytte från Sverige till Finland",
     "image_url": "https://images.aftonbladet-cdn.se/v2/images/bc6fbfd6-98ac-4e17-82b5-d0da014743cc?fit=crop&format=auto&h=679&q=50&w=1900&s=0d68888aa60025a8423bf6ba9052a0602a9631c4"
+  },
+  {
+    "title": "Sophie Hansson tar en paus – står över EM",
+    "link": "https://www.expressen.se/sport/simning/sophie-hansson-tar-en-paus-star-over-em/",
+    "source": "Expressen",
+    "published_at": "2026-03-26T17:46:49+01:00",
+    "summary": "Simmaren Sophie Hansson, med flera VM- och EM-medaljer i bagaget, pausar karriären och hoppar över sommarens EM, rapporterar Dagens Nyheter.",
+    "image_url": "https://static.bonniernews.se/images/2a/15/2a1530c40c074fca97b6b1304d722911/16x9/265@70.jpg"
   },
   {
     "title": "Könstester i OS – stoppar alla som bytt kön",

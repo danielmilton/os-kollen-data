@@ -1,26 +1,10 @@
 [
   {
-    "title": "Jonatan Lindberg vann kaosartade SM-loppet",
-    "link": "https://www.svt.se/sport/langdskidor/jonathan-lindberg-vann-kaosartade-sm-loppet",
-    "source": "SVT",
-    "published_at": "2026-03-26T15:57:04+01:00",
-    "summary": "Masskrasch och skidkaos. Moraåkaren Jonatan Lindberg vann SM-guldet på 20 kilometer efter att flera favoriter fallit bort i de svåra förhållandena. – Som att simma i en simbassäng, säger silvermedaljören Gustaf Berglund i SVT.",
-    "image_url": null
-  },
-  {
     "title": "Unga svenska skidskyttar ligger efter andra nationer",
     "link": "https://www.tv4.se/artikel/bs5Iw9G6KNn3cnCAOfD8p/unga-svenska-skidskyttar-ligger-efter-andra-nationer",
     "source": "TV4",
     "published_at": "2026-03-26T15:06:23+00:00",
     "summary": "För att täppa till avståndet mellan svenska skidskyttejuniorer och deras utländska konkurrenter har förbundet och Mittuniversitetet startat ett forskningsprojekt som ska hjälpa morgondagens landslagsstjärnor att nå toppen. Projektet inleddes för lite mer än två år sedan. Doktoranden Andreas Kårström vid Mittuniversitetet samlade in data från träningspass med aktiva från skidskyttegymnasier i Östersund och Sollefteå, samt från juniorlandslagets träningsläger. Målet har varit att analysera hur olika träningspass påverkar de aktiva genom att mäta puls, hastighet och rörelseintensitet. Det övergripande syftet är att skapa en djupare förståelse för belastningen under träningen. Resultaten visade tydliga skillnader mellan olika pass, särskilt vad gäller hastigheter och träningszoner. Förhoppningen är att testresultaten ska kunna användas för att eliminera eller optimera de pass som är svåra att genomföra med hög kvalitet. ”Väldigt lärorikt” Eleven Nilla Grönborg är en av dem som varit med och mätt sin träningseffektivitet. – Det var väldigt lärorikt. Det gick att utläsa både puls och belastning och man kunde se vilka pass som inte var lika effektiva. Inom ramen för forskningssamarbetet har även ett experiment med GPS genomförts. – Under junior-VM i Östersund förra vintern mätte vi och jämförde våra svenska åkare med de tyska och kunde på ett handfast sätt se och mäta var på banen som åkarna tappade eller drog ifrån. Vi kunde direkt peka på utmaningar och styrkor för respektive åkare, berättar Andreas. Den svenska skidskyttesäsongen avslutas för både seniorer och juniorer med SM i Piteå den sista helgen i mars.",
-    "image_url": null
-  },
-  {
-    "title": "IOK inför könstester – stänger ute transkvinnor",
-    "link": "https://www.svt.se/sport/artikel/iok-infor-konstester-stanger-ute-transkvinnor",
-    "source": "SVT",
-    "published_at": "2026-03-26T14:33:50+01:00",
-    "summary": "Internationella olympiska kommittén (IOK) inför könstester för kvinnor till OS 2028. ”Beslutet grundar sig på forskning och medicinsk expertis”, säger IOK-ordföranden Kirsty Coventry i ett uttalande.",
     "image_url": null
   },
   {
@@ -30,6 +14,22 @@
     "published_at": "2026-03-26T13:26:45+00:00",
     "summary": "Stopp för transkvinnor",
     "image_url": "https://images.aftonbladet-cdn.se/v2/images/9fefd6cf-ec48-4c51-9e02-d3ad7cc5c331?fit=crop&format=auto&h=679&q=50&w=1900&s=7b421dd1d8a4c574829fe8ff0ca845ccd56f878e"
+  },
+  {
+    "title": "Jonatan Lindberg vann kaosartade SM-loppet",
+    "link": "https://www.svt.se/sport/langdskidor/jonathan-lindberg-vann-kaosartade-sm-loppet",
+    "source": "SVT",
+    "published_at": "2026-03-26T15:57:04+01:00",
+    "summary": "Masskrasch och skidkaos. Moraåkaren Jonatan Lindberg vann SM-guldet på 20 kilometer efter att flera favoriter fallit bort i de svåra förhållandena. – Som att simma i en simbassäng, säger silvermedaljören Gustaf Berglund i SVT.",
+    "image_url": null
+  },
+  {
+    "title": "IOK inför könstester – stänger ute transkvinnor",
+    "link": "https://www.svt.se/sport/artikel/iok-infor-konstester-stanger-ute-transkvinnor",
+    "source": "SVT",
+    "published_at": "2026-03-26T14:33:50+01:00",
+    "summary": "Internationella olympiska kommittén (IOK) inför könstester för kvinnor till OS 2028. ”Beslutet grundar sig på forskning och medicinsk expertis”, säger IOK-ordföranden Kirsty Coventry i ett uttalande.",
+    "image_url": null
   },
   {
     "title": "Nora Lindahl får tävla i OS för Finland: ”Fantastiskt”",
